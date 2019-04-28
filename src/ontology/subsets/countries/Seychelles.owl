@@ -1,0 +1,507 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Seychelles.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Seychelles.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Seychelles.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009609 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015203 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015203">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015203</oboInOwl:id>
+        <rdfs:label>Plaisance District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015204 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015204">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015204</oboInOwl:id>
+        <rdfs:label>Les Mamelles District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015205 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015205">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015205</oboInOwl:id>
+        <rdfs:label>Bel Air District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015206 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015206">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015206</oboInOwl:id>
+        <rdfs:label>Mont Fleuri District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015207 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015207">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015207</oboInOwl:id>
+        <rdfs:label>Mont Buxton District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015208 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015208">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015208</oboInOwl:id>
+        <rdfs:label>Roche Caiman District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015209 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015209">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015209</oboInOwl:id>
+        <rdfs:label>Saint Louis District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015210 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015210">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015210</oboInOwl:id>
+        <rdfs:label>Anse aux Pins District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015211 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015211">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015211</oboInOwl:id>
+        <rdfs:label>La Riviere Anglaise District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015212 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015212">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015212</oboInOwl:id>
+        <rdfs:label>Au Cap District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015213 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015213">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015213</oboInOwl:id>
+        <rdfs:label>Beau Vallon District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015214 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015214">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015214</oboInOwl:id>
+        <rdfs:label>Cascade District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015215 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015215">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015215</oboInOwl:id>
+        <rdfs:label>Anse Etoile District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015216 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015216">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015216</oboInOwl:id>
+        <rdfs:label>Anse Royale District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015217 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015217">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015217</oboInOwl:id>
+        <rdfs:label>Pointe La Rue District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015218 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015218">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015218</oboInOwl:id>
+        <rdfs:label>Glacis District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015219 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015219">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015219</oboInOwl:id>
+        <rdfs:label>Grand&apos; Anse (Mahe) District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015220 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015220">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015220</oboInOwl:id>
+        <rdfs:label>Baie Lazare District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015221 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015221">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015221</oboInOwl:id>
+        <rdfs:label>Bel Ombre District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015222 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015222">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015222</oboInOwl:id>
+        <rdfs:label>Anse Boileau District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015223 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015223">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015223</oboInOwl:id>
+        <rdfs:label>Baie Sainte Anne District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015224 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015224">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015224</oboInOwl:id>
+        <rdfs:label>La Digue District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015225 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015225">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015225</oboInOwl:id>
+        <rdfs:label>Grand&apos; Anse (Praslin) District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015226 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015226">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015226</oboInOwl:id>
+        <rdfs:label>Takamaka District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015227 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015227">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009609"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015227</oboInOwl:id>
+        <rdfs:label>Port Glaud District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005821 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005821">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005821</oboInOwl:id>
+        <rdfs:label>Seychelles</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009609 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009609">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005821"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041422 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041422">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076668"/>
+        <obo:IAO_0000115>An island that lies 4 km off the north coast of Mahe in the Seychelles.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041422</oboInOwl:id>
+        <rdfs:label>Cerf Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041437 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041437">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076668"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041437</oboInOwl:id>
+        <rdfs:label>Round Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041482 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041482">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076668"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041482</oboInOwl:id>
+        <rdfs:label>Sainte Anne Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041485 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041485">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076668"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041485</oboInOwl:id>
+        <rdfs:label>Beacon Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041500 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041500">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076668"/>
+        <obo:IAO_0000115>An island in the Ste Anne Marine National Park off the north coast of Mahe, Seychelles.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041500</oboInOwl:id>
+        <rdfs:label>Moyenne Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076668 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076668">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005821"/>
+        <obo:IAO_0000115>A national park that lies about 5 km from Victoria, the capital city of the Seychelles and encompasses 6 small islands.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076668</oboInOwl:id>
+        <rdfs:label>Sainte Anne Marine National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076669 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076669">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076668"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076669</oboInOwl:id>
+        <rdfs:label>Long Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076671 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076671">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005821"/>
+        <obo:IAO_0000115>A national park in the Seychelles.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076671</oboInOwl:id>
+        <rdfs:label>Silhouette Marine National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076674 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076674">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005821"/>
+        <obo:IAO_0000115>A national park in the Seychelles.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076674</oboInOwl:id>
+        <rdfs:label>Ile Coco Marine National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009609">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>District (Seychelles)</rdfs:label>
+        <oboInOwl:id>GAZ:00009609</oboInOwl:id>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

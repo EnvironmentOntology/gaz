@@ -1,0 +1,3685 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Georgia.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Georgia.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Georgia.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000009 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000305 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000856 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008386 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008386"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008387 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008387">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008386"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008388 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008388"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008389 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008389">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008388"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008389</oboInOwl:id>
+        <rdfs:label>Tbilisi Region</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010367 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00010367">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010369 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00010369">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010370 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00010370">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010371 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00010371">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010372 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00010372">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010373 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00010373">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010375 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00010375">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010376 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00010376">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008388"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010377 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00010377">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008388"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00004942 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00004942">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+        <obo:IAO_0000115>A Eurasian country in the Caucasus located at the east coast of the Black Sea. In the north, Georgia has a 723 km common border with Russia, specifically with the Northern Caucasus federal district. The following Russian republics/subdivisions: from west to east: border Georgia: Krasnodar Krai, Karachay-Cherkessia, Kabardino-Balkaria, North Ossetia-Alania, Ingushetia, Chechnya, Dagestan. Georgia also shares borders with Azerbaijan (322 km) to the south-east, Armenia (164 km) to the south, and Turkey (252 km) to the south-west. It is a transcontinental country, located at the juncture of Eastern Europe and Western Asia. Georgia is divided into 9 regions, 2 autonomous republics (avtonomiuri respublika), and 1 city (k&apos;alak&apos;i). The regions are further subdivided into 69 districts (raioni).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00004942</oboInOwl:id>
+        <rdfs:label>Georgia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008182 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008182">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058245"/>
+        <obo:IAO_0000115>A lake located in the northern part of de facto independent republic of Abkhazia (de jure an autonomous republic of Georgia). Lake Ritsa is fed by six rivers and drained by one, the Iupshara River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008182</oboInOwl:id>
+        <rdfs:label>Lake Riza</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008386 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008386">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004942"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008387 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008387"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008388 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008388">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004942"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010366 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010366">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010374"/>
+        <obo:IAO_0000115>An autonomous republic of Georgia, in the southwestern corner of the country, bordered by Turkey to the south and the eastern end of the Black Sea. Ajaria is located on the south-eastern coast of the Black Sea and extends into the wooded foothills and mountains of the Lesser Caucasus. It has borders with the region of Guria to the north, Samtskhe-Javakheti to the east and Turkey to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010366</oboInOwl:id>
+        <rdfs:label>Ajaria Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010367 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010367"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010368 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010368">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010374"/>
+        <obo:IAO_0000115>A region in Georgia that is a de facto independent] republic, with no international recognition. It is located within the internationally recognized borders of Georgia on the eastern coast of the Black Sea and borders the Russian Federation to the north. Under Georgia&apos;s official subdivision, it is an autonomous republic, with Sukhumi as its capital, bordering the region of Samegrelo-Zemo Svaneti to the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010368</oboInOwl:id>
+        <rdfs:label>Abkhazia Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010369 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010370 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010370"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010371 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010371"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010372 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010372"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010373 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010373"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010374 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010374">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004942"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010374</oboInOwl:id>
+        <rdfs:label>Autonomous Republic (Georgia)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010375 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010375"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010376 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010377 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010377"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029780 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029780">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A district of Abkhazia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029780</oboInOwl:id>
+        <rdfs:label>Gulripsh District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029781 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029781">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A district of Abkhazia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029781</oboInOwl:id>
+        <rdfs:label>Gali District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029782 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029782">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A district of Abkhazia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029782</oboInOwl:id>
+        <rdfs:label>Sukhumi District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029783 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029783">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405888"/>
+        <obo:IAO_0000115>A populated place. A town.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029783</oboInOwl:id>
+        <rdfs:label>Tkvarcheli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029784 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029784">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A district.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029784</oboInOwl:id>
+        <rdfs:label>Gagra District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029785 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029785">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A district of the Republic of Abkhazia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029785</oboInOwl:id>
+        <rdfs:label>Ochamchira District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029786 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029786">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A district of Abkhazia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029786</oboInOwl:id>
+        <rdfs:label>Gudauta District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029787 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029787">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029794"/>
+        <obo:IAO_0000115>A populated place. A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029787</oboInOwl:id>
+        <rdfs:label>City of Zugdidi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029788 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029788">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010375"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029788</oboInOwl:id>
+        <rdfs:label>Municipality of Mestia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029789 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029789">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010373"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029789</oboInOwl:id>
+        <rdfs:label>Municipality of Lentekhi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029790">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010375"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029790</oboInOwl:id>
+        <rdfs:label>Municipality of Tsalenjikha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029791 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029791">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010375"/>
+        <obo:IAO_0000115>A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029791</oboInOwl:id>
+        <rdfs:label>City of Poti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029792 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029792">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010375"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029792</oboInOwl:id>
+        <rdfs:label>Municipality of Khobi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029793 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029793">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010375"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029793</oboInOwl:id>
+        <rdfs:label>Municipality of Martvili</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029794 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029794">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010375"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029794</oboInOwl:id>
+        <rdfs:label>Municipality of Zugdidi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029795 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029795">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010375"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029795</oboInOwl:id>
+        <rdfs:label>Municipality of Abasha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029796">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010375"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029796</oboInOwl:id>
+        <rdfs:label>Municipality of Senaki</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029797 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029797">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010375"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029797</oboInOwl:id>
+        <rdfs:label>Municipality of Chkhorotsku</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029798 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029798">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029798</oboInOwl:id>
+        <rdfs:label>Sukhumi City</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029799 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029799">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010367"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029799</oboInOwl:id>
+        <rdfs:label>Municipality of Ozurgeti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029800 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029800">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010367"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029800</oboInOwl:id>
+        <rdfs:label>Municipality of Lanchkhuti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029801 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029801">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010367"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029801</oboInOwl:id>
+        <rdfs:label>Municipality of Chokhatauri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029802 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029802">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010366"/>
+        <obo:IAO_0000115>A district of Georgia, in the autonomous republic of Adjara.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029802</oboInOwl:id>
+        <rdfs:label>Municipality of Kobuleti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029803 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029803">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010366"/>
+        <obo:IAO_0000115>A district of Georgia, in the autonomous republic of Adjara.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029803</oboInOwl:id>
+        <rdfs:label>Municipality of Shuakhevi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029804 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029804">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010366"/>
+        <obo:IAO_0000115>A district of Georgia, in the autonomous republic of Adjara.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029804</oboInOwl:id>
+        <rdfs:label>Municipality of Khulo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029805 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029805">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010366"/>
+        <obo:IAO_0000115>A district of Georgia, in the autonomous republic of Adjara.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029805</oboInOwl:id>
+        <rdfs:label>Municipality of Khelvachauri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029806 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029806">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010366"/>
+        <obo:IAO_0000115>A district of Georgia, in the autonomous republic of Adjara.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029806</oboInOwl:id>
+        <rdfs:label>Municipality of Keda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029807 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029807">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010366"/>
+        <obo:IAO_0000115>A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029807</oboInOwl:id>
+        <rdfs:label>City of Batumi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029808 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029808">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010372"/>
+        <obo:IAO_0000115>A municipality (Georgia) or District (Soith Ossetia).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029808</oboInOwl:id>
+        <rdfs:label>Municipality of Akhalgori</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029809 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029809">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010372"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029809</oboInOwl:id>
+        <rdfs:label>Municipality of Kazbegi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029810 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029810">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010373"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029810</oboInOwl:id>
+        <rdfs:label>Municipality of Oni</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029811 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029811">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010373"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029811</oboInOwl:id>
+        <rdfs:label>Municipality of Ambrolauri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029812 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029812">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010372"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029812</oboInOwl:id>
+        <rdfs:label>Municipality of Mtskheta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029813 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029813">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010372"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029813</oboInOwl:id>
+        <rdfs:label>Municipality of Tianeti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029814 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029814">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010373"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029814</oboInOwl:id>
+        <rdfs:label>Municipality of Tsageri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029815 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029815">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029815</oboInOwl:id>
+        <rdfs:label>Municipality of Vani District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029816 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029816">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029816</oboInOwl:id>
+        <rdfs:label>City of Kutaisi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029817 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029817">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029817</oboInOwl:id>
+        <rdfs:label>Municipality of Khoni</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029818 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029818">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029818</oboInOwl:id>
+        <rdfs:label>Municipality of Zestaponi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029819 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029819">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029819</oboInOwl:id>
+        <rdfs:label>Municipality of Tkibuli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029820 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029820">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029820</oboInOwl:id>
+        <rdfs:label>Municipality of Terjola</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029821 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029821">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029821</oboInOwl:id>
+        <rdfs:label>Municipality of Sachkhere</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029822 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029822">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029822</oboInOwl:id>
+        <rdfs:label>Municipality of Kharagauli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029823 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029823">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029823</oboInOwl:id>
+        <rdfs:label>Municipality of Samtredia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029824 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029824">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029824</oboInOwl:id>
+        <rdfs:label>Municipality of Tskhaltubo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029825 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029825">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029825</oboInOwl:id>
+        <rdfs:label>Municipality of Baghdati</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029826 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029826">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010369"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029826</oboInOwl:id>
+        <rdfs:label>Municipality of Chiatura</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029827 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029827">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029827</oboInOwl:id>
+        <rdfs:label>Municipality of Akhalkalaki</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029828 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029828">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029828</oboInOwl:id>
+        <rdfs:label>Municipality of Ninotsminda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029829 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029829">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029829</oboInOwl:id>
+        <rdfs:label>Municipality of Adigeni</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029830 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029830">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029830</oboInOwl:id>
+        <rdfs:label>Municipality of Borjomi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029831 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029831">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029831</oboInOwl:id>
+        <rdfs:label>Municipality of Aspindza</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029832 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029832">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029832</oboInOwl:id>
+        <rdfs:label>Municipality of Akhaltsikhe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029833 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029833">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010377"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029833</oboInOwl:id>
+        <rdfs:label>Municipality of Kaspi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029834 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029834">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010377"/>
+        <obo:IAO_0000115>A municipality. Located in the Republic of South Ossetia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029834</oboInOwl:id>
+        <rdfs:label>Municipality of Java</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029835 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029835">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010377"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029835</oboInOwl:id>
+        <rdfs:label>Municipality of Khashuri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029836 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029836">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010377"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029836</oboInOwl:id>
+        <rdfs:label>Municipality of Kareli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029837 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029837">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010377"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029837</oboInOwl:id>
+        <rdfs:label>Municipality of Gori</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029838 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029838">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010372"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029838</oboInOwl:id>
+        <rdfs:label>Municipality of Dusheti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029839 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029839">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010371"/>
+        <obo:IAO_0000115>A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029839</oboInOwl:id>
+        <rdfs:label>City of Rustavi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029840 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029840">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010371"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029840</oboInOwl:id>
+        <rdfs:label>Municipality of Tsalka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029841 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029841">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010370"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029841</oboInOwl:id>
+        <rdfs:label>Municipality of Sagarejo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029842 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029842">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010371"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029842</oboInOwl:id>
+        <rdfs:label>Municipality of Gardabani</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029843 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029843">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010371"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029843</oboInOwl:id>
+        <rdfs:label>Municipality of Tetri Tskaro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029844 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029844">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010371"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029844</oboInOwl:id>
+        <rdfs:label>Municipality of Dmanisi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029845 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029845">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010371"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029845</oboInOwl:id>
+        <rdfs:label>Municipality of Bolnisi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029846 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029846">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010371"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029846</oboInOwl:id>
+        <rdfs:label>Municipality of Marneuli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029847 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029847">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010370"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029847</oboInOwl:id>
+        <rdfs:label>Municipality of Kvareli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029848 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029848">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010370"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029848</oboInOwl:id>
+        <rdfs:label>Municipality of Lagodekhi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029849 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029849">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010370"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029849</oboInOwl:id>
+        <rdfs:label>Municipality of Gurjaani</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029850 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029850">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010370"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029850</oboInOwl:id>
+        <rdfs:label>Municipality of Signagi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029851 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029851">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008387"/>
+        <obo:IAO_0000115>A district of Tbilisi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029851</oboInOwl:id>
+        <rdfs:label>Dzveli Tbilisi Raion</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029852 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029852">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010370"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029852</oboInOwl:id>
+        <rdfs:label>Municipality of Akhmeta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029853 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029853">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010370"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029853</oboInOwl:id>
+        <rdfs:label>Municipality of Dedoplis Tskaro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029854 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029854">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010370"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029854</oboInOwl:id>
+        <rdfs:label>Municipality of Telavi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029855 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029855">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008387"/>
+        <obo:IAO_0000115>A district of Tbilisi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029855</oboInOwl:id>
+        <rdfs:label>Vake-Saburtalo Raion</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029856 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029856">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008387"/>
+        <obo:IAO_0000115>A district of Tbilisi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029856</oboInOwl:id>
+        <rdfs:label>Isani-Samgori Raion</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029857 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029857">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008387"/>
+        <obo:IAO_0000115>A district of Tbilisi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029857</oboInOwl:id>
+        <rdfs:label>Didube-Chugureti Raion</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029858 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029858">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008387"/>
+        <obo:IAO_0000115>A district of Tbilisi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029858</oboInOwl:id>
+        <rdfs:label>Gldani-Nadzaladevi Raion</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029859 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029859">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008387"/>
+        <obo:IAO_0000115>A district of Tbilisi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029859</oboInOwl:id>
+        <rdfs:label>Didgori Raion</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053466 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053466">
+        <obo:IAO_0000115>A dormant stratovolcano and one of the chief mountains of the Caucasus. It is located in Georgia near the border between Russia and Georgia, dominating the town of Stepantsminda near the border with North Ossetia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053466</oboInOwl:id>
+        <rdfs:label>Mount Kazbek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053467 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053467">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004942"/>
+        <obo:IAO_0000115>A group thaat consists of a dozen andesitic-to-dacitic cinder cones and lava domes of lower-Pleistocene to Holocene age. These volcanoes were constructed near the Georgia-Russia border SW of Kasbek volcano.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053467</oboInOwl:id>
+        <rdfs:label>Kabargin Oth Volcanic Group</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057448 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057448">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004942"/>
+        <obo:IAO_0000115>A mountain range in Georgia, a part of the Caucasus mountains. It connects the Greater Caucasus and Lesser Caucasus ranges.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057448</oboInOwl:id>
+        <rdfs:label>Likhi Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057449 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057449">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004942"/>
+        <obo:IAO_0000115>A volcanic range in southern Georgia, 120 km to the southwest of Tbilisi. It is a part of the Lesser Caucasus Mountains and rises above the Javakheti and Tsalka Plateaus. The Range itself is 40 km long and runs north to south from the Ktsia to the Paravani River Gorges.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057449</oboInOwl:id>
+        <rdfs:label>Abul-Samsari Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058184 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058184">
+        <obo:IAO_0000115>A river in the Caucasus Mountains. Starting in Eastern Turkey (formerly Georgian province of Tao), it flows through Turkey to Georgia, then to Azerbaijan, where it receives the Aras River as a right tributary, and enters the Caspian Sea. The total length of the river is 1,364 km.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058184</oboInOwl:id>
+        <rdfs:label>Kura</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058185 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058185">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058184"/>
+        <obo:IAO_0000115>A reservoir formed by damming the Kura in western Azerbaijan. Completed 1953.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058185</oboInOwl:id>
+        <rdfs:label>Mingachevir Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058241 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058241">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029838"/>
+        <obo:IAO_0000115>A lake in eastern Georgia some 60 km northwest of the nation&apos;s capital Tbilisi and 5km south of the town of Dusheti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058241</oboInOwl:id>
+        <rdfs:label>Bazaleti Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058242 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058242">
+        <obo:IAO_0000115>A small lake in the vicinity of Tbilisi, Georgia; it is in the Kura River valley.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058242</oboInOwl:id>
+        <rdfs:label>Lisi Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058243 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058243">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058244"/>
+        <obo:IAO_0000115>A small lake located at the eastern coast of the Black Sea, 10 km south-east of Poti City, at a sea level between - 0,3 and 2 m. The Paliastomi Lake is the largest of over 40 other smaller lakes in the ecologically important and fragile Kolkheti Wetland complex.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058243</oboInOwl:id>
+        <rdfs:label>Lake Paliastomi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058244 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058244">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029792"/>
+        <obo:IAO_0000115>A protected area West Georgia, in Khobi district, on the right side of the river Pichora. On the coast of the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058244</oboInOwl:id>
+        <rdfs:label>Kolkheti National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058245 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058245">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029786"/>
+        <obo:IAO_0000115>A protected area located in Abkhazia Autonomous Republic, in Gudauri district.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058245</oboInOwl:id>
+        <rdfs:label>Ritsa Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058247 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058247">
+        <obo:IAO_0000115>A volcanic plateau within the Caucasus Mountains that covers the Samtskhe-Javakheti region of Georgia, along the border with Turkey and Armenia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058247</oboInOwl:id>
+        <rdfs:label>Javakheti Plateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058248 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058248">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058247"/>
+        <obo:IAO_0000115>A wetland. A Ramsar Site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058248</oboInOwl:id>
+        <rdfs:label>Javalkheti Wetlands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058249 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058249">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058247"/>
+        <obo:IAO_0000115>A lake in Georgia, located in Javakheti Plateau between Abul-Samsari and Javakheti Ranges. In addition to the small rivers of Shaori, Sabadostskali, Rodionovskis Tskali, the lake gets the water from snow, rain and underground springs.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058249</oboInOwl:id>
+        <rdfs:label>Paravani Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089794 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089794">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004942"/>
+        <obo:IAO_0000115>A national park in central Georgia, situated in the Lesser Caucasus, southwest to the nation&apos;s capital of Tbilisi. It includes six administrative districts stretching from the resort of Borjomi to the town of Kharagauli.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089794</oboInOwl:id>
+        <rdfs:label>Borjomi-Kharagauli National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089795 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089795">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405923"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089795</oboInOwl:id>
+        <rdfs:label>Liakhvi Strict Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00103728 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00103728">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406042"/>
+        <obo:IAO_0000115>A lake located in the northern part of de facto independent republic of Abkhazia (de jure an autonomous republic of Georgia), in the Caucasus Mountains.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00103728</oboInOwl:id>
+        <rdfs:label>Lake Ritsa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00103729 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00103729">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>The valley of the largest river of Abkhazia in the Western Caucasus. It flows down from the Caucasus Major into the Black Sea in two branches. The valley borders the Bzyb Range, Gagra Range and some other ranges of Caucasus Major.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00103729</oboInOwl:id>
+        <rdfs:label>Bzyb River Valley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00103730 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00103730">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00103729"/>
+        <obo:IAO_0000115>The largest river of Abkhazia in the Western Caucasus. It flows down from the Caucasus Major into the Black Sea in two branches.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00103730</oboInOwl:id>
+        <rdfs:label>Bzyb</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143918 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143918">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00053466"/>
+        <obo:IAO_0000115>A glacier in North Ossetia, Russia, near Mount Kazbek.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143918</oboInOwl:id>
+        <rdfs:label>Kolka Glacier</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00242403 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00242403">
+        <obo:IAO_0000115>A river in Maku Shahrestan, West Azarbaijan Province, Iran. It originates in the mountains above Maku, Iran along the Turkish-Iranian border, not far from Mount Ararat and flows south and east into the Araxes at the town of Pol Dasht.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00242403</oboInOwl:id>
+        <rdfs:label>Zangmar River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00242405 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00242405">
+        <obo:IAO_0000115>A reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00242405</oboInOwl:id>
+        <rdfs:label>Maku-Barun Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00360612 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00360612">
+        <obo:IAO_0000115>A former republic of the Soviet Union.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00360612</oboInOwl:id>
+        <rdfs:label>[Former] Moldavian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00392148 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00392148">
+        <obo:IAO_0000115>An east-west mountain range of the Lesser Caucasus Mountains in the central part of Georgia. The eastern edge of the Range runs along the western border of Tbilisi, while the western edge lies along River Mtkvari to the southwest of Borjomi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00392148</oboInOwl:id>
+        <rdfs:label>Trialeti Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00392149 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00392149">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058184"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00392149</oboInOwl:id>
+        <rdfs:label>Tsalka Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00398629 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00398629">
+        <obo:IAO_0000115>A hydroelectric dam. An embankment dam on the Aras River along the border of Iran and Azerbaijan. It is located downstream of Poldasht in West Azerbaijan Province, Iran and Nakhchivan City in Nakhchivan Autonomous Republic. Constructed 1963-1970.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00398629</oboInOwl:id>
+        <rdfs:label>Aras Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00398630 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00398630">
+        <obo:IAO_0000115>A reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00398630</oboInOwl:id>
+        <rdfs:label>Araz reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00399752 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00399752">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058184"/>
+        <obo:IAO_0000115>A reservoir in the Shamkir Rayon of northwestern Azerbaijan. Constructed 1982.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00399752</oboInOwl:id>
+        <rdfs:label>Shamkir Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00399753 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00399753">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058184"/>
+        <obo:IAO_0000115>A reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00399753</oboInOwl:id>
+        <rdfs:label>Yenikend Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00400465 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00400465">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004942"/>
+        <obo:IAO_0000115>A disputed region and partly recognized state in the South Caucasus, in Georgia, located in the territory of the South Ossetian Autonomous Oblast within the former Georgian Soviet Socialist Republic.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00400465</oboInOwl:id>
+        <rdfs:label>South Ossetia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00401801 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00401801">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00401801</oboInOwl:id>
+        <rdfs:label>Turagaycay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00401802 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00401802">
+        <obo:IAO_0000115>A reservoir. Constructed 1976.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00401802</oboInOwl:id>
+        <rdfs:label>Sarsang Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00402353 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00402353">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058184"/>
+        <obo:IAO_0000115>A reservoir. Located 20 km E of Mingechevir. Constructed 1952.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00402353</oboInOwl:id>
+        <rdfs:label>Varvara Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405850 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405850">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029798"/>
+        <obo:IAO_0000115>A botanical garden.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405850</oboInOwl:id>
+        <rdfs:label>Sukhumi botanical garden</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405851 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405851">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029807"/>
+        <obo:IAO_0000115>A botanical garden.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405851</oboInOwl:id>
+        <rdfs:label>Batumi Botanical Garden</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405852 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405852">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008387"/>
+        <obo:IAO_0000115>A botaniical garden.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405852</oboInOwl:id>
+        <rdfs:label>Tbilisi Botanical Garden</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405855 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405855">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029787"/>
+        <obo:IAO_0000115>A botanical garden.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405855</oboInOwl:id>
+        <rdfs:label>Zugdidi Botanical Garden</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405858 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405858">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029785"/>
+        <obo:IAO_0000115>A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405858</oboInOwl:id>
+        <rdfs:label>Ochamchira</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405859 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405859">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029785"/>
+        <obo:IAO_0000115>A populated place. A town.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405859</oboInOwl:id>
+        <rdfs:label>Otap</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405861 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405861">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405859"/>
+        <obo:IAO_0000115>A karst cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405861</oboInOwl:id>
+        <rdfs:label>Abrskil Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405863 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405863">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029786"/>
+        <obo:IAO_0000115>A populated place. A town.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405863</oboInOwl:id>
+        <rdfs:label>New Athos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405867 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405867">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405868"/>
+        <obo:IAO_0000115>A karst cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405867</oboInOwl:id>
+        <rdfs:label>New Athos Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405868 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405868">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405863"/>
+        <obo:IAO_0000115>A mountain.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405868</oboInOwl:id>
+        <rdfs:label>Iverian Mountain</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405870 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405870">
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405870</oboInOwl:id>
+        <rdfs:label>Gagra Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405871 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405871">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029784"/>
+        <obo:IAO_0000115>A populated place. A town.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405871</oboInOwl:id>
+        <rdfs:label>Gagra</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405872 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405872">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029784"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405873"/>
+        <obo:IAO_0000115>A karst cave. The deepest known cave on Earth.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405872</oboInOwl:id>
+        <rdfs:label>Krubera Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405873 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405873">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405870"/>
+        <obo:IAO_0000115>A glacially eroded karst outcropping of the Gagra Range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405873</oboInOwl:id>
+        <rdfs:label>Arabika Massif</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405874 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405874">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029780"/>
+        <obo:IAO_0000115>A lake in the Gulripsh District of Abkhazia that was formed on 1891-09-03 when an earthquake caused a landslide on the south-western slope of Mount Iittle Shkhapach into the valley of the Amtkel River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405874</oboInOwl:id>
+        <rdfs:label>Lake Amtkel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405878 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405878">
+        <obo:IAO_0000115>A cave complex.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405878</oboInOwl:id>
+        <rdfs:label>Snowy Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405880 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405880">
+        <obo:IAO_0000115>A hydroelectric dam. Located north of the town Jvari. It is part of the Inguri hydroelectric power station which is partially located in Abkhazia. Constructed 1961-1967.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405880</oboInOwl:id>
+        <rdfs:label>Inguri Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405881 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405881">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A river. Discharges to the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405881</oboInOwl:id>
+        <rdfs:label>Kodori</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405884 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405884">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029781"/>
+        <obo:IAO_0000115>A populated place. A town.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405884</oboInOwl:id>
+        <rdfs:label>Gali</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405885 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405885">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029786"/>
+        <obo:IAO_0000115>A populated place. A town.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405885</oboInOwl:id>
+        <rdfs:label>Gudauta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405886 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405886">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029780"/>
+        <obo:IAO_0000115>An urban settlement in Abkhazia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405886</oboInOwl:id>
+        <rdfs:label>Gulripsh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405887 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405887">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029783"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405887</oboInOwl:id>
+        <rdfs:label>Ghalidzga</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405888 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405888">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A district of the Republic of Abkhazia. It has no equivalent Georgian district, as it was newly formed in 1995 from parts of Ochamchira District and Gali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405888</oboInOwl:id>
+        <rdfs:label>Tquarchal District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405889 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405889">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029784"/>
+        <obo:IAO_0000115>A populated place. A town.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405889</oboInOwl:id>
+        <rdfs:label>Pitsunda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405890 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405890">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029784"/>
+        <obo:IAO_0000115>An urban settlement located in the Gagra district of Abkhazia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405890</oboInOwl:id>
+        <rdfs:label>Bzyb</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405891 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405891">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029784"/>
+        <obo:IAO_0000115>An urban settlement in Abkhazia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405891</oboInOwl:id>
+        <rdfs:label>Gyachrypsh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405892 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405892">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029786"/>
+        <obo:IAO_0000115>An urban settlement located in the Gudauta district of Abkhazia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405892</oboInOwl:id>
+        <rdfs:label>Myussera</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405893 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405893">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029784"/>
+        <obo:IAO_0000115>An urban settlement located in the Gagra district of Abkhazia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405893</oboInOwl:id>
+        <rdfs:label>Tsandryphsh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405895 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405895">
+        <obo:IAO_0000115>A mountain range. A part of the Lesser Caucasus mountain range in Meskheti region, in southwestern Georgia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405895</oboInOwl:id>
+        <rdfs:label>Meskheti Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405896 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405896">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029807"/>
+        <obo:IAO_0000115>A borough of Batumi City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405896</oboInOwl:id>
+        <rdfs:label>Old Batumi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405897 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405897">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029807"/>
+        <obo:IAO_0000115>A borough of Batumi City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405897</oboInOwl:id>
+        <rdfs:label>Khimshiashvili</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405898 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405898">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029807"/>
+        <obo:IAO_0000115>A borough of Batumi City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405898</oboInOwl:id>
+        <rdfs:label>Bagrationi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405899 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405899">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029807"/>
+        <obo:IAO_0000115>A borough of Batumi City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405899</oboInOwl:id>
+        <rdfs:label>Aghmashenebeli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405900 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405900">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029807"/>
+        <obo:IAO_0000115>A borough of Batumi City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405900</oboInOwl:id>
+        <rdfs:label>Javakhishvili</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405901 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405901">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029807"/>
+        <obo:IAO_0000115>A borough of Batumi City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405901</oboInOwl:id>
+        <rdfs:label>Tamar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405902 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405902">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029807"/>
+        <obo:IAO_0000115>A borough of Batumi City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405902</oboInOwl:id>
+        <rdfs:label>Boni-Gorodok</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405903 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405903">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029806"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405903</oboInOwl:id>
+        <rdfs:label>Keda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405904 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405904">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029802"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405904</oboInOwl:id>
+        <rdfs:label>Kobuleti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405905 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405905">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029805"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405905</oboInOwl:id>
+        <rdfs:label>Khelvachauri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405906 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405906">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029805"/>
+        <obo:IAO_0000115>An archeological site. Roman.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405906</oboInOwl:id>
+        <rdfs:label>Gonio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405908 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405908">
+        <obo:IAO_0000115>A hydroelectric dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405908</oboInOwl:id>
+        <rdfs:label>Tortum Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405909 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405909">
+        <obo:IAO_0000115>A hydroelectric dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405909</oboInOwl:id>
+        <rdfs:label>Muratli Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405910 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405910">
+        <obo:IAO_0000115>A hydroelectric dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405910</oboInOwl:id>
+        <rdfs:label>Borcka Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405911 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405911">
+        <obo:IAO_0000115>A hydroelectric dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405911</oboInOwl:id>
+        <rdfs:label>Deriner Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405917 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405917">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029803"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405917</oboInOwl:id>
+        <rdfs:label>Shuakhevi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405918 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405918">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029804"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405918</oboInOwl:id>
+        <rdfs:label>Khulo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405919 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405919">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00400465"/>
+        <obo:IAO_0000115>A municipality (Akhalgori) of Georgia and District of South Ossetia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405919</oboInOwl:id>
+        <rdfs:label>Leningor District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405920 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405920">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00400465"/>
+        <obo:IAO_0000115>A district in South Ossetia. Dzau district is situated in the territory Oni district and Java district of Georgia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405920</oboInOwl:id>
+        <rdfs:label>Dzau District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405921 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405921">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00400465"/>
+        <obo:IAO_0000115>A district of South Ossetia, located in central part of the republic.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405921</oboInOwl:id>
+        <rdfs:label>Tskhinval District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405922 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405922">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00400465"/>
+        <obo:IAO_0000115>One of the districts of South Ossetia. It is located in the southwestern part of South Ossetia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405922</oboInOwl:id>
+        <rdfs:label>Znaur District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405923 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405923">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010377"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00400465"/>
+        <obo:IAO_0000115>A city. The capital of South Ossetia. Regarded by Georgia and most of the world as part of the Shida Kartli region within Georgian sovereign.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405923</oboInOwl:id>
+        <rdfs:label>City of Tskhinval</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405925 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405925">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029837"/>
+        <obo:IAO_0000115>A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405925</oboInOwl:id>
+        <rdfs:label>Gori</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405927 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405927">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405920"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405927</oboInOwl:id>
+        <rdfs:label>Kvedi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405928 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405928">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405920"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405928</oboInOwl:id>
+        <rdfs:label>Ertso</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405929 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405929">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405922"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405929</oboInOwl:id>
+        <rdfs:label>Tsunaristba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405930 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405930">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405921"/>
+        <obo:IAO_0000115>A reseervoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405930</oboInOwl:id>
+        <rdfs:label>Zonkarskoe Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405931 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405931">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405919"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405931</oboInOwl:id>
+        <rdfs:label>Kelistba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405958 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405958">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029800"/>
+        <obo:IAO_0000115>A populated place. A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405958</oboInOwl:id>
+        <rdfs:label>City of Lanchkhuti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405959 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405959">
+        <obo:IAO_0000115>A short-lived republic of the Soviet Union. It consisted of Georgia, Armenia, and Azerbaijan, traditionally known as the Transcaucasian Republics, being separated from Russia by the Caucasus Mountains. 1922-1936.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405959</oboInOwl:id>
+        <rdfs:label>[Former] Transcaucasian Socialist Federative Soviet Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405960 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405960">
+        <obo:IAO_0000115>A former republic of the USSR.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405960</oboInOwl:id>
+        <rdfs:label>[Former] Georgian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405961 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405961">
+        <obo:IAO_0000115>A former republic of the USSR. 1922-1991.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405961</oboInOwl:id>
+        <rdfs:label>[Former] Armenian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405962 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405962">
+        <obo:IAO_0000115>A former republic of the USSR. 1937-1990.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405962</oboInOwl:id>
+        <rdfs:label>[Former] Azerbaijan Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405963 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405963">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405963</oboInOwl:id>
+        <rdfs:label>[Former] Russian Soviet Federative Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405964 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405964">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405964</oboInOwl:id>
+        <rdfs:label>[Former[ Ukrainian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405965 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405965">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405965</oboInOwl:id>
+        <rdfs:label>[Former] Byelorussian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405966 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405966">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405966</oboInOwl:id>
+        <rdfs:label>[Former] Uzbek Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405967 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405967">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405967</oboInOwl:id>
+        <rdfs:label>[Former] Kazakh Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405968 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405968">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405968</oboInOwl:id>
+        <rdfs:label>[Former] Lithuanian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405969 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405969">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405969</oboInOwl:id>
+        <rdfs:label>[Former] Kirghiz Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405970 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405970">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405970</oboInOwl:id>
+        <rdfs:label>[Former] Latvian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405971 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405971">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405971</oboInOwl:id>
+        <rdfs:label>[Former] Turkmen Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405972 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405972">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405972</oboInOwl:id>
+        <rdfs:label>[Former] Estonian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405973 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405973">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405973</oboInOwl:id>
+        <rdfs:label>[Former] Tajik Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405979 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405979">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029826"/>
+        <obo:IAO_0000115>A populated place. A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405979</oboInOwl:id>
+        <rdfs:label>Chiatura</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405982 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405982">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406060"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405982</oboInOwl:id>
+        <rdfs:label>Lagodekhi Managed Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405983 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405983">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00405982"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405983</oboInOwl:id>
+        <rdfs:label>Lagodekhi Mountain Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405984 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405984">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029844"/>
+        <obo:IAO_0000115>An archeological site. A World Heritage Site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405984</oboInOwl:id>
+        <rdfs:label>Dmanisi Hominid Archaeological Site</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405985 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405985">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029846"/>
+        <obo:IAO_0000115>A populated place. A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405985</oboInOwl:id>
+        <rdfs:label>Marneuli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405988 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405988">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029809"/>
+        <obo:IAO_0000115>A populated place. A town.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405988</oboInOwl:id>
+        <rdfs:label>Stepantsminda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405992 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405992">
+        <obo:IAO_0000115>A river in North Ossetia-Alania in Russia, a left tributary of the Terek River. It originates in the glaciers of the Greater Caucasus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405992</oboInOwl:id>
+        <rdfs:label>Ardon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405994 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405994">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405994</oboInOwl:id>
+        <rdfs:label>Fiagdon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406011 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406011">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058244"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406011</oboInOwl:id>
+        <rdfs:label>Patara Paleastomi Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406012 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406012">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058244"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406012</oboInOwl:id>
+        <rdfs:label>Imnati Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406013 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406013">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058244"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406013</oboInOwl:id>
+        <rdfs:label>Parto Tskali Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406014 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406014">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058247"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406014</oboInOwl:id>
+        <rdfs:label>Tabatskuri Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406015 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406015">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058247"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406015</oboInOwl:id>
+        <rdfs:label>Khanchali Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406016 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406016">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058247"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406016</oboInOwl:id>
+        <rdfs:label>Madatapa Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406017 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406017">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058247"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406017</oboInOwl:id>
+        <rdfs:label>Kartsakhi Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406018 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406018">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010376"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058247"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406018</oboInOwl:id>
+        <rdfs:label>Sagamo Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406020 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406020">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029832"/>
+        <obo:IAO_0000115>A populated place. A city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406020</oboInOwl:id>
+        <rdfs:label>Akhaltsikhe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406022 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406022">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029852"/>
+        <obo:IAO_0000115>A valley region in Georgia, in the northeastern corner of the country, bordering the Chechnyan republic of the Russian Federation. Administratively, it is included in the Akhmeta district of the Kakheti region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406022</oboInOwl:id>
+        <rdfs:label>Pankisi Gorge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406023 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406023">
+        <obo:IAO_0000115>Amountain tunnel of the Transkam road through the Greater Caucasus Mountains, north of the village Upper Roka. It is the only road joining North Ossetia-Alania in the Russian Federation into South Ossetia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406023</oboInOwl:id>
+        <rdfs:label>Roki Tunnel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406024 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406024">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406024</oboInOwl:id>
+        <rdfs:label>Kus Tba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406026 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406026">
+        <obo:IAO_0000115>A reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406026</oboInOwl:id>
+        <rdfs:label>Tsalka Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406028 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406028">
+        <obo:IAO_0000115>A man-made lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406028</oboInOwl:id>
+        <rdfs:label>Tbilisi reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406029 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406029">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029855"/>
+        <obo:IAO_0000115>An urban park.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406029</oboInOwl:id>
+        <rdfs:label>Vake Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406030 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406030">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029791"/>
+        <obo:IAO_0000115>A major seaport and harbor off the eastern Black Sea coast at the mouth of the Rioni River in Poti, Georgia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406030</oboInOwl:id>
+        <rdfs:label>Poti Sea Port</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406031 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406031">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029843"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406031</oboInOwl:id>
+        <rdfs:label>Algeti National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406032 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406032">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406031"/>
+        <obo:IAO_0000115>A reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406032</oboInOwl:id>
+        <rdfs:label>Algeti Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406033 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406033">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029852"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406033</oboInOwl:id>
+        <rdfs:label>Batsara Strict Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406034 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406034">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029852"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406034</oboInOwl:id>
+        <rdfs:label>Ilto Managed Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406035 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406035">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029852"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406035</oboInOwl:id>
+        <rdfs:label>Babaneuri Strict Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406036 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406036">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406036</oboInOwl:id>
+        <rdfs:label>Bichvinta-Miusera Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406037 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406037">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010370"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406037</oboInOwl:id>
+        <rdfs:label>Chachuna Managed Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406038 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406038">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029816"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406038</oboInOwl:id>
+        <rdfs:label>Imereti Caves Protected Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406039 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406039">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406038"/>
+        <obo:IAO_0000115>A karst cave complex.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406039</oboInOwl:id>
+        <rdfs:label>Imereti Caves</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406040 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406040">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029795"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406040</oboInOwl:id>
+        <rdfs:label>Katsoburi Managed Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406041 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406041">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029809"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406041</oboInOwl:id>
+        <rdfs:label>Kazbegi National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406042 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406042">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406042</oboInOwl:id>
+        <rdfs:label>Ritsa Strict Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406043 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406043">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029802"/>
+        <obo:IAO_0000115>A protected area; a wetland.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406043</oboInOwl:id>
+        <rdfs:label>Kobuleti Managed Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406044 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406044">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029802"/>
+        <obo:IAO_0000115>A protected area; a wetland.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406044</oboInOwl:id>
+        <rdfs:label>Kobuleti Strict Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406045 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406045">
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406045</oboInOwl:id>
+        <rdfs:label>Tbilisi National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406047 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406047">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029841"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406047</oboInOwl:id>
+        <rdfs:label>Mariamjvari Strict Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406048 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406048">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010370"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406048</oboInOwl:id>
+        <rdfs:label>Korughi Managed Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406049 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406049">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029853"/>
+        <obo:IAO_0000115>Protected areas.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406049</oboInOwl:id>
+        <rdfs:label>Vashlovani Protected Areas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406050 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406050">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406049"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406050</oboInOwl:id>
+        <rdfs:label>Vashlovani Strict Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406051 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406051">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406049"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406051</oboInOwl:id>
+        <rdfs:label>Vashlovani National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406052 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406052">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406049"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406052</oboInOwl:id>
+        <rdfs:label>Eagle Gorge Natural Monument</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406053 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406053">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406049"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406053</oboInOwl:id>
+        <rdfs:label>Takhti-Tepa mud volcanoes Natural Monument</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406054 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406054">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406049"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406054</oboInOwl:id>
+        <rdfs:label>Juma Bay Natural Monument</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406055 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406055">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406049"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406055</oboInOwl:id>
+        <rdfs:label>Alazani Floodplains Natural Monument</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406056 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406056">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029852"/>
+        <obo:IAO_0000115>Protected areas.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406056</oboInOwl:id>
+        <rdfs:label>Tusheti Protected Areas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406057 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406057">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406056"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406057</oboInOwl:id>
+        <rdfs:label>Tusheti Strict Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406058 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406058">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406056"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406058</oboInOwl:id>
+        <rdfs:label>Tusheti National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406059 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406059">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406056"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406059</oboInOwl:id>
+        <rdfs:label>Tusheti Protected Landscape</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406060 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406060">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029848"/>
+        <obo:IAO_0000115>Protected areas.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406060</oboInOwl:id>
+        <rdfs:label>Lagodekhi Protected Areas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406061 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406061">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406060"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406061</oboInOwl:id>
+        <rdfs:label>Lagodekhi Strict Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406062 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406062">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010366"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406062</oboInOwl:id>
+        <rdfs:label>Mtirala National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406063 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406063">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029802"/>
+        <obo:IAO_0000115>Protected areas.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406063</oboInOwl:id>
+        <rdfs:label>Kintrishi Protected Areas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406064 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406064">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406063"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406064</oboInOwl:id>
+        <rdfs:label>Kintrishi Strict Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406065 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406065">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406063"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406065</oboInOwl:id>
+        <rdfs:label>Kintrishi Protected Landscape</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406074 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406074">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406064"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406074</oboInOwl:id>
+        <rdfs:label>Tbikeli Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406075 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406075">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406063"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406075</oboInOwl:id>
+        <rdfs:label>Sidzerdzali Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406076 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406076">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010368"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406076</oboInOwl:id>
+        <rdfs:label>Pskhu-Gumista Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406077 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406077">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406076"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406077</oboInOwl:id>
+        <rdfs:label>Gumista Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406078 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406078">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406076"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406078</oboInOwl:id>
+        <rdfs:label>Pskhu Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406079 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406079">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406076"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406079</oboInOwl:id>
+        <rdfs:label>Skrucha Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406081 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406081">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029837"/>
+        <obo:IAO_0000115>An archeological site. An ancient rock-hewn town in eastern Georgia, some 10 km east of the town of Gori, Shida Kartli. Built on a high rocky left bank of the Mtkvari River, it contains various structures dating from the Early Iron Age to the Late Middle Ages.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406081</oboInOwl:id>
+        <rdfs:label>Uplistsikhe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406082 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406082">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029812"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406082</oboInOwl:id>
+        <rdfs:label>Armazi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406083 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406083">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029796"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406083</oboInOwl:id>
+        <rdfs:label>Nokalakevi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406084 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406084">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029802"/>
+        <obo:IAO_0000115>An archeological site. Located 10 km north of Kobuleti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406084</oboInOwl:id>
+        <rdfs:label>Pichvnari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406087 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406087">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029812"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406087</oboInOwl:id>
+        <rdfs:label>Necropolis of Mtskheta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406088 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406088">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029836"/>
+        <obo:IAO_0000115>A populated place. A village.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406088</oboInOwl:id>
+        <rdfs:label>Urbnisi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406089 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406089">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406088"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406089</oboInOwl:id>
+        <rdfs:label>Urbnisi site</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406090 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406090">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029831"/>
+        <obo:IAO_0000115>A cave monastery in Samtskhe-Javakheti region of Georgia near Aspindza. It dates from 8th century.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406090</oboInOwl:id>
+        <rdfs:label>Vanis Kvabebi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406091 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406091">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029831"/>
+        <obo:IAO_0000115>A cave monastery dug into the side of the Erusheli mountain in southern Georgia near Aspindza on the left bank of the Mtkvari River. It was founded by Queen Tamar in 1185.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406091</oboInOwl:id>
+        <rdfs:label>Vardzia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406092 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406092">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00089794"/>
+        <obo:IAO_0000115>A canyon of the Mtkvari (Kura) River in central Georgia. The Gorge was formed as a result of the Mtkvari River cutting its path through the Lesser Caucasus Mountains where the Trialeti and Meskheti Ranges meet.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406092</oboInOwl:id>
+        <rdfs:label>Borjomi Gorge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406094 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406094">
+        <obo:IAO_0000115>A mountain range in Eastern Anatolia Region, northeast Turkey, and the Autonomous Republic of Adjara, southwest Georgia. The range, continuing the Lesser Caucasus to the Armenian highlands, forms the watershed between the river valleys of Coruh/Chorokhi and Kura/Mtkvari.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406094</oboInOwl:id>
+        <rdfs:label>Yalnizcam Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406095 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406095">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00057449"/>
+        <obo:IAO_0000115>A mountain and extinct volcano.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406095</oboInOwl:id>
+        <rdfs:label>Shavnabada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406111 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406111">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010372"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406111</oboInOwl:id>
+        <rdfs:label>Keli Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406112 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406112">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010371"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406112</oboInOwl:id>
+        <rdfs:label>Jandari Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406114 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406114">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010367"/>
+        <obo:IAO_0000115>A river. Discharges to the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406114</oboInOwl:id>
+        <rdfs:label>Supsa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406115 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406115">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029784"/>
+        <obo:IAO_0000115>A cape.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406115</oboInOwl:id>
+        <rdfs:label>Pitsunda Cape</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406120 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406120">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010366"/>
+        <obo:IAO_0000115>A river near Batumi, Georgia. Discharges to the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406120</oboInOwl:id>
+        <rdfs:label>Korolistskali</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406121 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406121">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029784"/>
+        <obo:IAO_0000115>A river. Sources of the river are the springs in karst Voronya Cave. Discharges to the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406121</oboInOwl:id>
+        <rdfs:label>Reprua</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00008386">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>populated place, Georgia</rdfs:label>
+        <oboInOwl:id>GAZ:00008386</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00008387">
+        <rdfs:label>Tbilisi</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00008387</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00008388">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008388</oboInOwl:id>
+        <rdfs:label>Region (Georgia)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00010367">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010367</oboInOwl:id>
+        <obo:IAO_0000115>A region (Mkhare) of Georgia.</obo:IAO_0000115>
+        <rdfs:label>Guria Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00010369">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010369</oboInOwl:id>
+        <rdfs:label>Imereti Region</rdfs:label>
+        <obo:IAO_0000115>A region (Mkhare) of Georgia.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00010370">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Kakheti Region</rdfs:label>
+        <oboInOwl:id>GAZ:00010370</oboInOwl:id>
+        <obo:IAO_0000115>A region (Mkhare) of Georgia.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00010371">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region (Mkhare) of Georgia.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00010371</oboInOwl:id>
+        <rdfs:label>Kvemo Kartli Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00010372">
+        <rdfs:label>Mtskheta-Mtianeti Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region (Mkhare) of Georgia.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00010372</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00010373">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Racha-Lochkhumi-Kvemo Svaneti Region</rdfs:label>
+        <obo:IAO_0000115>A region (Mkhare) of Georgia.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00010373</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00010375">
+        <oboInOwl:id>GAZ:00010375</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region (Mkhare) of Georgia.</obo:IAO_0000115>
+        <rdfs:label>Samegrelo-Zemo Svateni Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00010376">
+        <rdfs:label>Samtskhe-Javakheti Region</rdfs:label>
+        <oboInOwl:id>GAZ:00010376</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region (Mkhare) of Georgia.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00010377">
+        <oboInOwl:id>GAZ:00010377</oboInOwl:id>
+        <rdfs:label>Shida Kartli Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region (Mkhare) of Georgia.</obo:IAO_0000115>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

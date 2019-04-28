@@ -1,0 +1,2057 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Antigua_and_Barbuda.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Antigua_and_Barbuda.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Antigua_and_Barbuda.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000106 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000856 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010068 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00010068">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010069"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010069 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00010069"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013596 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00013596">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010069"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013598 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00013598">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00010069"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013598</oboInOwl:id>
+        <rdfs:label>John Hughes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00006883 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00006883">
+        <obo:IAO_0000115>An island nation located on the eastern boundary of the Caribbean Sea with the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00006883</oboInOwl:id>
+        <rdfs:label>Antigua and Barbuda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00006885 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00006885">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island in the West Indies, in the Leeward Islands in the Caribbean region, the main island of the country of Antigua and Barbuda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00006885</oboInOwl:id>
+        <rdfs:label>Antigua</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010068 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010068">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010069 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010069">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013595 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013595">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A parish of Antigua and Barbuda on the island of Antigua. The capital is Bolans.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013595</oboInOwl:id>
+        <rdfs:label>Parish of Saint Mary</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013596 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013596"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013597 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013597">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013596"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013597</oboInOwl:id>
+        <rdfs:label>Jolly Beach</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013599 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013599">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014172"/>
+        <obo:IAO_0000115>A small island lying almost three kilometres north-east of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013599</oboInOwl:id>
+        <rdfs:label>Great Bird Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014172 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00014172">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A parish of Antigua and Barbuda on the island of Antigua. The capital is Parham.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014172</oboInOwl:id>
+        <rdfs:label>Parish of Saint Peter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014173 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00014173">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A parish of Antigua and Barbuda on the island of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014173</oboInOwl:id>
+        <rdfs:label>Parish of Saint Philip</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014174 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00014174">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A parish of Antigua and Barbuda on the island of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014174</oboInOwl:id>
+        <rdfs:label>Parish of Saint Paul</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014175 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00014175">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A parish of Antigua and Barbuda on the island of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014175</oboInOwl:id>
+        <rdfs:label>Parish of Saint George</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049536 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049536">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049536</oboInOwl:id>
+        <rdfs:label>Five Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049537 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049537">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049537</oboInOwl:id>
+        <rdfs:label>Exchange Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049538 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049538">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00246646"/>
+        <obo:IAO_0000115>An island. Located off the northeast coast of Antigua, at the eastern end of Mercers Creek Bay and immediately to the east of Crump Island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049538</oboInOwl:id>
+        <rdfs:label>Pelican Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049539 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049539">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049539</oboInOwl:id>
+        <rdfs:label>Rat Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049540 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049540">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049540</oboInOwl:id>
+        <rdfs:label>Nanny Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049541 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049541">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049541</oboInOwl:id>
+        <rdfs:label>Rabbit Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049542 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049542">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049542</oboInOwl:id>
+        <rdfs:label>Prickly Pear Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049543 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049543">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049543</oboInOwl:id>
+        <rdfs:label>York Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049544 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049544">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049544</oboInOwl:id>
+        <rdfs:label>Laviscounts Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049545 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049545">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049545</oboInOwl:id>
+        <rdfs:label>Moor Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049546 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049546">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049546</oboInOwl:id>
+        <rdfs:label>Johnson Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049548 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049548">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049548</oboInOwl:id>
+        <rdfs:label>Hawes Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049549 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049549">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049549</oboInOwl:id>
+        <rdfs:label>Maid Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049550 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049550">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049550</oboInOwl:id>
+        <rdfs:label>Lobster Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049551 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049551">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049551</oboInOwl:id>
+        <rdfs:label>Kid Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049552 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049552">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>An island off the northeast coast of Antigua. It is located off the northern tip of the Parham Peninsula, and is the fifth largest island of Antigua and Barbuda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049552</oboInOwl:id>
+        <rdfs:label>Long Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049553 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049553">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049553</oboInOwl:id>
+        <rdfs:label>Henry Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049554 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049554">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049554</oboInOwl:id>
+        <rdfs:label>Hale Gate Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049555 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049555">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island off the northeast coast of Antigua. It is located to the southeast of Guana Island in Belfast Bay, close to the town of Seaton&apos;s.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049555</oboInOwl:id>
+        <rdfs:label>Crump Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049556 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049556">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049556</oboInOwl:id>
+        <rdfs:label>Cinnamon Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049557 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049557">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049557</oboInOwl:id>
+        <rdfs:label>Dulcina Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049558 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049558">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049558</oboInOwl:id>
+        <rdfs:label>Blake Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049559 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049559">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>A small island lying off the eastern coast of Antigua. It lies close to the mouth of Nonsuch Bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049559</oboInOwl:id>
+        <rdfs:label>Green Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049560 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049560">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049560</oboInOwl:id>
+        <rdfs:label>Codrington Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049561 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049561">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049561</oboInOwl:id>
+        <rdfs:label>Bird Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049562 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049562">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049562</oboInOwl:id>
+        <rdfs:label>Bishop Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049563 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049563">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049563</oboInOwl:id>
+        <rdfs:label>Sandy Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049564 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049564">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049564</oboInOwl:id>
+        <rdfs:label>Red Head Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049565 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049565">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>A very small, uninhabited volcanic Caribbean island which is politically a part of the nation of Antigua and Barbuda, in the Leeward Islands, West Indies.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049565</oboInOwl:id>
+        <rdfs:label>Redonda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049566 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049566">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049566</oboInOwl:id>
+        <rdfs:label>Vernon Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049567 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049567">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049567</oboInOwl:id>
+        <rdfs:label>The Sisters</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049568 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049568">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049568</oboInOwl:id>
+        <rdfs:label>Smith Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049569 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049569">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049569</oboInOwl:id>
+        <rdfs:label>Wicked Will Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144834 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144834">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006883"/>
+        <obo:IAO_0000115>An island in the Eastern Caribbean, and forms part of the State of Antigua and Barbuda. Barbuda is located north of Antigua, in the middle of the Leeward Islands. To the south are the islands of Montserrat and Guadaloupe, and to the north and west are Nevis, Saint Kitts, Saint Barts, and Saint Martin.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144834</oboInOwl:id>
+        <rdfs:label>Barbuda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144835 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144835">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144834"/>
+        <obo:IAO_0000115>A saline lagoon largely separated from the sea by a sand barrier but with an open connection in its N end.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144835</oboInOwl:id>
+        <rdfs:label>Codrington Lagoon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246644 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246644">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A shallow sea bay on Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246644</oboInOwl:id>
+        <rdfs:label>Parham Harbor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246645 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246645">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A shallow sea bay on Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246645</oboInOwl:id>
+        <rdfs:label>Guiana Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246646 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246646">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A shallow sea bay on Antigua. The settlements of Willikies and Seaton&apos;s lie close to the bay, which is protected from the Atlantic Ocean by a string of small islands, the largest of which is Crump Island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246646</oboInOwl:id>
+        <rdfs:label>Mercer&apos;s Creek Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246647 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246647">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014172"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00246645"/>
+        <obo:IAO_0000115>An island off the northeast coast of Antigua, between the Parham Peninsula and Crump Island. It forms the southern coast of the North Sound.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246647</oboInOwl:id>
+        <rdfs:label>Guiana Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246648 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246648">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A bay S of Five Islands on the W coast of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246648</oboInOwl:id>
+        <rdfs:label>Five Island Harbour</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246649 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246649">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A saline pond on the W coast of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246649</oboInOwl:id>
+        <rdfs:label>McKinnon&apos;s Pond</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246650 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246650">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A saline pond on the W coast of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246650</oboInOwl:id>
+        <rdfs:label>Cocks Hill Pond</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246651 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246651">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A saline pond on the W coast of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246651</oboInOwl:id>
+        <rdfs:label>Jolly Hill Pond</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246652 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246652">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A saline pond on the W coast of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246652</oboInOwl:id>
+        <rdfs:label>Deep Bay Pond</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246653 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246653">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A saline pond on the W coast of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246653</oboInOwl:id>
+        <rdfs:label>York&apos;s Pond</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246654 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246654">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A saline pond on the W coast of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246654</oboInOwl:id>
+        <rdfs:label>Pinching Bay Pond</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246655 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246655">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A saline pond on the W coast of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246655</oboInOwl:id>
+        <rdfs:label>Galley Bay Pond</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246656 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246656">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144834"/>
+        <obo:IAO_0000115>A brackish pool in central Barbuda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246656</oboInOwl:id>
+        <rdfs:label>Bull Hole</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246657 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246657">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144834"/>
+        <obo:IAO_0000115>A group of hypersaline lagoons and salt flats near Cocoa Point at the SE tip of Barbuda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246657</oboInOwl:id>
+        <rdfs:label>The Flashes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253396 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253396">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144834"/>
+        <obo:IAO_0000115>A populated place. A town located on the island of Barbuda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253396</oboInOwl:id>
+        <rdfs:label>Codrington</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253397 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253397">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253397</oboInOwl:id>
+        <rdfs:label>Carlisle</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253398 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253398">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253398</oboInOwl:id>
+        <rdfs:label>Collins</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253399 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253399">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253399</oboInOwl:id>
+        <rdfs:label>Ffryes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253400 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253400">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253400</oboInOwl:id>
+        <rdfs:label>Lavingtons</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253401 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253401">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253401</oboInOwl:id>
+        <rdfs:label>Willoughby</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253402 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253402">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253402</oboInOwl:id>
+        <rdfs:label>Willikies</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253403 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253403">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253403</oboInOwl:id>
+        <rdfs:label>Glanvilles</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253404 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253404">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253404</oboInOwl:id>
+        <rdfs:label>Montpelier</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253405 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253405">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253405</oboInOwl:id>
+        <rdfs:label>Sign</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253406 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253406">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253406</oboInOwl:id>
+        <rdfs:label>Simpson</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253407 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253407">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253407</oboInOwl:id>
+        <rdfs:label>Lyons,</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253408 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253408">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014173"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253408</oboInOwl:id>
+        <rdfs:label>Seatons</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253409 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253409">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A long narrow finger of land which extends from the northeast coast of Antigua. It lies between Long Island and Guana Island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253409</oboInOwl:id>
+        <rdfs:label>Parham Peninsula</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253410 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253410">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253410</oboInOwl:id>
+        <rdfs:label>Barnes Hill</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253411 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253411">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014172"/>
+        <obo:IAO_0000115>A populated place. A town.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253411</oboInOwl:id>
+        <rdfs:label>Parham</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253412 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253412">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014172"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253412</oboInOwl:id>
+        <rdfs:label>Big Duers</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253413 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253413">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014172"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253413</oboInOwl:id>
+        <rdfs:label>Cocoa Hall</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253414 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253414">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014172"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253414</oboInOwl:id>
+        <rdfs:label>Freemans</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253415 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253415">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014172"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253415</oboInOwl:id>
+        <rdfs:label>Vernons</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253416 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253416">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014172"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253416</oboInOwl:id>
+        <rdfs:label>Parrys</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253417 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253417">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014172"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253417</oboInOwl:id>
+        <rdfs:label>Mercers Creek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253418 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253418">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014172"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253418</oboInOwl:id>
+        <rdfs:label>Gilberts</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253419 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253419">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014174"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253419</oboInOwl:id>
+        <rdfs:label>Liberta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253420 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253420">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014174"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253420</oboInOwl:id>
+        <rdfs:label>Bethesda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253421 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253421">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014174"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253421</oboInOwl:id>
+        <rdfs:label>Burkes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253422 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253422">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014174"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253422</oboInOwl:id>
+        <rdfs:label>Christian Hill</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253423 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253423">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014174"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253423</oboInOwl:id>
+        <rdfs:label>Delaps</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253424 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253424">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014174"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253424</oboInOwl:id>
+        <rdfs:label>Falmouth</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253425 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253425">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014174"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253425</oboInOwl:id>
+        <rdfs:label>English Harbour</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253426 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253426">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014174"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253426</oboInOwl:id>
+        <rdfs:label>Mathews</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253427 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253427">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014174"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253427</oboInOwl:id>
+        <rdfs:label>Swetes Village</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253428 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253428">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014174"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253428</oboInOwl:id>
+        <rdfs:label>Pattersons</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253429 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253429">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253429</oboInOwl:id>
+        <rdfs:label>Bolans</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253430 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253430">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253430</oboInOwl:id>
+        <rdfs:label>Ebenezer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253431 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253431">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253431</oboInOwl:id>
+        <rdfs:label>Blubber Valley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253432 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253432">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253432</oboInOwl:id>
+        <rdfs:label>Yorks, Seaforths</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253433 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253433">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253433</oboInOwl:id>
+        <rdfs:label>Sawcolts</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253434 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253434">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253434</oboInOwl:id>
+        <rdfs:label>Cedar Hall</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253435 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253435">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253435</oboInOwl:id>
+        <rdfs:label>Bishops</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253436 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253436">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253436</oboInOwl:id>
+        <rdfs:label>Cades Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253437 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253437">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253437</oboInOwl:id>
+        <rdfs:label>Claremont, Glebe Orange Valley Mill</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253438 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253438">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253438</oboInOwl:id>
+        <rdfs:label>New Division</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253439 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253439">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253439</oboInOwl:id>
+        <rdfs:label>John Hughes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253440 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253440">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013595"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253440</oboInOwl:id>
+        <rdfs:label>Johnsons Point</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253441 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253441">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253441</oboInOwl:id>
+        <rdfs:label>Renfrew</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253442 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253442">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253442</oboInOwl:id>
+        <rdfs:label>Aberdeen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253443 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253443">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253443</oboInOwl:id>
+        <rdfs:label>Bendals</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253444 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253444">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253444</oboInOwl:id>
+        <rdfs:label>Branns Hamlet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253445 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253445">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253445</oboInOwl:id>
+        <rdfs:label>Buckleys</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253446 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253446">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253446</oboInOwl:id>
+        <rdfs:label>Cooks New Extension</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253447 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253447">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253447</oboInOwl:id>
+        <rdfs:label>Cooks Hill</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253448 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253448">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253448</oboInOwl:id>
+        <rdfs:label>Cedar Grove</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253449 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253449">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253449</oboInOwl:id>
+        <rdfs:label>Emanuel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253450 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253450">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253450</oboInOwl:id>
+        <rdfs:label>Five Islands Village</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253451 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253451">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253451</oboInOwl:id>
+        <rdfs:label>Grays Farm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253452 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253452">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253452</oboInOwl:id>
+        <rdfs:label>Gray Hill</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253453 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253453">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253453</oboInOwl:id>
+        <rdfs:label>Green Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253454 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253454">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253454</oboInOwl:id>
+        <rdfs:label>Golden Grove</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253455 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253455">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253455</oboInOwl:id>
+        <rdfs:label>Nut Grove</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253456 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253456">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253456</oboInOwl:id>
+        <rdfs:label>Villa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253457 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253457">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253457</oboInOwl:id>
+        <rdfs:label>Gamble&apos;s Terrace</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253458 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253458">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253458</oboInOwl:id>
+        <rdfs:label>Upper Gamble&apos;s</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253459 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253459">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253459</oboInOwl:id>
+        <rdfs:label>Weatherhills</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253460 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253460">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000342"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253460</oboInOwl:id>
+        <rdfs:label>Tomlinson</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253461 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253461">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253461</oboInOwl:id>
+        <rdfs:label>Marble Hill</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253462 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253462">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253462</oboInOwl:id>
+        <rdfs:label>Crosbies</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253463 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253463">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253463</oboInOwl:id>
+        <rdfs:label>Hodges Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253464 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253464">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253464</oboInOwl:id>
+        <rdfs:label>Paradise View</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253465 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253465">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253465</oboInOwl:id>
+        <rdfs:label>Coolidge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253466 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253466">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253466</oboInOwl:id>
+        <rdfs:label>Carlisle</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253467 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253467">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253467</oboInOwl:id>
+        <rdfs:label>Fitches Creek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253468 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253468">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253468</oboInOwl:id>
+        <rdfs:label>Osbourn</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253469 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253469">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253469</oboInOwl:id>
+        <rdfs:label>Pigotts</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253470 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253470">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253470</oboInOwl:id>
+        <rdfs:label>New Winthorpes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253471 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253471">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253471</oboInOwl:id>
+        <rdfs:label>Picadilly</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253472 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253472">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253472</oboInOwl:id>
+        <rdfs:label>Gunthorpes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253473 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253473">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253473</oboInOwl:id>
+        <rdfs:label>Sea View Farm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253474 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253474">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014175"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253474</oboInOwl:id>
+        <rdfs:label>Paynters</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253475 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253475">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A large indentation in the southeastern coast of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253475</oboInOwl:id>
+        <rdfs:label>Willoughby Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253476 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253476">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A range of hills in southwest Antigua, that comprise all of the highest points on the island. The range stretches for 15 km along the south coast of the island from near Johnsons Point in the west to Falmouth in the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253476</oboInOwl:id>
+        <rdfs:label>Shekerley Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253477 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253477">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>The largest lake in Antigua. It is located in the east of the island, between Pares and Bethesda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253477</oboInOwl:id>
+        <rdfs:label>Potworks Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253478 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253478">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144834"/>
+        <obo:IAO_0000115>A prominent headland that marks the southeasternmost point of the Caribbean island of Barbuda. It lies due south of Codrington Lagoon and separates the west and south coasts of the island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253478</oboInOwl:id>
+        <rdfs:label>Palmetto Point</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253479 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253479">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>The northern of two large indentations in the eastern coast of Antigua. It lies to the north of the other indentation, Willoughby Bay. Nonsuch Bay lies immediately to the south of Indian Town Point. Green Island lies close to the mouth of the bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253479</oboInOwl:id>
+        <rdfs:label>Nonsuch Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253480 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253480">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A prominent headland on the eastern coast of Antigua. It lies between the town of Willkie&apos;s and Nonsuch Bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253480</oboInOwl:id>
+        <rdfs:label>Indian Town Point</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253481 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253481">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144834"/>
+        <obo:IAO_0000115>A large bay at the southern end of the island of Barbuda in the Caribbean. Its coastline runs roughly east-west and lies between the island&apos;s two southernmost points, Coco Point in the west and Spanish Point in the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253481</oboInOwl:id>
+        <rdfs:label>Gravenor Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253482 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253482">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144834"/>
+        <obo:IAO_0000115>One of the two southernmost points on the Caribbean island of Barbuda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253482</oboInOwl:id>
+        <rdfs:label>Spanish Point</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253483 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253483">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144834"/>
+        <obo:IAO_0000115>One of the two southernmost points on the Caribbean island of Barbuda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253483</oboInOwl:id>
+        <rdfs:label>Coco Point</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253484 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253484">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253484</oboInOwl:id>
+        <rdfs:label>Fitches Creek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253485 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253485">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A natural rock arch in eastern Antigua. It is located on the Atlantic coast near Indian Town Point to the east of Willikies.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253485</oboInOwl:id>
+        <rdfs:label>Devil&apos;s Bridge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253486 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253486">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253486</oboInOwl:id>
+        <rdfs:label>Cooks Creek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253487 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253487">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144834"/>
+        <obo:IAO_0000115>A river between Codrington Lagoon and the sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253487</oboInOwl:id>
+        <rdfs:label>Cuffy Creek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253488 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253488">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144835"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253488</oboInOwl:id>
+        <rdfs:label>Man of War Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253489 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253489">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>The southernmost point on the island of Antigua in the nation of Antigua and Barbuda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253489</oboInOwl:id>
+        <rdfs:label>Cape Shirley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253490 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253490">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>The northernmost point on the island of Antigua. It is located to the west of Humphry&apos;s Bay, close to the settlement of Cedar Point.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253490</oboInOwl:id>
+        <rdfs:label>Boon Point</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253491 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253491">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253491</oboInOwl:id>
+        <rdfs:label>Ayers Creek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253492 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253492">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A horseshoe-shaped natural harbour on the far south of the island of Antigua. The small township of Falmouth lies close to its northern shore, and English Harbour is located close to its eastern shore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253492</oboInOwl:id>
+        <rdfs:label>Falmouth Harbour</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000342 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000342">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006885"/>
+        <obo:IAO_0000115>A parish of Antigua and Barbuda on the island of Antigua. It contains the capital city, Saint John&apos;s.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000342</oboInOwl:id>
+        <rdfs:label>Parish of Saint John</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00010068">
+        <oboInOwl:id>GAZ:00010068</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>The capital and largest city of Antigua and Barbuda, a country located in the West Indies in the Caribbean Sea.</obo:IAO_0000115>
+        <rdfs:label>Saint John&apos;s</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00010069">
+        <oboInOwl:id>GAZ:00010069</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>populated place, Antigua and Barbuda</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00013596">
+        <oboInOwl:id>GAZ:00013596</oboInOwl:id>
+        <rdfs:label>Bolands</rdfs:label>
+        <obo:IAO_0000115>A community on the south-western end of the island of Antigua.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

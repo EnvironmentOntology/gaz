@@ -1,0 +1,2441 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Singapore.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Singapore.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Singapore.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000098 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000098"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000305 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009498 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009498"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009500 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009500">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009498"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106182 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00106182">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009498"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106183 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00106183">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009498"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106184 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00106184">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009498"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106185 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00106185">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009498"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003923 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00003923">
+        <obo:IAO_0000115>An island nation located at the southern tip of the Malay Peninsula. It lies 137 km north of the Equator, south of the Malaysian State of Johor and north of Indonesia&apos;s Riau Islands. Singapore consists of 63 islands, including mainland Singapore. There are two man-made connections to Johor, Malaysia, Johor-Singapore Causeway in the north, and Tuas Second Link in the west. Since 2001-11-24, Singapore has had an administrative subdivision into 5 districts. It is also divided into five Regions, urban planning subdivisions with no administrative role.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00003923</oboInOwl:id>
+        <rdfs:label>Singapore</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005300 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005300">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106167"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106263"/>
+        <obo:IAO_0000115>A hill in Singapore which stands at an altitude of 164 m.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005300</oboInOwl:id>
+        <rdfs:label>Bukit Timah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005301 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005301">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A 63.7-hectare botanical garden in Singapore. The garden is bordered by Holland &amp; Napier Road in the South, Cluny Road on the East, Tyersall Ave &amp; Cluny Park Road on its West and Bukit Timah Road in the North.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005301</oboInOwl:id>
+        <rdfs:label>Singapore Botanic Gardens</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005302 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005302">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106168"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005302</oboInOwl:id>
+        <rdfs:label>Cluny Road</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005303 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005303">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106200"/>
+        <obo:IAO_0000115>Singapore&apos;s oldest reservoir. The reservoir was completed in 1868 by impounding water from an earth embankment.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005303</oboInOwl:id>
+        <rdfs:label>MacRitchie Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007926 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007926">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007926</oboInOwl:id>
+        <rdfs:label>Sungei Whampoa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007927 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007927">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007926"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007927</oboInOwl:id>
+        <rdfs:label>Rangoon Road</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008067 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008067">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008067</oboInOwl:id>
+        <rdfs:label>Ulu-Pandan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009498 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009498">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009500 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039717 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039717">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An outcrop of rocks situated where the Singapore Strait meets the South China Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039717</oboInOwl:id>
+        <rdfs:label>Pedra Branca Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046859 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046859">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A small island to the S of Pulau Bukom.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046859</oboInOwl:id>
+        <rdfs:label>Pulau Bukom Kechil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046860 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046860">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A small 0.2-hectare islet located to the south west of Singapore, between Pulau Bukom and Pulau Bukom Kechil.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046860</oboInOwl:id>
+        <rdfs:label>Pulau Anak Bukom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046861 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046861">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island located off the southern coast of Singapore, near Keppel Harbour. The island is situated between the main island of Singapore and the resort island of Sentosa, and is linked to the mainland via Brani Terminal Avenue.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046861</oboInOwl:id>
+        <rdfs:label>Pulau Brani</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046862 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046862">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A small 0.4-hectare island located off the southwestern coast of Singapore, between Pulau Senang to its north and Pulau Satumu to its south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046862</oboInOwl:id>
+        <rdfs:label>Pulau Biola</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046863 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046863">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore off the Sungei Buloh Wetland Reserve.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046863</oboInOwl:id>
+        <rdfs:label>Pulau Buloh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046864 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046864">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046864</oboInOwl:id>
+        <rdfs:label>Pulau Buaya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046865 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046865">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046865</oboInOwl:id>
+        <rdfs:label>Pulau Berkas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046866 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046866">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island located off the southwestern coast of Singapore, north of Pulau Hantu and west of Pulau Bukom.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046866</oboInOwl:id>
+        <rdfs:label>Pulau Busing</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046867 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046867">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore off Jurong.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046867</oboInOwl:id>
+        <rdfs:label>Pulau Damar Laut</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046868 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046868">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106252"/>
+        <obo:IAO_0000115>One of the four reservoirs located in the Western Water Catchment of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046868</oboInOwl:id>
+        <rdfs:label>Poyan Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046869 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046869">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106253"/>
+        <obo:IAO_0000115>A small island located about five km to the south of the main island of Singapore, off the Straits of Singapore. The island is currently the site of the Shell&apos;s oil refinery.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046869</oboInOwl:id>
+        <rdfs:label>Pulau Bukom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046870 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046870">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046868"/>
+        <obo:IAO_0000115>A hypsographic island within Poyan Reservoir in the Western Water Catchment of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046870</oboInOwl:id>
+        <rdfs:label>Pulau Bajau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046871 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046871">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046871</oboInOwl:id>
+        <rdfs:label>Pulau Keppel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046872 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046872">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A 6,000 m2 conical island about 6 km off the southern coast of Singapore. The small island lies north of Pulau Sebarok and the former Pulau Sakeng (now merged with Pulau Semakau).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046872</oboInOwl:id>
+        <rdfs:label>Pulau Jong</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046873 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046873">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106245"/>
+        <obo:IAO_0000115>An island of Singapore off Pulau Tekong.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046873</oboInOwl:id>
+        <rdfs:label>Pulau Damien</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046874 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046874">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island located to the south of the main island of Singapore, off the Straits of Singapore. The current island was formed by the amalgamation of the then much smaller Pulau Semakau and Pulau Sakeng (also known as Pulau Seking).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046874</oboInOwl:id>
+        <rdfs:label>Pulau Semakau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046875 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046875">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore off Lim Chu Kang.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046875</oboInOwl:id>
+        <rdfs:label>Pulau Pergam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046876 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046876">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>Two islets located to the south of the main island of Singapore, off the Straits of Singapore. At low tide, it is possible to wade across the shallow lagoon between the two islands.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046876</oboInOwl:id>
+        <rdfs:label>Pulau Hantu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046877 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046877">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106245"/>
+        <obo:IAO_0000115>An island of Singapore off Pulau Ubin.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046877</oboInOwl:id>
+        <rdfs:label>Pulau Ketam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046878 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046878">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106245"/>
+        <obo:IAO_0000115>An island of Singapore off Pulau Tekong.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046878</oboInOwl:id>
+        <rdfs:label>Pulau Malang Siajar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046879 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046879">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046879</oboInOwl:id>
+        <rdfs:label>Pulau Khatib Bongsu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046880 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046880">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore off Sentosa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046880</oboInOwl:id>
+        <rdfs:label>Pulau Renggis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046881 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046881">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000098"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An islet located just off the southwestern coast of Sentosa, south of Singapore. It is linked to Sentosa via a suspension bridge.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046881</oboInOwl:id>
+        <rdfs:label>Pulau Palawan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046882 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046882">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046882</oboInOwl:id>
+        <rdfs:label>Pulau Seletar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046883 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046883">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A 182,000 m2 island located within the Singapore Armed Forces Live Firing Area. It is located off the southwestern coast of Singapore, between Pulau Sudong to its north and Pulau Satumu to its south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046883</oboInOwl:id>
+        <rdfs:label>Pulau Pawai</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046884 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046884">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106166"/>
+        <obo:IAO_0000115>One of the Southern Islands in Singapore. It is located approximately 6.5 km to the south of the main island of Singapore, off the Straits of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046884</oboInOwl:id>
+        <rdfs:label>Saint John&apos;s Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046885 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046885">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046876"/>
+        <obo:IAO_0000115>One of the two Pulau Hantu.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046885</oboInOwl:id>
+        <rdfs:label>Pulau Hantu Kechil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046886 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046886">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046876"/>
+        <obo:IAO_0000115>One of the two Pulau Hantu.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046886</oboInOwl:id>
+        <rdfs:label>Pulau Hantu Besar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046887 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046887">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046874"/>
+        <obo:IAO_0000115>A former island now merged with Pulau Semaku by landfill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046887</oboInOwl:id>
+        <rdfs:label>Pulau Sakeng</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046888 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046888">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106166"/>
+        <obo:IAO_0000115>An island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046888</oboInOwl:id>
+        <rdfs:label>Pulau Sakijang Pelepah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046889 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046889">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore off Lim Chu Kang.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046889</oboInOwl:id>
+        <rdfs:label>Pulau Sarimbun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046890 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046890">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046890</oboInOwl:id>
+        <rdfs:label>Pulau Salu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046891 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046891">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island on which stands the Raffles Lighthouse, located in the Straits of Singapore, about 14 km south of the main island of Singapore. It is the southernmost off-shore island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046891</oboInOwl:id>
+        <rdfs:label>Pulau Satumu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046892 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046892">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046892</oboInOwl:id>
+        <rdfs:label>Pulau Selugu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046893 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046893">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046893</oboInOwl:id>
+        <rdfs:label>Pulau Sebarok</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046894 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046894">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore off Jurong.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046894</oboInOwl:id>
+        <rdfs:label>Pulau Samulun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046895 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046895">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000098"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An islet located just off Chek Jawa on Pulau Ubin, Singapore. It lies in the Serangoon Harbour opposite Changi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046895</oboInOwl:id>
+        <rdfs:label>Pulau Sekudu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046896 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046896">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A 81.7-ha coral island about 13 km off the southern coast of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046896</oboInOwl:id>
+        <rdfs:label>Pulau Senang</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046897 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046897">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106245"/>
+        <obo:IAO_0000115>A small island (10.19 km2) situated in the north east of Singapore, to the west of Pulau Tekong.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046897</oboInOwl:id>
+        <rdfs:label>Pulau Ubin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046898 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046898">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106166"/>
+        <obo:IAO_0000115>One of the Southern Islands in Singapore, located about 5.6 km to the south of the main island of Singapore, off the Straits of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046898</oboInOwl:id>
+        <rdfs:label>Pulau Tembakul</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046899 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046899">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046899</oboInOwl:id>
+        <rdfs:label>Pulau Seringat Kechil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046900 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046900">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106166"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046900</oboInOwl:id>
+        <rdfs:label>Pulau Seringat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046901 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046901">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046904"/>
+        <obo:IAO_0000115>One of the Sister&apos;s Islands of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046901</oboInOwl:id>
+        <rdfs:label>Pulau Subar Darat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046902 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046902">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046904"/>
+        <obo:IAO_0000115>One of the Sister&apos;s Islands of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046902</oboInOwl:id>
+        <rdfs:label>Pulau Subar Laut</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046903 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046903">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A 45-ha island located off the northeastern coast of Singapore, between Pulau Ubin to its northeast and the mainland to its southwest. As it is located just 100 M from the mainland at its closest point, it will be reclaimed to build quality waterfront housing and linked via a bridge to Punggol.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046903</oboInOwl:id>
+        <rdfs:label>Pulau Serangoon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046904 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046904">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106166"/>
+        <obo:IAO_0000115>Two of the Southern Islands in Singapore and are located to the south of the main island of Singapore, off the Straits of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046904</oboInOwl:id>
+        <rdfs:label>Sisters&apos; Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046905 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046905">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106166"/>
+        <obo:IAO_0000115>One of the Southern Islands of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046905</oboInOwl:id>
+        <rdfs:label>Pulau Tekukor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046906 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046906">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106253"/>
+        <obo:IAO_0000115>A 209-ha coral island off the southern coast of Singapore, it was enlarged through a land reclamation process during the late 1970&apos;s.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046906</oboInOwl:id>
+        <rdfs:label>Pulau Sudong</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046907 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046907">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106245"/>
+        <obo:IAO_0000115>The largest of Singapore&apos;s outlying islands with an area of 24.43 km2, and the island is still expanding due to land reclamation works on its southern and northwestern coasts which will eventually subsume many of its surrounding small islets, including Pulau Tekong Kechil.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046907</oboInOwl:id>
+        <rdfs:label>Pulau Tekong</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046908 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046908">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106166"/>
+        <obo:IAO_0000115>An island that lies just 0.5 km away from the southern coast of the main island of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046908</oboInOwl:id>
+        <rdfs:label>Sentosa Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046909 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046909">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046909</oboInOwl:id>
+        <rdfs:label>Sultan Shoal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046910 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046910">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106245"/>
+        <obo:IAO_0000115>An island of Singapore off Pulau Tekong.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046910</oboInOwl:id>
+        <rdfs:label>Pulau Unum</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00046911 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00046911">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>An island of Singapore off Pulau Bukom.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00046911</oboInOwl:id>
+        <rdfs:label>Pulau Ular</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058492 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058492">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005301"/>
+        <obo:IAO_0000115>A lake in the Singapore Botanic Gardens.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058492</oboInOwl:id>
+        <rdfs:label>Eco-Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058493 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058493">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005301"/>
+        <obo:IAO_0000115>An artificial lake in the Singapore Botanic Gardens, Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058493</oboInOwl:id>
+        <rdfs:label>Symphony Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058494 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058494">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005301"/>
+        <obo:IAO_0000115>An artificial lake in the Singapore Botanic Gardens.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058494</oboInOwl:id>
+        <rdfs:label>Swan Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058495 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058495">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058496"/>
+        <obo:IAO_0000115>A freshwater lake and reservoir located in the western region of Singapore formed with the damming of Sungei Jurong further downstream.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058495</oboInOwl:id>
+        <rdfs:label>Jurong Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058496 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058496">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A river on Singapore Island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058496</oboInOwl:id>
+        <rdfs:label>Sungei Jurong</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106159 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106159">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>The core financial and commercial districts in Singapore, comprising of eleven urban planning areas.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106159</oboInOwl:id>
+        <rdfs:label>Central Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106160 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106160">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the Central Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106160</oboInOwl:id>
+        <rdfs:label>Kallang Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106161 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106161">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the Central Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106161</oboInOwl:id>
+        <rdfs:label>Bishan Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106162 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106162">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the Central Region. It is located to the East of the Singapore River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106162</oboInOwl:id>
+        <rdfs:label>Geylang Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106163 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106163">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the Central Region. It encompasses the Toa Payoh New Town, Potong Pasir and the private housing estates in the Upper Aljunied area. The planning area is bounded by Braddell Road and Bartley Road to the north, Upper Paya Lebar Road to the east, MacPherson Road and Jalan Toa Payoh to the south and Thomson Road to the west.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106163</oboInOwl:id>
+        <rdfs:label>Toa Payoh Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106164 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106164">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the Central Region. It lies directly to the east of the Central Area, Singapore&apos;s central business district.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106164</oboInOwl:id>
+        <rdfs:label>Marine Parade Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106165 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106165">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the Central Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106165</oboInOwl:id>
+        <rdfs:label>Novena Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106166 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106166">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the Central Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106166</oboInOwl:id>
+        <rdfs:label>Southern Islands Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106167 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106167">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the Central Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106167</oboInOwl:id>
+        <rdfs:label>Bukit Timah Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106168 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106168">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the Central Region. The Tanglin Planning Area is defined by the region bounded by Bukit Timah Road to the north, Farrer Road and Queensway to the west, Kay Siang Road, Tanglin Road and a section of the Alexandra Canal to the south, and Hoot Kiam Road, Zion Road, Grange Road, Tanglin Road, Anderson Road and Balmoral Road to the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106168</oboInOwl:id>
+        <rdfs:label>Tanglin Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106169 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106169">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the Central Region bounded by the Ulu Pandan Canal, Ghim Moh Housing Estate and the former Tanglin Camp area to the north, Alexandra Road to the east, Clementi Road to the west and the sea to the south. It covers an area of approximately 2,188 ha. The total population (1990 census) is 126,071 with 31,131 housing units. It consists of 16 subzones, namely: Ghim Moh, Holland Drive, Commonwealth, Tanglin Halt, Margaret Drive, Mei Chin, Queensway, Portsdown, Buona Vista, Singapore Polytechnic, Dover, National University, Kent Ridge, Pasir Panjang, Pasir Panjang II, and the Port.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106169</oboInOwl:id>
+        <rdfs:label>Queenstown Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106170 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106170">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009500"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the Central Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106170</oboInOwl:id>
+        <rdfs:label>Bukit Merah Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106171 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106171">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>An urban planning area in the Central Area of Singapore&apos;s Central Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106171</oboInOwl:id>
+        <rdfs:label>Marina East Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106172 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106172">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>An urban planning area in the Central Area of Singapore&apos;s Central Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106172</oboInOwl:id>
+        <rdfs:label>Orchard Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106173 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106173">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>An urban planning area in the Central Area of Singapore&apos;s Central Region. The River Valley Planning Area is defined by the region bounded by Orchard Boulevard, Devonshire Road and Eber Road to the north, Oxley Rise and Mohamed Sultan Road to the east, Martin Road and a section of the Singapore River to the south, and Hoot Kiam Road and Grange Road to the west.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106173</oboInOwl:id>
+        <rdfs:label>River Valley Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106174 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106174">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>An urban planning area in the Central Area of Singapore&apos;s Central Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106174</oboInOwl:id>
+        <rdfs:label>Rochor Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106175 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106175">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>An urban planning area in the Central Area of Singapore&apos;s Central Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106175</oboInOwl:id>
+        <rdfs:label>Straits View Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106176 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106176">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>An urban planning area in the Central Area of Singapore&apos;s Central Region. The Newton Planning Area is defined by the region bounded by Bukit Timah Road to the north, Balmoral Road, Anderson Road, Orange Grove Road, Tanglin Road and Grange Road to the west, Claymore Road, Claymore Hill, Scotts Road, Mount Elizabeth, Nutmeg Road, Cairnhill Road, Central Expressway and Orchard Road to the south, and Sophia Road, Upper Wilkie Road and Mackenzie Road to the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106176</oboInOwl:id>
+        <rdfs:label>Newton Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106177 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106177">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>An urban planning area in the Central Area of Singapore&apos;s Central Region. The Museum Planning Area is bordered by Rochor to the northeast, the Downtown Core to the southeast, the Singapore River Area to the southwest, River Valley to the west and Newton and Orchard to the northwest. The area is roughly bounded by Hill Street, River Valley Road, Clemenceau Avenue and Bras Basah Road.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106177</oboInOwl:id>
+        <rdfs:label>Museum Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106178 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106178">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>A urban planning area in the south of the city-State of Singapore. The Downtown Core surrounds the mouth of the Singapore River and southeastern portion of its watershed, and is part of the Central Area, Singapore&apos;s central business district.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106178</oboInOwl:id>
+        <rdfs:label>Downtown Core Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106179 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106179">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>An urban planning area in the Central Area of Singapore&apos;s Central Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106179</oboInOwl:id>
+        <rdfs:label>Singapore River Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106180 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106180">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>An urban planning area in the Central Area of Singapore&apos;s Central Region. Land at Marina Centre and Marina South was reclaimed from the sea to form a sheltered body of water that came to be known as Marina Bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106180</oboInOwl:id>
+        <rdfs:label>Marina South Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106181 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106181">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>An urban planning area in the Central Area of Singapore&apos;s Central Region. A district in Singapore, within the Central Area, relatively near the prominent city centre and financial districts, but is nearer the border of the Central Area, and outside the Downtown Core. Outram Park contains several key municipal buildings, such as Singapore General Hospital (SGH) and several other specialist health centres operated by Singapore Health Services (SingHealth) as well as the Central Narcotics Bureau and the Police Cantonment Complex.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106181</oboInOwl:id>
+        <rdfs:label>Outram Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106182 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106182"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106183 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106183"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106184 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106185 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106185"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106186 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106186">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106183"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the East Region. It encompasses the Bedok New Town itself, the low-rise private residential areas along Upper East Coast Road, and in the districts of Kembangan, Siglap and Telok Kurau, and the high-rise private condominium developments in the eastern part of Marine Parade.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106186</oboInOwl:id>
+        <rdfs:label>Bedok Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106187 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106187">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106183"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the East Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106187</oboInOwl:id>
+        <rdfs:label>Changi Bay Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106188 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106188">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106183"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the East Region. The largest residential area in the city-state of Singapore and is located in the East Region of the main island. The town is so named because in the 1900s a large forest of Tampines trees were located at the present site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106188</oboInOwl:id>
+        <rdfs:label>Tampines Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106189 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106189">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106183"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the East Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106189</oboInOwl:id>
+        <rdfs:label>Pasir Ris Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106190 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106190">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106183"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the East Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106190</oboInOwl:id>
+        <rdfs:label>Changi Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106191 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106191">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106183"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the East Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106191</oboInOwl:id>
+        <rdfs:label>Paya Lebar Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106192 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106192">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106185"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106192</oboInOwl:id>
+        <rdfs:label>Mandai Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106193 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106193">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106185"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106193</oboInOwl:id>
+        <rdfs:label>Sembawang Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106194 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106194">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106185"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106194</oboInOwl:id>
+        <rdfs:label>Lim Chu Kang Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106195 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106195">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106185"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106195</oboInOwl:id>
+        <rdfs:label>Simpang Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106196 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106196">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106185"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106196</oboInOwl:id>
+        <rdfs:label>Woodlands Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106197 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106197">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106185"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106197</oboInOwl:id>
+        <rdfs:label>Yishun Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106198 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106198">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106185"/>
+        <obo:IAO_0000115>A water catchement area of the city-State of Singapore situated in the North Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106198</oboInOwl:id>
+        <rdfs:label>Central Water Catchment Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106199 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106199">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106185"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106199</oboInOwl:id>
+        <rdfs:label>Sungei Kadut Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106200 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106200">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106198"/>
+        <obo:IAO_0000115>A protected area. The largest nature reserve in Singapore, forming a large green lung in the geographical centre of the city. Concurrently acting as a catchment area for four reservoirs within its boundaries, it also houses several recreational sites, including the Singapore Zoo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106200</oboInOwl:id>
+        <rdfs:label>Central Catchment Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106201 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106201">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106252"/>
+        <obo:IAO_0000115>One of the four reservoirs in the Western Water Catchment of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106201</oboInOwl:id>
+        <rdfs:label>Sarimbun Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106202 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106202">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106198"/>
+        <obo:IAO_0000115>A reservoir located near the MacRitchie Reservoir and the Upper Peirce Reservoir. The reservoir is the source of the Kallang River, the longest river in Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106202</oboInOwl:id>
+        <rdfs:label>Lower Peirce Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106203 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106203">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106252"/>
+        <obo:IAO_0000115>One of the four reservoirs in the Western Water Catchment of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106203</oboInOwl:id>
+        <rdfs:label>Tengeh Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106204 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106204">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106252"/>
+        <obo:IAO_0000115>One of the four reservoirs in the Western Water Catchment of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106204</oboInOwl:id>
+        <rdfs:label>Murai Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106205 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106205">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106198"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106205</oboInOwl:id>
+        <rdfs:label>Upper Peirce Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106206 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106206">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106198"/>
+        <obo:IAO_0000115>A reservoir located within the Central Water Catchment area of Singapore island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106206</oboInOwl:id>
+        <rdfs:label>Upper Seletar Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106207 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106207">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106246"/>
+        <obo:IAO_0000115>A reservoir located in the northeastern part of Singapore, to the east of Yishun New Town. Lower Seletar Reservoir was constructed under the Sungei Seletar/Bedok Water Scheme, completed in 1986. The scheme involved the damming of Sungei Seletar to form Lower Seletar Reservoir, the creation of Bedok Reservoir from a disused sand quarry and the construction of Bedok Waterworks.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106207</oboInOwl:id>
+        <rdfs:label>Lower Seletar Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106208 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106208">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106186"/>
+        <obo:IAO_0000115>A reservoir located in the eastern part of Singapore, to the north of Bedok New Town. Bedok Reservoir was constructed under the Sungei Seletar/Bedok Water Scheme, completed in 1986. The scheme involved the damming of Sungei Seletar to form a reservoir (Lower Seletar Reservoir), the creation of Bedok Reservoir from a disused sand quarry and the construction of Bedok Waterworks.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106208</oboInOwl:id>
+        <rdfs:label>Bedok Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106209 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106209">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A reservoir in the northern part of Singapore, near the Straits of Johor was a former freshwater river that flowed out into the sea that dammed at its mouth to form a freshwater reservoir. It can also be classified as an estuary.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106209</oboInOwl:id>
+        <rdfs:label>Kranji Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106210 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106210">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>A reservoir located in the West Region of Singapore. Formed by damming the mouth of Sungei Pandan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106210</oboInOwl:id>
+        <rdfs:label>Pandan Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106211 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106211">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046907"/>
+        <obo:IAO_0000115>A reservoir located on Pulau Tekong, an island in Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106211</oboInOwl:id>
+        <rdfs:label>Pulau Tekong Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106212 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106212">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046907"/>
+        <obo:IAO_0000115>A former 89-hectare islet off the larger adjacent island of Pulau Tekong in north-eastern Singapore. Land reclamation works are currently in progress to enlarge Pulau Tekong.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106212</oboInOwl:id>
+        <rdfs:label>Pulau Tekong Kechil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106213 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106213">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106183"/>
+        <obo:IAO_0000115>A small service reservoir located to the north of Singapore Changi Airport in Singapore. The reservoir supplements and provides backup water supply for the airport. It was formed by damming the headwaters of a small river, Changi Creek, which empties into Sungei Changi and thence into the Serangoon Harbour.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106213</oboInOwl:id>
+        <rdfs:label>Changi Creek Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106214 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106214">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106177"/>
+        <obo:IAO_0000115>A small hill in the southeast portion of the island city-State of Singapore, within the Central Area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106214</oboInOwl:id>
+        <rdfs:label>Fort Canning Hill</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106215 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106215">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106214"/>
+        <obo:IAO_0000115>A reservoir located on top of Fort Canning Hill in Singapore. The reservoir was constructed in 1926.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106215</oboInOwl:id>
+        <rdfs:label>Fort Canning Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106216 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106216">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A small service reservoir located near Kaki Bukit Road 4 in Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106216</oboInOwl:id>
+        <rdfs:label>Jalan Eunos Service Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106217 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106217">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A small service reservoir located near the Bukit Timah Expressway and the Pan Island Expressway in Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106217</oboInOwl:id>
+        <rdfs:label>Murnane Service Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106218 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106218">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106183"/>
+        <obo:IAO_0000115>A small service reservoir located to the south of Singapore Changi Airport in Singapore. The reservoir supplements and provides backup water supply for the airport.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106218</oboInOwl:id>
+        <rdfs:label>South End Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106219 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106219">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005300"/>
+        <obo:IAO_0000115>A 1.64 km2 nature reserve near the geographic centre of the city-State of Singapore, located on the slopes of Bukit Timah Hill and parts of the surrounding area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106219</oboInOwl:id>
+        <rdfs:label>Bukit Timah Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106220 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106220">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A protected area located in the southern part of the main island of Singapore. It contains the only rocky sea-cliff on the mainland that is accessible to the public. Since 2002, 10 hectares of coastal secondary vegetation and its rocky shore have been gazetted as a Nature Reserve.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106220</oboInOwl:id>
+        <rdfs:label>Labrador Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106221 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106221">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A nature reserve located in the Northwest area of Singapore. It is the first wetlands reserve to be gazetted in Singapore in the year 2002.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106221</oboInOwl:id>
+        <rdfs:label>Sungei Buloh Wetland Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106223 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106223">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046897"/>
+        <obo:IAO_0000115>A cape and the name of its 100-hectare wetlands located on the south-eastern tip of Pulau Ubin.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106223</oboInOwl:id>
+        <rdfs:label>Tanjong Chek Jawa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106224 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106224">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046907"/>
+        <obo:IAO_0000115>A former small island about 1.2 hs located off the north-eastern coast of Singapore, near Pulau Tekong. The island, together with its smaller companion Pulau Sejahat Kechil, has been subsumed by Pulau Tekong with the land reclamation works on Pulau Tekong&apos;s southern and northwestern coasts.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106224</oboInOwl:id>
+        <rdfs:label>Pulau Sejahat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106225 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106225">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046907"/>
+        <obo:IAO_0000115>A former small island that has been subsumed by Pulau Tekong with the land reclamation works on Pulau Tekong&apos;s southern and northwestern coasts.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106225</oboInOwl:id>
+        <rdfs:label>Pulau Sejahat Kechil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106226 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106226">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106253"/>
+        <obo:IAO_0000115>A man-made island located to the southwest of the main island of Singapore, off Jurong Industrial Estate. It was formed from the amalgamation of several offshore islands, chiefly the seven main islands of Pulau Ayer Chawan, Pulau Ayer Merbau, Pulau Merlimau, Pulau Pesek, Pulau Pesek Kecil, Pulau Sakra and Pulau Seraya. This was done through land reclamation. Jurong Island is linked to the main island by a 2.3 km causeway known as the Jurong Island Highway, opened in 1999-03.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106226</oboInOwl:id>
+        <rdfs:label>Pulau Jurong</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106227 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106227">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106227</oboInOwl:id>
+        <rdfs:label>Pulau Mesemut Laut</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106228 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106228">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106228</oboInOwl:id>
+        <rdfs:label>Pulau Pesek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106229 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106229">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106229</oboInOwl:id>
+        <rdfs:label>Pulau Ayer Chawan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106230 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106230">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106230</oboInOwl:id>
+        <rdfs:label>Pulau Merlimau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106231 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106231">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106231</oboInOwl:id>
+        <rdfs:label>Pulau Pesek Kecil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106232 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106232">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106232</oboInOwl:id>
+        <rdfs:label>Pulau Meskol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106233 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106233">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106233</oboInOwl:id>
+        <rdfs:label>Pulau Seraya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106234 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106234">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106234</oboInOwl:id>
+        <rdfs:label>Pulau Bakau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106235 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106235">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106235</oboInOwl:id>
+        <rdfs:label>Pulau Mesemut Darat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106236 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106236">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106236</oboInOwl:id>
+        <rdfs:label>Pulau Sakra</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106237 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106237">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106237</oboInOwl:id>
+        <rdfs:label>Pulau Ayer Merbau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106238 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106238">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106226"/>
+        <obo:IAO_0000115>A former island, now part of Pulau Jurong as the result of reclamation and infill.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106238</oboInOwl:id>
+        <rdfs:label>Anak Pulau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106239 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106239">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046908"/>
+        <obo:IAO_0000115>A former island now subsumed by Sentosa Island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106239</oboInOwl:id>
+        <rdfs:label>Berhala Reping</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106240 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106240">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046908"/>
+        <obo:IAO_0000115>A former island now subsumed by Sentosa Island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106240</oboInOwl:id>
+        <rdfs:label>Pulau Darat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106241 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106241">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046907"/>
+        <obo:IAO_0000115>A former island now subsumed by Pulau Tekong.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106241</oboInOwl:id>
+        <rdfs:label>Pulau Sanyongkong</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106242 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106242">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00046907"/>
+        <obo:IAO_0000115>A former island now subsumed by Pulau Tekong.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106242</oboInOwl:id>
+        <rdfs:label>Pulau Semechek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106243 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106243">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106182"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North-East Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106243</oboInOwl:id>
+        <rdfs:label>Sengkang Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106244 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106244">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106182"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North-East Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106244</oboInOwl:id>
+        <rdfs:label>Serangoon Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106245 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106245">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106182"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North-East Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106245</oboInOwl:id>
+        <rdfs:label>North-Eastern Islands Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106246 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106246">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106182"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North-East Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106246</oboInOwl:id>
+        <rdfs:label>Seletar Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106247 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106247">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106182"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North-East Region. Hougang borders Sengkang in the north and Serangoon to its south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106247</oboInOwl:id>
+        <rdfs:label>Hougang Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106248 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106248">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106182"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North-East Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106248</oboInOwl:id>
+        <rdfs:label>Punggol Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106249 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106249">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106182"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the North-East Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106249</oboInOwl:id>
+        <rdfs:label>Ang Mo Kio Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106250 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106250">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106245"/>
+        <obo:IAO_0000115>An island in the North-Eastern Islands Planning Area of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106250</oboInOwl:id>
+        <rdfs:label>Pulau Punggol Barat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106251 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106251">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106245"/>
+        <obo:IAO_0000115>An island in the North-Eastern Islands Planning Area of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106251</oboInOwl:id>
+        <rdfs:label>Pulau Punggol Timor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106252 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106252">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>A water catchment area that currently houses four reservoirs, Tengeh Reservoir, Poyan Reservoir, Murai Reservoir and Sarimbun Reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106252</oboInOwl:id>
+        <rdfs:label>Western Water Catchment Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106253 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106253">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106253</oboInOwl:id>
+        <rdfs:label>Western Islands Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106254 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106254">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region. It is bounded by Bukit Batok Road, the Pan Island Expressway, along the western edge of Toh Tuck private estate, Bukit Batok East Avenue 6, Old Jurong Road, Bukit Timah Road, the north edge of Bukit Batok Nature Park, south edge of Hillview estate, east and north edge of Bukit Batok Town Park, and Bukit Batok West Avenue 5 back to Bukit Batok Road.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106254</oboInOwl:id>
+        <rdfs:label>Bukit Batok Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106255 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106255">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106255</oboInOwl:id>
+        <rdfs:label>Ghim Moh Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106256 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106256">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region. It is located within the West Region, and is bounded by Tengeh Reservoir to the north, Strait of Johor to the west, Straits of Singapore to the south, and the Pan Island Expressway to the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106256</oboInOwl:id>
+        <rdfs:label>Tuas Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106257 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106257">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106257</oboInOwl:id>
+        <rdfs:label>Tengah Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106258 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106258">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106258</oboInOwl:id>
+        <rdfs:label>Jurong West Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106259 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106259">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106259</oboInOwl:id>
+        <rdfs:label>Pioneer Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106260 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106260">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106260</oboInOwl:id>
+        <rdfs:label>Jurong East Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106261 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106261">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region. It is located in the west between Jurong and Dover.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106261</oboInOwl:id>
+        <rdfs:label>Clementi Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106262 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106262">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106262</oboInOwl:id>
+        <rdfs:label>Boon Lay Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106263 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106263">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106263</oboInOwl:id>
+        <rdfs:label>Bukit Panjang Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00106264 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00106264">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106184"/>
+        <obo:IAO_0000115>An Urban Planning Area of the city-State of Singapore situated in the West Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00106264</oboInOwl:id>
+        <rdfs:label>Choa Chu Kang Planning Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146149 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146149">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A hot spring located at Gambas Avenue between Woodlands Avenue 12 and Sembawang Road. Developed.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146149</oboInOwl:id>
+        <rdfs:label>Sembawang Hot Spring</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146400 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146400">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106159"/>
+        <obo:IAO_0000115>An artificial bay near Central Area in the southern part of Singapore. It lies to the east of the Downtown Core. It was formed when land reclamation created the Marina Centre and Marina South areas, which form a body of sheltered waters of what was once open sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146400</oboInOwl:id>
+        <rdfs:label>Marina Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147984 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147984">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106183"/>
+        <obo:IAO_0000115>A beach park located on the southeastern coast of Singapore. It was opened in the 1970s, when the government completed reclaiming land off the coast at Katong which extends from Changi to Tanjong Rhu.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147984</oboInOwl:id>
+        <rdfs:label>East Coast Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147985 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147985">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00147984"/>
+        <obo:IAO_0000115>A man-made lagoon located at East Coast Park in Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147985</oboInOwl:id>
+        <rdfs:label>East Coast Lagoon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255715 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255715">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A wetland. Located at the northwest corner of Singapore Island, to the west of the Sg. Buloh Besar.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255715</oboInOwl:id>
+        <rdfs:label>Sungei Buloh Prawn Ponds</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255720 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255720">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A wetland. Located on the north coast of Singapore Island, adjacent to the causeway to Malaysia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255720</oboInOwl:id>
+        <rdfs:label>Mandai Mangroves</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255721 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255721">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003923"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255721</oboInOwl:id>
+        <rdfs:label>Serangoon River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255722 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255722">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00255721"/>
+        <obo:IAO_0000115>The estuary of the Serangoon River. Located in east-central Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255722</oboInOwl:id>
+        <rdfs:label>Serangoon Estuary</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255723 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255723">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106200"/>
+        <obo:IAO_0000115>A wetland. An area of permanently flooded peat swamp forest. Located in the northern part of the Central Catchement Nature Reserve southeast of Seletar Reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255723</oboInOwl:id>
+        <rdfs:label>Nee Soon (Yishun) Swamp Forest</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_22225663 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_22225663">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106169"/>
+        <obo:IAO_0000115>One of 16 subzones in the Queenstown Planning Area in the Central Region of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:22225663</oboInOwl:id>
+        <rdfs:label>Kent Ridge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_22225664 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_22225664">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_22225663"/>
+        <obo:IAO_0000115>The oldest university in Singapore with the main campus is located in southwest Singapore at Kent Ridge.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:22225664</oboInOwl:id>
+        <rdfs:label>National University of Singapore</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_22225665 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_22225665">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_22225663"/>
+        <obo:IAO_0000115>Singapore&apos;s only university hospital located at the foot of Kent Ridge.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:22225665</oboInOwl:id>
+        <rdfs:label>National University Hospital</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_22225666 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_22225666">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106165"/>
+        <obo:IAO_0000115>A hospital located in the Novena Planning Area in the Central Region of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:22225666</oboInOwl:id>
+        <rdfs:label>Tan Tock Seng Hospital</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_22225667 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_22225667">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106188"/>
+        <obo:IAO_0000115>A housing estate located in the eastern part of Singapore, situated next to Tampines New Town across the Pan-Island Expressway.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:22225667</oboInOwl:id>
+        <rdfs:label>Simei</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_22225668 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_22225668">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_22225667"/>
+        <obo:IAO_0000115>A hospital located in Simei which is the largest hospital in the eastern region of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:22225668</oboInOwl:id>
+        <rdfs:label>Changi General Hospital</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_22225669 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_22225669">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00106181"/>
+        <obo:IAO_0000115>The largest and oldest hospital in Singapore, of which the foundation of its first building was laid in 1821 located in Outram Planning Area of the Central Region of Singapore. The Singapore Health Services hospital occupies sprawling grounds at Outram Park.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:22225669</oboInOwl:id>
+        <rdfs:label>Singapore General Hospital</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009498">
+        <oboInOwl:id>GAZ:00009498</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>District (Singapore)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009500">
+        <obo:IAO_0000115>One of the five regions of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Central Region</rdfs:label>
+        <oboInOwl:id>GAZ:00009500</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00106182">
+        <obo:IAO_0000115>One of the five regions of Singapore.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00106182</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>North-East Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00106183">
+        <rdfs:label>East Region</rdfs:label>
+        <obo:IAO_0000115>One of the five regions in the city-state. It includes six urban planning areas. As its name implies, it is the easternmost region of Singapore.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00106183</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00106184">
+        <rdfs:label>West Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>One of the five regions of Singapore.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00106184</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00106185">
+        <oboInOwl:id>GAZ:00106185</oboInOwl:id>
+        <obo:IAO_0000115>One of the five regions of Singapore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>North Region</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

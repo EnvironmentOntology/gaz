@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Sao_Tome_and_Principe.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Sao_Tome_and_Principe.owl"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:envo="http://purl.obolibrary.org/obo/envo#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Sao_Tome_and_Principe.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001247 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001247"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001248 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001248">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001247"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001249 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001249">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001247"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012754 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012754">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001249"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012754</oboInOwl:id>
+        <rdfs:label>Me Zoxi District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012755 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012755">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001249"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012755</oboInOwl:id>
+        <rdfs:label>Caue District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012756 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012756">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001249"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012756</oboInOwl:id>
+        <rdfs:label>Agua Grande District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012757 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012757">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001249"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012757</oboInOwl:id>
+        <rdfs:label>Cantagalo District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012758 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012758">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001249"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012758</oboInOwl:id>
+        <rdfs:label>Lemba District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012759 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012759">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001248"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012760 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012760">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001249"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012760</oboInOwl:id>
+        <rdfs:label>Lobata District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001171 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001171">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006927"/>
+        <obo:IAO_0000115>A roughly conical island in the Gulf of Guinea composed of a shield volcano; it rises to a height of 2024 m from a depth of 3000 m below sea level. The southern and western parts of the island are more dissected, and dramatic phonolitic and trachytic spines rise vertically out of the rain forest.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001171</oboInOwl:id>
+        <rdfs:label>Ilha de Sao Tome</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001172 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001172">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001172</oboInOwl:id>
+        <rdfs:label>Ilha da Principe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001173 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001173">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001172"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001173</oboInOwl:id>
+        <rdfs:label>Tinhosa Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001174 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001174">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001172"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001174</oboInOwl:id>
+        <rdfs:label>Tinhosa Pequena</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001175 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001175">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001172"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001175</oboInOwl:id>
+        <rdfs:label>Ilheu Carcoco</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001176 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001176">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001172"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001176</oboInOwl:id>
+        <rdfs:label>Ilheu Bombom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001177 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001177">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001171"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001177</oboInOwl:id>
+        <rdfs:label>Ilheu das Rolas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001178 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001178">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001171"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001178</oboInOwl:id>
+        <rdfs:label>Ilheu das Cabras</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001247 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001247">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006927"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001248 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001248">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001172"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001249 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001249">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001171"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00006927 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00006927">
+        <obo:IAO_0000115>An island nation in the Gulf of Guinea, off the western equatorial coast of Africa. It consists of two islands: Sao Tome and Principe, located about 140 km apart and about 250 and 225 km respectively, off of the northwestern coast of Gabon. Both islands are part of an extinct volcanic mountain range. Sao Tome and Principe is divided into 2 provinces: Principe, Sao Tome. The provinces are further divided into seven districts, six on Sao Tome and one on Principe (with Principe having self-government since 1995-04-29).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00006927</oboInOwl:id>
+        <rdfs:label>Sao Tome and Principe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012759 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00012759"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00016169 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00016169">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012759"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00016169</oboInOwl:id>
+        <rdfs:label>San Antonio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00016170 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00016170">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00016170</oboInOwl:id>
+        <rdfs:label>Praia das Sete Ondas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076661 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076661">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006927"/>
+        <obo:IAO_0000115>A national park in Sao Tome and Principe.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076661</oboInOwl:id>
+        <rdfs:label>Obo National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001247">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001247</oboInOwl:id>
+        <rdfs:label>Municipality (San Tome and Principe)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001248">
+        <oboInOwl:id>GAZ:00001248</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Municipality of Principe</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001249">
+        <oboInOwl:id>GAZ:00001249</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Municipality of Sao Tome</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00012759">
+        <oboInOwl:id>GAZ:00012759</oboInOwl:id>
+        <rdfs:label>Pague District</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

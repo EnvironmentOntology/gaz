@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Fiji.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Fiji.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Fiji.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009546 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009546"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009547 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009547">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009546"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009548 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009548">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009546"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009549 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009549">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009546"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009550 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009550">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009546"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00006891 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00006891">
+        <obo:IAO_0000115>An island nation in the South Pacific Ocean east of Vanuatu, west of Tonga and south of Tuvalu. The country occupies an archipelago of about 322 islands, of which 106 are permanently inhabited, and 522 islets. The two major islands, Viti Levu and Vanua Levu, account for 87% of the population.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00006891</oboInOwl:id>
+        <rdfs:label>Fiji</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009546 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009546">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006891"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009547 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009547"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009548 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009548"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009549 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009549"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009550 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009550"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009551 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009551">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006891"/>
+        <obo:IAO_0000115>A Fijian Dependency, consisting of the island of Rotuma and the nearby islets of Hatana, Haf, Liua, Solkope, Solnoho and Uea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009551</oboInOwl:id>
+        <rdfs:label>Dependancy of Rotuma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000494 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000494">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009547"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000494</oboInOwl:id>
+        <rdfs:label>Ba Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000497 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000497">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009550"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000497</oboInOwl:id>
+        <rdfs:label>Bua Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000498 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000498">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009550"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000498</oboInOwl:id>
+        <rdfs:label>Cakaudrove Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000499 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000499">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009548"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000499</oboInOwl:id>
+        <rdfs:label>Kadavu Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000500 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000500">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009548"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000500</oboInOwl:id>
+        <rdfs:label>Lau Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000501 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000501">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009548"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000501</oboInOwl:id>
+        <rdfs:label>Lomaiviti Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000502 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000502">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009550"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000502</oboInOwl:id>
+        <rdfs:label>Macuata Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000503 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000503">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009547"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000503</oboInOwl:id>
+        <rdfs:label>Nadroga-Navosa Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000504 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000504">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009549"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000504</oboInOwl:id>
+        <rdfs:label>Naitasiri Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000505 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000505">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009549"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000505</oboInOwl:id>
+        <rdfs:label>Namosi Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000506 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000506">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009547"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000506</oboInOwl:id>
+        <rdfs:label>Ra Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000507 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000507">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009549"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000507</oboInOwl:id>
+        <rdfs:label>Rewa Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000508 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000508">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009549"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000508</oboInOwl:id>
+        <rdfs:label>Tailevu Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000509 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000509">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009549"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000509</oboInOwl:id>
+        <rdfs:label>Serua Province</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009546">
+        <oboInOwl:id>GAZ:00009546</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Division (Fiji)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009547">
+        <rdfs:label>Western Division</rdfs:label>
+        <oboInOwl:id>GAZ:00009547</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009548">
+        <oboInOwl:id>GAZ:00009548</oboInOwl:id>
+        <rdfs:label>Eastern Division</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009549">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009549</oboInOwl:id>
+        <rdfs:label>Central Division</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009550">
+        <rdfs:label>Northern Division</rdfs:label>
+        <oboInOwl:id>GAZ:00009550</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

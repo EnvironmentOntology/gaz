@@ -1,0 +1,935 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Togo.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Togo.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Togo.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000009 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000182 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000182"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001080 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001080"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001081 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001081">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001080"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001082 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001082">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001080"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001083 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001083">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001080"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001084 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001084">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001080"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001085 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001085">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001080"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000915 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000915">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+        <obo:IAO_0000115>A country in West Africa bordering Ghana in the west, Benin in the east and Burkina Faso in the north. In the south, it has a short Gulf of Guinea coast, on which the capital Lome is located.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000915</oboInOwl:id>
+        <rdfs:label>Togo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001080 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001080">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000915"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001081 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001081"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001082 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001082"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001083 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001083"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001084 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001084"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001085 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001085"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022145 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022145">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001082"/>
+        <obo:IAO_0000115>A prefecture of Kara Region, Togo. The capital city is Kande.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022145</oboInOwl:id>
+        <rdfs:label>Keran Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022146 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022146">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001082"/>
+        <obo:IAO_0000115>A prefecture of Kara Region, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022146</oboInOwl:id>
+        <rdfs:label>Kozah Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022147 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022147">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001082"/>
+        <obo:IAO_0000115>A prefecture of Kara Region, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022147</oboInOwl:id>
+        <rdfs:label>Bassar Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022148 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022148">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001085"/>
+        <obo:IAO_0000115>A prefecture of the Centrale Region of Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022148</oboInOwl:id>
+        <rdfs:label>Blitta Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022149 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022149">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001082"/>
+        <obo:IAO_0000115>A prefecture of Kara Region, Togo. The prefecture seat is located in Pagouda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022149</oboInOwl:id>
+        <rdfs:label>Bimah Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022150 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022150">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001085"/>
+        <obo:IAO_0000115>A prefecture of the Centrale Region of Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022150</oboInOwl:id>
+        <rdfs:label>Sotouboua Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022151 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022151">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001081"/>
+        <obo:IAO_0000115>A prefecture of the Maritime Region of Togo. The prefecture seat is located in Vogan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022151</oboInOwl:id>
+        <rdfs:label>Vo Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022152 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022152">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001085"/>
+        <obo:IAO_0000115>A prefecture of the Centrale Region of Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022152</oboInOwl:id>
+        <rdfs:label>Tchaudjo Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022153 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022153">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001082"/>
+        <obo:IAO_0000115>A prefecture of Kara Region, Togo. The prefecture seat is located in Guerin-Kouka.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022153</oboInOwl:id>
+        <rdfs:label>Dankpen Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022154 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022154">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001081"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022154</oboInOwl:id>
+        <rdfs:label>Lome Commune</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022155 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022155">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001081"/>
+        <obo:IAO_0000115>A prefecture of the Maritime Region of Togo. The prefecture seat is located in Tsevie.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022155</oboInOwl:id>
+        <rdfs:label>Zio Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022156 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022156">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001085"/>
+        <obo:IAO_0000115>A prefecture of the Centrale Region of Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022156</oboInOwl:id>
+        <rdfs:label>Tchamba Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022157 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022157">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001082"/>
+        <obo:IAO_0000115>A prefecture located in the Kara Region of Togo. The capital city is Bafilo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022157</oboInOwl:id>
+        <rdfs:label>Assol Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022158 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022158">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001082"/>
+        <obo:IAO_0000115>A prefecture of Kara Region, Togo. The capital city is Niamtougou.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022158</oboInOwl:id>
+        <rdfs:label>Doufelgou Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022159 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022159">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001081"/>
+        <obo:IAO_0000115>A prefecture of the Maritime Region of Togo. The prefecture seat is located in Tabligbo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022159</oboInOwl:id>
+        <rdfs:label>Yoto Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022160 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022160">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001081"/>
+        <obo:IAO_0000115>A prefecture of the Maritime Region of Togo. The prefecture seat is located in Keve.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022160</oboInOwl:id>
+        <rdfs:label>Ave Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022161 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022161">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001081"/>
+        <obo:IAO_0000115>A prefecture of the Maritime Region of Togo. The prefecture seat is located in Lome.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022161</oboInOwl:id>
+        <rdfs:label>Golfe Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022162 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022162">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001081"/>
+        <obo:IAO_0000115>A prefecture of the Maritime Region of Togo. The prefecture seat is located in Aneho.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022162</oboInOwl:id>
+        <rdfs:label>Lacs Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022163 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022163">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001084"/>
+        <obo:IAO_0000115>A prefecture located in the Savanes Region of Togo. The prefecture seat is located in Sansanne-Mango.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022163</oboInOwl:id>
+        <rdfs:label>Oti Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022164 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022164">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001084"/>
+        <obo:IAO_0000115>A prefecture located in the Savanes Region of Togo. The prefecture seat is located in Mandouri.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022164</oboInOwl:id>
+        <rdfs:label>Kpendjal Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022165 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022165">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001084"/>
+        <obo:IAO_0000115>A prefecture located in the Savanes Region of Togo. The prefecture seat is located in Dapaong.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022165</oboInOwl:id>
+        <rdfs:label>Tone Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022166 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022166">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001084"/>
+        <obo:IAO_0000115>A prefecture located in the Savanes Region of Togo. The prefecture seat is located in Tandjouare.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022166</oboInOwl:id>
+        <rdfs:label>Tandjouare Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022167 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022167">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001083"/>
+        <obo:IAO_0000115>A prefecture located in the Plateaux Region of Togo. The prefecture seat is located in Tohoun.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022167</oboInOwl:id>
+        <rdfs:label>Moyen-Mono Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022168 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022168">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001083"/>
+        <obo:IAO_0000115>A prefecture located in the Plateaux Region of Togo. The prefecture seat is located in Notse.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022168</oboInOwl:id>
+        <rdfs:label>Haho Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022169 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022169">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001083"/>
+        <obo:IAO_0000115>A prefecture located in the Plateaux Region of Togo. The prefecture seat is located in Badou.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022169</oboInOwl:id>
+        <rdfs:label>Wawa Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022170 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022170">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001083"/>
+        <obo:IAO_0000115>A prefecture located in the Plateaux Region of Togo. The prefecture seat is located in Danyi-Apeyeme.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022170</oboInOwl:id>
+        <rdfs:label>Danyi Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022171 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022171">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001083"/>
+        <obo:IAO_0000115>A prefecture located in the Plateaux Region of Togo. The prefecture seat is located in Agou-Gadjepe.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022171</oboInOwl:id>
+        <rdfs:label>Agou Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022172 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022172">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001083"/>
+        <obo:IAO_0000115>A prefecture located in the Plateaux Region of Togo. The prefecture seat is located in Atakpame.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022172</oboInOwl:id>
+        <rdfs:label>Ogou Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022174 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022174">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001083"/>
+        <obo:IAO_0000115>A prefecture located in the Plateaux Region of Togo. The prefecture seat is located in Amlame.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022174</oboInOwl:id>
+        <rdfs:label>Amou Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022175 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022175">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001083"/>
+        <obo:IAO_0000115>A prefecture located in the Plateaux Region of Togo. The prefecture seat is located in Elavagnon.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022175</oboInOwl:id>
+        <rdfs:label>Est-Mono Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022176 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022176">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001083"/>
+        <obo:IAO_0000115>A prefecture located in the Plateaux Region of Togo. The prefecture seat is located in Kpalime.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022176</oboInOwl:id>
+        <rdfs:label>Kloto Prefecture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058800 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058800">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001081"/>
+        <obo:IAO_0000115>A lagoon in Togo, separated from the Atlantic Ocean by a narrow coastal strip.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058800</oboInOwl:id>
+        <rdfs:label>Lake Togo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076716 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076716">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001084"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076716</oboInOwl:id>
+        <rdfs:label>Fosse aux Lions National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076717 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076717">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001082"/>
+        <obo:IAO_0000115>A national park located in the north of Togo, in the Kara area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076717</oboInOwl:id>
+        <rdfs:label>Keran National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076718 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076718">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001085"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076718</oboInOwl:id>
+        <rdfs:label>Fazao-Malfakassa National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241966 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241966">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00022154"/>
+        <obo:IAO_0000115>The greater Lome municipal area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241966</oboInOwl:id>
+        <rdfs:label>Agglomeration de Lome</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241967 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241967">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241966"/>
+        <obo:IAO_0000115>The capital and largest city of Togo. Located on the Gulf of Guinea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241967</oboInOwl:id>
+        <rdfs:label>Lome</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241968 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241968">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241968</oboInOwl:id>
+        <rdfs:label>Ablogame</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241969 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241969">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241969</oboInOwl:id>
+        <rdfs:label>Adawlato</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241970 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241970">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241970</oboInOwl:id>
+        <rdfs:label>Amoutive</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241971 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241971">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241971</oboInOwl:id>
+        <rdfs:label>Be</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241972 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241972">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241972</oboInOwl:id>
+        <rdfs:label>Dekon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241973 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241973">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241973</oboInOwl:id>
+        <rdfs:label>Forever</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241974 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241974">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241974</oboInOwl:id>
+        <rdfs:label>Kodjoviakope</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241975 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241975">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241975</oboInOwl:id>
+        <rdfs:label>Noukafou</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241976 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241976">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241976</oboInOwl:id>
+        <rdfs:label>Nyekonakpoe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241977 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241977">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241977</oboInOwl:id>
+        <rdfs:label>Tokoin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241978 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241978">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241978</oboInOwl:id>
+        <rdfs:label>Hedranawoe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241979 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241979">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241967"/>
+        <obo:IAO_0000115>A neighborhood of Lome, Togo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241979</oboInOwl:id>
+        <rdfs:label>Adjangbakome</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241980 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241980">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000182"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000915"/>
+        <obo:IAO_0000115>A tableland in southern central Togo, West Africa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241980</oboInOwl:id>
+        <rdfs:label>Ouatchi Plateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241981 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241981">
+        <obo:IAO_0000115>A hydroelectric dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241981</oboInOwl:id>
+        <rdfs:label>Nangbeto Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246789 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246789">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246789</oboInOwl:id>
+        <rdfs:label>Bori River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247029 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247029">
+        <obo:IAO_0000115>A lake/swamp system.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247029</oboInOwl:id>
+        <rdfs:label>Mare de Tinouri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259965 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259965">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001081"/>
+        <obo:IAO_0000115>A coastal lagoon.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259965</oboInOwl:id>
+        <rdfs:label>Lake Vogan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259969 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259969">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00022159"/>
+        <obo:IAO_0000115>A lake on the Mono River floodplain.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259969</oboInOwl:id>
+        <rdfs:label>Lac Alago</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001080">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001080</oboInOwl:id>
+        <rdfs:label>Region (Togo)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001081">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>The southernmost of Togo&apos;s five regions, with the country&apos;s only shoreline on the Bight of Benin.</obo:IAO_0000115>
+        <rdfs:label>Maritime Region</rdfs:label>
+        <oboInOwl:id>GAZ:00001081</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001082">
+        <rdfs:label>Kara Region</rdfs:label>
+        <obo:IAO_0000115>One of Togo&apos;s five regions. Kara is the regional capital.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00001082</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001083">
+        <rdfs:label>Plateaux Region</rdfs:label>
+        <obo:IAO_0000115>One of Togo&apos;s five regions.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00001083</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001084">
+        <oboInOwl:id>GAZ:00001084</oboInOwl:id>
+        <obo:IAO_0000115>The northernmost of the five Regions of Togo. Dapaong is the regional capital.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Savanes Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001085">
+        <obo:IAO_0000115>One of Togo&apos;s five regions. Sokode is the regional capital.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00001085</oboInOwl:id>
+        <rdfs:label>Centre Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

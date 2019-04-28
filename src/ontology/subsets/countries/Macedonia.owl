@@ -1,0 +1,3809 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Macedonia.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Macedonia.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Macedonia.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000080 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000080"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000100"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000856 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000048 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000048"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000049 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000049">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000048"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000050 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000050">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000048"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000051 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000051">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000048"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000052 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000052">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000048"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000053 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000053">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000048"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000054 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000054">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000048"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000055 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000055">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000048"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000056 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000056">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000048"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000060 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000060">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000061"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000061 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000061"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000063 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000063">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000061"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000068 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000068">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000061"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000074 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000074">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000061"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000075 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000075">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000061"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000076 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000076">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000061"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000081 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000081">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000061"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000083 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000083">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000061"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000086 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000086">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000061"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00006895 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00006895">
+        <obo:IAO_0000115>A landlocked country on the Balkan peninsula in southeastern Europe. It is bordered by Serbia and Kosovo to the north, Albania to the west, Greece to the south, and Bulgaria to the east. In 2004-08, the Republic of Macedonia was reorganised into 85 municipalities (opstini; singular opstina), 10 of which comprise Greater Skopje. This is reduced from the previous 123 municipalities established in 1996-09. Prior to this, local government was organised into 34 administrative districts.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00006895</oboInOwl:id>
+        <rdfs:label>Macedonia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015561 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015561">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015561</oboInOwl:id>
+        <rdfs:label>Municipality of Makedonska Kamenica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015562 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015562">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015562</oboInOwl:id>
+        <rdfs:label>Municipality of Berovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015563 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015563">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015563</oboInOwl:id>
+        <rdfs:label>Municipality of Cesinovo-Oblesevo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015564 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015564">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015564</oboInOwl:id>
+        <rdfs:label>Municipality of Pehcevo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015565 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015565">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015565</oboInOwl:id>
+        <rdfs:label>Municipality of Probistip</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015566 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015566">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015566</oboInOwl:id>
+        <rdfs:label>Municipality of Karbinci</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015567 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015567">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015567</oboInOwl:id>
+        <rdfs:label>Municipality of Delcevo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015568 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015568">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015568</oboInOwl:id>
+        <rdfs:label>Municipality of Lozovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015569 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015569">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015569</oboInOwl:id>
+        <rdfs:label>Municipality of Sveti Nikole</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015570 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015570">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015570</oboInOwl:id>
+        <rdfs:label>Municipality of Stip</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015571 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015571">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015571</oboInOwl:id>
+        <rdfs:label>Municipality of Zrnovci</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015572 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015572">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015572</oboInOwl:id>
+        <rdfs:label>Municipality of Vinica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015573 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015573">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000050"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015573</oboInOwl:id>
+        <rdfs:label>Municipality of Staro Nagoricane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015574 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015574">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000050"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015574</oboInOwl:id>
+        <rdfs:label>Municipality of Kriva Palanka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015575 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015575">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000050"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015575</oboInOwl:id>
+        <rdfs:label>Municipality of Lipkovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015576 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015576">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000050"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015576</oboInOwl:id>
+        <rdfs:label>Municipality of Rankovce</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015577 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015577">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000050"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015577</oboInOwl:id>
+        <rdfs:label>Municipality of Kumanovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015578 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015578">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000053"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015578</oboInOwl:id>
+        <rdfs:label>Municipality of Prilep</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015579 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015579">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000053"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015579</oboInOwl:id>
+        <rdfs:label>Municipality of Krivogastani</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015580 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015580">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000053"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015580</oboInOwl:id>
+        <rdfs:label>Municipality of Krusevo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015581 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015581">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000053"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015581</oboInOwl:id>
+        <rdfs:label>Municipality of Novaci</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015582 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015582">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000053"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015582</oboInOwl:id>
+        <rdfs:label>Municipality of Resen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015583 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015583">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000053"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015583</oboInOwl:id>
+        <rdfs:label>Municipality of Demir Hisar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015584 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015584">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000053"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015584</oboInOwl:id>
+        <rdfs:label>Municipality of Mogila</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015585 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015585">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000053"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015585</oboInOwl:id>
+        <rdfs:label>Municipality of Dolneni</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015586 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015586">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000055"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015586</oboInOwl:id>
+        <rdfs:label>Municipality of Vrapciste</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015587 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015587">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000055"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015587</oboInOwl:id>
+        <rdfs:label>Municipality of Bogovinje</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015588 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015588">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000055"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015588</oboInOwl:id>
+        <rdfs:label>Municipality of Gostivar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015589 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015589">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000055"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015589</oboInOwl:id>
+        <rdfs:label>Municipality of Tearce</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015590 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015590">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000055"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015590</oboInOwl:id>
+        <rdfs:label>Municipality of Zelino</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015591 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015591">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000055"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015591</oboInOwl:id>
+        <rdfs:label>Municipality of Jegunovce</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015592 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015592">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000055"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015592</oboInOwl:id>
+        <rdfs:label>Municipality of Mavrovo and Rostusa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015593 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015593">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000055"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015593</oboInOwl:id>
+        <rdfs:label>Municipality of Brvenica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015594 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015594">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015611"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015594</oboInOwl:id>
+        <rdfs:label>Municipality of Gjorce Petrov</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015595 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015595">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015611"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015595</oboInOwl:id>
+        <rdfs:label>Municipality of Aerodrom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015596 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015596">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015611"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015596</oboInOwl:id>
+        <rdfs:label>Municipality of Kisela Voda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015597 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015597">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015611"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015597</oboInOwl:id>
+        <rdfs:label>Municipality of Saraj</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015598 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015598">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015611"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015598</oboInOwl:id>
+        <rdfs:label>Municipality of Suto Orizari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015599 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015599">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015599</oboInOwl:id>
+        <rdfs:label>Municipality of Aracinovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015600 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015600">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015611"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015600</oboInOwl:id>
+        <rdfs:label>Municipality of Karpos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015601 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015601">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015601</oboInOwl:id>
+        <rdfs:label>Municipality of Cucer-Sandevo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015602 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015602">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015602</oboInOwl:id>
+        <rdfs:label>Municipality of Studenicani</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015603 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015603">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015611"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015603</oboInOwl:id>
+        <rdfs:label>Municipality of Butel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015604 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015604">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015611"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015604</oboInOwl:id>
+        <rdfs:label>Municipality of Gazi Baba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015605 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015605">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015611"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015605</oboInOwl:id>
+        <rdfs:label>Municipality of Skopje Centar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015606 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015606">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015606</oboInOwl:id>
+        <rdfs:label>Municipality of Kicevo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015607 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015607">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015607</oboInOwl:id>
+        <rdfs:label>Municipality of Iinden</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015608 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015608">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015608</oboInOwl:id>
+        <rdfs:label>Municipality of Zelenikovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015609 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015609">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015611"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015609</oboInOwl:id>
+        <rdfs:label>Municipality of Cair</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015610 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015610">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015610</oboInOwl:id>
+        <rdfs:label>Municipality of Sopiste</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015611 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015611">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+        <obo:IAO_0000115>A populated place. The capital and largest city of the Republic of Macedonia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015611</oboInOwl:id>
+        <rdfs:label>Skopje</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015612 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015612">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000052"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015612</oboInOwl:id>
+        <rdfs:label>Municipality of Bosilovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015613 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015613">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000052"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015613</oboInOwl:id>
+        <rdfs:label>Municipality of Konce</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015614 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015614">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000052"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015614</oboInOwl:id>
+        <rdfs:label>Municipality of Bogdanci</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015615 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015615">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015615</oboInOwl:id>
+        <rdfs:label>Municipality of Drugovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015616 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015616">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000052"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015616</oboInOwl:id>
+        <rdfs:label>Municipality of Valandovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015617 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015617">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000052"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015617</oboInOwl:id>
+        <rdfs:label>Municipality of Vasilevo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015618 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015618">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000052"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015618</oboInOwl:id>
+        <rdfs:label>Municipality of Gevgelija</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015619 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015619">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000052"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015619</oboInOwl:id>
+        <rdfs:label>Municipality of Strumica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015620 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015620">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000052"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015620</oboInOwl:id>
+        <rdfs:label>Municipality of Radovis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015621 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015621">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000052"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015621</oboInOwl:id>
+        <rdfs:label>Municipality of Star Dojran</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015622 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015622">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015622</oboInOwl:id>
+        <rdfs:label>Municipality of Debar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015623 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015623">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015623</oboInOwl:id>
+        <rdfs:label>Municipality of Makedonski Brod</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015624 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015624">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015624</oboInOwl:id>
+        <rdfs:label>Municipality of Centar Zupa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015625 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015625">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015625</oboInOwl:id>
+        <rdfs:label>Municipality of Debarca</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015626 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015626">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015626</oboInOwl:id>
+        <rdfs:label>Municipality of Oslomej</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015627 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015627">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015627</oboInOwl:id>
+        <rdfs:label>Municipality of Struga</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015628 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015628">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015628</oboInOwl:id>
+        <rdfs:label>Municipality of Vranestica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015629 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015629">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015629</oboInOwl:id>
+        <rdfs:label>Municipality of Plasnica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015630 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015630">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015630</oboInOwl:id>
+        <rdfs:label>Municipality of Zajas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015631 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015631">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000051"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015631</oboInOwl:id>
+        <rdfs:label>Municipality of Veles</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015632 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015632">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000051"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015632</oboInOwl:id>
+        <rdfs:label>Municipality of Caska</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015633 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015633">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000051"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015633</oboInOwl:id>
+        <rdfs:label>Municipality of Rosoman</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015634 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015634">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000051"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015634</oboInOwl:id>
+        <rdfs:label>Municipality of Negotino</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015635 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015635">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000051"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015635</oboInOwl:id>
+        <rdfs:label>Municipality of Kavadarci</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00016088 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00016088">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000080"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006895"/>
+        <obo:IAO_0000115>A mountain chain in southern Europe, spanning areas of Slovenia, Croatia, Bosnia and Herzegovina, Serbia, Montenegro and Albania. They extend for 645 km along the coast of the Adriatic Sea (northwest-southeast), from the Julian Alps in the northwest down to the Sar-Korab massive, where the mountain direction changes to north-south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00016088</oboInOwl:id>
+        <rdfs:label>Dinaric Alps</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00016089 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00016089">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00016088"/>
+        <obo:IAO_0000115>The largest though not the highest mountain range in Croatia. Its highest peak is the Vaganski Vrh at 1757 m. It is part of the Dinaric Alps and is located along the Adriatic coast, separating it from Lika in the interior. Velebit begins in the northwest near Senj with the Vratnik mountain pass and ends 145 km to the southeast near the source of the Zrmanja river reasonably near Knin. Velebit is usually divided into four regions: the northern part between the mountain passes Vratnik and Veliki Alan, with the highest peak Mali Rajinac (1699 m) the middle part between Veliki Alan and Baske Ostarije with the highest peak Satorina (1624 m) the southern part between Ostarije and Mali Alan (peaks Vaganski vrh - 1757, Sveto brdo - 1753) the southeastern part with Crnopac as the most remarkable peak.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00016089</oboInOwl:id>
+        <rdfs:label>Velebit Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00051228 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00051228">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00089801"/>
+        <obo:IAO_0000115>A tectonic lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00051228</oboInOwl:id>
+        <rdfs:label>Little Prespa Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00051229 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00051229">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00089801"/>
+        <obo:IAO_0000115>A tectonic lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00051229</oboInOwl:id>
+        <rdfs:label>Great Prespa Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052673 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052673">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052673</oboInOwl:id>
+        <rdfs:label>[Former] Socialist Republic of Bosnia and Herzegovina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052674 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052674">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052674</oboInOwl:id>
+        <rdfs:label>[Former] Socialist Republic of Croatia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052675 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052675">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052675</oboInOwl:id>
+        <rdfs:label>[Former] Socialist Republic of Slovenia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052676 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052676">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052676</oboInOwl:id>
+        <rdfs:label>[Former] Socialist Republic of Macedonia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052677 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052677">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052677</oboInOwl:id>
+        <rdfs:label>[Former] Socialist Republic of Montenegro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052678 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052678">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052678</oboInOwl:id>
+        <rdfs:label>[Former] Socialist Republic of Serbia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052679 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052679">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052678"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052679</oboInOwl:id>
+        <rdfs:label>[Former] Socialist Autonomous Province of Vojvodina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052680 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052680">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052678"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052680</oboInOwl:id>
+        <rdfs:label>[Former] Socialist Autonomous Province of Kosovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00056001 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00056001">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000062"/>
+        <obo:IAO_0000115>A populated place. A village near Ohrid in the Republic of Macedonia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00056001</oboInOwl:id>
+        <rdfs:label>Kosel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00056002 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00056002">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00056001"/>
+        <obo:IAO_0000115>An active geothermal surface feature situated close to the village of Kosel, near Ohrid, Republic of Macedonia. It resembles a miniature crater with a diameter of 0.5 metre and depth of 30 centimetres. Gaseous carbon dioxide and hydrogen sulfide are released from the hole. It represents the last trace of more significant former volcanic activity, now almost extinct.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00056002</oboInOwl:id>
+        <rdfs:label>Duvalo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00059092 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00059092">
+        <obo:IAO_0000115>An artificial lake in central Bosnia and Herzegovina. It was created in 1953 when a hydroelectric dam was built to generate electricity.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00059092</oboInOwl:id>
+        <rdfs:label>Jablanica Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062400 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062400">
+        <obo:IAO_0000115>A protected area in Kosovo, in the Sar Mountains.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062400</oboInOwl:id>
+        <rdfs:label>Sar National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062401 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062401">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062402"/>
+        <obo:IAO_0000115>A mountain between southwestern Bulgaria (Kyustendil Province) and northeastern Republic of Macedonia, (Kocani and Kriva Palanka municipallities). It is about 110 km long and 50 km wide, the highest peak being Ruen at 2251 m, which constitutes the main orthographic knot on the very border between Bulgaria and the Republic of Macedonia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062401</oboInOwl:id>
+        <rdfs:label>Osogovo Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062402 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062402">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062402</oboInOwl:id>
+        <rdfs:label>Municipality of Kocani</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062403 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062403">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015592"/>
+        <obo:IAO_0000115>A lake located in the in the Mavrovo and Rostusa municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062403</oboInOwl:id>
+        <rdfs:label>Lake Mavrovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062420 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062420">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake in Zabljak municipality, in northern Montenegro. The lake consists of two smaller lakes, Veliko jezero and Malo jezero, literally Big lake and Small lake. The lakes are connected with a narrow strait, which dries up during the summer, thus creating two separate waterbodies.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062420</oboInOwl:id>
+        <rdfs:label>Crno Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062421 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062421">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062420"/>
+        <obo:IAO_0000115>One of the parts of Crno Lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062421</oboInOwl:id>
+        <rdfs:label>Veliko jezero</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062422 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062422">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062420"/>
+        <obo:IAO_0000115>One of the parts of Crno Lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062422</oboInOwl:id>
+        <rdfs:label>Malo jezero</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062423 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062423">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A glacial lake in Plav municipality, in northeastern Montenegro.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062423</oboInOwl:id>
+        <rdfs:label>Lake Plav</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062783 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062783">
+        <obo:IAO_0000115>The Rzav&apos;s longer headstream. It originates from the Cigota mountain, eastern section of the Zlatibor mountain. The river originally flows northward, next to the villages of Vodice and Jokina Cuprija, reaches the central section of the Zlatibor where it is dammed and creates the artificial Ribnica Lake (surface area of 10 km2), after the nearby village of Ribnica. After the lake, the river sharply turns west and soon gets followed by the parallel stream of the Jablanica river. After crossing the village of Mokra Gora (hamlet Panjak) on the Serbian-Bosnian border Crni Rzav meets the Jablanica river at the village Gornje Vardisse and finally the river Beli Rzav at the village of Donje Vardiste.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062783</oboInOwl:id>
+        <rdfs:label>Crni Rzav</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062784 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062784">
+        <obo:IAO_0000115>The Rzav&apos;s shorter headstream. It originates from the eastern slopes of the Zvijezda mountain, close to the Bosnian border. After it passes the monastery and village of Rastiste, it turns southward to the Tara mountain, receiving many small streams from both Tara and Zvijezda mountains. At the monastery and village of Zaovine, the Beli Rzav is dammed and the artificial Zaovine Lake is created. After crossing the village of Mokra Gora (hamlets Krsanje and Kotroman), the river turns west, enters Bosnia and Herzegovina and right across the border meets the Crni Rzav at the village of Donje Vardiste.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062784</oboInOwl:id>
+        <rdfs:label>Beli Rzav</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062785 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062785">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062783"/>
+        <obo:IAO_0000115>A reservoir on the Crni Rzav River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062785</oboInOwl:id>
+        <rdfs:label>Ribnica Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062786 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062786">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062784"/>
+        <obo:IAO_0000115>A reservoir on the Beli Raz River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062786</oboInOwl:id>
+        <rdfs:label>Zaovine Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062789 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062789">
+        <obo:IAO_0000115>A reservoir on the Drina River in Serbia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062789</oboInOwl:id>
+        <rdfs:label>Lake Perucac</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062790">
+        <obo:IAO_0000115>A reservoir on the Drina River in Serbia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062790</oboInOwl:id>
+        <rdfs:label>Lake Zvornik</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062791 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062791">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006895"/>
+        <obo:IAO_0000115>A river in Serbia, Montenegro and Kosovo, with a total length of 276 km. It starts in eastern Montenegro and flows into the Zapadna Morava, central Serbia, near Kraljevo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062791</oboInOwl:id>
+        <rdfs:label>Ibar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062792 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062792">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062791"/>
+        <obo:IAO_0000115>A reservoir on the Ibar River in Serbia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062792</oboInOwl:id>
+        <rdfs:label>Lake Gazivode</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062793 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062793">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062791"/>
+        <obo:IAO_0000115>A reservoir on the Ibar River in Serbia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062793</oboInOwl:id>
+        <rdfs:label>Lake Pridvorice</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062794 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062794">
+        <obo:IAO_0000115>A river in southwestern Serbia and Republika Srpska, Bosnia and Herzegovina, 119 km long right and major tributary of the Lim, loosely making the northern border of the Sandzak/Raska region. Before it empties into the Lim, for a 10 km it forms the border between Serbia and Bosnia and Herzegovina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062794</oboInOwl:id>
+        <rdfs:label>Uvac</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062795 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062795">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062794"/>
+        <obo:IAO_0000115>A reservoir on the Uvac River in Serbia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062795</oboInOwl:id>
+        <rdfs:label>Zlatar Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062797 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062797">
+        <obo:IAO_0000115>A reservoir on the Lim River in Serbia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062797</oboInOwl:id>
+        <rdfs:label>Potpec Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062798 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062798">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062794"/>
+        <obo:IAO_0000115>A reservoir on the Uvac River in Serbia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062798</oboInOwl:id>
+        <rdfs:label>Sjenica Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089709 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089709">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00016089"/>
+        <obo:IAO_0000115>A national park including the Paklenica karst river canyon.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089709</oboInOwl:id>
+        <rdfs:label>Paklenica National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089727 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089727">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00016089"/>
+        <obo:IAO_0000115>A national park in Croatia. Established in 1999. It covers 109 km2 of the northern section of the Velebit mountain, the largest mountain in Croatia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089727</oboInOwl:id>
+        <rdfs:label>National Park Sjeverni Velebit</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089801 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089801">
+        <obo:IAO_0000115>A protected area established in 2000.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089801</oboInOwl:id>
+        <rdfs:label>Transboundary Prespa Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089802 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089802">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051229"/>
+        <obo:IAO_0000115>An Albanian island in Great Prespa Lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089802</oboInOwl:id>
+        <rdfs:label>Mali Grad</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089803 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089803">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015582"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051229"/>
+        <obo:IAO_0000115>A Macedonian island in Great Prespa Lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089803</oboInOwl:id>
+        <rdfs:label>Golem Grad</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089804 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089804">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051228"/>
+        <obo:IAO_0000115>A Greek island in Little Prespa Lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089804</oboInOwl:id>
+        <rdfs:label>Aghios Achillios</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089805 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089805">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051228"/>
+        <obo:IAO_0000115>A Greek island in Little Prespa Lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089805</oboInOwl:id>
+        <rdfs:label>Vidronissi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00090202 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00090202">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00016088"/>
+        <obo:IAO_0000115>A national park in Montenergo that includes the massif of Durmitor, the canyons of Tara, Susica and Draga rivers and the higher part of the canyon plateau Komarnica. A World Heritage Site. Established 1952.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00090202</oboInOwl:id>
+        <rdfs:label>Durmitor National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00099184 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00099184">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>Mountains on the border between Albania and Kosovo, in the Dukagjini and Metohija regions, some 8.5 km to the north-west of the Junik commune.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00099184</oboInOwl:id>
+        <rdfs:label>Junik Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143919 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143919">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00090202"/>
+        <obo:IAO_0000115>A mountain massif.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143919</oboInOwl:id>
+        <rdfs:label>Durmitor Massif</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143920 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143920">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A small glacier below the mountain of Sljeme (2455 m) in the Durmitor massif, Montenegro.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143920</oboInOwl:id>
+        <rdfs:label>Debeli Namet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143921 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143921">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00090202"/>
+        <obo:IAO_0000115>A deep river canyon in Montenegro.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143921</oboInOwl:id>
+        <rdfs:label>Tara River Canyon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143922 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143922">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143921"/>
+        <obo:IAO_0000115>A river that emerges from the confluence of the Opasnica and Verusa Rivers in the Dinaric Alps of Montenegro, flows 144 km northward and converges with the Piva River near the Bosnian border to form the Drina River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143922</oboInOwl:id>
+        <rdfs:label>Tara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179228 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179228">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00016088"/>
+        <obo:IAO_0000115>A mountain range in the Balkans that extends from eastern Montenegro and northern Albania to north-western Kosovo. A subrange of the Dinaric Alps.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179228</oboInOwl:id>
+        <rdfs:label>Prokletije Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179229 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179229">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179229</oboInOwl:id>
+        <rdfs:label>Buni Jezerce</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179230 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179230">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>One of the largest lakes in the Prokletije found in the north of Albania.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179230</oboInOwl:id>
+        <rdfs:label>Big lake of Buni Jezerce</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179231 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179231">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A mountain lake in Albania. It is located in the Prokletije, near the border with Kosovo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179231</oboInOwl:id>
+        <rdfs:label>Lake Dash</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179232 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179232">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A large mountain lake in the Prokletije in the north of Albania only 1 km from the border with Kosovo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179232</oboInOwl:id>
+        <rdfs:label>Lake Sulbice</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179233 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179233">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A mountain lake in Kosovo located just under the summit of Deravica.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179233</oboInOwl:id>
+        <rdfs:label>Deravica Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179234 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179234">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A mountain in western Kosovo, near the border with Montenegro, in the Prokletije range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179234</oboInOwl:id>
+        <rdfs:label>Liqenat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179235 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179235">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179234"/>
+        <obo:IAO_0000115>A small lake found on the Liqenat mountain.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179235</oboInOwl:id>
+        <rdfs:label>Small Liqenat Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179236 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179236">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179234"/>
+        <obo:IAO_0000115>A mountain lake found on the Liqenat mountain in the Prokletije range in western Kosovoa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179236</oboInOwl:id>
+        <rdfs:label>Liqenat Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179237 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179237">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A 25 km long canyon in Kosovo. It is located in the Prokletije close to the border with Montenegro. The city of Pec is located at the entrance of the canyon.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179237</oboInOwl:id>
+        <rdfs:label>Rugova Canyon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179238 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179238">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A mountain lake in Kosovo, located only 400 m from the Albanian border. The lake is in the Prokletije near the peak of Maja Gusanit.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179238</oboInOwl:id>
+        <rdfs:label>Heart&apos;s Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179239 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179239">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A mountain in the Prokletije in Kosovo. Reaching a height of 2,522 m high, it is one of the highest mountains in the range. North of the mountain is the Rugova Canyon.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179239</oboInOwl:id>
+        <rdfs:label>Zuti kamen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179240 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179240">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179239"/>
+        <obo:IAO_0000115>A lake in Kosovo, located on the Zuti kamen mountain, in the Prokletije.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179240</oboInOwl:id>
+        <rdfs:label>Zuti kamen Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179241 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179241">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A small mountain lake in the north of Albania. Dhenve lake is situated in the Prokletije range near to the border with Kosovo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179241</oboInOwl:id>
+        <rdfs:label>Dhenve Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179242 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179242">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A small mountain lake in the Prokletije mountains in western Kosovo, only 18 0m from the Albanian border.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179242</oboInOwl:id>
+        <rdfs:label>Tropoje Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179250 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179250">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179237"/>
+        <obo:IAO_0000115>A river in Kosovo. This 62 km-long right tributary to the White Drin river flows entirely within the south-western part of Kosovo (in the Metohija region).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179250</oboInOwl:id>
+        <rdfs:label>Pecka Bistrica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179276 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179276">
+        <obo:IAO_0000115>A reservoir upstream of Priboj.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179276</oboInOwl:id>
+        <rdfs:label>Lake Potpec</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179754 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179754">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00016088"/>
+        <obo:IAO_0000115>The largest cave in Bosnia and Herzegovina, and one of the most interesting caves in the Dinaric Alps mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179754</oboInOwl:id>
+        <rdfs:label>Vjetrenica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179783 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179783">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00016088"/>
+        <obo:IAO_0000115>A water source rising in the Dinaric Alps in Croatia. The Jadro Spring is the source of the Jadro River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179783</oboInOwl:id>
+        <rdfs:label>Jadro Spring</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179798 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179798">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179800"/>
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179798</oboInOwl:id>
+        <rdfs:label>Patkov Gust</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179799 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179799">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179800"/>
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179799</oboInOwl:id>
+        <rdfs:label>Lukina jama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179800 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179800">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00089727"/>
+        <obo:IAO_0000115>A special preserve.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179800</oboInOwl:id>
+        <rdfs:label>Hajduzki i Rozanski kukovi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179801 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179801">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179800"/>
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179801</oboInOwl:id>
+        <rdfs:label>Velebita</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179802 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179802">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179800"/>
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179802</oboInOwl:id>
+        <rdfs:label>Meduza</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179803 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179803">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179800"/>
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179803</oboInOwl:id>
+        <rdfs:label>Slovacka jama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00180006 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00180006">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00016088"/>
+        <obo:IAO_0000115>A glacial lake in the Dinar Alps.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00180006</oboInOwl:id>
+        <rdfs:label>Satorsko Jezero</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00362903 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00362903">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143922"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00362903</oboInOwl:id>
+        <rdfs:label>Piva</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00362927 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00362927">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00362903"/>
+        <obo:IAO_0000115>A man-made lake. Impounded by Mratinje Dam. Constructed 1975.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00362927</oboInOwl:id>
+        <rdfs:label>Lake Piva</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00362928 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00362928">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00362903"/>
+        <obo:IAO_0000115>A concrete arch-gravity dam in the canyon of the Piva River in Montenegro. Completed 1975.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00362928</oboInOwl:id>
+        <rdfs:label>Mratinje Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00362971 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00362971">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00362971</oboInOwl:id>
+        <rdfs:label>Savnik</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363042 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363042">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363042</oboInOwl:id>
+        <rdfs:label>Veliko Skrcko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363043 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363043">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363043</oboInOwl:id>
+        <rdfs:label>Malo Skrcko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363044 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363044">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363044</oboInOwl:id>
+        <rdfs:label>Zeleni Vir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363045 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363045">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363045</oboInOwl:id>
+        <rdfs:label>Jablan Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363046 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363046">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363046</oboInOwl:id>
+        <rdfs:label>Valovito Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363047 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363047">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363047</oboInOwl:id>
+        <rdfs:label>Vir u Lokvicama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363048 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363048">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363048</oboInOwl:id>
+        <rdfs:label>Srablje Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363049 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363049">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363049</oboInOwl:id>
+        <rdfs:label>Modro Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363050 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363050">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363050</oboInOwl:id>
+        <rdfs:label>Suva Lokva</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363051 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363051">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363051</oboInOwl:id>
+        <rdfs:label>Zminje Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363052 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363052">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363052</oboInOwl:id>
+        <rdfs:label>Barno Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363053 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363053">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363053</oboInOwl:id>
+        <rdfs:label>Poscensko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363054 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363054">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363054</oboInOwl:id>
+        <rdfs:label>Zabojsko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363055 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363055">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363055</oboInOwl:id>
+        <rdfs:label>Vrazje Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363056 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363056">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363056</oboInOwl:id>
+        <rdfs:label>Riblje Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363057 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363057">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363057</oboInOwl:id>
+        <rdfs:label>Zmincko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363058 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363058">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143919"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363058</oboInOwl:id>
+        <rdfs:label>Susicko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363060 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363060">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A mountain lake in Kosovo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363060</oboInOwl:id>
+        <rdfs:label>Zemra Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363061 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363061">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363061</oboInOwl:id>
+        <rdfs:label>Theth National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00363062 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00363062">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00179228"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00363062</oboInOwl:id>
+        <rdfs:label>Valbona Valley National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365054 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365054">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000100"/>
+        <obo:IAO_0000115>A gorge located in southern Kosovo, it stretches between the town of Kacanik, and the Macedonian border.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365054</oboInOwl:id>
+        <rdfs:label>Kacanik Gorge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365059 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365059">
+        <obo:IAO_0000115>A mountain range on the border between Kosovo and the Republic of Macedonia, between the cities of Kacanik and Skopje.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365059</oboInOwl:id>
+        <rdfs:label>Skopska Crna Gora</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365061 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365061">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+        <obo:IAO_0000115>An archaeological site located between Zajcev Rid and the Vardar River, several kilometers from the center of Skopje, in Macedonia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365061</oboInOwl:id>
+        <rdfs:label>Scupi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365063 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365063">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365063</oboInOwl:id>
+        <rdfs:label>Big Jazinacko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365064 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365064">
+        <obo:IAO_0000115>A small lake on the Sar Mountains in Kosovo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365064</oboInOwl:id>
+        <rdfs:label>Small Jazinacko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365065 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365065">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365065</oboInOwl:id>
+        <rdfs:label>Sutmansko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365066 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365066">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365066</oboInOwl:id>
+        <rdfs:label>Lower Defsko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365067 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365067">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365067</oboInOwl:id>
+        <rdfs:label>Strbacko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365068 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365068">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365068</oboInOwl:id>
+        <rdfs:label>Black Vir Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365069 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365069">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365069</oboInOwl:id>
+        <rdfs:label>Donji Vir Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365070 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365070">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365070</oboInOwl:id>
+        <rdfs:label>Blatesko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365071 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365071">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365071</oboInOwl:id>
+        <rdfs:label>Upper Defsko Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00365072 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00365072">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00365072</oboInOwl:id>
+        <rdfs:label>Dinivodno Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366308 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366308">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006895"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366308</oboInOwl:id>
+        <rdfs:label>National Park Galicica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366310 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366310">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006895"/>
+        <obo:IAO_0000115>A canyon located west of Skopje.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366310</oboInOwl:id>
+        <rdfs:label>Matka Canyon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366312 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366312">
+        <obo:IAO_0000115>A dam. Constructed 1937.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366312</oboInOwl:id>
+        <rdfs:label>Matka dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366313 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366313">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015623"/>
+        <obo:IAO_0000115>A hydroelectric dam. Constructed 2004.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366313</oboInOwl:id>
+        <rdfs:label>Kozjak dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366314 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366314">
+        <obo:IAO_0000115>A man-made lake. Impounded by Kozjak Dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366314</oboInOwl:id>
+        <rdfs:label>Lake Kozjak</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366315 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366315">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00366310"/>
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366315</oboInOwl:id>
+        <rdfs:label>Vrelo Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366316 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366316">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015562"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366316</oboInOwl:id>
+        <rdfs:label>Berovo Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366317 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366317">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015562"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366317</oboInOwl:id>
+        <rdfs:label>Bregalnica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366327 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366327">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000057"/>
+        <obo:IAO_0000115>An archeological site Neolithic.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366327</oboInOwl:id>
+        <rdfs:label>Bara Tumba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366328 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366328">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000057"/>
+        <obo:IAO_0000115>An archeological site. Neolithic.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366328</oboInOwl:id>
+        <rdfs:label>Veluska Tumba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366329 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366329">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000057"/>
+        <obo:IAO_0000115>An archeological site. A former city.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366329</oboInOwl:id>
+        <rdfs:label>Heraclea Lyncestis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366347 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366347">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366347</oboInOwl:id>
+        <rdfs:label>Jesero Glaznja</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366348 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366348">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366348</oboInOwl:id>
+        <rdfs:label>Lipkovsko jezero</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366349 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366349">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015577"/>
+        <obo:IAO_0000115>An archeological site. Neolithic.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366349</oboInOwl:id>
+        <rdfs:label>Mlado Nagoricane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366351 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366351">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015570"/>
+        <obo:IAO_0000115>A thermal spring.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366351</oboInOwl:id>
+        <rdfs:label>Kezovica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366360 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366360">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006895"/>
+        <obo:IAO_0000115>A mountain range in the central part of the Republic of Macedonia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366360</oboInOwl:id>
+        <rdfs:label>Jakupica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366361 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366361">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00366360"/>
+        <obo:IAO_0000115>A karst field. Located on the north side of peak Solunska Glava.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366361</oboInOwl:id>
+        <rdfs:label>Begovo Pole</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366362 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366362">
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366362</oboInOwl:id>
+        <rdfs:label>Alilica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366363 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366363">
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366363</oboInOwl:id>
+        <rdfs:label>Kalina Dupka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366364 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366364">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366364</oboInOwl:id>
+        <rdfs:label>Tonivoda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366365 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366365">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366365</oboInOwl:id>
+        <rdfs:label>Govedarnik</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366366 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366366">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366366</oboInOwl:id>
+        <rdfs:label>Bardas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366367 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366367">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366367</oboInOwl:id>
+        <rdfs:label>Sultanica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366368 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366368">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366368</oboInOwl:id>
+        <rdfs:label>Solomunica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366369 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366369">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366369</oboInOwl:id>
+        <rdfs:label>Suvo Pole</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366370 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366370">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366370</oboInOwl:id>
+        <rdfs:label>Big Brzovec</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366371 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366371">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366371</oboInOwl:id>
+        <rdfs:label>Small Brzovec</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366372 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366372">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366372</oboInOwl:id>
+        <rdfs:label>Cukni Topanica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366373 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366373">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366373</oboInOwl:id>
+        <rdfs:label>Lower Poljce</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366374 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366374">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366374</oboInOwl:id>
+        <rdfs:label>Upper Poljce</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366375 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366375">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366375</oboInOwl:id>
+        <rdfs:label>Tri Bari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366376 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366376">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366376</oboInOwl:id>
+        <rdfs:label>Tri Groba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366377 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366377">
+        <obo:IAO_0000115>A karst field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366377</oboInOwl:id>
+        <rdfs:label>Lazaropole</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366383 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366383">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015572"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366383</oboInOwl:id>
+        <rdfs:label>Vinicko Kale</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366385 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366385">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015577"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366385</oboInOwl:id>
+        <rdfs:label>Kostoperska karpa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366386 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366386">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015577"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366386</oboInOwl:id>
+        <rdfs:label>Groblje</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366387 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366387">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015577"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366387</oboInOwl:id>
+        <rdfs:label>Drezga of Lopate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366389 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366389">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000066"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366389</oboInOwl:id>
+        <rdfs:label>Tumba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366390 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366390">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000066"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366390</oboInOwl:id>
+        <rdfs:label>Pod selo tumba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366394 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366394">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015622"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366394</oboInOwl:id>
+        <rdfs:label>Lake Debar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366396 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366396">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000073"/>
+        <obo:IAO_0000115>Springs.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366396</oboInOwl:id>
+        <rdfs:label>Vevcani Springs</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366397 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366397">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000073"/>
+        <obo:IAO_0000115>A glacial lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366397</oboInOwl:id>
+        <rdfs:label>Lokva</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366398 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366398">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00366396"/>
+        <obo:IAO_0000115>A spring.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366398</oboInOwl:id>
+        <rdfs:label>Jankov Kamen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366399 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366399">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00366396"/>
+        <obo:IAO_0000115>A spring.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366399</oboInOwl:id>
+        <rdfs:label>Mala Livada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366400 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366400">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00366396"/>
+        <obo:IAO_0000115>A spring.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366400</oboInOwl:id>
+        <rdfs:label>Golina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366401 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366401">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015635"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366401</oboInOwl:id>
+        <rdfs:label>Tikves Strict Natural Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366402 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366402">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015635"/>
+        <obo:IAO_0000115>A man-made lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366402</oboInOwl:id>
+        <rdfs:label>Lake Tikves</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366403 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366403">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+        <obo:IAO_0000115>An archeological site. An aqueduct; located in village Vizbegovo 2 km north-west from the city center Skopje.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366403</oboInOwl:id>
+        <rdfs:label>Skopje Aqueduct</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366404 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366404">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000058"/>
+        <obo:IAO_0000115>An archeological site. An ancient town of Paeonia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366404</oboInOwl:id>
+        <rdfs:label>Stobi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366405 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366405">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015608"/>
+        <obo:IAO_0000115>An archeological site. Early Byzantine period.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366405</oboInOwl:id>
+        <rdfs:label>Tauresium</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366406 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366406">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000062"/>
+        <obo:IAO_0000115>An archeological site. Iron Age.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366406</oboInOwl:id>
+        <rdfs:label>Trebenista</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366407 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366407">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015611"/>
+        <obo:IAO_0000115>An archeological site. Neolithic.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366407</oboInOwl:id>
+        <rdfs:label>Tumba Madzari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366408 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366408">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015618"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366408</oboInOwl:id>
+        <rdfs:label>Vardarski Rid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366409 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366409">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015616"/>
+        <obo:IAO_0000115>An archeological site. An ancient Paeonian town located near the village of Marvinc.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366409</oboInOwl:id>
+        <rdfs:label>Idomenae</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366410 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366410">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015573"/>
+        <obo:IAO_0000115>An archeological site. Megalithic.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366410</oboInOwl:id>
+        <rdfs:label>Kokino</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366411 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366411">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000062"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366411</oboInOwl:id>
+        <rdfs:label>Plaosnik</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366412 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366412">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015583"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366412</oboInOwl:id>
+        <rdfs:label>Prosek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366413 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366413">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000062"/>
+        <obo:IAO_0000115>An archeological site. Hellenistic.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366413</oboInOwl:id>
+        <rdfs:label>Ancient Theatre of Ohrid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366414 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366414">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015570"/>
+        <obo:IAO_0000115>An archeological site. A Paeonian and later Roman settlement.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366414</oboInOwl:id>
+        <rdfs:label>Astibo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366415 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366415">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015570"/>
+        <obo:IAO_0000115>An archeological site. A former town, 4-6th Century AD.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366415</oboInOwl:id>
+        <rdfs:label>Bargala</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366416 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366416">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015569"/>
+        <obo:IAO_0000115>An archeological site. A former Paionian cit.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366416</oboInOwl:id>
+        <rdfs:label>Bylazora</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366417 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366417">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+        <obo:IAO_0000115>An archeological site. Neolithic.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366417</oboInOwl:id>
+        <rdfs:label>Cerje</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00366418 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00366418">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015570"/>
+        <obo:IAO_0000115>An archeological site. Early Byzantine (Late East Roman).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00366418</oboInOwl:id>
+        <rdfs:label>Estipeon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00368677 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00368677">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062794"/>
+        <obo:IAO_0000115>A man-made lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00368677</oboInOwl:id>
+        <rdfs:label>Radoinja Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00372151 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00372151">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00016088"/>
+        <obo:IAO_0000115>A mountain range in Croatia located near the town of Split on the Adriatic coast. It belongs to Dinaric Alps, and it stretches from the pass of Klis in the northwest to the Cetina River in the southeast.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00372151</oboInOwl:id>
+        <rdfs:label>Mosor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00372361 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00372361">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00089727"/>
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00372361</oboInOwl:id>
+        <rdfs:label>Jama Olimp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00372362 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00372362">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00089727"/>
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00372362</oboInOwl:id>
+        <rdfs:label>Ledena jama u Lomskoj dulibi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00378803 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00378803">
+        <obo:IAO_0000115>A protected area. Located on the northern slopes of Belasitsa Mountain in the Southwest Region of Bulgaria. T</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00378803</oboInOwl:id>
+        <rdfs:label>Belasitsa Nature Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000048 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000048">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006895"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000049 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000050 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000050"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000051 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000051"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000052 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000052"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000053 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000053"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000054 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000054"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000055 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000055"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000056 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000057 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000057">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000053"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000057</oboInOwl:id>
+        <rdfs:label>Municipality of Bitola</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000058 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000058">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000051"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000058</oboInOwl:id>
+        <rdfs:label>Municipality of Gradsko</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000059 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000059">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000056"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000059</oboInOwl:id>
+        <rdfs:label>Municipality of Petrovec</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000060 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000060">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000059"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000061 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000061">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006895"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000062 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000062">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000062</oboInOwl:id>
+        <rdfs:label>Municipality of Ohrid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000063 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000063">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000062"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000066 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000066">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000055"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000066</oboInOwl:id>
+        <rdfs:label>Municipality of Tetovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000067 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000067">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000050"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000067</oboInOwl:id>
+        <rdfs:label>Municipality of Kratovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000068 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000068">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000067"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000069 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000069">
+        <obo:IAO_0000115>A mountain.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000069</oboInOwl:id>
+        <rdfs:label>Mount Pelister</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000070 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000070">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000051"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000070</oboInOwl:id>
+        <rdfs:label>Municipality of Demir Kapija</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000071 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000071">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000070"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000071</oboInOwl:id>
+        <rdfs:label>Markova Kula</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000073 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000073">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000049"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000073</oboInOwl:id>
+        <rdfs:label>Municipality of Vevcani</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000074 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000074">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000073"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000075 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000075">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000066"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000076 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000076">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000058"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000077 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000077">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015627"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000077</oboInOwl:id>
+        <rdfs:label>Radosda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000078 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000078">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006895"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000078</oboInOwl:id>
+        <rdfs:label>Gavzovo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000081 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000081">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000062"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000082 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000082">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000081"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000082</oboInOwl:id>
+        <rdfs:label>Veli Dab</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000083 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000083">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000062"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000084 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000084">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000062"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000084</oboInOwl:id>
+        <rdfs:label>Bejbunar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000085 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000085">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000052"/>
+        <obo:IAO_0000115>A municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000085</oboInOwl:id>
+        <rdfs:label>Municipality of Novo Selo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000086 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000086">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000085"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000087 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000087">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006895"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000087</oboInOwl:id>
+        <rdfs:label>Sum</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000088 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000088">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000087"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000088</oboInOwl:id>
+        <rdfs:label>Sum spring</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000048">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Region (Macedonia)</rdfs:label>
+        <oboInOwl:id>GAZ:03000048</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000049">
+        <obo:IAO_0000115>One of eight arbitrary statistical regions in the Republic of Macedonia. Southwestern, located in the west and southwestern part of the country, borders Albania to the west. Internally, it borders Pelagonia, Polog, Skopje, and Vardar statistical regions.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000049</oboInOwl:id>
+        <rdfs:label>Southwestern Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000050">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Northeastern Region</rdfs:label>
+        <oboInOwl:id>GAZ:03000050</oboInOwl:id>
+        <obo:IAO_0000115>One of eight arbitrary statistical regions in the Republic of Macedonia. Northeastern, located in the northeastern part of the country, borders Serbia and Bulgaria.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000051">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>One of eight arbitrary statistical regions in the Republic of Macedonia. Vardar, located in the central part of Macedonia, borders Greece to the south. Internally, it borders Pelagonia, Southwestern, Skopje, Southeastern, and Eastern.</obo:IAO_0000115>
+        <rdfs:label>Vardar Region</rdfs:label>
+        <oboInOwl:id>GAZ:03000051</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000052">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Southeastern Region</rdfs:label>
+        <obo:IAO_0000115>One of eight arbitrary statistical regions in the Republic of Macedonia. Southeastern, located in the southeastern part of the country, borders Greece and Bulgaria. Internally, it borders Vardar and Eastern statistical regions.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:03000052</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000053">
+        <rdfs:label>Pelagonia Region</rdfs:label>
+        <obo:IAO_0000115>One of eight arbitrary statistical regions in the Republic of Macedonia. Pelagonia statistical region is located in southwestern part of the Republic of Macedonia. It borders Greece and Albania. Internally, it borders Southwestern and Vardar statistical regions.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:03000053</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000054">
+        <rdfs:label>Eastern Region</rdfs:label>
+        <obo:IAO_0000115>One of eight arbitrary statistical regions in the Republic of Macedonia.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:03000054</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000055">
+        <oboInOwl:id>GAZ:03000055</oboInOwl:id>
+        <rdfs:label>Polog Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>One of eight arbitrary statistical regions in the Republic of Macedonia. Polog, located in the northwestern part of the country, borders Albania and Kosovo. Internally, it borders Southwestern and Skopje statistical regions.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000056">
+        <oboInOwl:id>GAZ:03000056</oboInOwl:id>
+        <rdfs:label>Skopje Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>One of eight arbitrary statistical regions in the Republic of Macedonia. Skopje, located in northern Macedonia, borders Serbia to the north. Internally, it borders Vardar, Polog, Northeastern, Eastern, and Southwestern statistical regions.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000060">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Katlanovo</rdfs:label>
+        <oboInOwl:id>GAZ:03000060</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000061">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>populated place, Macedonia</rdfs:label>
+        <oboInOwl:id>GAZ:03000061</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000063">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000063</oboInOwl:id>
+        <obo:IAO_0000115>A populated place. A village in the Republic of Macedonia, located 12 km south of the city of Ohrid. It is a popular beachside town along Lake Ohrid and lies at the foot of Galicica National Park.</obo:IAO_0000115>
+        <rdfs:label>Pestani</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000068">
+        <rdfs:label>Stracin</rdfs:label>
+        <oboInOwl:id>GAZ:03000068</oboInOwl:id>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000074">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Vevcani</rdfs:label>
+        <oboInOwl:id>GAZ:03000074</oboInOwl:id>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000075">
+        <oboInOwl:id>GAZ:03000075</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Tetovo</rdfs:label>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000076">
+        <oboInOwl:id>GAZ:03000076</oboInOwl:id>
+        <rdfs:label>Gradsko</rdfs:label>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000081">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A small village along the shore of the Ohrid Lake in the Republic of Macedonia.</obo:IAO_0000115>
+        <rdfs:label>Trpejca</rdfs:label>
+        <oboInOwl:id>GAZ:03000081</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000083">
+        <rdfs:label>Sveti Naum</rdfs:label>
+        <obo:IAO_0000115>A populated place. A town in the Republic of Macedonia. It is situated along Lake Ohrid, 29 km south of the city of Ohrid near the Albanian border.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:03000083</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000086">
+        <rdfs:label>Novo Selo</rdfs:label>
+        <oboInOwl:id>GAZ:03000086</oboInOwl:id>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

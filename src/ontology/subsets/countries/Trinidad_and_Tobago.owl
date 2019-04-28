@@ -1,0 +1,2147 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Trinidad_and_Tobago.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Trinidad_and_Tobago.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Trinidad_and_Tobago.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000106 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000856 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000079 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000079">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000080 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000080">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007644"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000081 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000081">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007643 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00007643">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007644"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007644 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00007644"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007671 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00007671">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007644"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008862 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008862">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012950 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012952 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012952">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+        <obo:IAO_0000115>A borough of Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012952</oboInOwl:id>
+        <rdfs:label>Borough of Arima</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012953 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012953">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+        <obo:IAO_0000115>A borough of Trinidad. Located in Central Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012953</oboInOwl:id>
+        <rdfs:label>Borough of Chaguanas</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012954 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012954">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+        <obo:IAO_0000115>A local government region of Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012954</oboInOwl:id>
+        <rdfs:label>Diego Martin Region</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012956 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012956">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012957 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012957">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012958 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012958">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+        <obo:IAO_0000115>A borough of Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012958</oboInOwl:id>
+        <rdfs:label>Borough of Point Fortin</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012959 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012959">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+        <obo:IAO_0000115>The capital of the Republic of Trinidad and Tobago, It is located in the northwest section of the island of Trinidad, between the Gulf of Paria, Northern Range and the Caroni Swamp.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012959</oboInOwl:id>
+        <rdfs:label>City of Port of Spain</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012960 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012960">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+        <obo:IAO_0000115>A local government region of Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012960</oboInOwl:id>
+        <rdfs:label>Princes Town Region</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012961 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012961">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+        <obo:IAO_0000115>A city located in the southwestern part of the island of Trinidad. It is bounded to the north by the Guaracara River, the south by the Oropouche River, the east by the Sir Solomon Hochoy Highway, and the west by the Gulf of Paria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012961</oboInOwl:id>
+        <rdfs:label>City of San Fernando</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012962 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012962">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+        <obo:IAO_0000115>A local government region of Trinidad and Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012962</oboInOwl:id>
+        <rdfs:label>San Juan/Laventille Region</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012963 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00012963">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012950"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260081 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00260081">
+        <obo:IAO_0000115>A ward of the former County of Saint David.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260081</oboInOwl:id>
+        <rdfs:label>Toco Ward</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000079 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000079"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000080 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000080">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000079"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000081 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000081"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003767 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00003767">
+        <obo:IAO_0000115>An archipelagic state in the southern Caribbean, lying northeast of the South American nation of Venezuela and south of Grenada in the Lesser Antilles. It also shares maritime boundaries with Barbados to the northeast and Guyana to the southeast. The country covers an area of 5,128 km2and consists of two main islands, Trinidad and Tobago, and 21 smaller islands.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00003767</oboInOwl:id>
+        <rdfs:label>Trinidad and Tobago</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003768 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00003768">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003767"/>
+        <obo:IAO_0000115>The largest and most populous of the 23 islands which make up the country of Trinidad and Tobago. Trinidad is the southernmost island in the Caribbean and lies just 11 km off the northeastern coast of Venezuela.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00003768</oboInOwl:id>
+        <rdfs:label>Trinidad</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003771 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00003771">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003767"/>
+        <obo:IAO_0000115>The smaller of the two main islands that make up the Republic of Trinidad and Tobago. It is located in the southern Caribbean Sea, northeast of the island of Trinidad and southeast of Grenada.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00003771</oboInOwl:id>
+        <rdfs:label>Tobago</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007348 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007348">
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007348</oboInOwl:id>
+        <rdfs:label>Las Lomas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007643 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007643">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008862"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007644 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007644">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003767"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007671 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007671">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000081"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007672 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007672">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007672</oboInOwl:id>
+        <rdfs:label>Seven Mile Stretch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007673 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007673">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007673</oboInOwl:id>
+        <rdfs:label>North Coast Road</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007749 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007749">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007749</oboInOwl:id>
+        <rdfs:label>Maraval River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007858 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007858">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007858</oboInOwl:id>
+        <rdfs:label>Melajo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007955 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007955">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062462"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007955</oboInOwl:id>
+        <rdfs:label>Arima Valley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008861 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008861">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000081"/>
+        <obo:IAO_0000115>A mud volcano.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008861</oboInOwl:id>
+        <rdfs:label>Piparo Mud Volcano</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008862 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008862"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012950 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00012950">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012956 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00012956"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012957 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00012957"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012963 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00012963"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049575 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049575">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003767"/>
+        <obo:IAO_0000115>A small island off the northeastern coast of Tobago, and part of the republic of Trinidad and Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049575</oboInOwl:id>
+        <rdfs:label>Little Tobago</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049576 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049576">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049598"/>
+        <obo:IAO_0000115>A group of actually six small islands lying west of Port of Spain in the Gulf of Paria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049576</oboInOwl:id>
+        <rdfs:label>Five Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049577 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049577">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049576"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago. It is one of The Five Islands group of six small islands lying west of Port of Spain in the Gulf of Paria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049577</oboInOwl:id>
+        <rdfs:label>Rock Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049578 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049578">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049576"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago. It is one of The Five Islands group of six small islands lying west of Port of Spain in the Gulf of Paria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049578</oboInOwl:id>
+        <rdfs:label>Pelican Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049579 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049579">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049576"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago. It is one of The Five Islands group of six small islands lying west of Port of Spain in the Gulf of Paria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049579</oboInOwl:id>
+        <rdfs:label>Lenagan Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049580 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049580">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049576"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago. It is one of &quot;The Five Islands&quot; group of six small islands lying west of Port of Spain in the Gulf of Paria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049580</oboInOwl:id>
+        <rdfs:label>Caledonia Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049581 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049581">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049576"/>
+        <obo:IAO_0000115>One of the Five Islands which lie west of Port of Spain in the Gulf of Paria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049581</oboInOwl:id>
+        <rdfs:label>Nelson Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049582 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049582">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049576"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago. It is one of The Five Islands group of six small islands lying west of Port of Spain in the Gulf of Paria. Craig Island is joined to Caledonia Island by a small causeway.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049582</oboInOwl:id>
+        <rdfs:label>Craig Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049583 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049583">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003767"/>
+        <obo:IAO_0000115>Islands that lie between Trinidad and Venezuela, in the Bocas del Dragon.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049583</oboInOwl:id>
+        <rdfs:label>Bocas Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049584 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049584">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049583"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago. It is one of the &quot;Bocas Islands&quot;, which lie in the Bocas del Dragon (Dragons&apos; Mouth) between Trinidad and Venezuela. Chacachacare in the westernmost of the Bocas Islands which belong to Trinidad and Tobago (Patos Island, which lies further west, was part of Trinidad and Tobago until 1940 when it was ceded to Venezuela).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049584</oboInOwl:id>
+        <rdfs:label>Chacachacare</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049585 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049585">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049583"/>
+        <obo:IAO_0000115>A small island in the Republic of Trinidad and Tobago. Gasparillo is actually made up of two islands separated by several metres of rocks. However the second island is very small and is not independently named.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049585</oboInOwl:id>
+        <rdfs:label>Gasparillo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049586 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049586">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049583"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago. The island is 1.01 km2 in area. It is one of the &quot;Bocas Islands&quot;, which lie in the Bocas del Dragon (Dragons&apos; Mouth) between Trinidad and Venezuela.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049586</oboInOwl:id>
+        <rdfs:label>Huevos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049587 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049587">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049583"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago. It is one of the &quot;Bocas Islands&quot;, which lie in the Bocas del Dragon (Dragon&apos;s Mouth) between Trinidad and Venezuela.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049587</oboInOwl:id>
+        <rdfs:label>Gaspar Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049588 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049588">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049583"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago. It is one of the &quot;Bocas Islands&quot;, which lie in the Bocas del Dragon (Dragons&apos; Mouth) between Trinidad and Venezuela.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049588</oboInOwl:id>
+        <rdfs:label>Monos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049589 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049589">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003767"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049598"/>
+        <obo:IAO_0000115>Two islands that are located between the Bocas Islands and the Five Islands.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049589</oboInOwl:id>
+        <rdfs:label>San Diego Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049590 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049590">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049589"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049590</oboInOwl:id>
+        <rdfs:label>Cronstadt Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049591 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049591">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049589"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049591</oboInOwl:id>
+        <rdfs:label>Carrera Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049592 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049592">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003767"/>
+        <obo:IAO_0000115>A small island off the northeast tip of Tobago. It is the northernmost point in Trinidad and Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049592</oboInOwl:id>
+        <rdfs:label>Saint Giles Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049593 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049593">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003767"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago. It is located off the coast of Speyside, between Tobago and Little Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049593</oboInOwl:id>
+        <rdfs:label>Goat Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049594 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049594">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003767"/>
+        <obo:IAO_0000115>An island in the Republic of Trinidad and Tobago. It is located off the coast of Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049594</oboInOwl:id>
+        <rdfs:label>Sisters&apos; Rock</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049595 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049595">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003767"/>
+        <obo:IAO_0000115>A small island in the Republic of Trinidad and Tobago. It is located just off the north coast of main island of Trinidad (less than 1 km) in the Caribbean Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049595</oboInOwl:id>
+        <rdfs:label>Saut d&apos;Eau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049596 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049596">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049598"/>
+        <obo:IAO_0000115>A small island in the Republic of Trinidad and Tobago. It is located in the Gulf of Paria just off the coast of San Fernando.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049596</oboInOwl:id>
+        <rdfs:label>Faralon Rock</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049597 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049597">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049598"/>
+        <obo:IAO_0000115>A small island in the Republic of Trinidad and Tobago. It is located in the Gulf of Paria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049597</oboInOwl:id>
+        <rdfs:label>Soldado Rock</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049598 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049598">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003767"/>
+        <obo:IAO_0000115>A shallow inland sea between the island of Trinidad (Republic of Trinidad and Tobago) and the east coast of Venezuela. Connected to the Caribbean Sea to the north through the Bocas del Dragon (or Dragons&apos; Mouth) between the Paria Peninsula of Venezuela and the Chaguaramas Peninsula, and to the Columbus Channel to the south through the Boca del Serpiente (Serpent&apos;s Mouth) between the Cedros Peninsula and the Orinoco Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049598</oboInOwl:id>
+        <rdfs:label>Gulf of Paria</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062457 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062457">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A reservoir behind the largest dam in Trinidad and Tobago. It is located in the Arena Forest Reserve, south of Arima, in the eastern Caroni Plains. It supplies water to areas of central Trinidad. It was opened in the late 70&apos;s/early 80&apos;s.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062457</oboInOwl:id>
+        <rdfs:label>Caroni-Arena Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062458 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062458">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A reservoir in the island of Tobago. Construction began in 1944 and the facility was commissioned in 1952.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062458</oboInOwl:id>
+        <rdfs:label>Hillsborough Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062459 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062459">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A reservoir located in north Trinidad. It opened in 1936.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062459</oboInOwl:id>
+        <rdfs:label>Hollis Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062460 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062460">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A reservoir in Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062460</oboInOwl:id>
+        <rdfs:label>Navet Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062461 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062461">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A mountain range. The hilly spine of the island of Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062461</oboInOwl:id>
+        <rdfs:label>Main Ridge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062462 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062462">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>The range of tall hills across the northern portion of Trinidad. The Northern Range runs from the Chaguaramas Peninsula in the west to Toco in the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062462</oboInOwl:id>
+        <rdfs:label>Northern Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062463 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062463">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>The North West Peninsula of Trinidad west of Port of Spain.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062463</oboInOwl:id>
+        <rdfs:label>Chaguaramas Peninsula</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062464 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062464">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007955"/>
+        <obo:IAO_0000115>A nature resort and scientific research station located in the Arima Valley of the Northern Range in Trinidad and Tobago. The major properties consist of the Spring Hill Estate and the adjacent William Beebe Tropical Research Station (also known as Simla) which was established by William Beebe as a tropical research station for the New York Zoological Society.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062464</oboInOwl:id>
+        <rdfs:label>Asa Wright Nature Centre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062465 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062465">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A mountain range on the island of Trinidad. It extends diagonally across the island and is a low-lying range with swampy areas rising to rolling hills.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062465</oboInOwl:id>
+        <rdfs:label>Central Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062466 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062466">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A wetland. A swamp located on the east coast of Trinidad, immediately inland from the Manzanilla Bay and covers over 60 km2. A Ramsar Site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062466</oboInOwl:id>
+        <rdfs:label>Nariva Swamp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062467 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062467">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062466"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062467</oboInOwl:id>
+        <rdfs:label>Bush Bush Wildlife Sanctuary</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259974 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259974">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049583"/>
+        <obo:IAO_0000115>A series of rocks located at the South-West point of Chacachacare.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259974</oboInOwl:id>
+        <rdfs:label>Bolo Rocks</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259975 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259975">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049583"/>
+        <obo:IAO_0000115>A very small island located just off the Northern point of Chacachacare.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259975</oboInOwl:id>
+        <rdfs:label>Cabresse Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259976 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259976">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049583"/>
+        <obo:IAO_0000115>A series of small rock formations located less than 50 m to the east of Huevos.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259976</oboInOwl:id>
+        <rdfs:label>Parasol Rocks</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259977 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259977">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049585"/>
+        <obo:IAO_0000115>A limestone caves.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259977</oboInOwl:id>
+        <rdfs:label>Gasparee Caves</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259978 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259978">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049585"/>
+        <obo:IAO_0000115>A limestone cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259978</oboInOwl:id>
+        <rdfs:label>White Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259979 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259979">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049585"/>
+        <obo:IAO_0000115>A limestone cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259979</oboInOwl:id>
+        <rdfs:label>Brioge Cavern</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259980 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259980">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049585"/>
+        <obo:IAO_0000115>A limestone cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259980</oboInOwl:id>
+        <rdfs:label>Precipice Cavern</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259981 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259981">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A wetland. The estuarine and coastal mangrove swamp in Trinidad and Tobago. It is located on the west coast of Trinidad, south of Port of Spain and northwest of Chaguanas, where the Caroni River meets the Gulf of Paria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259981</oboInOwl:id>
+        <rdfs:label>Caroni Swamp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259999 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259999">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river. Discharges to the Gulf of Paria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259999</oboInOwl:id>
+        <rdfs:label>Chaguaramas River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260000 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260000">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260000</oboInOwl:id>
+        <rdfs:label>Diego Martin River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260001 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260001">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260001</oboInOwl:id>
+        <rdfs:label>Maraval River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260002 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260002">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260002</oboInOwl:id>
+        <rdfs:label>Guayamare River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260003 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260003">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260003</oboInOwl:id>
+        <rdfs:label>Cunupia River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260004 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260004">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260004</oboInOwl:id>
+        <rdfs:label>Caparo River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260006 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260006">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260006</oboInOwl:id>
+        <rdfs:label>Couva River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260007 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260007">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river located in south Trinidad, runs westward out of the Central Range and drains into the Gulf of Paria. It forms the boundary between the city of San Fernando (to the south) and the Couva-Tabaquite-Talparo Regional Corporation.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260007</oboInOwl:id>
+        <rdfs:label>Guaracara River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260008 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260008">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260008</oboInOwl:id>
+        <rdfs:label>Tarouba River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260009 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260009">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260009</oboInOwl:id>
+        <rdfs:label>Cipero River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260010 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260010">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260010</oboInOwl:id>
+        <rdfs:label>South Oropouche River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260011 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260011">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260011</oboInOwl:id>
+        <rdfs:label>Guapo River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260012 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260012">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A North Coast river on Trinidad. Discharges to the Caribbean Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260012</oboInOwl:id>
+        <rdfs:label>Yarra River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260013 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260013">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A North Coast river on Trinidad. Discharges to the Caribbean Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260013</oboInOwl:id>
+        <rdfs:label>Marianne River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260014 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260014">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A North Coast river on Trinidad. Discharges to the Caribbean Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260014</oboInOwl:id>
+        <rdfs:label>Shark River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260015 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260015">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>An East Coast river of Trinidad. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260015</oboInOwl:id>
+        <rdfs:label>Maturita River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260016 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260016">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>An East Coast river of Trinidad. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260016</oboInOwl:id>
+        <rdfs:label>North Oropouche River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260019 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260019">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>One of the larger rivers in Trinidad and Tobago. It drains the Nariva Swamp on the east coast of Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260019</oboInOwl:id>
+        <rdfs:label>Nariva River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260020 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260020">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>An East Coast river of Trinidad. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260020</oboInOwl:id>
+        <rdfs:label>Navet River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260021 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260021">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A large river in Trinidad and Tobago. It forms the boundary between the counties of Nariva and Mayaro in east Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260021</oboInOwl:id>
+        <rdfs:label>Ortoire River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260023 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260023">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A South Coast river of Trinidad. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260023</oboInOwl:id>
+        <rdfs:label>Moruga River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260024 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260024">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A South Coast river of Trinidad. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260024</oboInOwl:id>
+        <rdfs:label>Pilote River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260025 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260025">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A range of hills in southeastern Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260025</oboInOwl:id>
+        <rdfs:label>Trinity Hills</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260026 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260026">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A North Coast river of Tobago. Drains to the Caribbean Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260026</oboInOwl:id>
+        <rdfs:label>Courland River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260027 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260027">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A North Coast river of Tobago. Drains to the Caribbean Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260027</oboInOwl:id>
+        <rdfs:label>Coffee River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260028 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260028">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A North Coast river of Tobago. Drains to the Caribbean Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260028</oboInOwl:id>
+        <rdfs:label>Castara River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260029 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260029">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A North Coast river of Tobago. Drains to the Caribbean Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260029</oboInOwl:id>
+        <rdfs:label>Bloody Bay River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260030 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260030">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A North Coast river of Tobago. Drains to the Caribbean Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260030</oboInOwl:id>
+        <rdfs:label>Cook&apos;s River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260031 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260031">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A South Coast river of Tobago. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260031</oboInOwl:id>
+        <rdfs:label>Bacolet River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260033 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260033">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A South Coast river of Tobago. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260033</oboInOwl:id>
+        <rdfs:label>Hillsborough West River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260034 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260034">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A South Coast river of Tobago. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260034</oboInOwl:id>
+        <rdfs:label>Hillsborough East River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260035 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260035">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A South Coast river of Tobago. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260035</oboInOwl:id>
+        <rdfs:label>Goldsborough River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260036 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260036">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A South Coast river of Tobago. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260036</oboInOwl:id>
+        <rdfs:label>Richmond River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260038 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260038">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A South Coast river of Tobago. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260038</oboInOwl:id>
+        <rdfs:label>Roxborough River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260039 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260039">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A South Coast river of Tobago. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260039</oboInOwl:id>
+        <rdfs:label>Queens River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260040 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260040">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A South Coast river of Tobago. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260040</oboInOwl:id>
+        <rdfs:label>Kings Bay River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260041 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260041">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A wetland. An estuarine system with a brackish lagoon. Located 8 km SW of San Fernando, between Freeman Bay and Mosquito Creek.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260041</oboInOwl:id>
+        <rdfs:label>South Oropouche Swamp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260042 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260042">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062462"/>
+        <obo:IAO_0000115>A cave in the Northern Range, in Trinidad and Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260042</oboInOwl:id>
+        <rdfs:label>Aripo Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260043 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260043">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260043</oboInOwl:id>
+        <rdfs:label>Crusoe Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260044 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260044">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062462"/>
+        <obo:IAO_0000115>A large cave located in northern of Trinidad, in the southeastern area of the Northern Range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260044</oboInOwl:id>
+        <rdfs:label>Cumaca Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260045 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260045">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062462"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062464"/>
+        <obo:IAO_0000115>An igneous cave on the Northern Range of Trinidad and Tobago. The cave is located on the grounds of the Asa Wright Nature Centre.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260045</oboInOwl:id>
+        <rdfs:label>Dunston Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260046 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260046">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062462"/>
+        <obo:IAO_0000115>A cave in located in the Northern Range, on the north coast of Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260046</oboInOwl:id>
+        <rdfs:label>La Vache</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260047 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260047">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062464"/>
+        <obo:IAO_0000115>An estate.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260047</oboInOwl:id>
+        <rdfs:label>Spring Hill Estate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260048 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260048">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062464"/>
+        <obo:IAO_0000115>A scientific research station.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260048</oboInOwl:id>
+        <rdfs:label>William Beebe Tropical Research Station</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260049 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260049">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062462"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260049</oboInOwl:id>
+        <rdfs:label>Lopinot Valley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260050 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260050">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260049"/>
+        <obo:IAO_0000115>A large cave in the Lopinot Valley in the Northern Range of Trinidad and Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260050</oboInOwl:id>
+        <rdfs:label>Lopinot Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260051 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260051">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062465"/>
+        <obo:IAO_0000115>A flat topped hill of Miocene Guaracara Limestone of the Tamana Formation in the eastern Central Range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260051</oboInOwl:id>
+        <rdfs:label>Mount Tamana</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260052 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260052">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260051"/>
+        <obo:IAO_0000115>A cave system located on the northern slope of Mount Tamana.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260052</oboInOwl:id>
+        <rdfs:label>Tamana Caves</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260053 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260053">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062462"/>
+        <obo:IAO_0000115>Part of the Northern Range and include El Cerro del Aripo, the highest point in Trinidad and Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260053</oboInOwl:id>
+        <rdfs:label>Aripo Massif</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260054 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260054">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A protected area. An area of lowlands bounded by the Aripo River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260054</oboInOwl:id>
+        <rdfs:label>Aripo Savannas Scientific Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260055 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260055">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012963"/>
+        <obo:IAO_0000115>A populated place. A town in southwestern Trinidad, located north of Point Fortin and south of Rousillac and San Fernando.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260055</oboInOwl:id>
+        <rdfs:label>La Brea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260056 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260056">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260055"/>
+        <obo:IAO_0000115>The largest natural deposit of asphalt in the world, located at La Brea in southwest Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260056</oboInOwl:id>
+        <rdfs:label>Pitch Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260062 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260062">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260108"/>
+        <obo:IAO_0000115>A Parish of Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260062</oboInOwl:id>
+        <rdfs:label>Parish of Saint George</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260063 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260063">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260108"/>
+        <obo:IAO_0000115>A Parish of Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260063</oboInOwl:id>
+        <rdfs:label>Parish of Saint Mary</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260064 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260064">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260109"/>
+        <obo:IAO_0000115>A Parish of Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260064</oboInOwl:id>
+        <rdfs:label>Parish of Saint Andrew</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260065 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260065">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260109"/>
+        <obo:IAO_0000115>A Parish of Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260065</oboInOwl:id>
+        <rdfs:label>Parish of Saint Patrick</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260066 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260066">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260109"/>
+        <obo:IAO_0000115>A Parish of Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260066</oboInOwl:id>
+        <rdfs:label>Parish of Saint David</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260067 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260067">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260108"/>
+        <obo:IAO_0000115>A Parish of Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260067</oboInOwl:id>
+        <rdfs:label>Parish of Saint Paul</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260068 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260068">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260108"/>
+        <obo:IAO_0000115>A Parish of Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260068</oboInOwl:id>
+        <rdfs:label>Parish of Saint John</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260069 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260069">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012957"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260069</oboInOwl:id>
+        <rdfs:label>Palmiste National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260070 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260070">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012957"/>
+        <obo:IAO_0000115>A mud volcano.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260070</oboInOwl:id>
+        <rdfs:label>Digity</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260072 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260072">
+        <obo:IAO_0000115>A ward of the Former County of Caroni.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260072</oboInOwl:id>
+        <rdfs:label>Chaguanas Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260073 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260073">
+        <obo:IAO_0000115>A ward of the Former County of Caroni.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260073</oboInOwl:id>
+        <rdfs:label>Couva Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260074 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260074">
+        <obo:IAO_0000115>A ward of the Former County of Caroni.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260074</oboInOwl:id>
+        <rdfs:label>Cunupia Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260075 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260075">
+        <obo:IAO_0000115>A ward of the Former County of Caroni.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260075</oboInOwl:id>
+        <rdfs:label>Montserrat Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260076 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260076">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012956"/>
+        <obo:IAO_0000115>A large bay of the Atlantic Ocean on the east coast of the island of Trinidad in the Republic of Trinidad and Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260076</oboInOwl:id>
+        <rdfs:label>Mayaro Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260083 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260083">
+        <obo:IAO_0000115>A ward of the former County of Saint George.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260083</oboInOwl:id>
+        <rdfs:label>Diego Martin Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260084 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260084">
+        <obo:IAO_0000115>A ward of the former County of Saint George.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260084</oboInOwl:id>
+        <rdfs:label>Saint Ann&apos;s Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260085 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260085">
+        <obo:IAO_0000115>A ward of the former County of Saint George.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260085</oboInOwl:id>
+        <rdfs:label>Blanchisseuse Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260086 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260086">
+        <obo:IAO_0000115>A ward of the former County of Saint George.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260086</oboInOwl:id>
+        <rdfs:label>Tacarigua Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260087 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260087">
+        <obo:IAO_0000115>A ward of the former County of Saint George.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260087</oboInOwl:id>
+        <rdfs:label>Arima Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260088 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260088">
+        <obo:IAO_0000115>A ward of the former County of Saint George.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260088</oboInOwl:id>
+        <rdfs:label>San Raphael Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260090 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260090">
+        <obo:IAO_0000115>A ward of the former County of Saint Patrick.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260090</oboInOwl:id>
+        <rdfs:label>Cedros Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260091 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260091">
+        <obo:IAO_0000115>A ward of the former County of Saint Patrick.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260091</oboInOwl:id>
+        <rdfs:label>La Brea Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260092 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260092">
+        <obo:IAO_0000115>A ward of the former County of Saint Patrick.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260092</oboInOwl:id>
+        <rdfs:label>Erin Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260093 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260093">
+        <obo:IAO_0000115>A ward of the former County of Saint Patrick.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260093</oboInOwl:id>
+        <rdfs:label>Siparia Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260095 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260095">
+        <obo:IAO_0000115>A ward of the former County of Victoria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260095</oboInOwl:id>
+        <rdfs:label>Pointe-a-Pierre Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260096 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260096">
+        <obo:IAO_0000115>A ward of the former County of Victoria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260096</oboInOwl:id>
+        <rdfs:label>Naparima Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260097 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260097">
+        <obo:IAO_0000115>A ward of the former County of Victoria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260097</oboInOwl:id>
+        <rdfs:label>Savanna Grande Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260098 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260098">
+        <obo:IAO_0000115>A ward of the former County of Victoria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260098</oboInOwl:id>
+        <rdfs:label>Ortoire Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260099 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260099">
+        <obo:IAO_0000115>A ward of the former County of Victoria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260099</oboInOwl:id>
+        <rdfs:label>Moruga Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260100 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260100">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A brackish tidal lagoon. Located 7 km SE of Point Fortin.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260100</oboInOwl:id>
+        <rdfs:label>Rousillac Swamp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260101 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260101">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A brackish tidal lagoon. Located 18.5 km WSW of Point Fortin.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260101</oboInOwl:id>
+        <rdfs:label>Los Blanquizales Swamp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260102 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260102">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A wetland. A complex of brackish lagoons. Located 30.5 km WSW of Port Fortin.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260102</oboInOwl:id>
+        <rdfs:label>Icacos Basin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260103 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260103">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A wetland. Includes the estuary of the North Oropouche River and a seasonal brackish lagoon.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260103</oboInOwl:id>
+        <rdfs:label>North Oropouche Swamp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260104 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260104">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003768"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260104</oboInOwl:id>
+        <rdfs:label>Manzanilla Windbelt Forest Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260105 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260105">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A brackish lagoon. Located 9 km WSW of Scarborough.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260105</oboInOwl:id>
+        <rdfs:label>Kilgwyn Swamp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260106 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260106">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>A reef enclosing a bay at the SW tip of Tobago. Located 12 km WSW of Scarborough.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260106</oboInOwl:id>
+        <rdfs:label>Buccoo Reef</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260107 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260107">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260106"/>
+        <obo:IAO_0000115>A lagoon at the E end of Buccoo Reef, between Sheerbird Point and Pigeon Point.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260107</oboInOwl:id>
+        <rdfs:label>Bom Accord Lagoon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260108 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260108">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>The E part of Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260108</oboInOwl:id>
+        <rdfs:label>Eastern Tobago</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260109 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260109">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003771"/>
+        <obo:IAO_0000115>The Western part of Tobago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260109</oboInOwl:id>
+        <rdfs:label>Western Tobago</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000079">
+        <obo:IAO_0000115>A local government region of Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Tunapuna-Piarco Region</rdfs:label>
+        <oboInOwl:id>GAZ:00000079</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000080">
+        <obo:IAO_0000115>A populated place. A town on the East-West Corridor of Trinidad and Tobago.</obo:IAO_0000115>
+        <rdfs:label>Saint Augustin</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000080</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000081">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000081</oboInOwl:id>
+        <rdfs:label>Couva-Tabaquite-Talparo Region</rdfs:label>
+        <obo:IAO_0000115>A local government region of Trinidad.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00007643">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Sangre Grande</rdfs:label>
+        <obo:IAO_0000115>A populated place. The largest town in northeastern Trinidad, in Trinidad and Tobago. It is east of Arima and southwest of Toco.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00007643</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00007644">
+        <rdfs:label>populated place, Trinidad and Tobago</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007644</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00007671">
+        <oboInOwl:id>GAZ:00007671</oboInOwl:id>
+        <rdfs:label>Flanagin Town</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00008862">
+        <obo:IAO_0000115>A local government region of Trinidad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008862</oboInOwl:id>
+        <rdfs:label>Sangre Grande Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00012950">
+        <rdfs:label>Municipality (Trinidad)</rdfs:label>
+        <oboInOwl:id>GAZ:00012950</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00012956">
+        <rdfs:label>Rio Claro-Mayaro Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012956</oboInOwl:id>
+        <obo:IAO_0000115>A local government region of Tobago.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00012957">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Penal/Debe Region</rdfs:label>
+        <oboInOwl:id>GAZ:00012957</oboInOwl:id>
+        <obo:IAO_0000115>A local government region of Trinidad.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00012963">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A local government region of Trinidad.</obo:IAO_0000115>
+        <rdfs:label>Siparia Region</rdfs:label>
+        <oboInOwl:id>GAZ:00012963</oboInOwl:id>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

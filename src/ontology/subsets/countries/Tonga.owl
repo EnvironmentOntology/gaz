@@ -1,0 +1,521 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Tonga.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Tonga.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Tonga.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009527 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009527"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009528 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009528">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009527"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009528</oboInOwl:id>
+        <rdfs:label>Vava&apos;u Division</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009529 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009529">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009527"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009530 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009530">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009527"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009531 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009531">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009527"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009532 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009532">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009527"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00006916 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00006916">
+        <obo:IAO_0000115>An island nation in the Pacific Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00006916</oboInOwl:id>
+        <rdfs:label>Tonga</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009527 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009527">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006916"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009529 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009529"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009530 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009530"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009531 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009531"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009532 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009532"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028029 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028029">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009532"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028029</oboInOwl:id>
+        <rdfs:label>Mu&apos;omu&apos;a District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028030 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028030">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009532"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028030</oboInOwl:id>
+        <rdfs:label>Ha&apos;ano District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028031 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028031">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009532"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028031</oboInOwl:id>
+        <rdfs:label>&apos;Eua Fo&apos;ou District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028032 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028032">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009532"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028032</oboInOwl:id>
+        <rdfs:label>Foa District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028033 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028033">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009532"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028033</oboInOwl:id>
+        <rdfs:label>&apos;Eua Motu&apos;a District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028034 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028034">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009532"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028034</oboInOwl:id>
+        <rdfs:label>Lulunga District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028035 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028035">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009532"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028035</oboInOwl:id>
+        <rdfs:label>Pangai District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028036 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028036">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009532"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028036</oboInOwl:id>
+        <rdfs:label>&apos;Uiha District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028037 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028037">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009530"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028037</oboInOwl:id>
+        <rdfs:label>Niua Toputapu District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028038 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028038">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009530"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028038</oboInOwl:id>
+        <rdfs:label>Niua Fo&apos;ou District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028039 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028039">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009531"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028039</oboInOwl:id>
+        <rdfs:label>Nukunuku District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028040 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028040">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009531"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028040</oboInOwl:id>
+        <rdfs:label>Kolofo&apos;ou District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028041 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028041">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009531"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028041</oboInOwl:id>
+        <rdfs:label>Tatakamotonga District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028042 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028042">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009531"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028042</oboInOwl:id>
+        <rdfs:label>Kolovai District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028043 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028043">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009531"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028043</oboInOwl:id>
+        <rdfs:label>Vaini District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028044 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028044">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009531"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028044</oboInOwl:id>
+        <rdfs:label>Lapaha District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028045 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028045">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009531"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028045</oboInOwl:id>
+        <rdfs:label>Kolomotu&apos;a District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028046 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028046">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009529"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028046</oboInOwl:id>
+        <rdfs:label>Leimutu&apos;a District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028047 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028047">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009529"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028047</oboInOwl:id>
+        <rdfs:label>Neiafu District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028048 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028048">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009529"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028048</oboInOwl:id>
+        <rdfs:label>Pangaimotu District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028049 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028049">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009529"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028049</oboInOwl:id>
+        <rdfs:label>Motu District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028050 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028050">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009529"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028050</oboInOwl:id>
+        <rdfs:label>Hahake District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028051 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028051">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009529"/>
+        <obo:IAO_0000115>A district of Tonga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028051</oboInOwl:id>
+        <rdfs:label>Hihifo District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009527">
+        <rdfs:label>Division (Tonga)</rdfs:label>
+        <oboInOwl:id>GAZ:00009527</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009529">
+        <oboInOwl:id>GAZ:00009529</oboInOwl:id>
+        <rdfs:label>Tongatapu Division</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009530">
+        <oboInOwl:id>GAZ:00009530</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Ha&apos;apai Division</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009531">
+        <oboInOwl:id>GAZ:00009531</oboInOwl:id>
+        <rdfs:label>Niuas Division</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009532">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>&apos;Eua Division</rdfs:label>
+        <oboInOwl:id>GAZ:00009532</oboInOwl:id>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

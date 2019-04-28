@@ -1,0 +1,1418 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Mauritius.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Mauritius.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Mauritius.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000856 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005461 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005461"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005462 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005462">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005461"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005463 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005463">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005464"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005464 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005464"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005465 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005465">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005461"/>
+        <obo:IAO_0000115>A District of Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005465</oboInOwl:id>
+        <rdfs:label>Pamplemousses District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009096 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009096">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005461"/>
+        <obo:IAO_0000115>A District of Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009096</oboInOwl:id>
+        <rdfs:label>Savanne District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009099 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009099">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005461"/>
+        <obo:IAO_0000115>A District of Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009099</oboInOwl:id>
+        <rdfs:label>Flacq District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009100">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005461"/>
+        <obo:IAO_0000115>A District of Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009100</oboInOwl:id>
+        <rdfs:label>Grand Port District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009101 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009101">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005461"/>
+        <obo:IAO_0000115>A District of Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009101</oboInOwl:id>
+        <rdfs:label>Moka District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009102 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009102">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005461"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009103 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009103">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005461"/>
+        <obo:IAO_0000115>A District of Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009103</oboInOwl:id>
+        <rdfs:label>Riviere du Rempart District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009104 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009104">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005461"/>
+        <obo:IAO_0000115>A District of Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009104</oboInOwl:id>
+        <rdfs:label>Black River District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000825 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000825"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000826 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000826">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000825"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000829 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000829">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000825"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000830 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000830">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000825"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000830</oboInOwl:id>
+        <rdfs:label>Agalega Islands</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000831 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000831">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000830"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000831</oboInOwl:id>
+        <rdfs:label>South Island</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000832 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000832">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000830"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000832</oboInOwl:id>
+        <rdfs:label>North Island</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003745 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00003745">
+        <obo:IAO_0000115>An island nation off the coast of the African continent in the southwest Indian Ocean, about 900 km east of Madagascar. In addition to the island of Mauritius, the republic includes the islands of St. Brandon, Rodrigues and the Agalega Islands.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00003745</oboInOwl:id>
+        <rdfs:label>Mauritius</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005461 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005461">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005462 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005462"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005463 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005463">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00032154"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005464 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005464">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009102 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009102"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00017554 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00017554">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00017554</oboInOwl:id>
+        <rdfs:label>Rodrigues Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00017555 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00017555">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00017555</oboInOwl:id>
+        <rdfs:label>Cocoa Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00017556 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00017556">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00017556</oboInOwl:id>
+        <rdfs:label>Crab Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00017557 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00017557">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00017557</oboInOwl:id>
+        <rdfs:label>Fregate Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00017558 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00017558">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00017558</oboInOwl:id>
+        <rdfs:label>Hermitage Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00017559 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00017559">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00017559</oboInOwl:id>
+        <rdfs:label>Sandy Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00017560 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00017560">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00017560</oboInOwl:id>
+        <rdfs:label>Gombrani Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00017561 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00017561">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00017561</oboInOwl:id>
+        <rdfs:label>Pierrot Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00032153 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00032153">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009102"/>
+        <obo:IAO_0000115>A municipality of Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00032153</oboInOwl:id>
+        <rdfs:label>Municipality of Port Louis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00032154 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00032154">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000827"/>
+        <obo:IAO_0000115>A municipality of Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00032154</oboInOwl:id>
+        <rdfs:label>Municipality of Beau Bassin/Rose Hill</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00032155 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00032155">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000828"/>
+        <obo:IAO_0000115>A municipality of Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00032155</oboInOwl:id>
+        <rdfs:label>Municipality of Quatre Bornes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00032156 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00032156">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005462"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00032156</oboInOwl:id>
+        <rdfs:label>Municipality of Vacoas-Phoenix</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00032157 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00032157">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000828"/>
+        <obo:IAO_0000115>A municipality of Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00032157</oboInOwl:id>
+        <rdfs:label>Municipality of Curepipe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039960 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039960">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039960</oboInOwl:id>
+        <rdfs:label>Aigrettes Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039961 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039961">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039961</oboInOwl:id>
+        <rdfs:label>Cat Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039962 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039962">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039962</oboInOwl:id>
+        <rdfs:label>Ile Destinee</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039963 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039963">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039963</oboInOwl:id>
+        <rdfs:label>Ile Deux Freres</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039964 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039964">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039964</oboInOwl:id>
+        <rdfs:label>Diamant Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039965 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039965">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039965</oboInOwl:id>
+        <rdfs:label>Ile aux Fous</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039966 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039966">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039966</oboInOwl:id>
+        <rdfs:label>Ile Paille-en-Queue</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039967 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039967">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039967</oboInOwl:id>
+        <rdfs:label>Pintades</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039968 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039968">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039968</oboInOwl:id>
+        <rdfs:label>Ile Marianne</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039969 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039969">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039969</oboInOwl:id>
+        <rdfs:label>Ile aux Cerfs</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039970 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039970">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076622"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039970</oboInOwl:id>
+        <rdfs:label>Serpent Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039971 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039971">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076622"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039971</oboInOwl:id>
+        <rdfs:label>Round Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039972 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039972">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076622"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039972</oboInOwl:id>
+        <rdfs:label>Gunner&apos;s Quoin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039973 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039973">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076622"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039973</oboInOwl:id>
+        <rdfs:label>Flat Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039974 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039974">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076622"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039974</oboInOwl:id>
+        <rdfs:label>Gabriel Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039975 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039975">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076622"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039975</oboInOwl:id>
+        <rdfs:label>Ile d&apos;Ambre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039976 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039976">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039976</oboInOwl:id>
+        <rdfs:label>Ile aux Benitiers</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076605 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076605">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <obo:IAO_0000115>A national park in the hilly south-western part of Mauritius. It was proclaimed on 1994-06-15.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076605</oboInOwl:id>
+        <rdfs:label>Black River Gorges National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076606 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076606">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <obo:IAO_0000115>A national park in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076606</oboInOwl:id>
+        <rdfs:label>Ilot Fous National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076607 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076607">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <obo:IAO_0000115>A national park in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076607</oboInOwl:id>
+        <rdfs:label>Rocher aux Oiseaux National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076608 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076608">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <obo:IAO_0000115>A national park in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076608</oboInOwl:id>
+        <rdfs:label>Ilot Fouquets National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076609 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076609">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076623"/>
+        <obo:IAO_0000115>A national park in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076609</oboInOwl:id>
+        <rdfs:label>Pigeon Rock National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076610 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076610">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00039975"/>
+        <obo:IAO_0000115>A national park in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076610</oboInOwl:id>
+        <rdfs:label>Ile d&apos;Ambre National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076611 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076611">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <obo:IAO_0000115>A national park in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076611</oboInOwl:id>
+        <rdfs:label>Ile aux Oiseaux National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076612 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076612">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076615"/>
+        <obo:IAO_0000115>A national park in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076612</oboInOwl:id>
+        <rdfs:label>Ilot Vacoas National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076613 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076613">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <obo:IAO_0000115>A national park in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076613</oboInOwl:id>
+        <rdfs:label>Ile aux Flamants National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076614 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076614">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <obo:IAO_0000115>Small islands situated to the south east of Mauritius, near to the town of Mahebourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076614</oboInOwl:id>
+        <rdfs:label>The Mahebourg Bay Islets</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076615 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076615">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076614"/>
+        <obo:IAO_0000115>One of the Mahebourg Bay Islets.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076615</oboInOwl:id>
+        <rdfs:label>Ile aux Vacoas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076616 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076616">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076614"/>
+        <obo:IAO_0000115>One of the Mahebourg Bay Islets.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076616</oboInOwl:id>
+        <rdfs:label>Ile aux Mariannes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076617 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076617">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076614"/>
+        <obo:IAO_0000115>One of the Mahebourg Bay Islets.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076617</oboInOwl:id>
+        <rdfs:label>Ile aux Aigrettes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076618 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076618">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076617"/>
+        <obo:IAO_0000115>A protected area in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076618</oboInOwl:id>
+        <rdfs:label>Ile aux Aigrettes Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076619 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076619">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076616"/>
+        <obo:IAO_0000115>A national park in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076619</oboInOwl:id>
+        <rdfs:label>Ile aux Mariannes National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076620 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076620">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076614"/>
+        <obo:IAO_0000115>One of the Mahebourg Bay Islets.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076620</oboInOwl:id>
+        <rdfs:label>Ile de la Passe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076621 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076621">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076620"/>
+        <obo:IAO_0000115>A national park in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076621</oboInOwl:id>
+        <rdfs:label>Ile de la Passe National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076622 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076622">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076622</oboInOwl:id>
+        <rdfs:label>Northern Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076623 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076623">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076622"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076623</oboInOwl:id>
+        <rdfs:label>Pigeon Rock</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076624 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076624">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00039973"/>
+        <obo:IAO_0000115>A protected area in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076624</oboInOwl:id>
+        <rdfs:label>Flat Island Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076625 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076625">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00039974"/>
+        <obo:IAO_0000115>A protected area in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076625</oboInOwl:id>
+        <rdfs:label>Gabriel Island Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076626 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076626">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00039972"/>
+        <obo:IAO_0000115>A national park in Mauritius.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076626</oboInOwl:id>
+        <rdfs:label>Gunner&apos;s Quoin National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143847 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143847">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <obo:IAO_0000115>The largest submerged bank in the World, part of the vast undersea Mascarene Plateau. It lies east of Madagascar, southeast of the Seychelles, and north of the Nazareth Bank, the Cargados Carajos shoals, and the island of Mauritius, and falls into Mauritian Territorial waters.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143847</oboInOwl:id>
+        <rdfs:label>Saya de Malha Bank</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143848 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143848">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143847"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143848</oboInOwl:id>
+        <rdfs:label>South Saya de Malha Bank</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143849 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143849">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143848"/>
+        <obo:IAO_0000115>A submerged rock.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143849</oboInOwl:id>
+        <rdfs:label>Poydenot Rock</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143850 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143850">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143847"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143850</oboInOwl:id>
+        <rdfs:label>North Saya de Malha Bank</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143855 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143855">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143855</oboInOwl:id>
+        <rdfs:label>Puits A Eau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143856 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143856">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143856</oboInOwl:id>
+        <rdfs:label>Palm Islet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143857 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143857">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143857</oboInOwl:id>
+        <rdfs:label>Ile Veronge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143858 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143858">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>Reefs to the W of the main part of the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143858</oboInOwl:id>
+        <rdfs:label>Chaloupe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143859 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143859">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143859</oboInOwl:id>
+        <rdfs:label>Ilote du Pau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143860 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143860">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143860</oboInOwl:id>
+        <rdfs:label>Veronge Ilo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143861 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143861">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143861</oboInOwl:id>
+        <rdfs:label>Mapare Islet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143862 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143862">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143862</oboInOwl:id>
+        <rdfs:label>Petite Capitane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143863 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143863">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143863</oboInOwl:id>
+        <rdfs:label>Ile du Sud</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143864 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143864">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143864</oboInOwl:id>
+        <rdfs:label>Ile Poulailer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143865 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143865">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143865</oboInOwl:id>
+        <rdfs:label>Avocare Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143866 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143866">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143866</oboInOwl:id>
+        <rdfs:label>Coco Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143867 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143867">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143867</oboInOwl:id>
+        <rdfs:label>Baleine Rocks</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143868 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143868">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143868</oboInOwl:id>
+        <rdfs:label>Frigate Islet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143869 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143869">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143869</oboInOwl:id>
+        <rdfs:label>Grande Capitane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143870 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143870">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143870</oboInOwl:id>
+        <rdfs:label>Courson</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143871 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143871">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143871</oboInOwl:id>
+        <rdfs:label>Albatross Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143872 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143872">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143872</oboInOwl:id>
+        <rdfs:label>Ile Raphae</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143873 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143873">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143873</oboInOwl:id>
+        <rdfs:label>Ile Tortue</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143874 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143874">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143874</oboInOwl:id>
+        <rdfs:label>Ilot Siren</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143875 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143875">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143875</oboInOwl:id>
+        <rdfs:label>Ilot du Nord</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143876 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143876">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+        <obo:IAO_0000115>An island in the Cargados Carajos Shoals.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143876</oboInOwl:id>
+        <rdfs:label>Pearl Islet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143877 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143877">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <obo:IAO_0000115>A large undersea bank in the Indian Ocean, part of the vast undersea Mascarene Plateau. It lies about 1040 km east of northern Madagascar, 140 km northeast of the Cargados Carajos shoals, the closest piece of land, and 280 km south of Saya de Malha Bank.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143877</oboInOwl:id>
+        <rdfs:label>Nazareth Bank</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143878 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143878">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <obo:IAO_0000115>Banks.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143878</oboInOwl:id>
+        <rdfs:label>Soudan Banks</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143879 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143879">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143878"/>
+        <obo:IAO_0000115>A part of the Soudan Banks.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143879</oboInOwl:id>
+        <rdfs:label>South Soudan Banks</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143880 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143880">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143878"/>
+        <obo:IAO_0000115>A part of the Soudan Banks.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143880</oboInOwl:id>
+        <rdfs:label>North Soudan Banks</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143881 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143881">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143878"/>
+        <obo:IAO_0000115>A part of the Soudan Banks.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143881</oboInOwl:id>
+        <rdfs:label>Central Soudan Banks</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143882 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143882">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143878"/>
+        <obo:IAO_0000115>A part of the Soudan Banks.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143882</oboInOwl:id>
+        <rdfs:label>West Soudan Banks</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143883 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143883">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143878"/>
+        <obo:IAO_0000115>A part of the Soudan Banks.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143883</oboInOwl:id>
+        <rdfs:label>East Soudan Banks</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143884 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143884">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+        <obo:IAO_0000115>A large, submerged bank off the Mascarene Plateau.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143884</oboInOwl:id>
+        <rdfs:label>Hawkins Bank</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000825 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000825">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003745"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000826 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000826"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000827 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000827">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005462"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000827</oboInOwl:id>
+        <rdfs:label>Lower Plaine Wilhems</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000828 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000828">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005462"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000828</oboInOwl:id>
+        <rdfs:label>Upper Plaine Wilhems</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000829 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000829"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00005461">
+        <rdfs:label>District (Mauritius)</rdfs:label>
+        <oboInOwl:id>GAZ:00005461</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00005462">
+        <oboInOwl:id>GAZ:00005462</oboInOwl:id>
+        <rdfs:label>Plaines Wilhems District</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A District of Mauritius.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00005463">
+        <oboInOwl:id>GAZ:00005463</oboInOwl:id>
+        <rdfs:label>Beau-Bassin</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00005464">
+        <rdfs:label>populated place, Mauritius</rdfs:label>
+        <oboInOwl:id>GAZ:00005464</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009102">
+        <oboInOwl:id>GAZ:00009102</oboInOwl:id>
+        <obo:IAO_0000115>A District of Mauritius.</obo:IAO_0000115>
+        <rdfs:label>Port Louis District</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000825">
+        <oboInOwl:id>GAZ:02000825</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Dependency (Mauritius)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000826">
+        <rdfs:label>Rodrigues Islands</rdfs:label>
+        <oboInOwl:id>GAZ:02000826</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000829">
+        <oboInOwl:id>GAZ:02000829</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Cargados Carajos Shoals</rdfs:label>
+        <obo:IAO_0000115>An atoll. A group of about 16 small islands and islets on an extended reef in the Indian Ocean northeast of Mauritius.</obo:IAO_0000115>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

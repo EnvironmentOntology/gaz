@@ -1,0 +1,1376 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Tajikistan.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Tajikistan.owl"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:envo="http://purl.obolibrary.org/obo/envo#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Tajikistan.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008369 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008369">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008372"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008370 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008370">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008372"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008371 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008371">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008372"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008372 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008372"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008374 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008374">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008375"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008374</oboInOwl:id>
+        <rdfs:label>Dushanbe</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008375 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008375"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00004988 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00004988">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006912"/>
+        <obo:IAO_0000115>A mountain range located in Central Asia and are formed by the junction or knot of the Tian Shan, Karakoram, Kunlun, and Hindu Kush ranges. The Pamir region is centered in the Tajikistani region of Gorno-Badakhshan. Parts of the Pamir also lie in the countries of Kyrgyzstan, Afghanistan, and Pakistan. South of Gorno-Badakhshan, the Wakhan Corridor runs through the Pamir region, which also includes the northern extremes of the North-West Frontier Province and the northern extremes of the Northern Areas of Pakistan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00004988</oboInOwl:id>
+        <rdfs:label>Pamir Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00006912 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00006912">
+        <obo:IAO_0000115>A mountainous landlocked country in Central Asia. Afghanistan borders to the south, Uzbekistan to the west, Kyrgyzstan to the north, and People&apos;s Republic of China to the east. Tajikistan consists of 4 administrative divisions. These are the provinces (viloyat) of Sughd and Khatlon, the autonomous province of Gorno-Badakhshan (abbreviated as GBAO), and the Region of Republican Subordination (RRP, Raiony Respublikanskogo Podchineniya in Russian; formerly known as Karotegin Province). Each region is divided into several districts (nohiya or raion).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00006912</oboInOwl:id>
+        <rdfs:label>Tajikistan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008310 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008310">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008310</oboInOwl:id>
+        <rdfs:label>East Pamirs</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008368 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008368">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006912"/>
+        <obo:IAO_0000115>A region in Tajikistan, consisting of 13 districts which are directly under central rule. The Karotegin consisted of a highland district bounded on the north by Samarkand and Khokand, on the east by Ferghana, on the south by Darvaz, and on the west by Hissar and other Bokharian provinces.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008368</oboInOwl:id>
+        <rdfs:label>Region of Republican Subordination</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008369 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008370 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008371 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008371"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008372 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008372">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006912"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008373 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008373">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006912"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008373</oboInOwl:id>
+        <rdfs:label>Vakhsh Valley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008375 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008375">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006912"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022024 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022024">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022024</oboInOwl:id>
+        <rdfs:label>Konibodom District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022025 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022025">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022025</oboInOwl:id>
+        <rdfs:label>Zafarobod District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022026 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022026">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022026</oboInOwl:id>
+        <rdfs:label>Shahriston District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022027 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022027">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022027</oboInOwl:id>
+        <rdfs:label>Mastchoh District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022028 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022028">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022028</oboInOwl:id>
+        <rdfs:label>Istarawshan District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022029 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022029">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022029</oboInOwl:id>
+        <rdfs:label>Qairoqqum District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022030 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022030">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022030</oboInOwl:id>
+        <rdfs:label>Ghafurov District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022031 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022031">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022031</oboInOwl:id>
+        <rdfs:label>Kuhistoni Mastchoh District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022032 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022032">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022032</oboInOwl:id>
+        <rdfs:label>Isfara District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022033 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022033">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022033</oboInOwl:id>
+        <rdfs:label>Nov District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022034 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022034">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022034</oboInOwl:id>
+        <rdfs:label>Asht District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022035 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022035">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022035</oboInOwl:id>
+        <rdfs:label>Aini District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022036 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022036">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022036</oboInOwl:id>
+        <rdfs:label>Panjakent District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022037 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022037">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022037</oboInOwl:id>
+        <rdfs:label>Jabbor Rasulov District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022038 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022038">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022038</oboInOwl:id>
+        <rdfs:label>Chkalov District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022039 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022039">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008370"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022039</oboInOwl:id>
+        <rdfs:label>Ghonchi District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022040 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022040">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>A small district in the Region of Republican Subordination in Tajikistan, about 60 km east of Dushanbe. It borders on Vahdat district from the west and the north, the Roghun district from the east, and the Khatlon Province from the south. Its capital is Faizobod.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022040</oboInOwl:id>
+        <rdfs:label>Faizobod District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022041 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022041">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>A district in the Region of Republican Subordination in Tajikistan. It stretches south from Dushanbe, bordering on Shahrinaw, Hisor, and Varzob districts from the north and northwest, Tajikistan&apos;s Khatlon Province from the south and the east, and Uzbekistan from the west. Its capital is Somonien.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022041</oboInOwl:id>
+        <rdfs:label>Rudaki District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022042 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022042">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>A district in the Region of Republican Subordination in Tajikistan, lying between Tajikistan&apos;s capital Dushanbe and Uzbekistan. The Shahrinaw district borders on Tursunzoda district in the west, Hisor district in the east, and Rudaki district in the south. It is delimited by the Gissar Range in the north and is part of the fertile Gissar Valley. Its capital is Shahrinaw (Shakhrinav), a town 30 km west of Dushanbe.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022042</oboInOwl:id>
+        <rdfs:label>Shahrinaw District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022044 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022044">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>A small district in the Region of Republican Subordination in Tajikistan, bordering on Faizobod district from the west, the Vahdat district from the north-west, and the Nurobod district from the north-east. Its southeastern border is with the Khatlon Province, running along the Vakhsh Range. Its capital is Roghun.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022044</oboInOwl:id>
+        <rdfs:label>Roghun District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022045 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022045">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>A district in the Region of Republican Subordination, in Tajikistan, located west of the capital Dushanbe, between Varzob district in the east and Shahrinaw district in the west. Its capital is Hisor.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022045</oboInOwl:id>
+        <rdfs:label>Hisor District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022046 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022046">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>One of the larger districts in the Region of Republican Subordination in Tajikistan. It extends east of Dushanbe along the southern slopes of the Gissar Range, bordering on Varzob district from the west and Rasht district from the east. Its long southern border runs (from west to east) along Khatlon Province and then Faizobod, Roghun, and Nurobod districts. The district capital Vahdat (formerly Ordzhonikidzeabad) is placed off-center at the extreme southwest of the district, just 10 km east of Dushanbe.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022046</oboInOwl:id>
+        <rdfs:label>Vahdat District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022047 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022047">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>A district that lies in the extreme north-east corner of the Region of Republican Subordination in Tajikistan. Its northern boundary is the international boundary with Kyrgyzstan; on the south it borders with Tavildara and Tojikobod districts, and its western border is with Rasht district. Its capital is Jirgatol.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022047</oboInOwl:id>
+        <rdfs:label>Jirgatol District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022048 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022048">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>A large eastern district in the Region of Republican Subordination in Tajikistan, extending north of the Darvaz Range that forms the boundary of the Gorno-Badakhshan Autonomous Province (GBAO). Its northern boundary stretches along Rasht, Tojikobod, and Jirgatol districts. Its capital is Tavildara.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022048</oboInOwl:id>
+        <rdfs:label>Tavildara District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022049 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022049">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>A small district in the eastern part of Region of Republican Subordination in Tajikistan. It is encircled by Tavildara district from the south, Jirgatol district from the north-east, and Rasht district from the north-west. Its capital is Tojikobod.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022049</oboInOwl:id>
+        <rdfs:label>Tojikobod District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022050 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022050">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>A district in the Region of Republican Subordination in Tajikistan, lying north of Dushanbe. It borders on Hisor district from the west, Rudaki district from the south, and Vahdat district from the east. The Gissar Range runs along its northern edge. The Varzob River traverses the entire district north to south. The district capital is Varzob.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022050</oboInOwl:id>
+        <rdfs:label>Varzob District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022052 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022052">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>An eastern district in the Region of Republican Subordination in Tajikistan. It lies between Vahdat district on the west and Jirgatol district on the east; its southern neighbors are Nurobod, Tavildara, and Tojikobod districts; its northern border runs along the eastern finger of Sughd Province and along the international border with Kyrgyzstan. Its capital is Rasht (formerly Gharm).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022052</oboInOwl:id>
+        <rdfs:label>Rasht District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022053 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022053">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022053</oboInOwl:id>
+        <rdfs:label>Yovon District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022054 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022054">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022054</oboInOwl:id>
+        <rdfs:label>Panj District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022055 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022055">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022055</oboInOwl:id>
+        <rdfs:label>Vose&apos; District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022056 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022056">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022056</oboInOwl:id>
+        <rdfs:label>Muminobod District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022057 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022057">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022057</oboInOwl:id>
+        <rdfs:label>Shuro-obod District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022058 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022058">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022058</oboInOwl:id>
+        <rdfs:label>Chubek District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022059 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022059">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022059</oboInOwl:id>
+        <rdfs:label>Shahrtuz District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022060 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022060">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022060</oboInOwl:id>
+        <rdfs:label>Ghozimalik District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022061 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022061">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022061</oboInOwl:id>
+        <rdfs:label>Farkhor District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022062 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022062">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022062</oboInOwl:id>
+        <rdfs:label>Sarband District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022063 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022063">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022063</oboInOwl:id>
+        <rdfs:label>Hojamaston District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022064 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022064">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022064</oboInOwl:id>
+        <rdfs:label>Khovaling District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022065 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022065">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022065</oboInOwl:id>
+        <rdfs:label>Jilikul District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022066 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022066">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022066</oboInOwl:id>
+        <rdfs:label>Kolkhozobod District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022067 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022067">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022067</oboInOwl:id>
+        <rdfs:label>Danghara District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022068 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022068">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022068</oboInOwl:id>
+        <rdfs:label>Qabodiyon District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022069 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022069">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022069</oboInOwl:id>
+        <rdfs:label>Norak District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022070 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022070">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022070</oboInOwl:id>
+        <rdfs:label>Kulob District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022071 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022071">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022071</oboInOwl:id>
+        <rdfs:label>Qumsangir District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022072 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022072">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022072</oboInOwl:id>
+        <rdfs:label>Qizil-Mazor District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022073 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022073">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022073</oboInOwl:id>
+        <rdfs:label>Beshkent District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022074 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022074">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022074</oboInOwl:id>
+        <rdfs:label>Vakhsh District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022075 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022075">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022075</oboInOwl:id>
+        <rdfs:label>Baljuvon District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022076 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022076">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008371"/>
+        <obo:IAO_0000115>A district in Badakhshan Autonomous Province, Tajikistan. Its capital is Murghob.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022076</oboInOwl:id>
+        <rdfs:label>Murghob District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022077 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022077">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008369"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022077</oboInOwl:id>
+        <rdfs:label>Bokhtar District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022078 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022078">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008371"/>
+        <obo:IAO_0000115>A district of Gorno-Badakhshan Autonomous Province, Tajikistan. Its capital is Rushon, also known as Vomar (pronounced: vamar), situated on the border with Afghanistan, 65 km North of Khorugh (the capital of GBAO).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022078</oboInOwl:id>
+        <rdfs:label>Rushon District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022079 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022079">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008371"/>
+        <obo:IAO_0000115>A district in Badakhshan Autonomous Province, Tajikistan. Its capital is Ishkoshim.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022079</oboInOwl:id>
+        <rdfs:label>Ishkoshim District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022080 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022080">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008371"/>
+        <obo:IAO_0000115>A district in Badakhshan Autonomous Province, Tajikistan. Its capital is Roshtqal&apos;a.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022080</oboInOwl:id>
+        <rdfs:label>Roshtqal&apos;a District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022081 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022081">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008371"/>
+        <obo:IAO_0000115>A district in Gorno-Badakhshan Autonomous Province, Tajikistan. The district capital is Khorugh (which is also the provincial capital).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022081</oboInOwl:id>
+        <rdfs:label>Shughnon District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022082 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022082">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008371"/>
+        <obo:IAO_0000115>A district in Badakhshan Autonomous Province, Tajikistan. Its capital is Kalai-Khumb.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022082</oboInOwl:id>
+        <rdfs:label>Darvoz District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022083 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022083">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008371"/>
+        <obo:IAO_0000115>A district in Badakhshan Autonomous Province, Tajikistan. Its capital is Vanj.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022083</oboInOwl:id>
+        <rdfs:label>Vanj District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057450 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057450">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006912"/>
+        <obo:IAO_0000115>A mountain range in the Western Pamirs of Tajikistan. The length of the Akademiya Nauk Range is about 110 km. The crest of the range has an Alpine-like relief with 24 summits more than 6,000 m in height. The lowest saddle point, Kamaloyak is at the altitude of 4,340 m.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057450</oboInOwl:id>
+        <rdfs:label>Akademiya Nauk Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057452 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057452">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006912"/>
+        <obo:IAO_0000115>A mountain range that extends from the Tien Shan mountain range in Kyrgyzstan west into Tajikistan. The range runs approximately east and west. The southern slopes of the range drain into the Vakhsh River, a tributary of the Amu Darya. The streams that drain the northern slopes of the range are tributaries of the Syr Darya, and empty into the Ferghana Valley to the north of the range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057452</oboInOwl:id>
+        <rdfs:label>Alay Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057454 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057454">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006912"/>
+        <obo:IAO_0000115>A part of the mountain ranges and rocky areas spanning from the Central Asian republics and Siberia. More specifically they are part of the western Pamiro-Alai and are located in the Republic of Tajikistan between the Zeravshan and Gissar ranges.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057454</oboInOwl:id>
+        <rdfs:label>Fann Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057491 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057491">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:IAO_0000115>A mountain range of the Pamir Mountains (ancient Mount Imeon) between Kyrgyzstan and Tajikistan. Its northern end is the Alay Valley, and 150 miles to the south, it terminates into the valleys of Muksu and Markansu. The highest peak in the range is Lenin Peak.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057491</oboInOwl:id>
+        <rdfs:label>Trans-Alay Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058032 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058032">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006912"/>
+        <obo:IAO_0000115>A lake in the Pamir Mountains. It extends east to west for about 25 km. Along the western half of the lake runs the Afghan-Tajik border, turning south towards Concord Peak (5,469 m), about 15 km south of the lake. The lake&apos;s eastern half lies in Tajikistan. Out of the lake, towards the west, flows Pamir River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058032</oboInOwl:id>
+        <rdfs:label>Zorkul</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058498 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058498">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:IAO_0000115>A 25 km diameter crater lake in the Pamir Mountains in Tajikistan, which lies at an altitude of 3,900 meters (13,000 feet) above mean sea level. A peninsula projecting from the south shore and an island off the north shore divide the lake into two basins, a smaller eastern one which is relatively shallow, between 13 to 19 meters, and a larger western one, with depths of 221 to 230 meters. It has no drainage outlet. Kara-Kul lake lies within a circular depression interpreted as a meteorite impact crater with a rim diameter of 45 km.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058498</oboInOwl:id>
+        <rdfs:label>Kara-Kul</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058499 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058499">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:IAO_0000115>A lake in Tajikistan, in the northeast Pamir Mountains, northwest of the Muztagh Ata peak (7,880 metres), at an altitude of 3,870 m. It is a moraine lake; and a stream of the same name flows through it.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058499</oboInOwl:id>
+        <rdfs:label>Little Kara-Kul</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058500 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058500">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008373"/>
+        <obo:IAO_0000115>A Central Asian river, and one of the main rivers of the nation of Tajikistan. It is a tributary of the Amu Darya river. The river&apos;s source lies in Kyrgyzstan; it then flows through Tajikistan for a length of 524 km before joining the Panj River to form the Amu Darya at the border of Tajikistan and Afghanistan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058500</oboInOwl:id>
+        <rdfs:label>Vakhsh River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058501 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058501">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058500"/>
+        <obo:IAO_0000115>A reservoir formed bu the Nurek Dam on the Vakhsh River in Tajikistan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058501</oboInOwl:id>
+        <rdfs:label>Nurek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058502 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058502">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00022078"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058504"/>
+        <obo:IAO_0000115>A lake in Pamir, Tajikistan. The lake formed in 1911, after a great earthquake, when the Murghab River was blocked by a big landslide, forming the Usoi Dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058502</oboInOwl:id>
+        <rdfs:label>Sarez Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058503 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058503">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058504"/>
+        <obo:IAO_0000115>A natural landslide dam along the Murghab River in the Central Asian nation of Tajikistan. Established 1911-02-18, when a great earthquake estimated between 8 and 9 on the Richter Scale caused a massive landslide to block the flow of the river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058503</oboInOwl:id>
+        <rdfs:label>Usoi Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058504 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058504">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006912"/>
+        <obo:IAO_0000115>A river that rises in extreme northeastern Afghanistan before flowing north and west into Tajikistan, which contains the bulk of its length. The river flows north and west, passing first the village of Shaimak and then the city of Murghab, before flowing into the Bartang River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058504</oboInOwl:id>
+        <rdfs:label>Murghab River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143916 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143916">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:IAO_0000115>A large glacier in the Pamir Mountains of central Tajikistan. The glacier follows a generally northward path to the east of the 6,595 m Garmo Peak. The glacier begins at an elevation of 6,200 m above sea level, and eventually melts and empties into the Balandkiik River near the border with Kyrgyzstan at an elevation of 2,909 m. Its waters eventually feed into the Muksu, Vakhsh, and Amu Darya rivers.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143916</oboInOwl:id>
+        <rdfs:label>Fedchenko Glacier</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143917 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143917">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:IAO_0000115>A glacier in the Pamir Mountains, near Qullai Revolutsiya, Gorno-Badakhshan, central Tajikistan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143917</oboInOwl:id>
+        <rdfs:label>Russian Geographical Society Glacier</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144828 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144828">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:IAO_0000115>A mountain range in Central Asia, in the western part of the Pamir-Alay system, stretching over 200 km in the general east-west direction across the territory of Tajikistan and Uzbekistan. The Gissar Range lies south of the Zeravshan Range, extending north of Dushanbe through Tajikistan&apos;s Gissar District and reaching Uzbekistan at the north tip of Surkhandarya Province.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144828</oboInOwl:id>
+        <rdfs:label>Gissar Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144830 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144830">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:IAO_0000115>A mountain range that rises to the south of the Zeravshan River. The range extends over 370 km in the east-west direction along the south of Sughd Province in Tajikistan, reaching the highest point of 5,489 m (Chimtarga peak) in its central part. South-west of Penjikent the range crosses from Tajikistan into Uzbekistan, where it continues at decreasing elevations (1,500-2,000 m) along the internal border between Samarkand and Surkhandarya provinces, until it blends into the desert south-west of Samarkand.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144830</oboInOwl:id>
+        <rdfs:label>Zeravshan Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144831 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144831">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>The westernmost district in the Region of Republican Subordination (RRP), bordering on Uzbekistan in the west and enclosed by Tajikistan&apos;s Shahrinaw district from the other directions. Its capital is Tursunzoda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144831</oboInOwl:id>
+        <rdfs:label>Tursunzoda District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144832 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144832">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008368"/>
+        <obo:IAO_0000115>A district in Tajikistan&apos;s Region of Republican Subordination. Formerly known as Darband district, Nurobod district lies east of Roghun district, south of Vahdat and Rasht districts, and west of Tavildara district. Its southern border is with the Khatlon Province. The capital of Nurobod district is Darband.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144832</oboInOwl:id>
+        <rdfs:label>Nurobod District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246580 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246580">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004988"/>
+        <obo:IAO_0000115>A high altitude lake. Located some 45 km southeast of Zorkul. It lies in a broad valley between the Big Pamir and Small Pamir ranges, and is fed by snow-melt from both these ranges. It is about 16 km long and up to 2 km wide. The lake drains through an outlet at its eastern end into the Aksu River, which joins the Pamir River in Tadzhikistan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246580</oboInOwl:id>
+        <rdfs:label>Chaqmatin Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00250936 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00250936">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00022081"/>
+        <obo:IAO_0000115>A populated place. The capital of the Gorno-Badakhshan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00250936</oboInOwl:id>
+        <rdfs:label>Khorugh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00250943 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00250943">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058500"/>
+        <obo:IAO_0000115>A dam. Constructed 1961-1980.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00250943</oboInOwl:id>
+        <rdfs:label>Nurek Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00360612 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00360612">
+        <obo:IAO_0000115>A former republic of the Soviet Union.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00360612</oboInOwl:id>
+        <rdfs:label>[Former] Moldavian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405959 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405959">
+        <obo:IAO_0000115>A short-lived republic of the Soviet Union. It consisted of Georgia, Armenia, and Azerbaijan, traditionally known as the Transcaucasian Republics, being separated from Russia by the Caucasus Mountains. 1922-1936.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405959</oboInOwl:id>
+        <rdfs:label>[Former] Transcaucasian Socialist Federative Soviet Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405960 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405960">
+        <obo:IAO_0000115>A former republic of the USSR.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405960</oboInOwl:id>
+        <rdfs:label>[Former] Georgian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405961 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405961">
+        <obo:IAO_0000115>A former republic of the USSR. 1922-1991.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405961</oboInOwl:id>
+        <rdfs:label>[Former] Armenian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405962 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405962">
+        <obo:IAO_0000115>A former republic of the USSR. 1937-1990.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405962</oboInOwl:id>
+        <rdfs:label>[Former] Azerbaijan Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405963 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405963">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405963</oboInOwl:id>
+        <rdfs:label>[Former] Russian Soviet Federative Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405964 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405964">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405964</oboInOwl:id>
+        <rdfs:label>[Former[ Ukrainian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405965 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405965">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405965</oboInOwl:id>
+        <rdfs:label>[Former] Byelorussian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405966 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405966">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405966</oboInOwl:id>
+        <rdfs:label>[Former] Uzbek Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405967 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405967">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405967</oboInOwl:id>
+        <rdfs:label>[Former] Kazakh Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405968 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405968">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405968</oboInOwl:id>
+        <rdfs:label>[Former] Lithuanian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405969 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405969">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405969</oboInOwl:id>
+        <rdfs:label>[Former] Kirghiz Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405970 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405970">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405970</oboInOwl:id>
+        <rdfs:label>[Former] Latvian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405971 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405971">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405971</oboInOwl:id>
+        <rdfs:label>[Former] Turkmen Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405972 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405972">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405972</oboInOwl:id>
+        <rdfs:label>[Former] Estonian Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405973 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405973">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405973</oboInOwl:id>
+        <rdfs:label>[Former] Tajik Soviet Socialist Republic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00415848 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00415848">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00022032"/>
+        <obo:IAO_0000115>A jamoat in northern Tajikistan. It is located in Isfara District in Sughd province. Vorukh forms part of an exclave of Tajikistan within Kyrgyzstan</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00415848</oboInOwl:id>
+        <rdfs:label>Vorukh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00008369">
+        <rdfs:label>Khatlon Province</rdfs:label>
+        <oboInOwl:id>GAZ:00008369</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00008370">
+        <rdfs:label>Sughd Province</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008370</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00008371">
+        <obo:IAO_0000115>An autonomous, mountainous province in the east of Tajikistan. It is located in the Pamir Mountains. GBAO covers all the eastern part of the country and borders in the East - the Xinjiang Province of China, in the West and South - the Badakhshan Province of Afghanistan, and in the North - the Osh Province of Kyrgyzstan. Within Tajikistan the province&apos;s western border is with the Region of Republican Subordination (RRP) and the tip of its south-western finger (Darvoz district) borders on Khatlon Province.</obo:IAO_0000115>
+        <rdfs:label>Gorno-Badakhshan Autonomous Province</rdfs:label>
+        <oboInOwl:id>GAZ:00008371</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00008372">
+        <rdfs:label>Province (Tajikistan)</rdfs:label>
+        <oboInOwl:id>GAZ:00008372</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00008375">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>populated place, Tajikistan</rdfs:label>
+        <oboInOwl:id>GAZ:00008375</oboInOwl:id>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

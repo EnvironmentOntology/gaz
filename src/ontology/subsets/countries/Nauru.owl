@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Nauru.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Nauru.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Nauru.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009608 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014368 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014368">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+        <obo:IAO_0000115>A district in the island nation of Nauru, located in the northwest of the island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014368</oboInOwl:id>
+        <rdfs:label>Uaboe District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014369 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014369">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+        <obo:IAO_0000115>A district of the country Nauru, on the SE.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014369</oboInOwl:id>
+        <rdfs:label>Meneng District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014370 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014370">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+        <obo:IAO_0000115>A district in the Pacific island nation of Nauru, on the N.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014370</oboInOwl:id>
+        <rdfs:label>Anetan District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014371 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014371">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014372 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014372">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+        <obo:IAO_0000115>A district in the Pacific country of Nauru, on the NE.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014372</oboInOwl:id>
+        <rdfs:label>Anabar District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014373 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014373">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+        <obo:IAO_0000115>A district in the country of Nauru, on the SW.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014373</oboInOwl:id>
+        <rdfs:label>Boe District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014374 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014374">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+        <obo:IAO_0000115>A district in the island nation Nauru, on the E.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014374</oboInOwl:id>
+        <rdfs:label>Anibare District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014375 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014375">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014376 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014376">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+        <obo:IAO_0000115>A district in the Pacific nation of Nauru, on the NW.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014376</oboInOwl:id>
+        <rdfs:label>Baiti District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014377 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014377">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+        <obo:IAO_0000115>A district of the country Nauru, on the W.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014377</oboInOwl:id>
+        <rdfs:label>Nibok District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014378 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014378">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+        <obo:IAO_0000115>A district in the country Nauru, on the W.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014378</oboInOwl:id>
+        <rdfs:label>Denigomodu District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014379 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014379">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014380 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014380">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+        <obo:IAO_0000115>A district in the Pacific country of Nauru, on the W.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014380</oboInOwl:id>
+        <rdfs:label>Aiwo District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014381 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00014381">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009608"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00006900 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00006900">
+        <obo:IAO_0000115>An island nation in the Micronesian South Pacific. The nearest neighbour is Banaba Island in the Republic of Kiribati, 300 km due east. Nauru is divided into fourteen administrative districts which are grouped into eight electoral constituencies.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00006900</oboInOwl:id>
+        <rdfs:label>Nauru</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009608 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009608">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006900"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014371 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00014371"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014375 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00014375"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014379 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00014379"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014381 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00014381"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00014382 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00014382">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014375"/>
+        <obo:IAO_0000115>A landlocked, slightly brackish, freshwater lake on the island Nauru.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00014382</oboInOwl:id>
+        <rdfs:label>Buada Lagoon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058558 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058558">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014381"/>
+        <obo:IAO_0000115>A small underground lake, located below the Nauruan district Yaren. Also on this lake are the Moqua Caves, a series of underground caves below Yaren.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058558</oboInOwl:id>
+        <rdfs:label>Moqua Well</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143743 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143743">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014379"/>
+        <obo:IAO_0000115>The E cape of Nauru.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143743</oboInOwl:id>
+        <rdfs:label>Cape Ijuw</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143744 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143744">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006900"/>
+        <obo:IAO_0000115>The SE cape of Nauru.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143744</oboInOwl:id>
+        <rdfs:label>Cape Menen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143745 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143745">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00014371"/>
+        <obo:IAO_0000115>The N cape of Nauru.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143745</oboInOwl:id>
+        <rdfs:label>Cape Anna</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00252428 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00252428">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006900"/>
+        <obo:IAO_0000115>An enclosed brackish lagoon in the interior of a raised coral limestone island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00252428</oboInOwl:id>
+        <rdfs:label>Buada Lagoon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009608">
+        <oboInOwl:id>GAZ:00009608</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>District (Nauru)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00014371">
+        <oboInOwl:id>GAZ:00014371</oboInOwl:id>
+        <rdfs:label>Ewa District</rdfs:label>
+        <obo:IAO_0000115>A district in the Pacific nation of the Republic of Nauru, located in the north of island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00014375">
+        <oboInOwl:id>GAZ:00014375</oboInOwl:id>
+        <obo:IAO_0000115>A district in the Pacific nation of the Republic of Nauru, landlocked in the SW.</obo:IAO_0000115>
+        <rdfs:label>Buada District</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00014379">
+        <obo:IAO_0000115>A district in the country Nauru, located in the north-east region of the island.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00014379</oboInOwl:id>
+        <rdfs:label>Ijuw District</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00014381">
+        <oboInOwl:id>GAZ:00014381</oboInOwl:id>
+        <rdfs:label>Yaren District</rdfs:label>
+        <obo:IAO_0000115>A district of the country Nauru, on the S.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

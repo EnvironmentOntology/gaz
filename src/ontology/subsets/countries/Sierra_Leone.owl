@@ -1,0 +1,3547 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Sierra_Leone.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Sierra_Leone.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Sierra_Leone.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000009 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001066 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001066"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001067 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001067"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001068 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001068">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001067"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001069 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001069">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001066"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001070 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001070">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001066"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001071 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001071">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001066"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005298 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005298">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005299"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005299 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005299"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007501 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00007501">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005299"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013801 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00013801">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005299"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013802 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00013802">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005299"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000914 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000914">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+        <obo:IAO_0000115>A country in West Africa. It is bordered by Guinea in the north and east, Liberia in the southeast, and the Atlantic Ocean in the southwest and west. The Republic of Sierra Leone is composed of 3 provinces and one area called the Western Area; the provinces are further divided into 12 districts. The Western Area is also divided into 2 districts.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000914</oboInOwl:id>
+        <rdfs:label>Sierra Leone</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001066 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001066">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000914"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001067 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001067">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000914"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001068 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001068"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001069 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001070 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001070"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001071 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001071"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005297 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005297">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A district in the Southern Province of Sierra Leone. Its capital and largest city is Moyamba. Moyamba District borders the Atlantic Ocean in the west, Port Loko District and Tonkolili District to the north, Bo District to the east and Bonthe to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005297</oboInOwl:id>
+        <rdfs:label>Moyamba District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005298 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005298">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005299 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005299">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000914"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007500 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007500">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001071"/>
+        <obo:IAO_0000115>A district in the Eastern Province of Sierra Leone. Its capital and administrative center is Kenema, which is also the capital of the Eastern Province and the third largest city in the country. The District of Kenema borders Bo District to the west, the Republic of Liberia to the south, Tonkolili District and Kono District to the north, Kailahun District to the southwest, and Pujehun District to the southeast.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007500</oboInOwl:id>
+        <rdfs:label>Kenema District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007501 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007501">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241773"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010031 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010031">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241771"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010031</oboInOwl:id>
+        <rdfs:label>Tongo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010032 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010032">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000914"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010032</oboInOwl:id>
+        <rdfs:label>Konia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010033 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010033">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000914"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010033</oboInOwl:id>
+        <rdfs:label>Mano</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010034 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010034">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000914"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010034</oboInOwl:id>
+        <rdfs:label>Gondama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010035 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010035">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000914"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010035</oboInOwl:id>
+        <rdfs:label>Mobai</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010036 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010036">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000914"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010036</oboInOwl:id>
+        <rdfs:label>Niahun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010037 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010037">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241856"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010037</oboInOwl:id>
+        <rdfs:label>Segbwema</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00010038 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00010038">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241749"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00010038</oboInOwl:id>
+        <rdfs:label>Panguma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013791 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013791">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001070"/>
+        <obo:IAO_0000115>A district in the Northern Province of Sierra Leone. Its capital and administrative center is Magburaka. Tonkolly District borders Bombali District to the northwest, Kono District to the east, Kenema District and Bo District to the southeast.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013791</oboInOwl:id>
+        <rdfs:label>Tonkolili District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013792 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013792">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001070"/>
+        <obo:IAO_0000115>A district in the Northern Province of Sierra Leone. Its capital and administrative center is Kambia. Kambia District borders the Republic of Guinea to the north, Port Loko District to the south and Bombali District to the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013792</oboInOwl:id>
+        <rdfs:label>Kambia District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013793 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013793">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001070"/>
+        <obo:IAO_0000115>A district in the Northern Province of Sierra Leone. The district borders the Republic of Guinea to the north, Port Loko District and Kambia Districts to the west, Tonkolili District to the south, and Koinadugu District to the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013793</oboInOwl:id>
+        <rdfs:label>Bombali District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013794 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013794">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001070"/>
+        <obo:IAO_0000115>A district in the Northern Province of Sierra Leone. Its capital and largest city is Port Loko. Other major towns in the district are Lunsar and Lungi. The district of Port Loko borders the Western Area to the west, Kambia District to the north, Bombali District to the east and Tonkolili District to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013794</oboInOwl:id>
+        <rdfs:label>Port Loko District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013795 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013795">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001070"/>
+        <obo:IAO_0000115>The largest district by geographical area in Sierra Leone, and is located in the Northern Province of the country. Its capital and largest city is Kabala.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013795</oboInOwl:id>
+        <rdfs:label>Koinadugu District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013796">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001071"/>
+        <obo:IAO_0000115>A district in the Eastern Province of Sierra Leone. Its capital and largest city is Kailahun. The district of Kailahun borders the Republic of Liberia to the east, Kono District to the north and Kenema District to the west.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013796</oboInOwl:id>
+        <rdfs:label>Kailahun District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013797 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013797">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001071"/>
+        <obo:IAO_0000115>A district in the Eastern Province of Sierra Leone. Kono District borders the Republic of Guinea to the east, Koinadugu District to the west, Kenema District to the southwest, and Kailahun District to the southeast.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013797</oboInOwl:id>
+        <rdfs:label>Kono District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013798 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013798">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A district in the Southern Province of Sierra Leone. Its capital is Gandorhun, but the largest city in the district is Pujehun. The district borders the Atlantic Ocean in the southwest, the Republic of Liberia to the southeast, Kenema to the northeast, Bo to the north and Bonthe to the west.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013798</oboInOwl:id>
+        <rdfs:label>Pujehun District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013799 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013799">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A district in the Southern Province of Sierra Leone. Its capital and administrative center is Bo, which is also the second largest city in Sierra Leone after the national capital, Freetown. Bo District borders Kenema District to the east, Tonkolili District to the north, Moyamba District to the west, Bonthe District to the southwest and Pujehun District to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013799</oboInOwl:id>
+        <rdfs:label>Bo District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013800 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013800">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A district in the Southern Province of Sierra Leone. It capital and largest city is Bonthe. Other major towns in the district are Sherbro Island and Mattru. Bonthe District borders the Atlantic Ocean to the west, Moyamba District to the northwest, Bo District to the southeast and Pujehun District to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013800</oboInOwl:id>
+        <rdfs:label>Bonthe District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013801 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013801">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241889"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013802 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013802">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076678"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013803 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013803">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241741"/>
+        <obo:IAO_0000115>A neighborhood in Sierra Leone&apos;s capital of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013803</oboInOwl:id>
+        <rdfs:label>Murray Town</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013804 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013804">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001071"/>
+        <obo:IAO_0000115>A mountain.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013804</oboInOwl:id>
+        <rdfs:label>Mabi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040004 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040004">
+        <obo:IAO_0000115>An island. Located about 20 miles upriver from Sierra Leone&apos;s capital city of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040004</oboInOwl:id>
+        <rdfs:label>Bunce Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040005 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040005">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076677"/>
+        <obo:IAO_0000115>Islands that lie south west of the Freetown Peninsula in Sierra Leone. The two main islands, Dublin Island and Ricketts Island, are linked by a causeway.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040005</oboInOwl:id>
+        <rdfs:label>Banana Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040006 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040006">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040005"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040006</oboInOwl:id>
+        <rdfs:label>Ricketts Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040007 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040007">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040005"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040007</oboInOwl:id>
+        <rdfs:label>Dublin Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040008 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040008">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040005"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040008</oboInOwl:id>
+        <rdfs:label>Mes-Meheux Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040011 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040011">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241828"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040011</oboInOwl:id>
+        <rdfs:label>Port Loko Creek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040012 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040012">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>An island in the Atlantic Ocean, located in Bonthe District off the Southern Province of Sierra Leone; separated from the African mainland by the Sherbro River in the north and the Sherbro Strait in the east It is 32 miles long and up to 15 miles wide, covering an area of approximately 230 square miles. The western extremity is Cape St. Ann.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040012</oboInOwl:id>
+        <rdfs:label>Sherbro Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040013 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040013">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>Island off the W end of Sherbro Island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040013</oboInOwl:id>
+        <rdfs:label>Turtle Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076677 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076677">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241938"/>
+        <obo:IAO_0000115>One of the 14 Districts of Sierra Leone. It is located in the Western Area of the country. It is comprised of Freetown&apos;s suburbs of Waterloo,Leicester, Pepel, Koya, York and Benguema.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076677</oboInOwl:id>
+        <rdfs:label>Western Area Rural District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076678 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076678">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241938"/>
+        <obo:IAO_0000115>One of the 14 Districts of Sierra Leone. It is the most populous district in the country and is located in the Western Area. The Western Area Urban District comprises Freetown, the nation&apos;s capital and its urban suburbs of Goderich and Hastings.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076678</oboInOwl:id>
+        <rdfs:label>Western Area Urban District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076679 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076679">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001070"/>
+        <obo:IAO_0000115>A national park located in northwest Sierra Leone near the border with the Republic of Guinea. The park is divided into two areas, Outamba (741 km2) and Kilimi (368 km2). The area became a game reserve in 1974, and was made a National Park in 1986-01.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076679</oboInOwl:id>
+        <rdfs:label>Outamba-Kilimi National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076680 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076680">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241938"/>
+        <obo:IAO_0000115>A national park in Sierre Leone.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076680</oboInOwl:id>
+        <rdfs:label>Western Area National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076683 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076683">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000914"/>
+        <obo:IAO_0000115>A national park in Sierre Leone.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076683</oboInOwl:id>
+        <rdfs:label>Kuru Hills National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076684 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076684">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241813"/>
+        <obo:IAO_0000115>A national park in Sierre Leone.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076684</oboInOwl:id>
+        <rdfs:label>Lake Sonfon National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241731 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241731">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013802"/>
+        <obo:IAO_0000115>A region of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241731</oboInOwl:id>
+        <rdfs:label>East End of Freetown</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241732 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241732">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013802"/>
+        <obo:IAO_0000115>A region of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241732</oboInOwl:id>
+        <rdfs:label>Central Freetown</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241733 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241733">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013802"/>
+        <obo:IAO_0000115>A region of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241733</oboInOwl:id>
+        <rdfs:label>West End of Freetown</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241734 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241734">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241731"/>
+        <obo:IAO_0000115>A municipal ward of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241734</oboInOwl:id>
+        <rdfs:label>East I Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241735 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241735">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241731"/>
+        <obo:IAO_0000115>A municipal ward of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241735</oboInOwl:id>
+        <rdfs:label>East II Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241736 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241736">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241731"/>
+        <obo:IAO_0000115>A municipal ward of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241736</oboInOwl:id>
+        <rdfs:label>East III Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241737 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241737">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241732"/>
+        <obo:IAO_0000115>A municipal ward of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241737</oboInOwl:id>
+        <rdfs:label>Central I Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241738 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241738">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241732"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241738</oboInOwl:id>
+        <rdfs:label>Central II Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241739 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241739">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241733"/>
+        <obo:IAO_0000115>A municipal ward of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241739</oboInOwl:id>
+        <rdfs:label>West I Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241740 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241740">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241733"/>
+        <obo:IAO_0000115>A municipal ward of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241740</oboInOwl:id>
+        <rdfs:label>West II Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241741 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241741">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241733"/>
+        <obo:IAO_0000115>A municipal ward of Freetown.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241741</oboInOwl:id>
+        <rdfs:label>West III Ward</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241742 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241742">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076678"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241742</oboInOwl:id>
+        <rdfs:label>Waterloo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241743 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241743">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076678"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241743</oboInOwl:id>
+        <rdfs:label>Goderich</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241744 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241744">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076678"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241744</oboInOwl:id>
+        <rdfs:label>Hastings</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241745 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241745">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076677"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241745</oboInOwl:id>
+        <rdfs:label>Leicester</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241746 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241746">
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241746</oboInOwl:id>
+        <rdfs:label>Tasso Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241747 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241747">
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241747</oboInOwl:id>
+        <rdfs:label>Tombo Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241748 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241748">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241748</oboInOwl:id>
+        <rdfs:label>Chiefdom of Dea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241749 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241749">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241749</oboInOwl:id>
+        <rdfs:label>Chiefdom of Jawie</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241750 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241750">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241750</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kissi Kama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241751 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241751">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241751</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kissi Teng</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241752 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241752">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241752</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kissi Tongi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241753 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241753">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241753</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kpeje Bongre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241754 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241754">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241754</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kpeje West</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241755 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241755">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241755</oboInOwl:id>
+        <rdfs:label>Chiefdom of Luawa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241756 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241756">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241756</oboInOwl:id>
+        <rdfs:label>Chiefdom of Malema</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241757 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241757">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241757</oboInOwl:id>
+        <rdfs:label>Chiefdom of Mandu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241758 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241758">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241758</oboInOwl:id>
+        <rdfs:label>Chiefdom of Njaluahun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241759 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241759">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241759</oboInOwl:id>
+        <rdfs:label>Chiefdom of Penguia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241760 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241760">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241760</oboInOwl:id>
+        <rdfs:label>Chiefdom of Upper Bambara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241761 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241761">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013796"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kailahun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241761</oboInOwl:id>
+        <rdfs:label>Chiefdom of Yawei</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241762 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241762">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241762</oboInOwl:id>
+        <rdfs:label>Chiefdom of Dama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241763 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241763">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241763</oboInOwl:id>
+        <rdfs:label>Chiefdom of Dodo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241764 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241764">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241764</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gaura</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241765 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241765">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241765</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gorama Mende</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241766 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241766">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241766</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kandu Lekpeama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241767 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241767">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241767</oboInOwl:id>
+        <rdfs:label>Chiefdom of Koya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241768 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241768">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241768</oboInOwl:id>
+        <rdfs:label>Chiefdom of Langrama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241769 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241769">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241769</oboInOwl:id>
+        <rdfs:label>Chiefdom of Lower Bambara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241770 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241770">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241770</oboInOwl:id>
+        <rdfs:label>Chiefdom of Malegohun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241771 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241771">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241771</oboInOwl:id>
+        <rdfs:label>Chiefdom of Niawa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241772 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241772">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241772</oboInOwl:id>
+        <rdfs:label>Chiefdom of Nomo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241773 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241773">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241773</oboInOwl:id>
+        <rdfs:label>Chiefdom of Nongowa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241774 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241774">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241774</oboInOwl:id>
+        <rdfs:label>Chiefdom of Simbaru</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241775 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241775">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241775</oboInOwl:id>
+        <rdfs:label>Chiefdom of Small Bo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241776 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241776">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241776</oboInOwl:id>
+        <rdfs:label>Chiefdom of Tunkia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241777 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241777">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007500"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241777</oboInOwl:id>
+        <rdfs:label>Chiefdom of Wandor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241778 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241778">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241778</oboInOwl:id>
+        <rdfs:label>Chiefdom of Fiama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241779 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241779">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241779</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gbane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241780 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241780">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 16 chiefdoms of Kenema District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241780</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gbane Kandor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241781 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241781">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kono District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241781</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gbense</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241782 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241782">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kono District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241782</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gorama Kono</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241783 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241783">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kono District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241783</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kamara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241784 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241784">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kono District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241784</oboInOwl:id>
+        <rdfs:label>Chiefdom of Lei</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241785 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241785">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kono District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241785</oboInOwl:id>
+        <rdfs:label>Chiefdom of Mafindor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241786 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241786">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kono District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241786</oboInOwl:id>
+        <rdfs:label>Chiefdom of Nimikoro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241787 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241787">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kono District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241787</oboInOwl:id>
+        <rdfs:label>Chiefdom of Nimiyama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241788 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241788">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kono District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241788</oboInOwl:id>
+        <rdfs:label>Chiefdom of Sandor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241789 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241789">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kono District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241789</oboInOwl:id>
+        <rdfs:label>Chiefdom of Soa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241790">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kono District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241790</oboInOwl:id>
+        <rdfs:label>Chiefdom of Tankoro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241791 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241791">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013797"/>
+        <obo:IAO_0000115>One of 14 chiefdoms of Kono District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241791</oboInOwl:id>
+        <rdfs:label>Chiefdom of Toli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241792 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241792">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241792</oboInOwl:id>
+        <rdfs:label>Chiefdom of Biriwa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241793 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241793">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241793</oboInOwl:id>
+        <rdfs:label>Chiefdom of Bombali Sebora</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241794 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241794">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241794</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gbanti-Kamaranka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241795 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241795">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241795</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gbendembu Ngowahun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241796">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241796</oboInOwl:id>
+        <rdfs:label>Chiefdom of Libeisaygahun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241797 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241797">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241797</oboInOwl:id>
+        <rdfs:label>Chiefdom of Magbaimba Ndorhahun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241798 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241798">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241798</oboInOwl:id>
+        <rdfs:label>Chiefdom of Makari Gbanti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241799 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241799">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241799</oboInOwl:id>
+        <rdfs:label>Chiefdom of Paki Masabong</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241800 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241800">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241800</oboInOwl:id>
+        <rdfs:label>Chiefdom of Safroko Limba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241801 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241801">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241801</oboInOwl:id>
+        <rdfs:label>Chiefdom of Sanda Loko</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241802 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241802">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241802</oboInOwl:id>
+        <rdfs:label>Chiefdom of Sanda Tendaren</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241803 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241803">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241803</oboInOwl:id>
+        <rdfs:label>Chiefdom of Sella Limba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241804 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241804">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013793"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bombali District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241804</oboInOwl:id>
+        <rdfs:label>Chiefdom of Tambakka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241805 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241805">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013792"/>
+        <obo:IAO_0000115>One of the 7 chiefdoms of Kambia District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241805</oboInOwl:id>
+        <rdfs:label>Chiefdom of Bramaia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241806 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241806">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013792"/>
+        <obo:IAO_0000115>One of the 7 chiefdoms of Kambia District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241806</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gbinle-Dixing</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241807 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241807">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013792"/>
+        <obo:IAO_0000115>One of the 7 chiefdoms of Kambia District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241807</oboInOwl:id>
+        <rdfs:label>Chiefdom of Magbema</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241808 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241808">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013792"/>
+        <obo:IAO_0000115>One of the 7 chiefdoms of Kambia District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241808</oboInOwl:id>
+        <rdfs:label>Chiefdom of Mambolo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241809 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241809">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013792"/>
+        <obo:IAO_0000115>One of the 7 chiefdoms of Kambia District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241809</oboInOwl:id>
+        <rdfs:label>Chiefdom of Masungbala</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241810 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241810">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013792"/>
+        <obo:IAO_0000115>One of the 7 chiefdoms of Kambia District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241810</oboInOwl:id>
+        <rdfs:label>Chiefdom of Samu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241811 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241811">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013792"/>
+        <obo:IAO_0000115>One of the 7 chiefdoms of Kambia District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241811</oboInOwl:id>
+        <rdfs:label>Chiefdom of Tonko Limba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241812 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241812">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013795"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Koinadugu District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241812</oboInOwl:id>
+        <rdfs:label>Chiefdom of Dembelia Sinkunia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241813 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241813">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013795"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Koinadugu District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241813</oboInOwl:id>
+        <rdfs:label>Chiefdom of Diang</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241814 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241814">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013795"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Koinadugu District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241814</oboInOwl:id>
+        <rdfs:label>Chiefdom of Follosaba Dembelia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241815 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241815">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013795"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Koinadugu District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241815</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kasunko</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241816 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241816">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013795"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Koinadugu District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241816</oboInOwl:id>
+        <rdfs:label>Chiefdom of Mongo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241817 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241817">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013795"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Koinadugu District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241817</oboInOwl:id>
+        <rdfs:label>Chiefdom of Neya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241818 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241818">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013795"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Koinadugu District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241818</oboInOwl:id>
+        <rdfs:label>Chiefdom of Nieni</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241819 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241819">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013795"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Koinadugu District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241819</oboInOwl:id>
+        <rdfs:label>Chiefdom of Sengbe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241820 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241820">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013795"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Koinadugu District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241820</oboInOwl:id>
+        <rdfs:label>Chiefdom of Sulima</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241821 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241821">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013795"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Koinadugu District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241821</oboInOwl:id>
+        <rdfs:label>Chiefdom of Wara Wara Bafodia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241822 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241822">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013795"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Koinadugu District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241822</oboInOwl:id>
+        <rdfs:label>Chiefdom of Wara Wara Yagala</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241823 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241823">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013794"/>
+        <obo:IAO_0000115>One of the 11 cheifdoms of Port Loko District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241823</oboInOwl:id>
+        <rdfs:label>Chiefdom of Bureh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241824 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241824">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013794"/>
+        <obo:IAO_0000115>One of the 11 cheifdoms of Port Loko District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241824</oboInOwl:id>
+        <rdfs:label>Chiefdom of Buya Romende</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241825 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241825">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013794"/>
+        <obo:IAO_0000115>One of the 11 cheifdoms of Port Loko District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241825</oboInOwl:id>
+        <rdfs:label>Chiefdom of Dibia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241826 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241826">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013794"/>
+        <obo:IAO_0000115>One of the 11 cheifdoms of Port Loko District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241826</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kaffu Bullom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241827 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241827">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013794"/>
+        <obo:IAO_0000115>One of the 11 cheifdoms of Port Loko District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241827</oboInOwl:id>
+        <rdfs:label>Chiefdom of Koya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241828 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241828">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013794"/>
+        <obo:IAO_0000115>One of the 11 cheifdoms of Port Loko District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241828</oboInOwl:id>
+        <rdfs:label>Chiefdom of Lokomasama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241829 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241829">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013794"/>
+        <obo:IAO_0000115>One of the 11 cheifdoms of Port Loko District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241829</oboInOwl:id>
+        <rdfs:label>Chiefdom of Maforki</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241830 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241830">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013794"/>
+        <obo:IAO_0000115>One of the 11 cheifdoms of Port Loko District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241830</oboInOwl:id>
+        <rdfs:label>Chiefdom of Marampa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241831 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241831">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013794"/>
+        <obo:IAO_0000115>One of the 11 cheifdoms of Port Loko District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241831</oboInOwl:id>
+        <rdfs:label>Chiefdom of Masimera</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241832 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241832">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013794"/>
+        <obo:IAO_0000115>One of the 11 cheifdoms of Port Loko District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241832</oboInOwl:id>
+        <rdfs:label>Chiefdom of Sanda Magbolontor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241833 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241833">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013794"/>
+        <obo:IAO_0000115>One of the 11 cheifdoms of Port Loko District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241833</oboInOwl:id>
+        <rdfs:label>Chiefdom of Tinkatupa Maka Saffoko</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241834 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241834">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Tonkolili District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241834</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gbonkolenken</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241835 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241835">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Tonkolili District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241835</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kafe Simira</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241836 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241836">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Tonkolili District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241836</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kalansogoia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241837 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241837">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Tonkolili District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241837</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kholifa Mabang</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241838 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241838">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Tonkolili District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241838</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kholifa Rowalla</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241839 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241839">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Tonkolili District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241839</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kunike Barina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241840 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241840">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Tonkolili District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241840</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kunike Sanda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241841 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241841">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Tonkolili District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241841</oboInOwl:id>
+        <rdfs:label>Chiefdom of Malal Mara</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241842 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241842">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Tonkolili District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241842</oboInOwl:id>
+        <rdfs:label>Chiefdom of Sambaya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241843 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241843">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Tonkolili District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241843</oboInOwl:id>
+        <rdfs:label>Chiefdom of Tane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241844 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241844">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>One of the 11 chiefdoms of Tonkolili District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241844</oboInOwl:id>
+        <rdfs:label>Chiefdom of Yoni</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241845 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241845">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241845</oboInOwl:id>
+        <rdfs:label>Chiefdom of Badjia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241846 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241846">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241846</oboInOwl:id>
+        <rdfs:label>Chiefdom of Bagbe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241847 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241847">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241847</oboInOwl:id>
+        <rdfs:label>Chiefdom of Bagbo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241848 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241848">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241848</oboInOwl:id>
+        <rdfs:label>Chiefdom of Baoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241849 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241849">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241849</oboInOwl:id>
+        <rdfs:label>Chiefdom of Bumpe Ngawo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241850 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241850">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241850</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gbo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241851 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241851">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241851</oboInOwl:id>
+        <rdfs:label>Chiefdom of Jiama-Bongor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241852 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241852">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241852</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kakua</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241853 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241853">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241853</oboInOwl:id>
+        <rdfs:label>Chiefdom of Komboya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241854 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241854">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241854</oboInOwl:id>
+        <rdfs:label>Chiefdom of Lugbu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241855 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241855">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241855</oboInOwl:id>
+        <rdfs:label>Chiefdom of Niawa Lenga</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241856 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241856">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241856</oboInOwl:id>
+        <rdfs:label>Chiefdom of Selenga</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241857 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241857">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241857</oboInOwl:id>
+        <rdfs:label>Chiefdom of Tikonko</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241858 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241858">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241858</oboInOwl:id>
+        <rdfs:label>Chiefdom of Valunia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241859 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241859">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013799"/>
+        <obo:IAO_0000115>One of the 16 chiefdoms of Bo District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241859</oboInOwl:id>
+        <rdfs:label>Chiefdom of Wunde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241860 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241860">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bonthe District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241860</oboInOwl:id>
+        <rdfs:label>Chiefdom of Bendu Cha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241861 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241861">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bonthe District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241861</oboInOwl:id>
+        <rdfs:label>Chiefdom of Bum</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241862 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241862">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bonthe District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241862</oboInOwl:id>
+        <rdfs:label>Chiefdom of Dema</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241863 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241863">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bonthe District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241863</oboInOwl:id>
+        <rdfs:label>Chiefdom of Imperi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241864 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241864">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bonthe District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241864</oboInOwl:id>
+        <rdfs:label>Chiefdom of Jong</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241865 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241865">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bonthe District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241865</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kpanda Kemo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241866 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241866">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bonthe District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241866</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kwamebai Krim</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241867 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241867">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bonthe District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241867</oboInOwl:id>
+        <rdfs:label>Chiefdom of Nongoba Bullom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241868 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241868">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bonthe District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241868</oboInOwl:id>
+        <rdfs:label>Chiefdom of Sittia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241869 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241869">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bonthe District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241869</oboInOwl:id>
+        <rdfs:label>Chiefdom of Sogbini</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241870 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241870">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013800"/>
+        <obo:IAO_0000115>One of the chiefdoms of Bonthe District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241870</oboInOwl:id>
+        <rdfs:label>Chiefdom of Yawbeko</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241871 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241871">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241871</oboInOwl:id>
+        <rdfs:label>Chiefdom of Bagruwa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241872 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241872">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241872</oboInOwl:id>
+        <rdfs:label>Chiefdom of Bumpeh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241873 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241873">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241873</oboInOwl:id>
+        <rdfs:label>Chiefdom of Dasse</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241874 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241874">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241874</oboInOwl:id>
+        <rdfs:label>Chiefdom of Fakunya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241875 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241875">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241875</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kagboro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241876 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241876">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241876</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kaiyamba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241877 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241877">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241877</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kamajei</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241878 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241878">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241878</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kongbora</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241879 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241879">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241879</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kori</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241880 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241880">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241880</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kowa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241881 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241881">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241881</oboInOwl:id>
+        <rdfs:label>Chiefdom of Lower Banta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241882 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241882">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241882</oboInOwl:id>
+        <rdfs:label>Chiefdom of Ribbi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241883 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241883">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241883</oboInOwl:id>
+        <rdfs:label>Chiefdom of Timdale</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241884 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241884">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A chiefdom of Moyamba District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241884</oboInOwl:id>
+        <rdfs:label>Chiefdom of Upper Banta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241885 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241885">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241885</oboInOwl:id>
+        <rdfs:label>Chiefdom of Barri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241886 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241886">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241886</oboInOwl:id>
+        <rdfs:label>Chiefdom of Gallinasperi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241887 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241887">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241887</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kpaka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241888 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241888">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241888</oboInOwl:id>
+        <rdfs:label>Chiefdom of Kpanga-Kabonde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241889 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241889">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241889</oboInOwl:id>
+        <rdfs:label>Chiefdom of Makpele</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241890 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241890">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241890</oboInOwl:id>
+        <rdfs:label>Chiefdom of Malen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241891 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241891">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241891</oboInOwl:id>
+        <rdfs:label>Chiefdom of Mano Sakrim</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241892 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241892">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District. In two disjunct parts, one N and one SW of Pujehun.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241892</oboInOwl:id>
+        <rdfs:label>Chiefdom of Panga Krim</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241893 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241893">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241893</oboInOwl:id>
+        <rdfs:label>Chiefdom of Pejeh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241894 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241894">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241894</oboInOwl:id>
+        <rdfs:label>Chiefdom of Soro Gbema</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241895 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241895">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241895</oboInOwl:id>
+        <rdfs:label>Chiefdom of Sowa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241896 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241896">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013798"/>
+        <obo:IAO_0000115>A chiefdom of Pujehun District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241896</oboInOwl:id>
+        <rdfs:label>Chiefdom of Yakemo-Kpukumu Krim</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241897 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241897">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241897</oboInOwl:id>
+        <rdfs:label>Lake Mape</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241898 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241898">
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241898</oboInOwl:id>
+        <rdfs:label>Lake Mabesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241899 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241899">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241896"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241899</oboInOwl:id>
+        <rdfs:label>Lake Masatoi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241900 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241900">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241897"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241900</oboInOwl:id>
+        <rdfs:label>Nyetiko Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241901 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241901">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241897"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241901</oboInOwl:id>
+        <rdfs:label>Wointi Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241902 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241902">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241897"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241902</oboInOwl:id>
+        <rdfs:label>Yamama Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241903 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241903">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241896"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241903</oboInOwl:id>
+        <rdfs:label>Lake Maimoi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241904 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241904">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241896"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241904</oboInOwl:id>
+        <rdfs:label>Lake Kokuti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241905 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241905">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241896"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241905</oboInOwl:id>
+        <rdfs:label>Lake Waanji</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241906 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241906">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241888"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241906</oboInOwl:id>
+        <rdfs:label>Lake Matopo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241907 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241907">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076684"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241907</oboInOwl:id>
+        <rdfs:label>Lake Sonfon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241908 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241908">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241810"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241908</oboInOwl:id>
+        <rdfs:label>Yelibuya Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241910 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241910">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241887"/>
+        <obo:IAO_0000115>An island in the mouth of the Moa River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241910</oboInOwl:id>
+        <rdfs:label>Kasada Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241911 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241911">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241887"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241911</oboInOwl:id>
+        <rdfs:label>Sulima Mangrove Swamp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241912 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241912">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>An island located on the Moa River in the Southern Province.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241912</oboInOwl:id>
+        <rdfs:label>Tiwai Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241913 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241913">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013791"/>
+        <obo:IAO_0000115>A protected area. A game reserve in Tonkolili District, Northern Province, Sierra Leone.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241913</oboInOwl:id>
+        <rdfs:label>Mamunta Mayosso Wildlife Sanctuary</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241915 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241915">
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241915</oboInOwl:id>
+        <rdfs:label>Gola North Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241916 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241916">
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241916</oboInOwl:id>
+        <rdfs:label>Gola West Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241917 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241917">
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241917</oboInOwl:id>
+        <rdfs:label>Gola East Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241920 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241920">
+        <obo:IAO_0000115>A part of Kambui Hills Forest Reserve. Kambui North and Kambui South are separated by the main road to Kenema.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241920</oboInOwl:id>
+        <rdfs:label>Kambui South Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241921 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241921">
+        <obo:IAO_0000115>A part of Kambui Hills Forest Reserve. Kambui North and Kambui South are separated by the main road to Kenema.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241921</oboInOwl:id>
+        <rdfs:label>Kambui North Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241923 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241923">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076680"/>
+        <obo:IAO_0000115>A dam. Impounds Guma Valley Reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241923</oboInOwl:id>
+        <rdfs:label>Guma Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241924 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241924">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076680"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241924</oboInOwl:id>
+        <rdfs:label>Congo Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241925 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241925">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076680"/>
+        <obo:IAO_0000115>A reservoir. Impounded by Guma Dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241925</oboInOwl:id>
+        <rdfs:label>Guma Valley Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241926 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241926">
+        <obo:IAO_0000115>A bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241926</oboInOwl:id>
+        <rdfs:label>Yawri Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241928 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241928">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A river. Discharges into Yawri Bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241928</oboInOwl:id>
+        <rdfs:label>Bumpe River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241929 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241929">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A river. Discharges into Yawri Bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241929</oboInOwl:id>
+        <rdfs:label>Kagboro River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241930 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241930">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00076680"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241930</oboInOwl:id>
+        <rdfs:label>Tacugama Chimpanzee Sanctuary</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241931 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241931">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241912"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241931</oboInOwl:id>
+        <rdfs:label>Tiwai Island Wildlife Sanctuary</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241932 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241932">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A 110 km-long peninsula in southern Sierra Leone, running westwards, parallel to the coast, bounded by the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241932</oboInOwl:id>
+        <rdfs:label>Turner&apos;s Peninsula</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241933 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241933">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241933</oboInOwl:id>
+        <rdfs:label>Kasewe Forest Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241934 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241934">
+        <obo:IAO_0000115>A mountain massif.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241934</oboInOwl:id>
+        <rdfs:label>Sankan Biriwa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241935 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241935">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241875"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241926"/>
+        <obo:IAO_0000115>Islands.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241935</oboInOwl:id>
+        <rdfs:label>Plantain Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241936 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241936">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A river. It separates Sherbro Island from the mainland.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241936</oboInOwl:id>
+        <rdfs:label>Sherbro River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241937 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241937">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005297"/>
+        <obo:IAO_0000115>A strait to the SE of Sherbro Island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241937</oboInOwl:id>
+        <rdfs:label>Sherbro Strait</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241938 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241938">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001068"/>
+        <obo:IAO_0000115>A peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241938</oboInOwl:id>
+        <rdfs:label>Freetown Peninsula</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241939 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241939">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241741"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241939</oboInOwl:id>
+        <rdfs:label>Man of War Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241940 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241940">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241741"/>
+        <obo:IAO_0000115>A bay along the N coast of the Freetown Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241940</oboInOwl:id>
+        <rdfs:label>Aberdeen Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241941 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241941">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241741"/>
+        <obo:IAO_0000115>A bay along the N coast of the Freetown Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241941</oboInOwl:id>
+        <rdfs:label>Cockle Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241942 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241942">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241741"/>
+        <obo:IAO_0000115>A bay along the N coast of the Freetown Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241942</oboInOwl:id>
+        <rdfs:label>Aberdeen Creek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241943 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241943">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241741"/>
+        <obo:IAO_0000115>A bay along the N coast of the Freetown Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241943</oboInOwl:id>
+        <rdfs:label>Pirate Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241944 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241944">
+        <obo:IAO_0000115>A bay along the N coast of the Freetown Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241944</oboInOwl:id>
+        <rdfs:label>White Man&apos;s Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241945 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241945">
+        <obo:IAO_0000115>A bay along the N coast of the Freetown Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241945</oboInOwl:id>
+        <rdfs:label>Kroo Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241946 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241946">
+        <obo:IAO_0000115>A bay along the N coast of the Freetown Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241946</oboInOwl:id>
+        <rdfs:label>Susan&apos;s Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241947 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241947">
+        <obo:IAO_0000115>A bay along the N coast of the Freetown Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241947</oboInOwl:id>
+        <rdfs:label>Destruction Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241948 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241948">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241736"/>
+        <obo:IAO_0000115>A bay along the N coast of the Freetown Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241948</oboInOwl:id>
+        <rdfs:label>Cline Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241952 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241952">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241862"/>
+        <obo:IAO_0000115>A river. Discharges to the Atlantic Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241952</oboInOwl:id>
+        <rdfs:label>Mongeri Creek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241954 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241954">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241867"/>
+        <obo:IAO_0000115>An anabranch of the Sewa River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241954</oboInOwl:id>
+        <rdfs:label>Kittam River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241955 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241955">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241867"/>
+        <obo:IAO_0000115>An anabranch of the Sewa River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241955</oboInOwl:id>
+        <rdfs:label>Gbagbe River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241958 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241958">
+        <obo:IAO_0000115>A river. A tributary of the Moa River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241958</oboInOwl:id>
+        <rdfs:label>Meli River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241963 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241963">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241804"/>
+        <obo:IAO_0000115>A river. Discharges to the Atlantic Ocean. Forms part of the border between Guinea and Sierra Leone.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241963</oboInOwl:id>
+        <rdfs:label>Great Scarcies River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241964 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241964">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241810"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241963"/>
+        <obo:IAO_0000115>An island in the mouth of the Great Scarcies River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241964</oboInOwl:id>
+        <rdfs:label>Kortimaw Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255703 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255703">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001070"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255703</oboInOwl:id>
+        <rdfs:label>Yema Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255704 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255704">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001070"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255704</oboInOwl:id>
+        <rdfs:label>Tasso Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255705 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255705">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00241926"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255705</oboInOwl:id>
+        <rdfs:label>Kukuli River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255706 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255706">
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255706</oboInOwl:id>
+        <rdfs:label>Masa Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255707 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255707">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A coastal lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255707</oboInOwl:id>
+        <rdfs:label>Lake Kenema</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255708 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255708">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A coastal lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255708</oboInOwl:id>
+        <rdfs:label>Lake Kwako</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255709 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255709">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A coastal lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255709</oboInOwl:id>
+        <rdfs:label>Lake Kamason</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255710 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255710">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A coastal lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255710</oboInOwl:id>
+        <rdfs:label>Lake Baiama</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255711 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255711">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A coastal lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255711</oboInOwl:id>
+        <rdfs:label>Lake Masatoi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255712 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255712">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A lake on the floodplain of the Sewa River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255712</oboInOwl:id>
+        <rdfs:label>Lake Kpoli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255713 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255713">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A lake on the floodplain of the Sewa River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255713</oboInOwl:id>
+        <rdfs:label>Lake Fula</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255714 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255714">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A lake on the floodplain of the Sewa River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255714</oboInOwl:id>
+        <rdfs:label>Lake Gambia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255716 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255716">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A lake on the floodplain of the Sewa River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255716</oboInOwl:id>
+        <rdfs:label>Lake Poepi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255717 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255717">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001069"/>
+        <obo:IAO_0000115>A lake on the floodplain of the Sewa River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255717</oboInOwl:id>
+        <rdfs:label>Lake Tibi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001066">
+        <oboInOwl:id>GAZ:00001066</oboInOwl:id>
+        <rdfs:label>Province (Sierra Leone)</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001067">
+        <oboInOwl:id>GAZ:00001067</oboInOwl:id>
+        <rdfs:label>Area (Sierra Leone)</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001068">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Western Area</rdfs:label>
+        <oboInOwl:id>GAZ:00001068</oboInOwl:id>
+        <obo:IAO_0000115>One of four principal divisions of Sierra Leone. It comprises the oldest city and national capital Freetown and its surrounding suburbs. To the northeast, the Western Area borders the Northern Province, and to the southeast it borders the Southern Province. However, most of the boundaries of the Western Area is the shoreline of the Atlantic Ocean.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001069">
+        <obo:IAO_0000115>One of three provinces of Sierra Leone.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00001069</oboInOwl:id>
+        <rdfs:label>Southern Province</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001070">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001070</oboInOwl:id>
+        <obo:IAO_0000115>One of the three provinces of Sierra Leone.</obo:IAO_0000115>
+        <rdfs:label>Northern Province</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001071">
+        <oboInOwl:id>GAZ:00001071</oboInOwl:id>
+        <obo:IAO_0000115>One of the three provinces of Sierra Leone.</obo:IAO_0000115>
+        <rdfs:label>Eastern Province</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00005298">
+        <oboInOwl:id>GAZ:00005298</oboInOwl:id>
+        <rdfs:label>Njala</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00005299">
+        <oboInOwl:id>GAZ:00005299</oboInOwl:id>
+        <rdfs:label>populated place, Sierra Leone</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00007501">
+        <rdfs:label>Kenema</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A populated place. The third largest city in Sierra Leone (after the capital Freetown and Bo) and the largest city in the Eastern Province.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00007501</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00013801">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013801</oboInOwl:id>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <rdfs:label>Gombu</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00013802">
+        <oboInOwl:id>GAZ:00013802</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Freetown</rdfs:label>
+        <obo:IAO_0000115>The capital and largest city of Sierra Leone. It is a major port city on the Atlantic Ocean.</obo:IAO_0000115>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

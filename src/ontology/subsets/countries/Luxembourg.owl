@@ -1,0 +1,3374 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Luxembourg.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Luxembourg.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Luxembourg.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000856 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005405 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005405"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005406 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005406">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005405"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005407 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005407">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005405"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005408 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005408">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005405"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00002947 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00002947">
+        <obo:IAO_0000115>A small landlocked country in western Europe, bordered by Belgium, France, and Germany. Luxembourg is divided into 3 districts, which are further divided into 12 cantons and then 116 communes. Twelve of the communes have city status, of which the city of Luxembourg is the largest.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00002947</oboInOwl:id>
+        <rdfs:label>Luxembourg</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00004518 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00004518">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148770"/>
+        <obo:IAO_0000115>A low volcanic mountain range in western Germany. It occupies parts of southwestern North Rhine-Westphalia and northwestern Rhineland-Palatinate. The Eifel is bordered by the Mosel River in the south and the Rhine in the east In the north it is continued by the hills of the High Venn (Hohes Venn), in the west by the Ardennes. (Ardennes and Eifel are actually the same geological region. They are a single volcanic field.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00004518</oboInOwl:id>
+        <rdfs:label>Eifel Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00004519 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00004519">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004518"/>
+        <obo:IAO_0000115>Ein Ortsteil der deutschen Stadt Gerolstein (Rheinland-Pfalz).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00004519</oboInOwl:id>
+        <rdfs:label>Gees</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005405 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005405">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002947"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005406 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005406"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005407 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005407"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005408 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005408"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005409 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005409">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005410"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Echternach, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005409</oboInOwl:id>
+        <rdfs:label>Commune of Berdorf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005410 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005410">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005408"/>
+        <obo:IAO_0000115>A canton in the east of Luxembourg, in the district Grevenmacher. The capital is Echternach.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005410</oboInOwl:id>
+        <rdfs:label>Canton of Echternach</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005411 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005411">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005406"/>
+        <obo:IAO_0000115>A canton in the north-west of Luxembourg. Its capital is the city of Wiltz.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005411</oboInOwl:id>
+        <rdfs:label>Canton of Wilzt</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005412 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005412">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005411"/>
+        <obo:IAO_0000115>A commune in north-western Luxembourg. It is part of the canton of Wiltz, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005412</oboInOwl:id>
+        <rdfs:label>Commune of Boulaide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005413 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005413">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005412"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005413</oboInOwl:id>
+        <rdfs:label>Bois de Boulaide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005414 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005414">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune with city status in central Luxembourg. It lies near the confluence of the rivers Sauer and Alzette. It is part of the canton of Diekirch, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005414</oboInOwl:id>
+        <rdfs:label>Commune of Ettelbruck</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005416 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005416">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005407"/>
+        <obo:IAO_0000115>A canton in the south-west of Luxembourg, in the district Luxembourg. The capital is Capellen.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005416</oboInOwl:id>
+        <rdfs:label>Canton of Capellen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005417 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005417">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005416"/>
+        <obo:IAO_0000115>A commune in western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005417</oboInOwl:id>
+        <rdfs:label>Commune of Steinfort</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005419 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005419">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005417"/>
+        <obo:IAO_0000115>The valley of the River Eisch, a river in Belgium and Luxembourg. Part of the basin of the Moselle.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005419</oboInOwl:id>
+        <rdfs:label>Vallee de l&apos;Eisch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005937 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005937">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148770"/>
+        <obo:IAO_0000115>A volcanic region of extensive forests and rolling hill country, primarily in Belgium and Luxembourg, but stretching into France.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005937</oboInOwl:id>
+        <rdfs:label>Ardennes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005939 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005939">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005937"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005939</oboInOwl:id>
+        <rdfs:label>Les Failles</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005940 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005940">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005939"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005940</oboInOwl:id>
+        <rdfs:label>Chalree</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00006111 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00006111">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005939"/>
+        <obo:IAO_0000115>A hill in the Municipality of Vielsalm.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00006111</oboInOwl:id>
+        <rdfs:label>Baraque Fraiture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00020975 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00020975">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005406"/>
+        <obo:IAO_0000115>A canton in the north of Luxembourg, in the district Diekirch. The capital is Clervaux.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00020975</oboInOwl:id>
+        <rdfs:label>Canton of Clervaux</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00020976 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00020976">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005406"/>
+        <obo:IAO_0000115>A canton in the north of Luxembourg, in the district Diekirch. The capital is Vianden.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00020976</oboInOwl:id>
+        <rdfs:label>Canton of Vianden</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00020977 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00020977">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005406"/>
+        <obo:IAO_0000115>A canton in Luxembourg in the district of Diekirch, consisting of 12 communes.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00020977</oboInOwl:id>
+        <rdfs:label>Canton of Diekirch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00020978 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00020978">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005406"/>
+        <obo:IAO_0000115>A canton in the west of Luxembourg, in the district Diekirch. The capital is Redange-sur-Attert.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00020978</oboInOwl:id>
+        <rdfs:label>Canton of Redange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00020979 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00020979">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005408"/>
+        <obo:IAO_0000115>A canton in the east of Luxembourg, in the district Grevenmacher. The capital is Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00020979</oboInOwl:id>
+        <rdfs:label>Canton of Grevenmacher</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00020980 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00020980">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005408"/>
+        <obo:IAO_0000115>A canton in the east of Luxembourg, in the district Grevenmacher. The capital is Remich.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00020980</oboInOwl:id>
+        <rdfs:label>Canton of Remich</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00020981 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00020981">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005407"/>
+        <obo:IAO_0000115>A canton in the south-west of Luxembourg, in the district Luxembourg. The capital is Esch-sur-Alzette.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00020981</oboInOwl:id>
+        <rdfs:label>Canton of Esch-sur-Alzette</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00020982 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00020982">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005407"/>
+        <obo:IAO_0000115>A canton in the centre of Luxembourg, in the district Luxembourg. The capital is Mersch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00020982</oboInOwl:id>
+        <rdfs:label>Canton of Mersch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00020983 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00020983">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005407"/>
+        <obo:IAO_0000115>A canton in the south of the Grand Duchy of Luxembourg, in the district of Luxembourg. The capital is Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00020983</oboInOwl:id>
+        <rdfs:label>Canton of Luxembourg</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00033987 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00033987">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005409"/>
+        <obo:IAO_0000115>A small town in eastern Luxembourg. It is part of the canton of Echternach, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00033987</oboInOwl:id>
+        <rdfs:label>Berdorf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00059083 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00059083">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005937"/>
+        <obo:IAO_0000115>A small artificial lake near the city of Neufchateau in the Ardennes in Belgium. The lake was built in 1958.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00059083</oboInOwl:id>
+        <rdfs:label>Lac de Neufchateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00059086 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00059086">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005937"/>
+        <obo:IAO_0000115>An artificial lake near the city of Couvin in Belgium near the border of France. The lake is located in the Ardennes.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00059086</oboInOwl:id>
+        <rdfs:label>Lac de Ry de Rome</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00059089 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00059089">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005937"/>
+        <obo:IAO_0000115>An artificial lake near the thermal city of Spa in Ardennes in Belgium. The dam was built in 1892 on the Wayai river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00059089</oboInOwl:id>
+        <rdfs:label>Lac de Warfaaz</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00059753 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00059753">
+        <obo:IAO_0000115>A man-made lake in the Lorraine Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00059753</oboInOwl:id>
+        <rdfs:label>Lac de Madine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00061452 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00061452">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004518"/>
+        <obo:IAO_0000115>A caldera lake in the Rhineland-Palatinate, Germany, situated close to the cities of Koblenz, Mayen (11 km), and Andernach (14 km). It fills a volcanic caldera in the Eifel mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00061452</oboInOwl:id>
+        <rdfs:label>Laacher See</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113798 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113798">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020975"/>
+        <obo:IAO_0000115>A commune in northern Luxembourg, in the canton of Clervaux.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113798</oboInOwl:id>
+        <rdfs:label>Commune of Consthum</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113799 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113799">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020975"/>
+        <obo:IAO_0000115>A commune in northern Luxembourg, administrative capital of the canton of Clervaux.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113799</oboInOwl:id>
+        <rdfs:label>Commune of Clervaux</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113800 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113800">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020975"/>
+        <obo:IAO_0000115>A commune in northern Luxembourg, in the canton of Clervaux.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113800</oboInOwl:id>
+        <rdfs:label>Commune of Troisvierges</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113801 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113801">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020975"/>
+        <obo:IAO_0000115>A commune in northern Luxembourg, in the canton of Clervaux.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113801</oboInOwl:id>
+        <rdfs:label>Commune of Hosingen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113802 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113802">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020975"/>
+        <obo:IAO_0000115>A commune in northern Luxembourg, in the canton of Clervaux. Wincrange was formed on 1978-01-01 from the former communes of Asselborn, Boevange, Hachiville, and Oberwampach, all in Clervaux canton.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113802</oboInOwl:id>
+        <rdfs:label>Commune of Wincrange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113803 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113803">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020975"/>
+        <obo:IAO_0000115>A commune in northern Luxembourg, in the canton of Clervaux.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113803</oboInOwl:id>
+        <rdfs:label>Commune of Munshausen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113804 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113804">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020975"/>
+        <obo:IAO_0000115>A commune in northern Luxembourg, in the canton of Clervaux.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113804</oboInOwl:id>
+        <rdfs:label>Commune of Heinerscheid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113805 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113805">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020975"/>
+        <obo:IAO_0000115>A commune in northern Luxembourg, in the canton of Clervaux.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113805</oboInOwl:id>
+        <rdfs:label>Commune of Weiswampach</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113806 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113806">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune in north-eastern Luxembourg. It is part of the canton of Diekirch, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113806</oboInOwl:id>
+        <rdfs:label>Commune of Bourscheid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113807 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113807">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune with city status in north-eastern Luxembourg, capital city of the canton Diekirch and the district of Diekirch. The city is situated on the banks of the Sauer river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113807</oboInOwl:id>
+        <rdfs:label>Commune of Diekirch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113808 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113808">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune in north-eastern Luxembourg. It is part of the canton of Diekirch, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113808</oboInOwl:id>
+        <rdfs:label>Commune of Hoscheid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113809 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113809">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It lies along the river Sauer. It is part of the canton of Diekirch, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113809</oboInOwl:id>
+        <rdfs:label>Commune of Bettendorf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113810 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113810">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune in central Luxembourg. It is part of the canton of Diekirch, which is part of the district of Diekirch. Mertzig was formed on 1874-12-30, when it was detached from the commune of Feulen.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113810</oboInOwl:id>
+        <rdfs:label>Commune of Mertzig</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113811 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113811">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Diekirch, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113811</oboInOwl:id>
+        <rdfs:label>Commune of Ermsdorf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113812 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113812">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune in central Luxembourg. It is part of the canton of Diekirch, which is part of the district of Diekirch. Schieren was formed on 1850-07-01, when it was detached from the commune of Ettelbruck, along with the commune of Erpeldange.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113812</oboInOwl:id>
+        <rdfs:label>Commune of Schieren</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113813 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113813">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune in north-eastern Luxembourg. It lies along the river Sauer, between Ettelbruck and Diekirch. It is part of the canton of Diekirch, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113813</oboInOwl:id>
+        <rdfs:label>Commune of Erpeldange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113814 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113814">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune in central Luxembourg. It is part of the canton of Diekirch, which is part of the district of Diekirch. The commune&apos;s administrative centre is Niederfeulen.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113814</oboInOwl:id>
+        <rdfs:label>Commune of Feulen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113815 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113815">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg, on the river Sauer. It is part of the canton of Diekirch, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113815</oboInOwl:id>
+        <rdfs:label>Commune of Reisdorf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113816 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113816">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020977"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Diekirch, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113816</oboInOwl:id>
+        <rdfs:label>Commune of Medernach</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113817 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113817">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020978"/>
+        <obo:IAO_0000115>A commune in western Luxembourg, in the canton of Redange.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113817</oboInOwl:id>
+        <rdfs:label>Commune of Grosbous</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113818 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113818">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020978"/>
+        <obo:IAO_0000115>A commune in western Luxembourg, in the canton of Redange. Rambrouch was formed on 1979-01-01 from the former communes of Arsdorf, Bigonville, Folschette, and Perle, all in Redange canton.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113818</oboInOwl:id>
+        <rdfs:label>Commune of Rambrouch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113819 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113819">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020978"/>
+        <obo:IAO_0000115>A commune in western Luxembourg, in the canton of Redange.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113819</oboInOwl:id>
+        <rdfs:label>Commune of Redange-sur-Attert</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113820 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113820">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020978"/>
+        <obo:IAO_0000115>A commune in western Luxembourg, in the canton of Redange.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113820</oboInOwl:id>
+        <rdfs:label>Commune of Ell</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113821 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113821">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020978"/>
+        <obo:IAO_0000115>A commune in western Luxembourg, in the canton of Redange. It lies close to the border with Belgium.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113821</oboInOwl:id>
+        <rdfs:label>Commune of Beckerich</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113822 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113822">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020978"/>
+        <obo:IAO_0000115>A commune in western Luxembourg, in the canton of Redange.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113822</oboInOwl:id>
+        <rdfs:label>Commune of Saeul</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113823 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113823">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020978"/>
+        <obo:IAO_0000115>A commune in western Luxembourg, in the canton of Redange.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113823</oboInOwl:id>
+        <rdfs:label>Commune of Vichten</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113824 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113824">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020978"/>
+        <obo:IAO_0000115>A commune in western Luxembourg, in the canton of Redange.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113824</oboInOwl:id>
+        <rdfs:label>Commune of Preizerdaul</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113825 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113825">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020978"/>
+        <obo:IAO_0000115>A commune in western Luxembourg, in the canton of Redange.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113825</oboInOwl:id>
+        <rdfs:label>Commune of Wahl</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113826 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113826">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020978"/>
+        <obo:IAO_0000115>A commune in western Luxembourg, in the canton of Redange.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113826</oboInOwl:id>
+        <rdfs:label>Commune of Useldange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113827 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113827">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020976"/>
+        <obo:IAO_0000115>A commune in north-eastern Luxembourg. It is part of the canton Vianden, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113827</oboInOwl:id>
+        <rdfs:label>Commune of Putscheid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113828 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113828">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020976"/>
+        <obo:IAO_0000115>A commune with city status in the Oesling, north-eastern Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113828</oboInOwl:id>
+        <rdfs:label>Commune of Vianden</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113829 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113829">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020976"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg, in the canton of Vianden. It lies close to the border with Germany.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113829</oboInOwl:id>
+        <rdfs:label>Commune of Tandel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113830 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113830">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005411"/>
+        <obo:IAO_0000115>A commune in north-western Luxembourg. It is part of the canton of Wiltz, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113830</oboInOwl:id>
+        <rdfs:label>Commune of Esch-sur-Sure</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113831 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113831">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005411"/>
+        <obo:IAO_0000115>A commune with city status in north-western Luxembourg, capital of the canton Wiltz. Wiltz is situated on the banks of the river Wiltz.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113831</oboInOwl:id>
+        <rdfs:label>Commune of Wiltz</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113832 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113832">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005411"/>
+        <obo:IAO_0000115>A commune in north-western Luxembourg. It is part of the canton of Wiltz, which is part of the district of Diekirch. Lac de la Haute-Sure was formed on 1979-01-01 from the former communes of Harlange and Mecher, both in Wiltz canton.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113832</oboInOwl:id>
+        <rdfs:label>Commune of Lac de la Haute-Sure</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113833 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113833">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005411"/>
+        <obo:IAO_0000115>A commune in northern Luxembourg, in the canton of Wiltz. The commune&apos;s administrative centre is Wilwerwiltz.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113833</oboInOwl:id>
+        <rdfs:label>Commune of Kiischpelt</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113834 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113834">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005411"/>
+        <obo:IAO_0000115>A commune in north-western Luxembourg. It is part of the canton of Wiltz, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113834</oboInOwl:id>
+        <rdfs:label>Commune of Neunhausen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113835 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113835">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005411"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113835</oboInOwl:id>
+        <rdfs:label>Commune of Winseler</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113836 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113836">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005411"/>
+        <obo:IAO_0000115>A commune in northern Luxembourg. It is part of the canton of Wiltz, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113836</oboInOwl:id>
+        <rdfs:label>Commune of Eschweiler</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113837 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113837">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005411"/>
+        <obo:IAO_0000115>A commune in north-western Luxembourg. It is part of the canton of Wiltz, which is part of the district of Diekirch. The commune&apos;s administrative centre is Eschdorf.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113837</oboInOwl:id>
+        <rdfs:label>Commune of Heiderscheid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113838 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113838">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005411"/>
+        <obo:IAO_0000115>A commune in north-western Luxembourg. It is part of the canton of Wiltz, which is part of the district of Diekirch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113838</oboInOwl:id>
+        <rdfs:label>Commune of Goesdorf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113839 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113839">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005410"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Echternach, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113839</oboInOwl:id>
+        <rdfs:label>Commune of Consdorf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113840 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113840">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005410"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Echternach, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113840</oboInOwl:id>
+        <rdfs:label>Commune of Bech</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113841 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113841">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005410"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Echternach, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113841</oboInOwl:id>
+        <rdfs:label>Commune of Mompach</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113842 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113842">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005410"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Echternach, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113842</oboInOwl:id>
+        <rdfs:label>Commune of Waldbillig</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113843 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113843">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005410"/>
+        <obo:IAO_0000115>A commune with city status in eastern Luxembourg. It is part of the canton of Echternach, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113843</oboInOwl:id>
+        <rdfs:label>Commune of Echternach</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113844 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113844">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005410"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Echternach, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113844</oboInOwl:id>
+        <rdfs:label>Commune of Beaufort</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113845 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113845">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005410"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Echternach, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113845</oboInOwl:id>
+        <rdfs:label>Commune of Rosport</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113846 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113846">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020979"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Grevenmacher, which is part of the district of Grevenmacher. The commune&apos;s administrative centre is Berg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113846</oboInOwl:id>
+        <rdfs:label>Commune of Betzdorf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113847 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113847">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020979"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Grevenmacher, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113847</oboInOwl:id>
+        <rdfs:label>Commune of Biwer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113848 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113848">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020979"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Grevenmacher, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113848</oboInOwl:id>
+        <rdfs:label>Commune of Flaxweiler</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113849 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113849">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020979"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Grevenmacher, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113849</oboInOwl:id>
+        <rdfs:label>Commune of Junglinster</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113850 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113850">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020979"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Grevenmacher, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113850</oboInOwl:id>
+        <rdfs:label>Commune of Mertert</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113851 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113851">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020979"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Grevenmacher, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113851</oboInOwl:id>
+        <rdfs:label>Commune of Manternach</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113852 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113852">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020979"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Grevenmacher, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113852</oboInOwl:id>
+        <rdfs:label>Commune of Grevenmacher</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113853 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113853">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020979"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg. It is part of the canton of Grevenmacher, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113853</oboInOwl:id>
+        <rdfs:label>Commune of Wormeldange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113854 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113854">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020980"/>
+        <obo:IAO_0000115>A commune in south-eastern Luxembourg. It is part of the canton of Remich, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113854</oboInOwl:id>
+        <rdfs:label>Commune of Mondorf-les-Bains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113855 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113855">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020980"/>
+        <obo:IAO_0000115>A commune in south-eastern Luxembourg. It is part of the canton of Remich, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113855</oboInOwl:id>
+        <rdfs:label>Commune of Dalheim</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113856 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113856">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020980"/>
+        <obo:IAO_0000115>A commune in south-eastern Luxembourg. It is part of the canton of Remich, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113856</oboInOwl:id>
+        <rdfs:label>Commune of Wellenstein</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113857 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113857">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020980"/>
+        <obo:IAO_0000115>A commune in south-eastern Luxembourg. It is part of the canton of Remich, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113857</oboInOwl:id>
+        <rdfs:label>Commune of Lenningen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113858 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113858">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020980"/>
+        <obo:IAO_0000115>A commune in south-eastern Luxembourg. It is part of the canton of Remich, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113858</oboInOwl:id>
+        <rdfs:label>Commune of Schengen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113859 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113859">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020980"/>
+        <obo:IAO_0000115>A commune with city status in south-eastern Luxembourg. It is part of the canton of Remich, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113859</oboInOwl:id>
+        <rdfs:label>Commune of Remich</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113860 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113860">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020980"/>
+        <obo:IAO_0000115>A commune in south-eastern Luxembourg. It is part of the canton of Remich, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113860</oboInOwl:id>
+        <rdfs:label>Commune of Bous</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113861 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113861">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020980"/>
+        <obo:IAO_0000115>A commune in south-eastern Luxembourg. It is part of the canton of Remich, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113861</oboInOwl:id>
+        <rdfs:label>Commune of Stadtbredimus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113862 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113862">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020980"/>
+        <obo:IAO_0000115>A commune in south-eastern Luxembourg. It is part of the canton of Remich, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113862</oboInOwl:id>
+        <rdfs:label>Commune of Waldbredimus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113863 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113863">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020980"/>
+        <obo:IAO_0000115>A commune in south-eastern Luxembourg. It is part of the canton of Remich, which is part of the district of Grevenmacher.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113863</oboInOwl:id>
+        <rdfs:label>Commune of Burmerange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113864 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113864">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005416"/>
+        <obo:IAO_0000115>A commune in western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113864</oboInOwl:id>
+        <rdfs:label>Commune of Garnich</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113865 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113865">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005416"/>
+        <obo:IAO_0000115>A commune in western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113865</oboInOwl:id>
+        <rdfs:label>Commune of Mamer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113866 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113866">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005416"/>
+        <obo:IAO_0000115>A commune in western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113866</oboInOwl:id>
+        <rdfs:label>Commune of Clemency</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113867 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113867">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005416"/>
+        <obo:IAO_0000115>A commune in western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113867</oboInOwl:id>
+        <rdfs:label>Commune of Kehlen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113868 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113868">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005416"/>
+        <obo:IAO_0000115>A commune in western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113868</oboInOwl:id>
+        <rdfs:label>Commune of Bascharage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113869 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113869">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005416"/>
+        <obo:IAO_0000115>A commune in western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113869</oboInOwl:id>
+        <rdfs:label>Commune of Septfontaines</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113870 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113870">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005416"/>
+        <obo:IAO_0000115>A commune in western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113870</oboInOwl:id>
+        <rdfs:label>Commune of Kopstal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113871 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113871">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005416"/>
+        <obo:IAO_0000115>A commune in western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113871</oboInOwl:id>
+        <rdfs:label>Commune of Dippach</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113872 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113872">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005416"/>
+        <obo:IAO_0000115>A commune in western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113872</oboInOwl:id>
+        <rdfs:label>Commune of Hobscheid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113873 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113873">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005416"/>
+        <obo:IAO_0000115>A commune in western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113873</oboInOwl:id>
+        <rdfs:label>Commune of Koerich</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113874 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113874">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune with city status in south-western Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113874</oboInOwl:id>
+        <rdfs:label>Commune of Differdange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113875 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113875">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune in south-western Luxembourg. Petange lies on the borders with both Belgium and France.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113875</oboInOwl:id>
+        <rdfs:label>Commune of Petange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113876 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113876">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune in south-western Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113876</oboInOwl:id>
+        <rdfs:label>Commune of Schifflange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113877 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113877">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune with city status in southern Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113877</oboInOwl:id>
+        <rdfs:label>Commune of Dudelange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113878 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113878">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune in south-western Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113878</oboInOwl:id>
+        <rdfs:label>Commune of Reckange-sur-Mess</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113879 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113879">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune in south-western Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113879</oboInOwl:id>
+        <rdfs:label>Commune of Kayl</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113880 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113880">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune with city status in south-western Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113880</oboInOwl:id>
+        <rdfs:label>Commune of Rumelange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113881 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113881">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune in south-western Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113881</oboInOwl:id>
+        <rdfs:label>Commune of Mondercange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113882 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113882">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune in south-western Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113882</oboInOwl:id>
+        <rdfs:label>Commune of Sanem</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113883 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113883">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune in south-western Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113883</oboInOwl:id>
+        <rdfs:label>Commune of Leudelange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113884 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113884">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune in southern Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113884</oboInOwl:id>
+        <rdfs:label>Commune of Roeser</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113885 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113885">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune with city status in south-western Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113885</oboInOwl:id>
+        <rdfs:label>Commune of Esch-sur-Alzette</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113886 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113886">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune in southern Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113886</oboInOwl:id>
+        <rdfs:label>Commune of Bettembourg</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113887 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113887">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020981"/>
+        <obo:IAO_0000115>A commune in southern Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113887</oboInOwl:id>
+        <rdfs:label>Commune of Frisange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113888 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113888">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020983"/>
+        <obo:IAO_0000115>A commune in southern Luxembourg. It is located south-east of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113888</oboInOwl:id>
+        <rdfs:label>Commune of Hesperange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113889 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113889">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020983"/>
+        <obo:IAO_0000115>A commune in south-western Luxembourg. It is located 6.5 km west of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113889</oboInOwl:id>
+        <rdfs:label>Commune of Bertrange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113890 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113890">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020983"/>
+        <obo:IAO_0000115>A commune in southern Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113890</oboInOwl:id>
+        <rdfs:label>Commune of Weiler-la-Tour</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113891 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113891">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020983"/>
+        <obo:IAO_0000115>A commune in southern Luxembourg. It is located east of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113891</oboInOwl:id>
+        <rdfs:label>Commune of Schuttrange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113892 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113892">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020983"/>
+        <obo:IAO_0000115>A commune in southern Luxembourg. It is located east of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113892</oboInOwl:id>
+        <rdfs:label>Commune of Contern</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113894 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113894">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020983"/>
+        <obo:IAO_0000115>A commune in southern Luxembourg. It is located east of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113894</oboInOwl:id>
+        <rdfs:label>Commune of Sandweiler</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113895 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113895">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020983"/>
+        <obo:IAO_0000115>A commune in central Luxembourg. It is located north of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113895</oboInOwl:id>
+        <rdfs:label>Commune of Walferdange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113896 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113896">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020983"/>
+        <obo:IAO_0000115>A commune with city status. Coterminous with Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113896</oboInOwl:id>
+        <rdfs:label>Commune of Luxembourg</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113897 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113897">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020983"/>
+        <obo:IAO_0000115>A commune in central Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113897</oboInOwl:id>
+        <rdfs:label>Commune of Steinsel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113898 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113898">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020983"/>
+        <obo:IAO_0000115>A commune in central Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113898</oboInOwl:id>
+        <rdfs:label>Commune of Strassen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113899 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113899">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020983"/>
+        <obo:IAO_0000115>A commune in Luxembourg, NE of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113899</oboInOwl:id>
+        <rdfs:label>Commune of Niederanven</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113900 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113900">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020982"/>
+        <obo:IAO_0000115>A commune in central Luxembourg, in the canton of Mersch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113900</oboInOwl:id>
+        <rdfs:label>Commune of Bissen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113901 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113901">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020982"/>
+        <obo:IAO_0000115>A commune in central Luxembourg, in the canton of Mersch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113901</oboInOwl:id>
+        <rdfs:label>Commune of Heffingen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113902 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113902">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020982"/>
+        <obo:IAO_0000115>A commune in central Luxembourg, in the canton of Mersch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113902</oboInOwl:id>
+        <rdfs:label>Commune of Fischbach</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113903 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113903">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020982"/>
+        <obo:IAO_0000115>A commune in central Luxembourg, in the canton of Mersch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113903</oboInOwl:id>
+        <rdfs:label>Commune of Colmar-Berg</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113904 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113904">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020982"/>
+        <obo:IAO_0000115>A commune in central Luxembourg, in the canton of Mersch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113904</oboInOwl:id>
+        <rdfs:label>Commune of Lintgen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113905 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113905">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020982"/>
+        <obo:IAO_0000115>A commune in central Luxembourg, in the canton of Mersch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113905</oboInOwl:id>
+        <rdfs:label>Commune of Larochette</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113906 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113906">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020982"/>
+        <obo:IAO_0000115>A commune in central Luxembourg, capital of the canton of Mersch. It is situated at the confluence of the rivers Alzette, Mamer and Eisch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113906</oboInOwl:id>
+        <rdfs:label>Commune of Mersch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113907 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113907">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020982"/>
+        <obo:IAO_0000115>A commune in central Luxembourg, in the canton of Mersch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113907</oboInOwl:id>
+        <rdfs:label>Commune of Lorentzweiler</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113908 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113908">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020982"/>
+        <obo:IAO_0000115>A commune in eastern Luxembourg, in the canton of Mersch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113908</oboInOwl:id>
+        <rdfs:label>Commune of Boevange-sur-Attert</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113909 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113909">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020982"/>
+        <obo:IAO_0000115>A commune in western Luxembourg, in the canton of Mersch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113909</oboInOwl:id>
+        <rdfs:label>Commune of Tuntange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113910 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113910">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00020982"/>
+        <obo:IAO_0000115>A commune in central Luxembourg, in the canton of Mersch.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113910</oboInOwl:id>
+        <rdfs:label>Commune of Nommern</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113911 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113911">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113896"/>
+        <obo:IAO_0000115>The capital of the Grand Duchy of Luxembourg. It is located at the confluence of the Alzette and Petrusse rivers in southern Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113911</oboInOwl:id>
+        <rdfs:label>Luxembourg City</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113912 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113912">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113912</oboInOwl:id>
+        <rdfs:label>Cents Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113913 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113913">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City. Within the quarter lies some of the area of Bonnevoie, most of which lies in the quarter of South Bonnevoie.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113913</oboInOwl:id>
+        <rdfs:label>North Bonnevoie-Verlorenkost Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113914 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113914">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113914</oboInOwl:id>
+        <rdfs:label>Belair Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113915 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113915">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113915</oboInOwl:id>
+        <rdfs:label>Kirchberg Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113916 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113916">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113916</oboInOwl:id>
+        <rdfs:label>Beggen Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113917 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113917">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113917</oboInOwl:id>
+        <rdfs:label>Muhlenbach Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113918 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113918">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113918</oboInOwl:id>
+        <rdfs:label>Hollerich Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113919 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113919">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113919</oboInOwl:id>
+        <rdfs:label>Merl Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113920 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113920">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113920</oboInOwl:id>
+        <rdfs:label>Cessange Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113921 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113921">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113921</oboInOwl:id>
+        <rdfs:label>Pulvermuhl Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113922 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113922">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113922</oboInOwl:id>
+        <rdfs:label>Neudorf-Weimershof Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113923 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113923">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113923</oboInOwl:id>
+        <rdfs:label>Ville Haute Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113924 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113924">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113924</oboInOwl:id>
+        <rdfs:label>Pfaffenthal Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113925 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113925">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113925</oboInOwl:id>
+        <rdfs:label>Limpertsberg Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113926 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113926">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City. Within the modern quarter lies most of the former commune of Rollingergrund.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113926</oboInOwl:id>
+        <rdfs:label>Rollingergrund-North Belair Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113927 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113927">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113927</oboInOwl:id>
+        <rdfs:label>South Bonnevoie Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113928 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113928">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113928</oboInOwl:id>
+        <rdfs:label>Weimerskirch Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113929 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113929">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113929</oboInOwl:id>
+        <rdfs:label>Clausen Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113930 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113930">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113930</oboInOwl:id>
+        <rdfs:label>Eich Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113931 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113931">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113931</oboInOwl:id>
+        <rdfs:label>Hamm Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113932 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113932">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter in Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113932</oboInOwl:id>
+        <rdfs:label>Gasperich Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113933 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113933">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113933</oboInOwl:id>
+        <rdfs:label>Dommeldange Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113934 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113934">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113934</oboInOwl:id>
+        <rdfs:label>Gare Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00113935 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00113935">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113911"/>
+        <obo:IAO_0000115>A quarter of Luxembourg City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00113935</oboInOwl:id>
+        <rdfs:label>Grund Quarter</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148763 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148763">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148770"/>
+        <obo:IAO_0000115>A low mountain range in Rhineland-Palatinate, Germany. It is bounded by the river valleys of the Moselle (north), the Nahe (south), and the Rhine (east). The Hunsruck is continued by the Taunus mountains on the eastern side of the Rhine.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148763</oboInOwl:id>
+        <rdfs:label>Hunsruck Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148764 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148764">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148770"/>
+        <obo:IAO_0000115>A low mountain range in Hesse, Germany that composes part of the Rhenish Slate Mountains. It is bounded by the river valleys of Rhine, Main and Lahn. On the opposite side of the Rhine, the mountains are continued by the Hunsruck. The mountains themselves span the districts of Hochtaunuskreis, Main-Taunus, Rheingau-Taunus, Limburg-Weilburg, and Rhein-Lahn.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148764</oboInOwl:id>
+        <rdfs:label>Taunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148765 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148765">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004518"/>
+        <obo:IAO_0000115>The most N of the Eifel Mountains, N of the Ahr River in the district of Ahrweiler.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148765</oboInOwl:id>
+        <rdfs:label>Ahrgebirge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148766 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148766">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004518"/>
+        <obo:IAO_0000115>That part of the Eifel Mountains S of the Ahr River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148766</oboInOwl:id>
+        <rdfs:label>Hohe Eifel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148767 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148767">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004518"/>
+        <obo:IAO_0000115>A S part of the Eifel Mountains on either side of the Kyll River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148767</oboInOwl:id>
+        <rdfs:label>Kyllwald</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148768 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148768">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004518"/>
+        <obo:IAO_0000115>The most S part of the Eifel Mountains, above the Mosel River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148768</oboInOwl:id>
+        <rdfs:label>Voreifel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148769 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148769">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004518"/>
+        <obo:IAO_0000115>The western part of the Eifel in Germany, near the Belgium border.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148769</oboInOwl:id>
+        <rdfs:label>Schneifel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148770 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148770">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002947"/>
+        <obo:IAO_0000115>A geologic massif in western Germany, eastern Belgium, Luxemburg and northeastern France. The Rhenish Massif consists of the Belgian and French Ardennes, the German Eifel and east of the river Rhine the Sauerland and Siegerland. The Mosel and Hunsruck hills form its southwestern part, the Westerwald, Lahn-Dill area and the Taunus occupy the southeastern part. The massif is divided in two by the Middle Rhine Valley.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148770</oboInOwl:id>
+        <rdfs:label>Rhenish Massif</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148771 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148771">
+        <obo:IAO_0000115>A low mountain range on the right bank of the river Rhine in the German federal states of Rhineland-Palatinate, Hesse and North Rhine-Westphalia. It is a part of the Rheinisches Schiefergebirge.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148771</oboInOwl:id>
+        <rdfs:label>Westerwald</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00344529 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00344529">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00344529</oboInOwl:id>
+        <rdfs:label>Meurthe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00391367 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00391367">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113850"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00391367</oboInOwl:id>
+        <rdfs:label>Wasserbillig</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00391398 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00391398">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113832"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00391409"/>
+        <obo:IAO_0000115>A reservoir. Constructed 1979.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00391398</oboInOwl:id>
+        <rdfs:label>Stausei Uewersauer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00391405 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00391405">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113918"/>
+        <obo:IAO_0000115>An urban park.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00391405</oboInOwl:id>
+        <rdfs:label>Parc Merl</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00391406 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00391406">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00113923"/>
+        <obo:IAO_0000115>An urban park.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00391406</oboInOwl:id>
+        <rdfs:label>Municipal Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00391407 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00391407">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002947"/>
+        <obo:IAO_0000115>The N part of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00391407</oboInOwl:id>
+        <rdfs:label>Oesling</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00391408 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00391408">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002947"/>
+        <obo:IAO_0000115>The S part of Luxembourg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00391408</oboInOwl:id>
+        <rdfs:label>Gutland</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00391409 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00391409">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00391407"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00391409</oboInOwl:id>
+        <rdfs:label>Naturpark Uewersauer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00423841 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00423841">
+        <obo:IAO_0000115>A tunnel.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00423841</oboInOwl:id>
+        <rdfs:label>Tunnel de Mauvages</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00432296 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00432296">
+        <obo:IAO_0000115>A man-made lake. Constructed 1983.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00432296</oboInOwl:id>
+        <rdfs:label>Lac de la Lande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00653970 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00653970">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654952"/>
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00653970</oboInOwl:id>
+        <rdfs:label>Kubacher Kristallhohle</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00653971 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00653971">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654952"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00653971</oboInOwl:id>
+        <rdfs:label>Naturpark Taunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00653972 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00653972">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654950"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00653972</oboInOwl:id>
+        <rdfs:label>Naturpark Nassau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00653973 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00653973">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654982"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00653973</oboInOwl:id>
+        <rdfs:label>Naturpark Rhein-Taunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654327 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654327">
+        <obo:IAO_0000115>A reservoir, It is between Mademuhlen und Driedorf im Westerwald.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654327</oboInOwl:id>
+        <rdfs:label>Stausee Driedorf</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654328 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654328">
+        <obo:IAO_0000115>A dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654328</oboInOwl:id>
+        <rdfs:label>Krombachtalsperre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654329 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654329">
+        <obo:IAO_0000115>A reservoir; held by the Krombachtalsperre.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654329</oboInOwl:id>
+        <rdfs:label>Krombachstausee</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654950 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654950">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148764"/>
+        <obo:IAO_0000115>The N part of the Taunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654950</oboInOwl:id>
+        <rdfs:label>Vortaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654951 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654951">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148764"/>
+        <obo:IAO_0000115>The central part of the Taunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654951</oboInOwl:id>
+        <rdfs:label>Hoher Taunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654952 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654952">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148764"/>
+        <obo:IAO_0000115>the eastern Taunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654952</oboInOwl:id>
+        <rdfs:label>Ostlicher Hintertaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654953 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654953">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654950"/>
+        <obo:IAO_0000115>A part of the Vortaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654953</oboInOwl:id>
+        <rdfs:label>Rheingau-Wiesbadener Vortaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654954 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654954">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654953"/>
+        <obo:IAO_0000115>A part of the Vortaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654954</oboInOwl:id>
+        <rdfs:label>Rheingau-Vortaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654955 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654955">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654953"/>
+        <obo:IAO_0000115>A part of the Vortaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654955</oboInOwl:id>
+        <rdfs:label>Wiesbadener Vortaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654956 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654956">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654950"/>
+        <obo:IAO_0000115>A part of the Vortaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654956</oboInOwl:id>
+        <rdfs:label>Eppstein-Hornauer Vortaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654957 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654957">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654956"/>
+        <obo:IAO_0000115>A part of the Vortaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654957</oboInOwl:id>
+        <rdfs:label>Eppsteiner Horst</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654958 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654958">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654956"/>
+        <obo:IAO_0000115>A part of the Vortaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654958</oboInOwl:id>
+        <rdfs:label>Hornauer Bucht</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654959 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654959">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654950"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654959</oboInOwl:id>
+        <rdfs:label>Altkonig Vorstufe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654960 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654960">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654959"/>
+        <obo:IAO_0000115>A part of the Vortaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654960</oboInOwl:id>
+        <rdfs:label>Konigsteiner Taunusfuss</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654961 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654961">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654959"/>
+        <obo:IAO_0000115>A part of the Vortaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654961</oboInOwl:id>
+        <rdfs:label>Kronberger Taunusfuss</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654962 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654962">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654950"/>
+        <obo:IAO_0000115>A part of the Vortaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654962</oboInOwl:id>
+        <rdfs:label>Homburger Vortaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654963 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654963">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654951"/>
+        <obo:IAO_0000115>A part of the Hoher Taunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654963</oboInOwl:id>
+        <rdfs:label>Niederwald</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654964 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654964">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654951"/>
+        <obo:IAO_0000115>A part of the Hoher Taunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654964</oboInOwl:id>
+        <rdfs:label>Rheingaugebirge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654965 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654965">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654951"/>
+        <obo:IAO_0000115>A part of the Hoher Taunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654965</oboInOwl:id>
+        <rdfs:label>Wiesbadener Hochtaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654966 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654966">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654951"/>
+        <obo:IAO_0000115>A part of the Hoher Taunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654966</oboInOwl:id>
+        <rdfs:label>Feldberg-Taunuskamm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654967 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654967">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654951"/>
+        <obo:IAO_0000115>A part of the Hoher Taunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654967</oboInOwl:id>
+        <rdfs:label>Winterstein-Taunuskamm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654968 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654968">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654951"/>
+        <obo:IAO_0000115>A part of the Hoher Taunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654968</oboInOwl:id>
+        <rdfs:label>Nauheimer Taunussporn</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654969 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654969">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654952"/>
+        <obo:IAO_0000115>A part of the Ostlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654969</oboInOwl:id>
+        <rdfs:label>Wetzlarer Hintertaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654970 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654970">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654952"/>
+        <obo:IAO_0000115>A part of the Ostlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654970</oboInOwl:id>
+        <rdfs:label>Weilburger Hintertaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654971 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654971">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654952"/>
+        <obo:IAO_0000115>A part of the Ostlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654971</oboInOwl:id>
+        <rdfs:label>Bodenroder Kuppen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654972 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654972">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654952"/>
+        <obo:IAO_0000115>A part of the Ostlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654972</oboInOwl:id>
+        <rdfs:label>Hasselbacher Hintertaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654973 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654973">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654952"/>
+        <obo:IAO_0000115>A part of the Ostlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654973</oboInOwl:id>
+        <rdfs:label>Munster-Maibach-Schwelle</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654974 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654974">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654952"/>
+        <obo:IAO_0000115>A part of the Ostlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654974</oboInOwl:id>
+        <rdfs:label>Usinger Becken</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654975 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654975">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654952"/>
+        <obo:IAO_0000115>A part of the Ostlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654975</oboInOwl:id>
+        <rdfs:label>Pferdskopf-Taunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654976 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654976">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654952"/>
+        <obo:IAO_0000115>A part of the Ostlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654976</oboInOwl:id>
+        <rdfs:label>Steinfischbacher Hintertaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654977 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654977">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148764"/>
+        <obo:IAO_0000115>A valley.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654977</oboInOwl:id>
+        <rdfs:label>Idsteiner Senke</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654978 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654978">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654977"/>
+        <obo:IAO_0000115>A valley.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654978</oboInOwl:id>
+        <rdfs:label>Goldener Grund</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654979 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654979">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654977"/>
+        <obo:IAO_0000115>A valley.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654979</oboInOwl:id>
+        <rdfs:label>Idsteiner Grund</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654980 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654980">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654977"/>
+        <obo:IAO_0000115>A valley.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654980</oboInOwl:id>
+        <rdfs:label>Escher Grund</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654981 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654981">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654977"/>
+        <obo:IAO_0000115>A valley.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654981</oboInOwl:id>
+        <rdfs:label>Idsteiner Wald</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654982 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654982">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148764"/>
+        <obo:IAO_0000115>The W part of the Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654982</oboInOwl:id>
+        <rdfs:label>Westlicher Hintertaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654983 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654983">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654982"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654983</oboInOwl:id>
+        <rdfs:label>Wispertaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654984 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654984">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654982"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654984</oboInOwl:id>
+        <rdfs:label>Westlicher Aartaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654985 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654985">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654982"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654985</oboInOwl:id>
+        <rdfs:label>Bad Schwalbach-Hohensteiner Aartal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654986 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654986">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654982"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654986</oboInOwl:id>
+        <rdfs:label>Ostlicher Aartaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654987 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654987">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654982"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654987</oboInOwl:id>
+        <rdfs:label>Oberaarmulde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654988 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654988">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654982"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654988</oboInOwl:id>
+        <rdfs:label>Zorner Hochflache</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654989 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654989">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654982"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654989</oboInOwl:id>
+        <rdfs:label>Mittelrheintaunus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654990 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654990">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654982"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654990</oboInOwl:id>
+        <rdfs:label>Unterlahnhohen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654991 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654991">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654982"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654991</oboInOwl:id>
+        <rdfs:label>Nastatter Mulde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654992 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654992">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654982"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654992</oboInOwl:id>
+        <rdfs:label>Katzenelnbogener Hochflache</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654993 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654993">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654985"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654993</oboInOwl:id>
+        <rdfs:label>Aar-Aubach-Grund</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654994 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654994">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654992"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654994</oboInOwl:id>
+        <rdfs:label>Dorsbach/Muhlbach-Wasserscheide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654995 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654995">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654992"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654995</oboInOwl:id>
+        <rdfs:label>Unteres Dorsbach-Tiefenbach-Gebiet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654996 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654996">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654992"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654996</oboInOwl:id>
+        <rdfs:label>Zentrale Katzenelnbogener Hochflache</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00654997 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00654997">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654992"/>
+        <obo:IAO_0000115>A part of the Westlicher Hintertaunus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00654997</oboInOwl:id>
+        <rdfs:label>Schiesheimer Aartalweitung</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655271 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655271">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00654963"/>
+        <obo:IAO_0000115>A park.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655271</oboInOwl:id>
+        <rdfs:label>Landschaftspark Niederwald</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655646 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655646">
+        <obo:IAO_0000115>A dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655646</oboInOwl:id>
+        <rdfs:label>Aartalsperre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655647 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655647">
+        <obo:IAO_0000115>A man-made lake created by the Aartalsperre.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655647</oboInOwl:id>
+        <rdfs:label>Aartalsee</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655683 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655683">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148771"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655683</oboInOwl:id>
+        <rdfs:label>Gladenbacher Bergland</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655684 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655684">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148771"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655684</oboInOwl:id>
+        <rdfs:label>Dilltal (mit Struth)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655685 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655685">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148771"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655685</oboInOwl:id>
+        <rdfs:label>Hoher Westerwald</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655686 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655686">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00148771"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655686</oboInOwl:id>
+        <rdfs:label>Oberwesterwald</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655687 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655687">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655683"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655687</oboInOwl:id>
+        <rdfs:label>Lahn-Dill-Bergland</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655688 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655688">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655687"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655688</oboInOwl:id>
+        <rdfs:label>Breidenbacher Grund</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655689 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655689">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655687"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655689</oboInOwl:id>
+        <rdfs:label>Bottenhorner Hochflächen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655690 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655690">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655687"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655690</oboInOwl:id>
+        <rdfs:label>Schelder Wald</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655691 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655691">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655687"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655691</oboInOwl:id>
+        <rdfs:label>Zollbuche</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655692 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655692">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655687"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655692</oboInOwl:id>
+        <rdfs:label>Hörre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655693 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655693">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655687"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655693</oboInOwl:id>
+        <rdfs:label>Krofdorf-Königsberger Forst</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655694 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655694">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655683"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655694</oboInOwl:id>
+        <rdfs:label>Gladenbacher Hügelland</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655695 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655695">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655694"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655695</oboInOwl:id>
+        <rdfs:label>Damshäuser Kuppen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655696 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655696">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655694"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655696</oboInOwl:id>
+        <rdfs:label>Elnhausen-Michelbacher Senke</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655697 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655697">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655696"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655697</oboInOwl:id>
+        <rdfs:label>Salzbödetal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655698 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655698">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655694"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655698</oboInOwl:id>
+        <rdfs:label>Niederweidbacher Becken</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655699 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655699">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655683"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655699</oboInOwl:id>
+        <rdfs:label>Oberes Lahntal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655700 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655700">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655684"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655700</oboInOwl:id>
+        <rdfs:label>Unteres Dilltal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655701 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655701">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655684"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655701</oboInOwl:id>
+        <rdfs:label>Oberes Dilltal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655702 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655702">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655684"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655702</oboInOwl:id>
+        <rdfs:label>Struth</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655703 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655703">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655685"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655703</oboInOwl:id>
+        <rdfs:label>Westerwälder Basalthochfläche</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00655704 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00655704">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00655686"/>
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00655704</oboInOwl:id>
+        <rdfs:label>Westerwald-Osthang</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00005405">
+        <rdfs:label>District (Luxembourg)</rdfs:label>
+        <oboInOwl:id>GAZ:00005405</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00005406">
+        <oboInOwl:id>GAZ:00005406</oboInOwl:id>
+        <obo:IAO_0000115>One of three districts of the Grand Duchy of Luxembourg. It contains 5 cantons divided into 43 communes.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Diekirch District</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00005407">
+        <obo:IAO_0000115>One of three districts of the Grand Duchy of Luxembourg. It contains four cantons, divided into 47 communes.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00005407</oboInOwl:id>
+        <rdfs:label>Luxembourg District</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00005408">
+        <oboInOwl:id>GAZ:00005408</oboInOwl:id>
+        <obo:IAO_0000115>One of three districts of the Grand Duchy of Luxembourg. It contains 3 cantons divided into 26 communes.</obo:IAO_0000115>
+        <rdfs:label>Grevenmacher District</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

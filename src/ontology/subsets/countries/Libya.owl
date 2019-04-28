@@ -1,0 +1,3554 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Libya.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Libya.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Libya.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000009 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000032 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000032"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000074 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000074"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000475 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000475"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000856 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000722 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000724 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000724">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000725 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000725">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000729 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000729">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000730 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000730">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000731 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000731">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+        <obo:IAO_0000115>One of the districts of Libya, in the northwest, south of Tripoli.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000731</oboInOwl:id>
+        <rdfs:label>Al Jfarah District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000733 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000733">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000734 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000734">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+        <obo:IAO_0000115>A sha&apos;biyah (district) in northwestern Libya. The capital is the city of Misratah. In 2007 the district was enlarged to include what had been the Bani Walid District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000734</oboInOwl:id>
+        <rdfs:label>Misratah District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000735 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000735">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000736 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000736">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+        <obo:IAO_0000115>One of the districts of Libya. Its capital is Nalut.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000736</oboInOwl:id>
+        <rdfs:label>Nalut District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000737 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000737">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+        <obo:IAO_0000115>A district of northeastern Libya, lying on the Mediterranean Sea coast. Its administrative seat is the city of El Marj. In the 2007 administrative reorganization the territory formerly in Al Hizam Al Akhdar District was transferred to Al Marj.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000737</oboInOwl:id>
+        <rdfs:label>Al Marj District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000739 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000739">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000741 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000741">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000742 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000742">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000744 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000744">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000745 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000745">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000746 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000746">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+        <obo:IAO_0000115>One of the districts of Libya, which lies in the north of the country and borders the Gulf of Sidra. Its capital is the city of Surt.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000746</oboInOwl:id>
+        <rdfs:label>Surt District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000747 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000747">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000749 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000749">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000750 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000750">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000751 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000751">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000752 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000752">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+        <obo:IAO_0000115>One of the districts of Libya. It is in the northeast of the country. Its capital is Darnah. In 2007 the district was enlarged to include what had been the Al Qubah District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000752</oboInOwl:id>
+        <rdfs:label>Darnah District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058884 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00058884"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058885 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00058885">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058884"/>
+        <obo:IAO_0000115>A cataract on the River Nile in Sudan near the confluence with the Atbara River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058885</oboInOwl:id>
+        <rdfs:label>Fifth Cataract</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058886 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00058886">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058884"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058887 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00058887">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058884"/>
+        <obo:IAO_0000115>A former cataract on the River Nile in Sudan that was in Nubia and is now submerged in Lake Nasser.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058887</oboInOwl:id>
+        <rdfs:label>Second Cataract</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058888 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00058888">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058884"/>
+        <obo:IAO_0000115>A cataract on the River Nile in Sudan near Tombos.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058888</oboInOwl:id>
+        <rdfs:label>Third Cataract</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058889 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00058889">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058884"/>
+        <obo:IAO_0000115>A cataract on the River Nile in Sudan where it cuts through the Sabaluka pluton near Bagrawiyah.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058889</oboInOwl:id>
+        <rdfs:label>Sixth Cataract</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058890 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00058890">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058884"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230472 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00230472">
+        <obo:IAO_0000115>A river. A tributary of the Qechene River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230472</oboInOwl:id>
+        <rdfs:label>Ketama River</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230473 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00230473">
+        <obo:IAO_0000115>A river. A tributary of the Qechene River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230473</oboInOwl:id>
+        <rdfs:label>Woia River</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230492 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00230492">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000722"/>
+        <obo:IAO_0000115>One of the districts of Libya. It was formed in 2007 from the former districts of Yafran, Gharyan and Mizdah.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230492</oboInOwl:id>
+        <rdfs:label>Al Jabal al Gharbi District</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230532 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00230532">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000749"/>
+        <obo:IAO_0000115>A lagoon located between Benghazi&apos;s downtown, and the Mediterranean Port of Benghazi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230532</oboInOwl:id>
+        <rdfs:label>23rd July Lake</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230533 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00230533">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000735"/>
+        <obo:IAO_0000115>An oasis in the southeast corner of Libya. It is located in the Libyan Desert, 200 miles southeast of Kufra.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230533</oboInOwl:id>
+        <rdfs:label>Ma&apos;tan as-Sarra</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000566 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000566">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+        <obo:IAO_0000115>A country in North Africa. Bordering the Mediterranean Sea to the north, Libya lies between Egypt to the east, Sudan to the southeast, Chad and Niger to the south, and Algeria and Tunisia to the west. There are thirty-four municipalities of Libya, known by the Arabic term sha&apos;biyat (singular sha&apos;biyah). These came recently (in the 1990s to replaced old Baladiyat systam. The Baladiyat system in turn was introduced to replace the system of muhafazah (governorates or provinces) that existed from the 1960s to the 1970s.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000566</oboInOwl:id>
+        <rdfs:label>Libya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000722 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000722">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000566"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000724 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000724">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00603353"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000725 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000725"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000729 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000729"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000730 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000730">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00603353"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000733 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000733">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00603353"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000735 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000735"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000739 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000739"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000741 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000741"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000742 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000742"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000744 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000744">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00603353"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000745 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000745"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000747 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000747"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000749 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000749"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000750 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000750">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00603353"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000751 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000751">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00603353"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00004033 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00004033">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00004033</oboInOwl:id>
+        <rdfs:label>Northern Sahara Desert</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007645 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007645">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000566"/>
+        <obo:IAO_0000115>The eastern coastal region of Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007645</oboInOwl:id>
+        <rdfs:label>Cyrenaica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007646 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007646">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000745"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007645"/>
+        <obo:IAO_0000115>A coastal city at the bottom of the Gulf of Sidra in far southwestern Cyrenaica, Libya. It is currently known as Al-&apos;Uqaylah, and is the capital of the Municipality of the same name.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007646</oboInOwl:id>
+        <rdfs:label>Al-&apos;Uqaylah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007647 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007647">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007646"/>
+        <obo:IAO_0000115>A lake with sulfur deposition.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007647</oboInOwl:id>
+        <rdfs:label>Ain-el-Braghi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007856 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007856">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007646"/>
+        <obo:IAO_0000115>A lake with sulfur deposition.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007856</oboInOwl:id>
+        <rdfs:label>Ain-ez-Zavia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009949 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009949">
+        <obo:IAO_0000115>The delta formed in Northern Egypt where the Nile River spreads out and drains into the Mediterranean Sea. It is one of the world&apos;s largest river delta, from Alexandria in the west to Port Said in the east, it covers some 240 km of Mediterranean coastline.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009949</oboInOwl:id>
+        <rdfs:label>Nile Delta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00031012 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00031012">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>One of the seven oases of the Western Desert of Egypt (part of the Libyan Desert). Dakhla Oasis is located at 350 km from the Nile Valley and is also situated between the oases of Farafra and Kharga. It measures some 80 km from east to west and about 25 km from north to south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00031012</oboInOwl:id>
+        <rdfs:label>Dakhla Oasis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00031013 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00031013">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>The southernmost of Egypt&apos;s five western oases. It is located in the Libyan Desert, about 200 km to the west of the Nile valley, and is some 150 km long. It is located in and is the capital of El Wadi el Gedid governorate.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00031013</oboInOwl:id>
+        <rdfs:label>Kharga Oasis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00031014 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00031014">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00031014</oboInOwl:id>
+        <rdfs:label>Baris Oasis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00031015 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00031015">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>The smallest oasis located in Western Egypt. It is located in the Libyan Desert, approximately mid-way between Dakhla and Bahariya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00031015</oboInOwl:id>
+        <rdfs:label>Farafra Oasis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00043227 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00043227">
+        <obo:IAO_0000115>An island located just to the south of Aswan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00043227</oboInOwl:id>
+        <rdfs:label>Sehel Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00044902 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00044902">
+        <obo:IAO_0000115>A reservoir in Egypt and northern Sudan created as a result of the construction of the Aswan High Dam across the waters of the Nile between 1958 and 1970. The lake is some 550 km long and 35 km across at its widest point, which is near the Tropic of Cancer. It covers a total surface area of 5,250 km2 and has a storage capacity of some 157 km2 of water.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00044902</oboInOwl:id>
+        <rdfs:label>Lake Nasser</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00051196 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00051196">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>A desert basin within the Libyan Desert of north-western Egypt. It is bounded by a steep, and in places precipitous, escarpment, along the northwestern and northern sides, which rises to heights of over 300 m, and a few km away from the escarpment edge, to over 500 m. By contrast the southern and eastern sides of the depression rise more gradually to the plateau of the Western Desert. Saline marshes/deserts, up to 30 km wide and over 150 km long, are situated under the escarpment along the northern side of the depression, and other marshes extend out into the southern central part of the basin.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00051196</oboInOwl:id>
+        <rdfs:label>Qattara Depression</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00051197 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00051197">
+        <obo:IAO_0000115>A desert that is located in the northern and eastern part of the Sahara Desert and occupies southwestern Egypt, eastern Libya and northwestern Sudan. Covering an area of approximately 1,100,000 km2 it extends approximately 1,100 km from east to west, and 1,000 km from north to south, in about the shape of a rectangle.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00051197</oboInOwl:id>
+        <rdfs:label>Libyan Desert</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00051198 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00051198">
+        <obo:IAO_0000115>A desert region in the south central Sahara. It comprises a vast plain of sand stretching from northeastern Niger into western Chad, occupying an area of over 400,000 km2). Its boundaries are conventionally said to be the Air Mountains in the west, the Ahaggar Mountains in the north, the Djado Plateau in the northeast, the Tibesti Mountains in the east and the basin of Lake Chad in the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00051198</oboInOwl:id>
+        <rdfs:label>Erg of Tenere</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00051199 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00051199">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>A sand sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00051199</oboInOwl:id>
+        <rdfs:label>Rebiana Sand Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00051200 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00051200">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>A sand sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00051200</oboInOwl:id>
+        <rdfs:label>Egyptian Sand Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00051201 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00051201">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>A sand sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00051201</oboInOwl:id>
+        <rdfs:label>Kalansho Sand Sea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00051202 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00051202">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051198"/>
+        <obo:IAO_0000115>A dune sea that stretches from Fachi, east of the Air Mountains in north central Niger, east past the town of Bilma, on to the Chadian border. It surrounds on three sides the oasis of Bilma, southernmost of a north south string of oasies of the Kaouar rise.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00051202</oboInOwl:id>
+        <rdfs:label>Erg of Bilma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00051203 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00051203">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004033"/>
+        <obo:IAO_0000115>A sand sea. An that is 22 km long (North-South) and 5 km wide. Its dunes reach a maximum height of 150 meters. It is located roughly 40 km south-east of Erfoud.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00051203</oboInOwl:id>
+        <rdfs:label>Erg Chebbi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052553 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052553">
+        <obo:IAO_0000115>A river that rises in the central highlands of Ethiopia near Mount Qachen, from where it flows west, north, then west again, forming the westernmost border of Ethiopia and Eritrea. The river continues into northeastern Sudan, where at 14deg10minN, 36degE, the Tekeze joins the Atbarah River, the lower course of which is a tributary of the Nile. The Tekeze is perhaps the true upper course of the Atbarah, as the former follows the longer course prior to the confluence of the two rivers. The names of its main tributaries in Ethiopia from its source are: on the right bank Tahali, Meri, Sellare, Sullo, Arekwa, Gheoa, Wari, Firafira, Tocoro and Gumalo Rivers; on the left bank Nili, Balagas, Saha, Bembea, Ataba, Zarima, and Kwalema Rivers.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052553</oboInOwl:id>
+        <rdfs:label>Tekeze River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053489 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053489">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00103898"/>
+        <obo:IAO_0000115>A volcanic field covers a broad area of about 1050 km2 in the Tuareg shield in the southern Air region of Niger. Activity began with the eruption of about 30 trachytic and phonolitic volcanoes through Precambrian basement rocks. This was followed by the formation of about 130 basaltic cones that typically produced a valley filling lava flow. A series of NW-SE-trending faults control volcano locations.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053489</oboInOwl:id>
+        <rdfs:label>Todra Volcanic Field</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053495 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053495">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000733"/>
+        <obo:IAO_0000115>A volcanic field covers a broad 45,000 km2 area in central Libya and contains very well-preserved basaltic scoria cones, lava flows, and explosion craters. The Haruj field contains about 150 volcanoes, 30 of which are small shield volcanoes with heights of between 100 and 400 m. The Haruj volcanics are located along the SE extension of the Hon graben system of late Cretaceous to Tertiary age, near the intersection of the Paleozoic southern Haruj uplift and the western edge of the Mesozoic Tibesti-Sirte uplift.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053495</oboInOwl:id>
+        <rdfs:label>Haruj Volcanic Field</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053496 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053496">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000566"/>
+        <obo:IAO_0000115>A volcanic field that lies in the Sahara desert of south-central Libya, south of the Haruj volcanic field. A 4 km wide, 100-m-deep caldera contains a post-caldera scoria cone, Wau-en-Namus. An apron of dark basaltic tephra extends 10-20 km around the caldera in stark contrast to the light-colored desert sand prominent in satellite views. Three small saline lakes of variable color contribute to the name of the volcano.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053496</oboInOwl:id>
+        <rdfs:label>Wau-en-Namus Volcanic Field</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053509 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053509">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00057756"/>
+        <obo:IAO_0000115>A volcanic field is located in the Bayuda Desert of NE Sudan, south of the major Abu Hamed bend of the Nile River about 300 km north of capital city of Khartoum. More than 90 eruptive centers along a WNW-ESE line were constructed over Precambrian and Paleozoic granitic rocks near the center of the Bayuda Desert. Most vents of the Bayuda field are cinder cones that produced lava flows which breached the cones. About 10% of vents in the field are explosion craters, the largest of which, named Hosh ed Dalam, is 1.3 km wide and up to 500 m deep.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053509</oboInOwl:id>
+        <rdfs:label>Bayuda Volcanic Field</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053510 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053510">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00053509"/>
+        <obo:IAO_0000115>A volanic crater.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053510</oboInOwl:id>
+        <rdfs:label>Hosh ed Dalam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053511 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053511">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00057756"/>
+        <obo:IAO_0000115>A volcanic field (shield volcano) located in the Bayuda desert of NE Sudan, immediately west of the Nile River, NE of the capital city of Khartoum. Jebel Umm Arafieb consists of a low-angle shield volcano of basanitic-to-trachybasaltic composition formed of several overlapping aa lava flows erupted from a vent now capped by a spatter cone.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053511</oboInOwl:id>
+        <rdfs:label>Jebel Umm Arafieb Volcanic Field</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057756 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057756">
+        <obo:IAO_0000115>A desert located north of Khartoum, Sudan, west of Kadabas, and north of the Nubian Desert, together making up part of the Sahara&apos;s eastern flank.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057756</oboInOwl:id>
+        <rdfs:label>Bayuda Desert</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057757 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057757">
+        <obo:IAO_0000115>The eastern region of the Sahara Desert, it spans 50, 000 km2 of northeastern Sudan between the Nile and the Red Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057757</oboInOwl:id>
+        <rdfs:label>Nubian Desert</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057759 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057759">
+        <obo:IAO_0000115>A desert east of the river Nile, between the Nile and the Red Sea. It extends from Egypt in the north to Eritrea in the south, and also comprises parts of Sudan and Ethiopia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057759</oboInOwl:id>
+        <rdfs:label>Eastern Desert</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058791 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058791">
+        <obo:IAO_0000115>A polymictic shallow lake complex of Uganda, about 1,720 km2 in area and at an elevation of 914 m. The Victoria Nile flows through the lake on its way from Lake Victoria to Lake Albert. The main inflow from Lake Victoria is regulated by the Nalubaale Power Station in Jinja. Another source of water is the Mount Elgon region on the border between Uganda and Kenya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058791</oboInOwl:id>
+        <rdfs:label>Lake Kyoga</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058849 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058849">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>Recently formed endorheic lakes in the Sahara Desert of Egypt. Caused by water from Lake Nasser running through the Sadat Canal.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058849</oboInOwl:id>
+        <rdfs:label>Toshka Lakes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058872 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058872">
+        <obo:IAO_0000115>The two dams at the first cataract on the Nile in Egypt.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058872</oboInOwl:id>
+        <rdfs:label>Aswan Dams</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058873 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058873">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058872"/>
+        <obo:IAO_0000115>The newer of the Aswan Dams, completed in 1968. It is located 7 km south of Aswan City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058873</oboInOwl:id>
+        <rdfs:label>Aswan High Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058874 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058874">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058872"/>
+        <obo:IAO_0000115>The first of the Aswan Dams on the Nile, finished in 1902.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058874</oboInOwl:id>
+        <rdfs:label>Aswan Low Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058877 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058877">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009949"/>
+        <obo:IAO_0000115>A dam that was completed in 1862. Its purpose was to improve irrigation in the Nile Delta area of Egypt.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058877</oboInOwl:id>
+        <rdfs:label>Delta Barrage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058878 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058878">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000074"/>
+        <obo:IAO_0000115>A barrage on the River Nile in Egypt.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058878</oboInOwl:id>
+        <rdfs:label>Esna Barrage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058879 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058879">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000074"/>
+        <obo:IAO_0000115>A barrage on the River Nile in Egypt.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058879</oboInOwl:id>
+        <rdfs:label>Nag Hammadi Barrage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058880 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058880">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000074"/>
+        <obo:IAO_0000115>A barrage on the River Nile in Egypt.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058880</oboInOwl:id>
+        <rdfs:label>Assuit Barrage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058881 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058881">
+        <obo:IAO_0000115>A dam on the Rosetta Canal.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058881</oboInOwl:id>
+        <rdfs:label>Edfina Barrage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058882 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058882">
+        <obo:IAO_0000115>A dam on the Damietta Canal.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058882</oboInOwl:id>
+        <rdfs:label>Faraskour Barrage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058883 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058883">
+        <obo:IAO_0000115>A dam on the Damietta Canal.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058883</oboInOwl:id>
+        <rdfs:label>Zitta Barrage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058884 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058884"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058886 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058886"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058890 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058890"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058891 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058891">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058886"/>
+        <obo:IAO_0000115>An island in the River Nile in Egypt near the Fourth Cataract in Dar al-Manasir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058891</oboInOwl:id>
+        <rdfs:label>Island of Muqrat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058892 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058892">
+        <obo:IAO_0000115>A dam under construction on the River Nile in Sudan, about 350 km north of the capital Khartoum.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058892</oboInOwl:id>
+        <rdfs:label>Merowe High Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00066409 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00066409">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00248009"/>
+        <obo:IAO_0000115>An oasis in Egypt, located between the Qattara Depression and the Egyptian Sand Sea in the Libyan Desert, nearly 50 km east of the Libyan border, and 560 km from Cairo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00066409</oboInOwl:id>
+        <rdfs:label>Siwa Oasis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00066410 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00066410">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>A desert located 45 km north of Farafra. The desert has a white, cream color and has massive chalk rock formations that have been created as a result of occasional sandstorms in the area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00066410</oboInOwl:id>
+        <rdfs:label>Sahara el Beyda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00066428 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00066428">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000744"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>An oasis with a large lake located in the municipality Sabha in the Libyan Sahara. The lake is saline.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00066428</oboInOwl:id>
+        <rdfs:label>Gaberoun Oasis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00066429 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00066429">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000566"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>An erg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00066429</oboInOwl:id>
+        <rdfs:label>Ramlat al Dauada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00066430 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00066430">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00066429"/>
+        <obo:IAO_0000115>A lake in the Ramlat al Dauada erg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00066430</oboInOwl:id>
+        <rdfs:label>Mafo Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00066431 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00066431">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000735"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>An oasis in Southeastern Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00066431</oboInOwl:id>
+        <rdfs:label>Kufra Oasis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089782 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089782">
+        <obo:IAO_0000115>Protected areas amounting to 144 islands in different Governorates in Egypt. Alongside the main stream from Aswan until the Barrages, there are 95 Islands within an area of 32500 Feddans. In Rasheed branch there are 30 islands within an area of 3400 Feddans, in Damietta Branch there are 19 islands within and area of 1250 Feddans. The total area of all the Nile River islands in 37150 Feddans.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089782</oboInOwl:id>
+        <rdfs:label>Nile river Islands Protected Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00103898 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00103898">
+        <obo:IAO_0000115>A triangular massif, located in northern Niger, within the Sahara desert. Part of the West Saharan montane xeric woodlands ecoregion, they rise to more than 1,830 m and extend over 84000 km2. Lying in the midst of desert north of the 17th parallel, the Air plateau with an average altitude between 500 and 900 m, forms an island of Sahel climate.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00103898</oboInOwl:id>
+        <rdfs:label>Air Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00122801 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00122801">
+        <obo:IAO_0000115>A depression located at the southern edge of the Sahara Desert in north central Africa, is the lowest point in Chad, and one of the largest sources of airborne dust in the world. Once serving as part of the floor of a much larger Lake Chad.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00122801</oboInOwl:id>
+        <rdfs:label>Bodele Depression</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144628 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144628">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000032"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000566"/>
+        <obo:IAO_0000115>A gulf in the Mediterranean Sea on the northern coast of Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144628</oboInOwl:id>
+        <rdfs:label>Gulf of Sidra</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230302 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230302">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009949"/>
+        <obo:IAO_0000115>An irrigation canal. Cosntructed 1873.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230302</oboInOwl:id>
+        <rdfs:label>Ibrahimiya Canal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230306 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230306">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>A mountain range in the area of the Egyptian-Libyan-Sudanese border.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230306</oboInOwl:id>
+        <rdfs:label>Jebel Uweinat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230307 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230307">
+        <obo:IAO_0000115>A plateau in the remote southwest corner of Egypt.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230307</oboInOwl:id>
+        <rdfs:label>Gilf Kebir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230308 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230308">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>An impact crater.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230308</oboInOwl:id>
+        <rdfs:label>Kebira Crater</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230309 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230309">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>A dry river bed.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230309</oboInOwl:id>
+        <rdfs:label>Wadi Akhdar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230310 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230310">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>A dry river bed.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230310</oboInOwl:id>
+        <rdfs:label>Wadi Bakht</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230311 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230311">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>A dry river bed.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230311</oboInOwl:id>
+        <rdfs:label>Wadi Dayiq</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230312 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230312">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>A dry river bed.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230312</oboInOwl:id>
+        <rdfs:label>Wadi Firaq</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230313 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230313">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>A dry river bed.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230313</oboInOwl:id>
+        <rdfs:label>Wadi Gazayir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230314 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230314">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>A dry river bed.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230314</oboInOwl:id>
+        <rdfs:label>Wadi Maftuh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230315 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230315">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>A dry river bed.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230315</oboInOwl:id>
+        <rdfs:label>Wadi Mashi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230316 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230316">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>A dry river bed.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230316</oboInOwl:id>
+        <rdfs:label>Wadi Sura</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230317 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230317">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>A dry river bed.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230317</oboInOwl:id>
+        <rdfs:label>Wadi Wassa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230323 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230323">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230307"/>
+        <obo:IAO_0000115>A cave in southwest Egypt, near the border with Libya, in the mountainous Gilf Kebir region of the Sahara Desert.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230323</oboInOwl:id>
+        <rdfs:label>Cave of Swimmers</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230324 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230324">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058890"/>
+        <obo:IAO_0000115>An island in the first cataract of the Nile River, Egypt.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230324</oboInOwl:id>
+        <rdfs:label>Bigeh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230325 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230325">
+        <obo:IAO_0000115>An island in the River Nile, located just downstream of the First Cataract.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230325</oboInOwl:id>
+        <rdfs:label>Elephantine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230326 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230326">
+        <obo:IAO_0000115>An island located in the Nile River, in central Cairo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230326</oboInOwl:id>
+        <rdfs:label>Gezira Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230327 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230327">
+        <obo:IAO_0000115>An oval-shaped island in the Nile at Aswan, Egypt.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230327</oboInOwl:id>
+        <rdfs:label>Geziret an-Nabatat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230398 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230398">
+        <obo:IAO_0000115>A river. A tributary of the Jamma River. Along with the Adabay River, it defined the border of the former district of Marra Biete.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230398</oboInOwl:id>
+        <rdfs:label>Wanchet River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230400 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230400">
+        <obo:IAO_0000115>A river in Sudan, Africa. The most southerly of the great eastern tributaries of the Nile, the Sobat enters the White Nile at Dolieb Hill, near the city of Malakal in the Upper Nile state of Sudan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230400</oboInOwl:id>
+        <rdfs:label>Sobat River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230410 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230410">
+        <obo:IAO_0000115>A river of southwestern Ethiopia. It is a tributary of the Baro River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230410</oboInOwl:id>
+        <rdfs:label>Jikawo River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230416 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230416">
+        <obo:IAO_0000115>A dam. Constructed 1986.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230416</oboInOwl:id>
+        <rdfs:label>Angereb Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230483 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230483">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000725"/>
+        <obo:IAO_0000115>A populated place. A city in northeastern Libya, near the border with Egypt, in North Africa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230483</oboInOwl:id>
+        <rdfs:label>Tobruk</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230484 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230484">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000729"/>
+        <obo:IAO_0000115>A heavily forested, fertile upland area in eastern Libya. It is located in the modern district of Al Jabal al Akhdar.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230484</oboInOwl:id>
+        <rdfs:label>Jebel Akhdar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230485 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230485">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000749"/>
+        <obo:IAO_0000115>A populated place. The second largest city in Libya and the main city of the Cyrenaica region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230485</oboInOwl:id>
+        <rdfs:label>Benghazi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230486 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230486">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000742"/>
+        <obo:IAO_0000115>A populated place. The largest and capital city of Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230486</oboInOwl:id>
+        <rdfs:label>Tripoli</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230487 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230487">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000745"/>
+        <obo:IAO_0000115>A populated place. A town in the Al Wahat District in northeastern Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230487</oboInOwl:id>
+        <rdfs:label>Ajdabiya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230488 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230488">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230487"/>
+        <obo:IAO_0000115>An administrative division (Basic People&apos;s Congress) of Ajdabiya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230488</oboInOwl:id>
+        <rdfs:label>North Ajdabiya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230489 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230489">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230487"/>
+        <obo:IAO_0000115>An administrative division (Basic People&apos;s Congress) of Ajdabiya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230489</oboInOwl:id>
+        <rdfs:label>West Ajdabiya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230490 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230490">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230487"/>
+        <obo:IAO_0000115>An administrative division (Basic People&apos;s Congress) of Ajdabiya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230490</oboInOwl:id>
+        <rdfs:label>East Ajdabiya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230493 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230493">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000566"/>
+        <obo:IAO_0000115>A network of pipes that supplies water from the Sahara Desert in Libya, from the Nubian Sandstone Aquifer System fossil aquifer.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230493</oboInOwl:id>
+        <rdfs:label>Great Manmade River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230494 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230494">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230493"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230494</oboInOwl:id>
+        <rdfs:label>Ajdabiya Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230495 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230495">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230493"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230495</oboInOwl:id>
+        <rdfs:label>Grand Omar Muktar Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230496 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230496">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230493"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230496</oboInOwl:id>
+        <rdfs:label>Al Gardabiya Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230497 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230497">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230497</oboInOwl:id>
+        <rdfs:label>Al-Magroon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230498 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230498">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230498</oboInOwl:id>
+        <rdfs:label>Al-Saahil al-Gharbi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230499 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230499">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230499</oboInOwl:id>
+        <rdfs:label>Karkoora</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230500 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230500">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230500</oboInOwl:id>
+        <rdfs:label>Gimeenis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230501 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230501">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230501</oboInOwl:id>
+        <rdfs:label>Suloog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230502 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230502">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230502</oboInOwl:id>
+        <rdfs:label>Al-Khadhraa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230503 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230503">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230503</oboInOwl:id>
+        <rdfs:label>Al-Nawagiya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230504 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230504">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230504</oboInOwl:id>
+        <rdfs:label>Al-Magziha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230505 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230505">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230505</oboInOwl:id>
+        <rdfs:label>Al-Keesh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230506 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230506">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230506</oboInOwl:id>
+        <rdfs:label>Garyounis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230507 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230507">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230507</oboInOwl:id>
+        <rdfs:label>Al-Fuwayhat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230508 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230508">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230508</oboInOwl:id>
+        <rdfs:label>Al-Berka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230509 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230509">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230509</oboInOwl:id>
+        <rdfs:label>Bu-Fakhra</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230510 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230510">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230510</oboInOwl:id>
+        <rdfs:label>Jarrutha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230511 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230511">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230511</oboInOwl:id>
+        <rdfs:label>Al-Quwarsha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230512 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230512">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230512</oboInOwl:id>
+        <rdfs:label>Bu Atni</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230513 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230513">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230513</oboInOwl:id>
+        <rdfs:label>Benina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230514 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230514">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230514</oboInOwl:id>
+        <rdfs:label>Al-Kwayfiya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230515 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230515">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230515</oboInOwl:id>
+        <rdfs:label>Sidi Khalifa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230516 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230516">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230516</oboInOwl:id>
+        <rdfs:label>Al-Hawari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230517 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230517">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230517</oboInOwl:id>
+        <rdfs:label>Al-Thawra al-Shabiyah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230518 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230518">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230518</oboInOwl:id>
+        <rdfs:label>Shuhadaa al-Salawi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230519 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230519">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230519</oboInOwl:id>
+        <rdfs:label>Madinat Benghazi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230520 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230520">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230520</oboInOwl:id>
+        <rdfs:label>Sidi Hsayn</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230521 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230521">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230521</oboInOwl:id>
+        <rdfs:label>Al-Sabri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230522 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230522">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230522</oboInOwl:id>
+        <rdfs:label>Sidi Abayd</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230523 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230523">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230523</oboInOwl:id>
+        <rdfs:label>Al-Salmani</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230524 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230524">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230524</oboInOwl:id>
+        <rdfs:label>Raas Abayda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230525 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230525">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230525</oboInOwl:id>
+        <rdfs:label>Benghazi al-Jadida</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230526 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230526">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230526</oboInOwl:id>
+        <rdfs:label>Al-Uruba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230527 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230527">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230527</oboInOwl:id>
+        <rdfs:label>Hay al-Mukhtar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230528 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230528">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230485"/>
+        <obo:IAO_0000115>An administrative subdivision (Basic People&apos;s Congress) of Benghazi District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230528</oboInOwl:id>
+        <rdfs:label>Al-Hadaa&apos;ik</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230530 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230530">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000751"/>
+        <obo:IAO_0000115>A valley in west-central Libya, arising out of the Sawda Mountains, situated between the towns Wanzarik and Umm al-&apos;Abid in the west and east, respectively.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230530</oboInOwl:id>
+        <rdfs:label>Wadi ash-Shati&apos;</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230531 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230531">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000566"/>
+        <obo:IAO_0000115>A primarily erg desert in southwestern Libya and is considered part of the Sahara desert complex, although it is separated from the southern Sahara by the Tibesti Mountains and the Tassili n&apos;Ajjer.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230531</oboInOwl:id>
+        <rdfs:label>Murzuq Desert</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230534 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230534">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230487"/>
+        <obo:IAO_0000115>An oasis in the Municipality of Ajdabiya in northeastern Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230534</oboInOwl:id>
+        <rdfs:label>Maradah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230535 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230535">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000733"/>
+        <obo:IAO_0000115>An oasis in Libya. Located approximately on the middle between Maradah and Houn.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230535</oboInOwl:id>
+        <rdfs:label>Zallah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230536 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230536">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000745"/>
+        <obo:IAO_0000115>An oasis in the Al Wahat District in north-eastern Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230536</oboInOwl:id>
+        <rdfs:label>Jikharrah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230537 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230537">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007645"/>
+        <obo:IAO_0000115>An oasis in Cyrenaica, Libya, located west of the Great Sand Sea and about 250 km south-east of the Gulf of Sirte.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230537</oboInOwl:id>
+        <rdfs:label>Jalo Oasis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230538 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230538">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000725"/>
+        <obo:IAO_0000115>A desert oasis in the eastern Libyan Desert. The oasis is located in Al Butnan District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230538</oboInOwl:id>
+        <rdfs:label>Al-Jaghbub</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230539 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230539">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000745"/>
+        <obo:IAO_0000115>An oasis.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230539</oboInOwl:id>
+        <rdfs:label>Awjila</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230545 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230545">
+        <obo:IAO_0000115>An erg located in the far south-east of Western Sahara.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230545</oboInOwl:id>
+        <rdfs:label>Zug</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230712 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230712">
+        <obo:IAO_0000115>A sandstone massif in Mali&apos;s Kidal Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230712</oboInOwl:id>
+        <rdfs:label>Adrar des Ifoghas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00231580 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00231580">
+        <obo:IAO_0000115>A plateau that lies in eastern Mauritania, forming a stony part of the Sahara Desert.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00231580</oboInOwl:id>
+        <rdfs:label>Tagant Plateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00231625 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00231625">
+        <obo:IAO_0000115>A highland area of the Sahara Desert in northern Mauritania.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00231625</oboInOwl:id>
+        <rdfs:label>Adrar Plateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233408 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233408">
+        <obo:IAO_0000115>A protected area. Established 1988-01-01.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233408</oboInOwl:id>
+        <rdfs:label>Air and Tenere Addax Sanctuary</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233409 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233409">
+        <obo:IAO_0000115>A protected area. It includes both the eastern half of the Air Mountains and the western sections of the Tenere desert.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233409</oboInOwl:id>
+        <rdfs:label>Air and Tenere National Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233411 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233411">
+        <obo:IAO_0000115>A plateau that ies in the Sahara, in north eastern Niger.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233411</oboInOwl:id>
+        <rdfs:label>Djado Plateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233412 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233412">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00103898"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00233408"/>
+        <obo:IAO_0000115>A mountain range in Niger in the northeastern section of the Air Massif, about 100 km ENE of the town of Iferouane and 30 km NE of the Tezerik oasis. Isolated from the main Massif by dune seas of the Erg of Tenere and a flat gravely Desert pavement plain.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233412</oboInOwl:id>
+        <rdfs:label>Montagnes Bleus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233432 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233432">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051198"/>
+        <obo:IAO_0000115>An oasis surrounded by the Tenere dessert and the dunes of the Erg of Bilma in eastern Niger, placed on the western edge of the small Agram mountain outcropping.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233432</oboInOwl:id>
+        <rdfs:label>Fachi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233534 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233534">
+        <obo:IAO_0000115>A lake. Formed by a widening of the channel of the Bahr el Ghazal.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233534</oboInOwl:id>
+        <rdfs:label>Lake Ambadi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233536 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233536">
+        <obo:IAO_0000115>A dam on the Blue Nile near the town of Sennar, Sudan. Constructed 1925.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233536</oboInOwl:id>
+        <rdfs:label>Sennar Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233537 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233537">
+        <obo:IAO_0000115>A hydroelectric dam. Impounds El Roseires Lake. Completed 1966.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233537</oboInOwl:id>
+        <rdfs:label>El Roseires Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233540 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233540">
+        <obo:IAO_0000115>An island on the White Nile to the south of Khartoum, Sudan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233540</oboInOwl:id>
+        <rdfs:label>Aba Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233541 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233541">
+        <obo:IAO_0000115>One of the biggest islands in the Nile and the second biggest island in Sudan. It is 56 km Northern to Dongola the capital of the Northern State in Sudan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233541</oboInOwl:id>
+        <rdfs:label>Badien Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233542 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233542">
+        <obo:IAO_0000115>A large island in the Nile River in Nubia between the second and third cataracts. It is 12 km long and 5.5 km wide.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233542</oboInOwl:id>
+        <rdfs:label>Sai</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233543 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233543">
+        <obo:IAO_0000115>An island in Sudan where the White Nile and Blue Nile merge to form the main Nile. It is surrounded by Khartoum, Omdurman and Khartoum North.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233543</oboInOwl:id>
+        <rdfs:label>Tuti Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00233583 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00233583">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00233583</oboInOwl:id>
+        <rdfs:label>Schott Dscherid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00234182 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00234182">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007646"/>
+        <obo:IAO_0000115>A lake with sulfur deposition.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00234182</oboInOwl:id>
+        <rdfs:label>Ain el Rabaiba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00237174 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00237174">
+        <obo:IAO_0000115>A hydroelectric power station across the White Nile near to its source at Lake Victoria in Uganda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00237174</oboInOwl:id>
+        <rdfs:label>Nalubaale Power Station</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00237175 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00237175">
+        <obo:IAO_0000115>A hydroelectric power station located in Jinja, Jinja District, in eastern central Uganda.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00237175</oboInOwl:id>
+        <rdfs:label>Kiira Power Station</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00237176 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00237176">
+        <obo:IAO_0000115>A hydroelectric power project located at the headwaters of River Nile, about 16 km north of Jinja at the former location of Bujagali Falls.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00237176</oboInOwl:id>
+        <rdfs:label>Bujagali Power Station</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00237412 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00237412">
+        <obo:IAO_0000115>A river of eastern Uganda in eastern Africa. It flows in a southern and south-westerly direction and eventually via the Okere River reaches Lake Kyoga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00237412</oboInOwl:id>
+        <rdfs:label>Okot River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246604 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246604">
+        <obo:IAO_0000115>A freshwater lake. One of the most isolated occurrences of free surface water in the Sahara. It is situated near the southwestern extremity of the plateau, Adrar Nahalet, which extends westwards from the massif of the A&apos;Haggar. The permanent guelta (pool), 13 m wide when full and 6 m deep, is inside a volcanic crater which partly encloses a valley. It collects water from two oueds which drain Ziza Mountain, to the south, and is reputed to have no underground input. Several small temporary pools also occur in the bed of the main oued draining Mount Ziza.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246604</oboInOwl:id>
+        <rdfs:label>Gueltas of Ziza</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247178 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247178">
+        <obo:IAO_0000115>A depression.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247178</oboInOwl:id>
+        <rdfs:label>Depression du Mourdi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247180 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247180">
+        <obo:IAO_0000115>A mountain range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247180</oboInOwl:id>
+        <rdfs:label>Massif du Kerkour Nourene</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247676 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247676">
+        <obo:IAO_0000115>An intermittent river in the Sahara.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247676</oboInOwl:id>
+        <rdfs:label>Oued Saoura</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247997 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247997">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009949"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247997</oboInOwl:id>
+        <rdfs:label>Birkat al Mallah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247998 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247998">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009949"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247998</oboInOwl:id>
+        <rdfs:label>Birkat al Qatta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247999 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247999">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009949"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247999</oboInOwl:id>
+        <rdfs:label>Lake Faraontya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248000 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248000">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009949"/>
+        <obo:IAO_0000115>A coastal lagoon.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248000</oboInOwl:id>
+        <rdfs:label>Buhayrat al Manzilah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248001 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248001">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009949"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248001</oboInOwl:id>
+        <rdfs:label>Birkat Muhayshir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248009 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248009">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051197"/>
+        <obo:IAO_0000115>A depression, about 25 m below sea level at its deepest. Bounded by steep slopes on the northern side, reaching about 120-160 m asl, but by much gentler slopes to the south and southeast.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248009</oboInOwl:id>
+        <rdfs:label>Siwa Depression</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248010 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248010">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00248009"/>
+        <obo:IAO_0000115>An oasis.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248010</oboInOwl:id>
+        <rdfs:label>Shiyata</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248011 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248011">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00248009"/>
+        <obo:IAO_0000115>A saline lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248011</oboInOwl:id>
+        <rdfs:label>Birkat al Maraqi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248012 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248012">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00248009"/>
+        <obo:IAO_0000115>A saline lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248012</oboInOwl:id>
+        <rdfs:label>Birkat el Zaytun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248013 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248013">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00248009"/>
+        <obo:IAO_0000115>A saline lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248013</oboInOwl:id>
+        <rdfs:label>Birkat Siwah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248014 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248014">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00248009"/>
+        <obo:IAO_0000115>A saline lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248014</oboInOwl:id>
+        <rdfs:label>Birkat Aghurmi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248015 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248015">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00248009"/>
+        <obo:IAO_0000115>A saline lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248015</oboInOwl:id>
+        <rdfs:label>Birkat Samar Abu Ishaq</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248016 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248016">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051196"/>
+        <obo:IAO_0000115>A semi-permanent saline lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248016</oboInOwl:id>
+        <rdfs:label>Lake Sitra</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248017 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248017">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051196"/>
+        <obo:IAO_0000115>A semi-permanent saline lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248017</oboInOwl:id>
+        <rdfs:label>Lake el Bahrein</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248018 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248018">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051196"/>
+        <obo:IAO_0000115>A semi-permanent saline lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248018</oboInOwl:id>
+        <rdfs:label>Lake el Maghra</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251834 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251834">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000032"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000741"/>
+        <obo:IAO_0000115>A bight.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251834</oboInOwl:id>
+        <rdfs:label>Marsa al Burayqah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251835 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251835">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000745"/>
+        <obo:IAO_0000115>A sabkha.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251835</oboInOwl:id>
+        <rdfs:label>Sabkhat al Qunayyin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251836 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251836">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000724"/>
+        <obo:IAO_0000115>A populated place. A city in the District of Ghat in SW Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251836</oboInOwl:id>
+        <rdfs:label>Ghat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251837 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251837">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000724"/>
+        <obo:IAO_0000115>A sabkha.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251837</oboInOwl:id>
+        <rdfs:label>Sabkha of Ghat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251838 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251838">
+        <obo:IAO_0000115>An erg.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251838</oboInOwl:id>
+        <rdfs:label>Idhan Ubari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251839 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251839">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000744"/>
+        <obo:IAO_0000115>A wadi to the S of Idhan Ubari in Sabha District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251839</oboInOwl:id>
+        <rdfs:label>Wadi al Hayah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251840 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251840">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000744"/>
+        <obo:IAO_0000115>A wadi to the N of Idhan Ubari in Sabha District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251840</oboInOwl:id>
+        <rdfs:label>Wadi ash Shati</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00252194 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00252194">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00252195"/>
+        <obo:IAO_0000115>A guelta system.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00252194</oboInOwl:id>
+        <rdfs:label>Gamra Ouarbi Gueltas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00252195 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00252195">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00231580"/>
+        <obo:IAO_0000115>A wadi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00252195</oboInOwl:id>
+        <rdfs:label>Oued Bourraga</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00252196 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00252196">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00252195"/>
+        <obo:IAO_0000115>A spring.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00252196</oboInOwl:id>
+        <rdfs:label>El Housseiniya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00252197 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00252197">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00231580"/>
+        <obo:IAO_0000115>An oasis. Located in the escarpment of the Tagant Plateau, in its southwestern extension towards Kiffa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00252197</oboInOwl:id>
+        <rdfs:label>Tartega Gueltas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253017 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253017">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00103898"/>
+        <obo:IAO_0000115>A wadi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253017</oboInOwl:id>
+        <rdfs:label>Ighalabelabene</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253018 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253018">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00103898"/>
+        <obo:IAO_0000115>A wadi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253018</oboInOwl:id>
+        <rdfs:label>Nabarou</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253019 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253019">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00103898"/>
+        <obo:IAO_0000115>A wadi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253019</oboInOwl:id>
+        <rdfs:label>Bagzane-n-Ammas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253020 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253020">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00103898"/>
+        <obo:IAO_0000115>An intermittent river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253020</oboInOwl:id>
+        <rdfs:label>Timia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253021 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253021">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00103898"/>
+        <obo:IAO_0000115>A wadi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253021</oboInOwl:id>
+        <rdfs:label>Tamgak</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253022 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253022">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00103898"/>
+        <obo:IAO_0000115>A plateau.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253022</oboInOwl:id>
+        <rdfs:label>Djado Massif</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253023 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253023">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00103898"/>
+        <obo:IAO_0000115>A plateau.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253023</oboInOwl:id>
+        <rdfs:label>Kaquar Massif</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00253024 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00253024">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00103898"/>
+        <obo:IAO_0000115>An escarpment.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00253024</oboInOwl:id>
+        <rdfs:label>Fachi Massif</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00256465 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00256465">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00256465</oboInOwl:id>
+        <rdfs:label>Lileboak River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00256472 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00256472">
+        <obo:IAO_0000115>A dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00256472</oboInOwl:id>
+        <rdfs:label>Jebel Auliya Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00256473 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00256473">
+        <obo:IAO_0000115>A reservoir. Impounded by Jebel Auliya Dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00256473</oboInOwl:id>
+        <rdfs:label>Jebel Auliya Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00256482 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00256482">
+        <obo:IAO_0000115>An artificial lake. Impounded by El Roseires Dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00256482</oboInOwl:id>
+        <rdfs:label>El Roseires Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00256483 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00256483">
+        <obo:IAO_0000115>An artifiical lake. Impounded by Sennar Dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00256483</oboInOwl:id>
+        <rdfs:label>Sennar Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00256484 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00256484">
+        <obo:IAO_0000115>A dam. Impounds Kashim el Girlba Lake. Completed 1964.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00256484</oboInOwl:id>
+        <rdfs:label>Kashim el Girlba Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00256485 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00256485">
+        <obo:IAO_0000115>An artifiical lake. Impounded by Kashim el Girlba Dam. Completed 1964.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00256485</oboInOwl:id>
+        <rdfs:label>Kashim el Girlba Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00256486 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00256486">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000074"/>
+        <obo:IAO_0000115>A barrage. Located 25 km S of Khartoum.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00256486</oboInOwl:id>
+        <rdfs:label>Gebel Auliya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260292 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260292">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000475"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058791"/>
+        <obo:IAO_0000115>An arm of Lake Kyoga.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260292</oboInOwl:id>
+        <rdfs:label>Mpologoma Arm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281380 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281380">
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281380</oboInOwl:id>
+        <rdfs:label>Us Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281381 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281381">
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281381</oboInOwl:id>
+        <rdfs:label>Sur Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281382 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281382">
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281382</oboInOwl:id>
+        <rdfs:label>Sherari Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281406 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281406">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00230484"/>
+        <obo:IAO_0000115>A populated place. A town in the District of Al Jabal al Akhdar in north-eastern Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281406</oboInOwl:id>
+        <rdfs:label>Shahhat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281407 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281407">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00281406"/>
+        <obo:IAO_0000115>An archeological site. Greek/Roman.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281407</oboInOwl:id>
+        <rdfs:label>Cyrene</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281409 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281409">
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281409</oboInOwl:id>
+        <rdfs:label>Deriana</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281410 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281410">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00281409"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281410</oboInOwl:id>
+        <rdfs:label>Deriana [site]</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281413 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281413">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000739"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281413</oboInOwl:id>
+        <rdfs:label>Al Khums</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281414 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281414">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00281413"/>
+        <obo:IAO_0000115>An archeological site. Roman.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281414</oboInOwl:id>
+        <rdfs:label>Leptis Magna</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281415 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281415">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000729"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281415</oboInOwl:id>
+        <rdfs:label>Qasr Libya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281416 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281416">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00281415"/>
+        <obo:IAO_0000115>An archeological site. A Roman / Byzantine town.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281416</oboInOwl:id>
+        <rdfs:label>Olbia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281417 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281417">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000729"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281417</oboInOwl:id>
+        <rdfs:label>Tolmeitha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281418 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281418">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00281417"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281418</oboInOwl:id>
+        <rdfs:label>Ptolemais</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281420 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281420">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000747"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281420</oboInOwl:id>
+        <rdfs:label>Sabratha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281421 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281421">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00281420"/>
+        <obo:IAO_0000115>An archeological site. Roman. A World Heritage Site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281421</oboInOwl:id>
+        <rdfs:label>Sabratha [site]</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281422 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281422">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000566"/>
+        <obo:IAO_0000115>A region in Libya known for extensive prehistoric rock art.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281422</oboInOwl:id>
+        <rdfs:label>Mesak Settafet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281423 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281423">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00281422"/>
+        <obo:IAO_0000115>A prehistoric archeological site in south western Libya in Mesak Settafet, famous for its rock engravings of different kinds.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281423</oboInOwl:id>
+        <rdfs:label>Wadi Mathendous</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281424 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281424">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00281422"/>
+        <obo:IAO_0000115>A site of rock art.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281424</oboInOwl:id>
+        <rdfs:label>Ghalgiwan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281425 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281425">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00281422"/>
+        <obo:IAO_0000115>A site of rock art.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281425</oboInOwl:id>
+        <rdfs:label>Tiksaten</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281426 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281426">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00281422"/>
+        <obo:IAO_0000115>A site of rock art.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281426</oboInOwl:id>
+        <rdfs:label>Abategh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281427 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281427">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000729"/>
+        <obo:IAO_0000115>An archeological site. Greek. Located near the town of Susah, Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281427</oboInOwl:id>
+        <rdfs:label>Apollonia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603352 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603352">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000566"/>
+        <obo:IAO_0000115>The western coastal region of Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603352</oboInOwl:id>
+        <rdfs:label>Tripolitania</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603353 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603353">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000566"/>
+        <obo:IAO_0000115>The south western region of modern Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603353</oboInOwl:id>
+        <rdfs:label>Fezzan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603354 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603354">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000730"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603354</oboInOwl:id>
+        <rdfs:label>Qatrun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603355 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603355">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000730"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603355</oboInOwl:id>
+        <rdfs:label>Al `Uwaynat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603356 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603356">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000730"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603356</oboInOwl:id>
+        <rdfs:label>Al Wigh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603357 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603357">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000730"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603357</oboInOwl:id>
+        <rdfs:label>Murzuk</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603358 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603358">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000730"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603358</oboInOwl:id>
+        <rdfs:label>Qawat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603359 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603359">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000730"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603359</oboInOwl:id>
+        <rdfs:label>Tajarhi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603360 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603360">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000751"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603360</oboInOwl:id>
+        <rdfs:label>Brak</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603361 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603361">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603361</oboInOwl:id>
+        <rdfs:label>Tikirkibh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603362 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603362">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603362</oboInOwl:id>
+        <rdfs:label>Ghuraifa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603363 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603363">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603363</oboInOwl:id>
+        <rdfs:label>Gurma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603364 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603364">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603364</oboInOwl:id>
+        <rdfs:label>Ibreek</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603365 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603365">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603365</oboInOwl:id>
+        <rdfs:label>Ubari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603366 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603366">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603366</oboInOwl:id>
+        <rdfs:label>Toosh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603367 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603367">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603367</oboInOwl:id>
+        <rdfs:label>Bint Bayyah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603368 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603368">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603368</oboInOwl:id>
+        <rdfs:label>Rageebah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603369 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603369">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603369</oboInOwl:id>
+        <rdfs:label>Algaeerat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603370 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603370">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603370</oboInOwl:id>
+        <rdfs:label>Alfuqar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603371 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603371">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603371</oboInOwl:id>
+        <rdfs:label>Toyoh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603372 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603372">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603372</oboInOwl:id>
+        <rdfs:label>Garagah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603373 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603373">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603373</oboInOwl:id>
+        <rdfs:label>Al-Abyadh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603374 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603374">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000750"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603374</oboInOwl:id>
+        <rdfs:label>Al-Fajeej</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00603375 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00603375">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000733"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00603375</oboInOwl:id>
+        <rdfs:label>Hun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000722">
+        <rdfs:label>District (Libya)</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000722</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000724">
+        <rdfs:label>Ghat District</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000724</oboInOwl:id>
+        <obo:IAO_0000115>One of the districts of Libya. Its capital is Ghat.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000725">
+        <oboInOwl:id>GAZ:00000725</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Al Butnan District</rdfs:label>
+        <obo:IAO_0000115>A district (Arabic: Sha&apos;biya) of Libya.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000729">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>One of the districts of Libya. It is in the north-east of the country. Its capital is Al Bayda.</obo:IAO_0000115>
+        <rdfs:label>Al Jabal al Akhdar District</rdfs:label>
+        <oboInOwl:id>GAZ:00000729</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000730">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Murzuq District</rdfs:label>
+        <obo:IAO_0000115>One of the districts of Libya. It is in the south of the country. Its capital is Murzuk.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00000730</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000733">
+        <oboInOwl:id>GAZ:00000733</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>One of the districts of Libya. It is in the centre of the country. Its capital is Houn.</obo:IAO_0000115>
+        <rdfs:label>Al Jufrah District</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000735">
+        <oboInOwl:id>GAZ:00000735</oboInOwl:id>
+        <obo:IAO_0000115>One of the districts of Libya. Its capital is Al Jawf.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Al Kufrah District</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000739">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>One of the districts of Libya. In 2007 the district was enlarged to include the twentysix Basic People&apos;s Congresses,(townships), of what had been the Tarhuna Wa Msalata District.</obo:IAO_0000115>
+        <rdfs:label>Al Murgub District</rdfs:label>
+        <oboInOwl:id>GAZ:00000739</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000741">
+        <oboInOwl:id>GAZ:00000741</oboInOwl:id>
+        <rdfs:label>An Nuqat al Khams District</rdfs:label>
+        <obo:IAO_0000115>One of the districts of Libya. It is in the northwest of the country. Its capital is Zuwarah.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000742">
+        <obo:IAO_0000115>A district of Libya.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00000742</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Tarabulus District</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000744">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000744</oboInOwl:id>
+        <rdfs:label>Sabha District</rdfs:label>
+        <obo:IAO_0000115>One of the districts of Libya. It is located in the center of the country. The capital is Sabha.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000745">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000745</oboInOwl:id>
+        <rdfs:label>Al Wahat District</rdfs:label>
+        <obo:IAO_0000115>One of the districts of Libya. In 2007 the district was enlarged to include what had been the Ajdabiya District.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000747">
+        <oboInOwl:id>GAZ:00000747</oboInOwl:id>
+        <obo:IAO_0000115>One of the districts in Libya. It is located in the north-western part of the country. Its capital is Az Zawiyah. Since the 2007 reorganization of Libyan districts, the former district of Sabratha Wa Surman has been part of Az Zawiyah District.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Az Zawiyah District</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000749">
+        <rdfs:label>Benghazi District</rdfs:label>
+        <obo:IAO_0000115>A district of Libya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000749</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000750">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Wadi Al Hayaa District</rdfs:label>
+        <obo:IAO_0000115>One of the districts of Libya.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00000750</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000751">
+        <oboInOwl:id>GAZ:00000751</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Wadi Al Shatii District</rdfs:label>
+        <obo:IAO_0000115>One of the districts of Libya in the central-west part of the country. Its capital is Brak. The area is mostly desert.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00058884">
+        <oboInOwl:id>GAZ:00058884</oboInOwl:id>
+        <obo:IAO_0000115>Shallow stretches between Aswan and Khartoum where the water&apos;s surface is broken by numerous small boulders and stones lying on the river bed, as well as many small rocky islets. In some places, these stretches are punctuated by whitewater and are perhaps well characterized as rapids, while in others the water flow is smoother.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Cataracts of the Nile</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00058886">
+        <oboInOwl:id>GAZ:00058886</oboInOwl:id>
+        <obo:IAO_0000115>A cataract on the River Nile in the Manasir Desert, Sudan. It will be flooded by the Merowe Dam from 2006.</obo:IAO_0000115>
+        <rdfs:label>Fourth Cataract</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00058890">
+        <rdfs:label>First Cataract</rdfs:label>
+        <obo:IAO_0000115>A cataract on the River Nile near Aswan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058890</oboInOwl:id>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

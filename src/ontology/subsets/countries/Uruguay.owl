@@ -1,0 +1,2839 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Uruguay.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Uruguay.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Uruguay.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000009 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000106 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000856 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003167 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00003167">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003169 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003172 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00003172">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003176 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00047153 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00082189 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000000 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000000">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+        <obo:IAO_0000115>A department of Uruguay. Limita al norte con Durazno, al noreste con Treinta y Tres, al este con Lavalleja, al noroeste con Flores, al sur con Canelones (por el Paso Pache), y al suroeste con San Jose.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000000</oboInOwl:id>
+        <rdfs:label>Florida Department</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000001 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000001">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000002 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000002">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000003 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000003">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000004">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+        <obo:IAO_0000115>A department of Uruguay. Its capital is Durazno. Limita al norte con el departamento de Tacuarembo, al este con el de Cerro Largo, al sureste con el de Treinta y Tres, al sur con el de Florida, al suroeste con el de Flores y al noroeste con el de Rio Negro.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000004</oboInOwl:id>
+        <rdfs:label>Durazno Department</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000005 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000005">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000006 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000006">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000007 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000007">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000008 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000008">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000009 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000009">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000010 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000010">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+        <obo:IAO_0000115>A department of Uruguay. Its capital is Treinta y Tres. Ubicado en la zona oriental del territorio, limita al este con Brasil por tener costas sobre la Laguna Merin, y con los departamentos de Cerro Largo al norte, Durazno y Florida al oeste y Lavalleja y Rocha al sur.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000010</oboInOwl:id>
+        <rdfs:label>Treinta y Tres Department</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000011 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000011">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000012 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000012">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000013 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000013">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000014 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000014">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000015 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000015">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000016 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000016">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000017 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000017">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003169"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000018 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000018">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000019 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000019">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000020 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000020">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000021 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000021">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000022 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000022">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000023 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000023">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000025 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000025">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000035 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000035">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000036 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000036">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000039 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_03000039">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003176"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00002930 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00002930">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+        <obo:IAO_0000115>A country located in the southeastern part of South America. It is bordered by Brazil to the north, by Argentina across the bank of both the Uruguay River to the west and the estuary of Rio de la Plata to the southwest, and the South Atlantic Ocean to the southeast. Uraguay consists of 19 departments (departamentos, singular - departamento).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00002930</oboInOwl:id>
+        <rdfs:label>Uruguay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003167 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00003167">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003172"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003169 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00003169">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002930"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003172 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00003172"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003176 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00003176">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002930"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005384 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005384">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003167"/>
+        <obo:IAO_0000115>Un barrio de la ciudad de Montevideo, capital de la Republica Oriental del Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005384</oboInOwl:id>
+        <rdfs:label>Barrio Punta Carretas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005385 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005385">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002930"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005385</oboInOwl:id>
+        <rdfs:label>Fortin de Santa Rosa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00047152 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00047152">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:IAO_0000115>An Argentine island off the Rio de la Plata coast of Uruguay. The enclave island is within the boundaries of Uruguayan waters.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00047152</oboInOwl:id>
+        <rdfs:label>Isla Martin Garcia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00047153 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00047153">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002930"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00082189 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00082189">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002930"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00082190 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00082190">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>A small fluvial island situated in the waters of the Uruguay River, between the borders of Brazil, Argentina and Uruguay. Administratively, the island belongs to the town of Barra do Quarai (Brazilian State of Rio Grande do Sul), but has been claimed for more than a century by Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00082190</oboInOwl:id>
+        <rdfs:label>Ilha Brasileira</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00094897 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00094897">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000029"/>
+        <obo:IAO_0000115>Uma ilha localizada no estado do Rio Grande do Sul, na Lagoa Mirim, proximo a divisa com o Uruguai. Possui aproximadamente 155 ha e foi formada por sedimentacao.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00094897</oboInOwl:id>
+        <rdfs:label>Ilha do Taquari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137106 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137106">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000009"/>
+        <obo:IAO_0000115>A range of hills.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137106</oboInOwl:id>
+        <rdfs:label>Belen Hill Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137107 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137107">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003172"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000001"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000006"/>
+        <obo:IAO_0000115>Una cuchilla que cruza el territorio de Uruguay de oriente a poniente por el sur del Rio Negro. Se origina en la region de la Sierra Acegua (400 m de altura) luego decae para volverse a elevar cuando se desprende hacia el este, la Cuchilla del Olimar y la Sierra de Sosa. Hacia el oeste se desprende la Cuchilla Grande del Durazno y al Sur la de Mansavillagra, cuyas ultimas estribaciones llegan hasta el departamento de Montevideo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137107</oboInOwl:id>
+        <rdfs:label>Cuchilla Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137108 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137108">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000003"/>
+        <obo:IAO_0000115>A range of hills.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137108</oboInOwl:id>
+        <rdfs:label>Cuchilla de San Salvador</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137109 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137109">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000003"/>
+        <obo:IAO_0000115>Una pequena isla del Rio de la Plata, perteneciente a Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137109</oboInOwl:id>
+        <rdfs:label>Isla San Gabriel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137110 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137110">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000003"/>
+        <obo:IAO_0000115>Una pequena isla del Rio de la Plata, perteneciente a Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137110</oboInOwl:id>
+        <rdfs:label>Isla Farallon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137111 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137111">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00137112"/>
+        <obo:IAO_0000115>Una isla ubicada en el departamento de Maldonado, Uruguay, en la ciudad de Punta del Este, frente a la Playa Mansa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137111</oboInOwl:id>
+        <rdfs:label>Isla Gorriti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137112 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137112">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000007"/>
+        <obo:IAO_0000115>A city on the southern tip of Uruguay, southeast of the town of Maldonado and about 140 km east of Montevideo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137112</oboInOwl:id>
+        <rdfs:label>Punta del Este</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137113 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137113">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00137112"/>
+        <obo:IAO_0000115>Una pequena isla ubicada unos 8 kilometros al sudeste de Punta del Este (Uruguay).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137113</oboInOwl:id>
+        <rdfs:label>Isla de Lobos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137114 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137114">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:IAO_0000115>Una isla reciente formacion a partir de los aluviones y la sedimentacion de los rios Parana, Uruguay y de la Plata.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137114</oboInOwl:id>
+        <rdfs:label>Isla Solis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137115 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137115">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:IAO_0000115>Una isla en el Rio de la Plata, que comparten Argentina y Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137115</oboInOwl:id>
+        <rdfs:label>Isla Timoteo Dominguez</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137116 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137116">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000005"/>
+        <obo:IAO_0000115>Una pequena isla del Rio de la Plata, perteneciente a Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137116</oboInOwl:id>
+        <rdfs:label>Isla de Flores</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137117 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137117">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003172"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:IAO_0000115>Una islote de piedras de unos 100 metros por 50 en una zona muy baja del centro de la bahia de Montevideo donde apenas se puede navegar.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137117</oboInOwl:id>
+        <rdfs:label>Isla de Ratas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137118 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137118">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00137119"/>
+        <obo:IAO_0000115>Una pequeno islote del Rio de la Plata, perteneciente a Uruguay. Esta ubicada a 400 metros de la rambla de Montevideo, en el barrio Malvin.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137118</oboInOwl:id>
+        <rdfs:label>Isla de las Gaviotas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137119 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137119">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003167"/>
+        <obo:IAO_0000115>Un barrio de la ciudad de Montevideo, capital de la Republica Oriental del Uruguay, limitrofe con el Rio de la Plata (al sur) y con los barrios Buceo (al oeste), Malvin Norte (al norte) y Punta Gorda (al este).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137119</oboInOwl:id>
+        <rdfs:label>Barrio Malvin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137120 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137120">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:IAO_0000115>Una isla de la Republica Oriental del Uruguay que se encuentra en el curso superior del Rio de la Plata, al sur de la desembocadura del rio Uruguay, aguas arriba de Carmelo y separada de la costa uruguaya por el canal de Camacho.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137120</oboInOwl:id>
+        <rdfs:label>Isla Juncal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137121 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137121">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:IAO_0000115>An island of Uraquay 1 lm S of Isla Juncal.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137121</oboInOwl:id>
+        <rdfs:label>Isla Juncalito</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137122 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137122">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:IAO_0000115>An island of the Argentine.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137122</oboInOwl:id>
+        <rdfs:label>Isla del Portugues</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137123 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137123">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00137124"/>
+        <obo:IAO_0000115>Una pequena isla de la Republica Oriental del Uruguay que se encuentra en el curso superior del rio de la Plata, al sur de la desembocadura del rio Uruguay, frente a la localidad uruguaya de Carmelo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137123</oboInOwl:id>
+        <rdfs:label>Isla Sola</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137124 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137124">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000003"/>
+        <obo:IAO_0000115>Una ciudad uruguaya situada en el noroeste del departamento de Colonia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137124</oboInOwl:id>
+        <rdfs:label>Carmelo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137125 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137125">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000013"/>
+        <obo:IAO_0000115>Islas ubicadas en la costa atlantica uruguaya del departamento de Rocha. Se encuentran ubicadas frente al Cerro de la Buena Vista, entre la Barra de Valizas y el Cabo Polonio.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137125</oboInOwl:id>
+        <rdfs:label>Islas de Castillo Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137126 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137126">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00137125"/>
+        <obo:IAO_0000115>One of the Islas de Castillo Grande.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137126</oboInOwl:id>
+        <rdfs:label>Isla Seca</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137127 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137127">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00137125"/>
+        <obo:IAO_0000115>One of the Islas de Castillo Grande.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137127</oboInOwl:id>
+        <rdfs:label>Isla del Marc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137128 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137128">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000017"/>
+        <obo:IAO_0000115>La mayor de un grupo de islas del rio Uruguay pertenecientes a la Republica Oriental del Uruguay que forman exclaves territoriales de ese pais rodeados por aguas jurisdiccionales de la Provincia de Entre Rios en la Republica Argentina. Administrativamente forman parte del Departamento de Rio Negro.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137128</oboInOwl:id>
+        <rdfs:label>Isla Filomena Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137129 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137129">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000013"/>
+        <obo:IAO_0000115>Islas ubicadas en la costa atlantica uruguaya del departamento de Rocha.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137129</oboInOwl:id>
+        <rdfs:label>Islas de La Coronilla</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137130 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137130">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00137129"/>
+        <obo:IAO_0000115>One of the Islas de La Coronilla.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137130</oboInOwl:id>
+        <rdfs:label>Isla Coronilla</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137131 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137131">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00137129"/>
+        <obo:IAO_0000115>One of the Islas de La Coronilla.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137131</oboInOwl:id>
+        <rdfs:label>Isla Verde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137132 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137132">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000013"/>
+        <obo:IAO_0000115>Un islote sobre el Oceano Atlantico, perteneciente a Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137132</oboInOwl:id>
+        <rdfs:label>Isla La Tuna</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137133 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137133">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000013"/>
+        <obo:IAO_0000115>Islas ubicadas en la costa atlantica uruguaya del departamento de Rocha.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137133</oboInOwl:id>
+        <rdfs:label>Islas de Torres</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137134 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137134">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00137133"/>
+        <obo:IAO_0000115>One of the Islas de Torres.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137134</oboInOwl:id>
+        <rdfs:label>Isla Encantada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137135 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137135">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00137133"/>
+        <obo:IAO_0000115>One of the Islas de Torres.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137135</oboInOwl:id>
+        <rdfs:label>Isla Rasa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137136 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137136">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>Una isla ubicada en la desembocadura del arroyo Yaguari, el brazo norte de la desembocadura del rio Negro en el rio Uruguay en la Republica Oriental del Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137136</oboInOwl:id>
+        <rdfs:label>Isla Vizcaino</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137137 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137137">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000012"/>
+        <obo:IAO_0000115>Una cadena montanosa situada en el norte del departamento de San Jose, en Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137137</oboInOwl:id>
+        <rdfs:label>Sierras de Mahoma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137138 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137138">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000011"/>
+        <obo:IAO_0000115>Una zona en el norte de Uruguay entre los rios Tacuarembo y Cunapiru, en el departamento de Rivera. El area debe su nombre a los tres cerros en forma de mesa y alineados en hilera de menor a mayor y de norte a sur, los cuales dominan el horizonte.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137138</oboInOwl:id>
+        <rdfs:label>Rincon de Tres Cerros</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137139 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137139">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000011"/>
+        <obo:IAO_0000115>El Ramal sudoriental de la Cuchilla Negra, en el noreste del Departamento de Rivera, que marca el limite interior entre Uruguay y Brasil.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137139</oboInOwl:id>
+        <rdfs:label>Cuchilla de Santa Ana</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137140 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137140">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000017"/>
+        <obo:IAO_0000115>Una cuchilla que cruza el territorio Norte del Uruguay y separa las aguas que confluyen en el Rio Negro de las que lo hacen en el Rio Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137140</oboInOwl:id>
+        <rdfs:label>Cuchilla de Haedo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137141 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137141">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:IAO_0000115>A bay on the Rio de la Plata.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137141</oboInOwl:id>
+        <rdfs:label>Bahia de Montevideo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137142 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137142">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000011"/>
+        <obo:IAO_0000115>A range of hills.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137142</oboInOwl:id>
+        <rdfs:label>Cuchilla Negra</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137143 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137143">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>A dam in Argentina. 15 km al norte de las ciudades de Salto (Uruguay) y Concordia (Provincia de Entre Rios, Argentina). Constructed 1974-1979.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137143</oboInOwl:id>
+        <rdfs:label>Represa de Salto Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137144 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137144">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000016"/>
+        <obo:IAO_0000115>Un termas ubicadas a 10 km de la ciudad de Salto, a 487 de Montevideo y a 440 de Buenos Aires.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137144</oboInOwl:id>
+        <rdfs:label>Termas del Dayman</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137145 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137145">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000002"/>
+        <obo:IAO_0000115>Un termal ubicado en el Departamento de Paysandu, zona noroeste de Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137145</oboInOwl:id>
+        <rdfs:label>Termas del Guaviyu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137146 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137146">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000002"/>
+        <obo:IAO_0000115>Un termal ubicado sobre el kilometro 485 de la ruta 3, en el Departamento de Paysandu.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137146</oboInOwl:id>
+        <rdfs:label>Termas de San Nicanor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137147 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137147">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>A dam. Una central hidroelectrica brasilena, ubicada sobre el rio Uruguay, entre los municipios de Alpestre, estado de Rio Grande do Sul y Aguas de Chapeco, estado de Santa Catarina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137147</oboInOwl:id>
+        <rdfs:label>Represa de Foz de Chapeco</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137148 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137148">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>A dam. Una futura represa a construirse en el rio Uruguay, entre la provincia argentina de Corrientes y el Estado brasileno de Rio Grande del Sur.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137148</oboInOwl:id>
+        <rdfs:label>Represa de Garabi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137149 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137149">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>A dam. Una central hidroelectrica brasilena, ubicada sobre el rio Uruguay, entre los municipios de Aratiba, estado de Rio Grande do Sul e Ita, estado de Santa Catarina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137149</oboInOwl:id>
+        <rdfs:label>Represa de Ita</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137150 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137150">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>A dam. Una central hidroelectrica brasilena, ubicada sobre el rio Uruguay, entre los municipios de Maximiliano de Almeida, estado de Rio Grande do Sul e Piratuba, estado de Santa Catarina, al noroeste de la ciudad de Machadinho.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137150</oboInOwl:id>
+        <rdfs:label>Represa de Machadinho</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137154 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137154">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137154</oboInOwl:id>
+        <rdfs:label>Isla del Padre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137155 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137155">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137155</oboInOwl:id>
+        <rdfs:label>Isla de las Vacas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137156 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137156">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137156</oboInOwl:id>
+        <rdfs:label>Isla Yacuy</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137157 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137157">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137157</oboInOwl:id>
+        <rdfs:label>Isla Misionera</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137158 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137158">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137158</oboInOwl:id>
+        <rdfs:label>Isla Rica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137159 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137159">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137159</oboInOwl:id>
+        <rdfs:label>Isla del Paredon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137160 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137160">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137160</oboInOwl:id>
+        <rdfs:label>Isla Gaspar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137161 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137161">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137161</oboInOwl:id>
+        <rdfs:label>Isla Zapallo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137162 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137162">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137162</oboInOwl:id>
+        <rdfs:label>Isla Carbonera</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137163 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137163">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137163</oboInOwl:id>
+        <rdfs:label>Isla Guaviyu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137164 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137164">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137164</oboInOwl:id>
+        <rdfs:label>Isla del Medio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137165 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137165">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137165</oboInOwl:id>
+        <rdfs:label>Isla Redonda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137166 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137166">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>A group of 8 islands in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137166</oboInOwl:id>
+        <rdfs:label>Islotes del Naufragio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137167 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137167">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137167</oboInOwl:id>
+        <rdfs:label>Isla Belen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137168 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137168">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137168</oboInOwl:id>
+        <rdfs:label>Isla Redonda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137169 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137169">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137169</oboInOwl:id>
+        <rdfs:label>Isla Herrera</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137170 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137170">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>Twi islands in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137170</oboInOwl:id>
+        <rdfs:label>Isla de los Lobos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137171 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137171">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137171</oboInOwl:id>
+        <rdfs:label>Isla del Ceibal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137172 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137172">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137172</oboInOwl:id>
+        <rdfs:label>Isla San Francisco</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137173 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137173">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137173</oboInOwl:id>
+        <rdfs:label>Isleta San Miguel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137174 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137174">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>Two islands in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137174</oboInOwl:id>
+        <rdfs:label>Islas Dos Hermanas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137175 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137175">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137175</oboInOwl:id>
+        <rdfs:label>Isla Guaviyu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137176 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137176">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>Two islands in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137176</oboInOwl:id>
+        <rdfs:label>Islas las Mellizas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137177 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137177">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137177</oboInOwl:id>
+        <rdfs:label>Islas del Queguay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137178 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137178">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137178</oboInOwl:id>
+        <rdfs:label>Isla Verdun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137179 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137179">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137179</oboInOwl:id>
+        <rdfs:label>Isla de Abajo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137180 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137180">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137180</oboInOwl:id>
+        <rdfs:label>Isla de Francia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137181 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137181">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137181</oboInOwl:id>
+        <rdfs:label>Isla Sombrerito</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137182 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137182">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137182</oboInOwl:id>
+        <rdfs:label>Isla Salto Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137183 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137183">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137183</oboInOwl:id>
+        <rdfs:label>Isla Chapicuy</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137184 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137184">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137184</oboInOwl:id>
+        <rdfs:label>Isla Roman Chica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137185 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137185">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137185</oboInOwl:id>
+        <rdfs:label>Isla Navarro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137186 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137186">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137186</oboInOwl:id>
+        <rdfs:label>Isla Caballos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137187 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137187">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137187</oboInOwl:id>
+        <rdfs:label>Isla del Chileno</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137188 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137188">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137188</oboInOwl:id>
+        <rdfs:label>Isla Pinguino</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137189 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137189">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137189</oboInOwl:id>
+        <rdfs:label>Isla Chala</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137190 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137190">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137190</oboInOwl:id>
+        <rdfs:label>Isla de la Caballada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137191 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137191">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137191</oboInOwl:id>
+        <rdfs:label>Isla Santa Maria Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137192 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137192">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137192</oboInOwl:id>
+        <rdfs:label>Isla Zapatero</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137193 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137193">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137193</oboInOwl:id>
+        <rdfs:label>Isla Redonda (Isla de la Cruz)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137194 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137194">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137194</oboInOwl:id>
+        <rdfs:label>Isla de la Paloma</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137195 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137195">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137195</oboInOwl:id>
+        <rdfs:label>Isla Filomena Chica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137196 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137196">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137196</oboInOwl:id>
+        <rdfs:label>Isla Abrigo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137197 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137197">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137197</oboInOwl:id>
+        <rdfs:label>Isla Tres Cruces</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137198 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137198">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>Two islands in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137198</oboInOwl:id>
+        <rdfs:label>Islas Naranjito</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137199 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137199">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137199</oboInOwl:id>
+        <rdfs:label>Isla Bassi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137200 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137200">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137200</oboInOwl:id>
+        <rdfs:label>Isla Santa Maria Chica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137201 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137201">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137201</oboInOwl:id>
+        <rdfs:label>Isla Palma Chica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137202 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137202">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137202</oboInOwl:id>
+        <rdfs:label>Isla Basura</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137203 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137203">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137203</oboInOwl:id>
+        <rdfs:label>Isla Roman Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137204 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137204">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137204</oboInOwl:id>
+        <rdfs:label>Isla del Burro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137205 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137205">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>Two islands in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137205</oboInOwl:id>
+        <rdfs:label>Islas Almeria</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137206 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137206">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137206</oboInOwl:id>
+        <rdfs:label>Isla Banco Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137207 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137207">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137207</oboInOwl:id>
+        <rdfs:label>Isla Almiron</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137208 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137208">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137208</oboInOwl:id>
+        <rdfs:label>Isla Canario</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137209 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137209">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137209</oboInOwl:id>
+        <rdfs:label>Isla de Hornos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137210 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137210">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137210</oboInOwl:id>
+        <rdfs:label>Isla del Tala</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137211 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137211">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137211</oboInOwl:id>
+        <rdfs:label>Isla Montana</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137212 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137212">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137212</oboInOwl:id>
+        <rdfs:label>Isla San Jose</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137213 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137213">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137213</oboInOwl:id>
+        <rdfs:label>Isla Dolores</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137214 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137214">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137214</oboInOwl:id>
+        <rdfs:label>Isla Cambacua</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137215 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137215">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137215</oboInOwl:id>
+        <rdfs:label>Isla Boca Chica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137216 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137216">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>Two islands in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137216</oboInOwl:id>
+        <rdfs:label>Islas Timboy</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137217 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137217">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137217</oboInOwl:id>
+        <rdfs:label>Isla Florida</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137218 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137218">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137218</oboInOwl:id>
+        <rdfs:label>Isla Caridad</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137219 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137219">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137219</oboInOwl:id>
+        <rdfs:label>Isla San Miguel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137220 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137220">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137220</oboInOwl:id>
+        <rdfs:label>Islote del Infiernillo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137221 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137221">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137221</oboInOwl:id>
+        <rdfs:label>Islote Correntino</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137222 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137222">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137222</oboInOwl:id>
+        <rdfs:label>Isla Oriental</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137223 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137223">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137223</oboInOwl:id>
+        <rdfs:label>Isla Itacumbu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137224 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137224">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137224</oboInOwl:id>
+        <rdfs:label>Isla Pelada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137225 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137225">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137225</oboInOwl:id>
+        <rdfs:label>Isla Pepeaji</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137226 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137226">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137226</oboInOwl:id>
+        <rdfs:label>Isla Vilardebo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137227 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137227">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137227</oboInOwl:id>
+        <rdfs:label>Isla Pelada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137228 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137228">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137228</oboInOwl:id>
+        <rdfs:label>Isla del Puerto</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137229 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137229">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137229</oboInOwl:id>
+        <rdfs:label>Isla Correntina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137230 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137230">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137230</oboInOwl:id>
+        <rdfs:label>Islote Pospos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137231 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137231">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>Two islands in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137231</oboInOwl:id>
+        <rdfs:label>Islotes Itacumbu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137232 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137232">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>Three islands in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137232</oboInOwl:id>
+        <rdfs:label>Islas Dos Hermanas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137233 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137233">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137233</oboInOwl:id>
+        <rdfs:label>Isla San Genaro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137234 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137234">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137234</oboInOwl:id>
+        <rdfs:label>Isla Corazon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137235 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137235">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137235</oboInOwl:id>
+        <rdfs:label>Isla Volantin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137236 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137236">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137236</oboInOwl:id>
+        <rdfs:label>Isla Campichuelo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137237 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137237">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137237</oboInOwl:id>
+        <rdfs:label>Isla Rica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137238 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137238">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137238</oboInOwl:id>
+        <rdfs:label>Isla Tambor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137239 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137239">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137239</oboInOwl:id>
+        <rdfs:label>Isla Colon Chica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137240 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137240">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137240</oboInOwl:id>
+        <rdfs:label>Isla Colon Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137241 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137241">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137241</oboInOwl:id>
+        <rdfs:label>Isla Cupalen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137242 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137242">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137242</oboInOwl:id>
+        <rdfs:label>Islote Osuna</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137243 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137243">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137243</oboInOwl:id>
+        <rdfs:label>Isla Ines Dorrego</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137244 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137244">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>Two islands in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137244</oboInOwl:id>
+        <rdfs:label>Islas Juanico</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137245 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137245">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137245</oboInOwl:id>
+        <rdfs:label>Isla de la Jaula del Tigre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137246 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137246">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137246</oboInOwl:id>
+        <rdfs:label>Islote Redondo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137247 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137247">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137247</oboInOwl:id>
+        <rdfs:label>Isla Masones</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137248 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137248">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137248</oboInOwl:id>
+        <rdfs:label>Isla Garcia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137249 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137249">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137249</oboInOwl:id>
+        <rdfs:label>Isla San Lorenzo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137250 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137250">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137250</oboInOwl:id>
+        <rdfs:label>Isla Sauzal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137251 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137251">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137251</oboInOwl:id>
+        <rdfs:label>Isla Boca Chica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137252 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137252">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay, belonging to Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137252</oboInOwl:id>
+        <rdfs:label>Isla Bonfiglio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137361 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137361">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:IAO_0000115>A small bay on the Rio de la Plata, some 40 km southeast of Buenos Aires, Argentina. The area belongs today to the Ensenada district of Buenos Aires province, centred around the city of the Ensenada.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137361</oboInOwl:id>
+        <rdfs:label>Ensenada de Barragan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00137561 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00137561">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002930"/>
+        <obo:IAO_0000115>The fertile South American lowlands that include the Argentine provinces of Buenos Aires, La Pampa, Santa Fe, and Cordoba, most of Uruguay, and the southernmost end of Brazil, Rio Grande do Sul, covering more than 750,000 km2. These vast plains are only interrupted by the low Ventana and Tandil hills near Bahia Blanca and Tandil (Argentina). The World Wildlife Fund divides the Pampa into three distinct ecoregions. The Uruguayan savanna lies east of the Uruguay River, and includes all of Uruguay and the southern portion of Brazil&apos;s State of Rio Grande do Sul. The Humid Pampas include eastern Buenos Aires Province, and southern Entre Rios Province. The Semi-arid Pampas includes western Buenos Aires Province and adjacent portions of Santa Fe, Cordoba, and La Pampa provinces. The Pampas are bounded by the drier Argentine espinal grasslands, which form a semi-circle around the north, east, and south of the Humid Pampas.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00137561</oboInOwl:id>
+        <rdfs:label>Pampa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00138394 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00138394">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082189"/>
+        <obo:IAO_0000115>An island in the Rio Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00138394</oboInOwl:id>
+        <rdfs:label>Isla Natural Cambacua</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246682 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246682">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047153"/>
+        <obo:IAO_0000115>A large bay along the S shore of the Rio de la Plata.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246682</oboInOwl:id>
+        <rdfs:label>Samborombon Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000001 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000001"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000002 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000002"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000003 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000003"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000005 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000005"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000006 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000006"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000007 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000007"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000008 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000008"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000009 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000009"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000011 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000011"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000012 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000012"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000013 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000013"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000014 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000014"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000015 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000015"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000016 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000016"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000017 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000017"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000018 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000018">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000007"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000019 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000019">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000016"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000020 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000020">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000013"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000021 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000021">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000017"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000022 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000022">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000003"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000023 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000023">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000013"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000024 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000024">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000008"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000024</oboInOwl:id>
+        <rdfs:label>Sierras de Solis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000025 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000025">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000014"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000029 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000029">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002930"/>
+        <obo:IAO_0000115>A large estuarine lagoon which extends from southern Rio Grande do Sul state in Brazil into eastern Uruguay. Like its larger neighbor Lagoa dos Patos to the north, Lagoa Mirim is separated from the Atlantic Ocean by a sandy, partially barren peninsula. The Lagoa Mirim is about 108 miles long by 6 to 22 miles wide. It is more irregular in outline than the Lagoa dos Patos, and discharges into Lagoa dos Patos through the navigable Sao Goncalo Channel. The Lagoa Mirim has no direct connection to the Atlantic, but the Rio Grande, a tidal channel about 24 miles long which connects Lagoa dos Patos to the Atlantic, affords an entrance to the navigable inland waters of both lagoons and several ports. The southern part of the lake lies in Uruguayan territory, but its navigation, as determined by treaty, belongs exclusively to Brazil. Both of these lakes are evidently the remains of an ancient depression in the coastline shut in by sand beaches built up by the combined action of wind and current. They are of the same level as the ocean, but their waters are affected by the tides and are brackish only a short distance above the Rio Grande outlet. The Jaguarao/Yaguraron River, which forms part of the boundary line with Uruguay, empties into Lagoa Mirim, and is navigable 26 miles up to and beyond the town of Jaguarao.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000029</oboInOwl:id>
+        <rdfs:label>Lagoa Mirim</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000030 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000030">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002930"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000030</oboInOwl:id>
+        <rdfs:label>Laguna del Rocha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000031 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000031">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000008"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000031</oboInOwl:id>
+        <rdfs:label>Paso Averias</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000032 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000032">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000012"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000032</oboInOwl:id>
+        <rdfs:label>Libertad</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000035 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000035">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000002"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000036 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000036">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000016"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000037 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000037">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000036"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000037</oboInOwl:id>
+        <rdfs:label>Arapey Springs</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000038 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000038">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000015"/>
+        <obo:IAO_0000115>A locality. Situado entre cerros a 7 km de la ciudad de Tacuarembo (Uruguay), consta de un parque dentro del que se han creado tres lagos artificiales, una pileta de natacion, zonas de acampada y otras instalaciones.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000038</oboInOwl:id>
+        <rdfs:label>Balneario Ipora</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000039 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000039">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000007"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000040 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000040">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000039"/>
+        <obo:IAO_0000115>A stream.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000040</oboInOwl:id>
+        <rdfs:label>Arroyo Maldonado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000041 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000041">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000012"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000041</oboInOwl:id>
+        <rdfs:label>San Antonio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000042 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000042">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000013"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000042</oboInOwl:id>
+        <rdfs:label>El Potrerillo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000043 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000043">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000011"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000043</oboInOwl:id>
+        <rdfs:label>Bajada de Pena</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000044 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000044">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000017"/>
+        <obo:IAO_0000115>Una pequena corriente que desagua en el departamento uruguayo de Rio Negro.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000044</oboInOwl:id>
+        <rdfs:label>El Abrojal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000045 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000045">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000017"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000045</oboInOwl:id>
+        <rdfs:label>El Trillo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000046 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000046">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000017"/>
+        <obo:IAO_0000115>Una localidad uruguaya ubicada en el departamento de Rio Negro.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000046</oboInOwl:id>
+        <rdfs:label>Las Canas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_03000047 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_03000047">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000017"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000047</oboInOwl:id>
+        <rdfs:label>Los Arrayanes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_22223338 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_22223338">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_03000001"/>
+        <obo:IAO_0000115>Una ciudad de Uruguay, capital del departamento de Cerro Largo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:22223338</oboInOwl:id>
+        <rdfs:label>Melo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00003167">
+        <rdfs:label>Montevideo</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00003167</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00003169">
+        <oboInOwl:id>GAZ:00003169</oboInOwl:id>
+        <rdfs:label>Department (Uruguay)</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00003172">
+        <rdfs:label>Montevideo Department</rdfs:label>
+        <oboInOwl:id>GAZ:00003172</oboInOwl:id>
+        <obo:IAO_0000115>A department of Uruguay. It contains the city of Montevideo, capital of Uruguay. Limita al noroeste con San Jose y esta rodeado por el departamento de Canelones.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00003176">
+        <rdfs:label>populated place, Uruguay</rdfs:label>
+        <oboInOwl:id>GAZ:00003176</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00047153">
+        <obo:IAO_0000115>A large funnel-shaped estuary situated at the mouths of Parana and Uruguay Rivers, between the coasts of Uruguay and Argentina. Its limit with the South Atlantic Ocean is the following: On the southeast: A line joining Cape San Antonio (36 degrees 18minutes S - 56 degrees 46minutes W), in Argentina, northeastward to Cape del Este (34 degrees 58minutes 20 seconds S - 54 degrees 57minutes W), in Uruguay.</obo:IAO_0000115>
+        <rdfs:label>Rio de la Plata</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00047153</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00082189">
+        <rdfs:label>Rio Uruguay</rdfs:label>
+        <oboInOwl:id>GAZ:00082189</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A river in South America. It flows from north to south and makes boundary with Brazil, Argentina and Uruguay, separating some of the Argentine provinces of the Mesopotamia from the other two countries. It passes between the states of Santa Catarina and Rio Grande do Sul in Brazil; forms the eastern border of the provinces of Misiones, Corrientes and Entre Rios in Argentina; and makes up the western borders of the departments of Artigas, Salto, Paysandu, Rio Negro, Soriano and Colonia in Uruguay. Together with the Parana River, the Uruguay forms the Rio de la Plata estuary.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000001">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Cerro Largo Department</rdfs:label>
+        <obo:IAO_0000115>A department of Uruguay. Its capital is Melo. Limita al oeste con Durazno, al norte con Rivera y Tacuarembo, al este con Brasil, y al sur con el departamento de Treinta y Tres.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:03000001</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000002">
+        <obo:IAO_0000115>A department of Uruguay. Its capital is Paysandu. Limita al norte con el departamento de Salto, al sur con el departamento de Rio Negro, al este con el departamento de Tacuarembo y al oeste con el Rio Uruguay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Paysandu Department</rdfs:label>
+        <oboInOwl:id>GAZ:03000002</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000003">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A department of southwestern Uruguay. Its capital is Colonia del Sacramento.</obo:IAO_0000115>
+        <rdfs:label>Colonia Department</rdfs:label>
+        <oboInOwl:id>GAZ:03000003</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000005">
+        <oboInOwl:id>GAZ:03000005</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Canelones Department</rdfs:label>
+        <obo:IAO_0000115>A department located to the south of Uruguay. Its capital is Canelones. Neighbouring departments are Maldonado and Lavalleja to the East, Flores to the North, San Jose to the West, and Montevideo to the South. Part of the southern border is formed by the Rio de la Plata.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000006">
+        <obo:IAO_0000115>A department of south-central Uruguay. Ubicado en el suroeste del territorio, limita al norte con el departamento de Rio Negro, al noreste con el de Durazno, al este con el de Florida, al sur con el de San Jose, y al oeste con el de Soriano, teniendo al suroeste un ligero contacto con Colonia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000006</oboInOwl:id>
+        <rdfs:label>Flores Department</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000007">
+        <oboInOwl:id>GAZ:03000007</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Maldonado Department</rdfs:label>
+        <obo:IAO_0000115>A department located to the southeast of Uruguay. Its capital is Maldonado. Limita al norte con Lavalleja, al este con Rocha, al sur con el Rio de la Plata y el oceano Atlantico, y al oeste con Canelones.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000008">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000008</oboInOwl:id>
+        <rdfs:label>Lavalleja Department</rdfs:label>
+        <obo:IAO_0000115>A department of Uruguay. The capital is Minas. Limita al norte con el departamento de Treinta y Tres, al este con el de Rocha, al sur con los de Canelones y de Maldonado, y al oeste con el de Florida.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000009">
+        <rdfs:label>Artigas Department</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>The northernmost department of Uruguay. Its capital is Artigas. Neighbouring departments are Salto to the South and Rivera to the Southeast. It limits to the East and North with Brazil, and to the West with Argentina. Portions of the department&apos;s border with Brazil are disputed.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:03000009</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000011">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A department of Uruguay. Its capital is Rivera. Limita al oeste con Salto, al norte y noreste con Brasil, al sureste con Cerro Largo y al sur con Tacuarembo.</obo:IAO_0000115>
+        <rdfs:label>Rivera Department</rdfs:label>
+        <oboInOwl:id>GAZ:03000011</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000012">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000012</oboInOwl:id>
+        <obo:IAO_0000115>A department of Uruguay. Its capital is San Jose de Mayo. Limita al norte con Flores, al este con Florida, Canelones y Montevideo, al oeste con Colonia y Soriano (mediante una pequena interseccion), y al sur con el Rio de la Plata.</obo:IAO_0000115>
+        <rdfs:label>San Jose Department</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000013">
+        <obo:IAO_0000115>A department in the east of Uruguay. Limita al norte con Treinta y Tres, al este con Brasil, al sureste con el oceano Atlantico y al oeste con los departamentos de Lavalleja y de Maldonado.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:03000013</oboInOwl:id>
+        <rdfs:label>Rocha Department</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000014">
+        <oboInOwl:id>GAZ:03000014</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Soriano Department</rdfs:label>
+        <obo:IAO_0000115>A department of Uruguay. Its capital is Mercedes. Ubicado en el litoral oeste del territorio, limita al norte con el departamento de Rio Negro, al este con el de Flores, al sur con el de Colonia, y al oeste con la Republica Argentina, de la cual esta separado por el rio Uruguay.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000015">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000015</oboInOwl:id>
+        <rdfs:label>Tacuarembo Department</rdfs:label>
+        <obo:IAO_0000115>The largest department of Uruguay. Its capital is Tacuarembo. Ubicado en la zona centro - norte del territorio, limita con los departamentos de Rivera, Salto, Paysandu, Rio Negro, Durazno y Cerro Largo.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000016">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000016</oboInOwl:id>
+        <obo:IAO_0000115>A department of Uruguay. Its capital is Salto. Limita al norte con Artigas, al este con Rivera y Tacuarembo, al sur con Paysandu, y al oeste con la provincia argentina de Entre Rios, de la que lo separa el rio Uruguay.</obo:IAO_0000115>
+        <rdfs:label>Salto Department</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000017">
+        <oboInOwl:id>GAZ:03000017</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A department of Uruguay located in the west of the country. Neighbouring departments are Paysandu to the North, Tacuarembo to the East, Durazno to the Southeast, and Soriano to the South. To the West is Argentina, from which the department is separated by the Uruguay River.</obo:IAO_0000115>
+        <rdfs:label>Rio Negro Department</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000018">
+        <obo:IAO_0000115>The capital of Maldonado Department of Uruguay.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:03000018</oboInOwl:id>
+        <rdfs:label>Maldonado</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000019">
+        <rdfs:label>Salto</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000019</oboInOwl:id>
+        <obo:IAO_0000115>The second city of Uruguay.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000020">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Rocha</rdfs:label>
+        <obo:IAO_0000115>The capital city of Rocha Department, Uruguay.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:03000020</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000021">
+        <obo:IAO_0000115>A populated place. A town in Uruguay. It is located in western Uruguay, close to the border with Argentina, and about 160 km due north of Buenos Aires.</obo:IAO_0000115>
+        <rdfs:label>Fray Bentos</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000021</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000022">
+        <oboInOwl:id>GAZ:03000022</oboInOwl:id>
+        <obo:IAO_0000115>A populated place. A city in southwestern Uruguay, by the Rio de la Plata, facing Buenos Aires, Argentina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Colonia del Sacramento</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000023">
+        <oboInOwl:id>GAZ:03000023</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A populated place. A city in Uruguay in the Rocha Department.</obo:IAO_0000115>
+        <rdfs:label>Chuy</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000025">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:03000025</oboInOwl:id>
+        <rdfs:label>Villa Soriano</rdfs:label>
+        <obo:IAO_0000115>A populated place. A town in Uruguay. It is located in the department of Soriano, on the banks of the Rio Negro (Uruguay).</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000035">
+        <oboInOwl:id>GAZ:03000035</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>The second largest city in Uruguay.</obo:IAO_0000115>
+        <rdfs:label>Paysandu</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000036">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>Un termal ubicado en el Departamento de Salto, zona noroeste de Uruguay.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:03000036</oboInOwl:id>
+        <rdfs:label>Termas del Arapey</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_03000039">
+        <oboInOwl:id>GAZ:03000039</oboInOwl:id>
+        <rdfs:label>San Carlos</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

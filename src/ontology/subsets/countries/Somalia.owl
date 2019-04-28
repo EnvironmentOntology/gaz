@@ -1,0 +1,2071 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Somalia.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Somalia.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Somalia.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000009 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000106 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000191 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000191"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000222 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000222"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000856 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00004034 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00004035 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00004035">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009900 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009900">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009901 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009901">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009902 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009902">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009903 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009903">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009904 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009904">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009905"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009905 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009905"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009906 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009906">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015042 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015042">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015043 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015043">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015044 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015044">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+        <obo:IAO_0000115>A region (gobolka) in southern Somalia. The regional capital is Mogadishu, though the region itself is coextensive with the city and is much smaller than the historical region of Benadir. It is bordered by the Somali regions of Middle Shabele and Lower Shabele and the Indian Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00015044</oboInOwl:id>
+        <rdfs:label>Banaadir Region</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015045 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015045">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015046 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015046">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015047 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015047">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015048 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015048">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015049 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015049">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015050 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015050">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015051 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015051">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015052 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015052">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015053 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00015053">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004034"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001104 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001104">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+        <obo:IAO_0000115>A country located in the Horn of Africa. It is bordered by Djibouti to the northwest, Kenya on its southwest, the Gulf of Aden with Yemen on its north, the Indian Ocean at its east, and Ethiopia to the west. Prior to the civil war, Somalia was divided into eighteen regions (gobollada, singular gobol), which were in turn subdivided into districts. On a de facto basis, northern Somalia is now divided up among the quasi-independent states of Puntland, Somaliland, Galmudug and Maakhir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001104</oboInOwl:id>
+        <rdfs:label>Somalia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00004034 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00004034">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001104"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00004035 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00004035"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005878 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005878">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000222"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051269"/>
+        <obo:IAO_0000115>A volcanic island located in the Strait of Mandeb at the southern entrance into the Red Sea off the southwestern coast of Yemen.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00005878</oboInOwl:id>
+        <rdfs:label>Perim</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008962 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008962">
+        <obo:IAO_0000115>A wide strait linking the Red Sea and the Arabian Sea, are the following: On the North: From Hisn Mur Degrees d (12 Degrees 40 Minutes 20 Seconds N - 43 Degrees 30 Minutes 20 Seconds E) eastward, along the coast of Southern Yemen, to Cape Fartak (15 Degrees 38 Minutes N - 52 Degrees 13 Minutes 30 Seconds E). On the East: A line joining Cape Fartak, in Southern Yemen, southwestward to Cape Asir (11 Degrees 50 Minutes N - 51 Degrees 17 Minutes E), in Somalia the common limit with the Arabian Sea). On the South and the West: From Cape Asir, in Somalia, westward and northward, along the coasts of Somalia and Djibouti, to Cape Si Ane (12 Degrees 28 Minutes 50 Seconds N - 43 Degrees 19 Minutes 10 Seconds E), in Djibouti. On the Northwest: A line joining Cape Si Ane, in Djibouti, northeastward to Hisn Mur Degrees d (12 Degrees 40 Minutes 20 Seconds N - 43 Degrees 30 Minutes 20 Seconds E), in Southern Yemen (the common limit with the Red Sea).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008962</oboInOwl:id>
+        <rdfs:label>Gulf of Aden</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009900 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009900"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009901 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009901"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009902 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009902"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009903 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009903"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009904 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009904">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00012784"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009905 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009905">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001104"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009906 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009906"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00012784 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00012784">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009903"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00012784</oboInOwl:id>
+        <rdfs:label>Merca District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015042 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015042"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015043 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015043"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015045 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015045"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015046 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015046"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015047 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015047"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015048 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015048"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015049 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015049"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015050 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015050"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015051 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015051"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015052 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015052"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00015053 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00015053"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022651 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022651">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015046"/>
+        <obo:IAO_0000115>A District of Awdal Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022651</oboInOwl:id>
+        <rdfs:label>Borama District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022653 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022653">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015046"/>
+        <obo:IAO_0000115>A District of Awdal Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022653</oboInOwl:id>
+        <rdfs:label>Saylac District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022654 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022654">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015046"/>
+        <obo:IAO_0000115>A District of Awdal Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022654</oboInOwl:id>
+        <rdfs:label>Lughaya District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022655 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022655">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015046"/>
+        <obo:IAO_0000115>A District of Awdal Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022655</oboInOwl:id>
+        <rdfs:label>Baki District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022656 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022656">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015043"/>
+        <obo:IAO_0000115>A District of Awdal Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022656</oboInOwl:id>
+        <rdfs:label>Rabdhure District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022657 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022657">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015043"/>
+        <obo:IAO_0000115>A District of Awdal Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022657</oboInOwl:id>
+        <rdfs:label>Tijeglow District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022659 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022659">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015043"/>
+        <obo:IAO_0000115>A District of Awdal Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022659</oboInOwl:id>
+        <rdfs:label>Wajid District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022660 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022660">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015043"/>
+        <obo:IAO_0000115>A District of Bakool Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022660</oboInOwl:id>
+        <rdfs:label>Hudur District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022662 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022662">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015042"/>
+        <obo:IAO_0000115>A District of Bari Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022662</oboInOwl:id>
+        <rdfs:label>Bosaso District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022663 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022663">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015042"/>
+        <obo:IAO_0000115>A District of Bari Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022663</oboInOwl:id>
+        <rdfs:label>Qandala District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022664 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022664">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015042"/>
+        <obo:IAO_0000115>A District of Bari Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022664</oboInOwl:id>
+        <rdfs:label>Qardho District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022665 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022665">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015042"/>
+        <obo:IAO_0000115>A District of Bari Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022665</oboInOwl:id>
+        <rdfs:label>Isku Shuban District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022666 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022666">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015042"/>
+        <obo:IAO_0000115>A District of Bari Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022666</oboInOwl:id>
+        <rdfs:label>Bender Bayla District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022667 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022667">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015042"/>
+        <obo:IAO_0000115>A District of Bari Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022667</oboInOwl:id>
+        <rdfs:label>Caluula District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022668 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022668">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015045"/>
+        <obo:IAO_0000115>A District of Bay Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022668</oboInOwl:id>
+        <rdfs:label>Diinsoor District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022669 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022669">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015045"/>
+        <obo:IAO_0000115>A District of Bay Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022669</oboInOwl:id>
+        <rdfs:label>Baidoa District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022670 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022670">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015045"/>
+        <obo:IAO_0000115>A District of Bay Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022670</oboInOwl:id>
+        <rdfs:label>Qasahdhere District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022671 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022671">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015045"/>
+        <obo:IAO_0000115>A District of Bay Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022671</oboInOwl:id>
+        <rdfs:label>Buurhakaba District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022672 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022672">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015047"/>
+        <obo:IAO_0000115>A District of Galguduud Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022672</oboInOwl:id>
+        <rdfs:label>Cadaado District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022673 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022673">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015047"/>
+        <obo:IAO_0000115>A District of Galguduud Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022673</oboInOwl:id>
+        <rdfs:label>Caabudwaq District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022674 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022674">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015047"/>
+        <obo:IAO_0000115>A District of Galguduud Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022674</oboInOwl:id>
+        <rdfs:label>Dhusa Mareb District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022675 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022675">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015047"/>
+        <obo:IAO_0000115>A District of Galguduud Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022675</oboInOwl:id>
+        <rdfs:label>Ceelbuur District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022676 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022676">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015047"/>
+        <obo:IAO_0000115>A District of Galguduud Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022676</oboInOwl:id>
+        <rdfs:label>Ceeldheer District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022677 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022677">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004035"/>
+        <obo:IAO_0000115>A District of Hiraan Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022677</oboInOwl:id>
+        <rdfs:label>Beledwenye District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022678 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022678">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004035"/>
+        <obo:IAO_0000115>A District of Hiraan Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022678</oboInOwl:id>
+        <rdfs:label>Jalalaqsi District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022679 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022679">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009906"/>
+        <obo:IAO_0000115>A District of Gedo Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022679</oboInOwl:id>
+        <rdfs:label>Luuq District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022680 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022680">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009906"/>
+        <obo:IAO_0000115>A District of Gedo Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022680</oboInOwl:id>
+        <rdfs:label>Ceelwaaq District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022681 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022681">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009900"/>
+        <obo:IAO_0000115>A District of Jubbada Dhexe region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022681</oboInOwl:id>
+        <rdfs:label>Bu&apos;aale District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022682 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022682">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009901"/>
+        <obo:IAO_0000115>A District of Jubbada Hoose Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022682</oboInOwl:id>
+        <rdfs:label>Afmadow District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022683 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022683">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009906"/>
+        <obo:IAO_0000115>A District of Gedo Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022683</oboInOwl:id>
+        <rdfs:label>Bardhere District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022684 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022684">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009906"/>
+        <obo:IAO_0000115>A District of Gedo Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022684</oboInOwl:id>
+        <rdfs:label>Doollow District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022685 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022685">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009900"/>
+        <obo:IAO_0000115>A District of Jubbada Dhexe region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022685</oboInOwl:id>
+        <rdfs:label>Jilib District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022686 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022686">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009906"/>
+        <obo:IAO_0000115>A District of Gedo Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022686</oboInOwl:id>
+        <rdfs:label>Garbahaareey District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022687 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022687">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00004035"/>
+        <obo:IAO_0000115>A District of Hiraan Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022687</oboInOwl:id>
+        <rdfs:label>Buuloburde District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022688 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022688">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009900"/>
+        <obo:IAO_0000115>A District of Jubbada Dhexe region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022688</oboInOwl:id>
+        <rdfs:label>Sakow District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022689 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022689">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009906"/>
+        <obo:IAO_0000115>A District of Gedo Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022689</oboInOwl:id>
+        <rdfs:label>Beledhawo District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022690 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022690">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015053"/>
+        <obo:IAO_0000115>A District of Mudug Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022690</oboInOwl:id>
+        <rdfs:label>Gaalkacyo District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022691 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022691">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015053"/>
+        <obo:IAO_0000115>A District of Mudug Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022691</oboInOwl:id>
+        <rdfs:label>Jariiban District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022692 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022692">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009901"/>
+        <obo:IAO_0000115>A District of Jubbada Hoose Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022692</oboInOwl:id>
+        <rdfs:label>Jamaame District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022693 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022693">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015053"/>
+        <obo:IAO_0000115>A District of Mudug Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022693</oboInOwl:id>
+        <rdfs:label>Harardheere District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022694 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022694">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009901"/>
+        <obo:IAO_0000115>A District of Jubbada Hoose Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022694</oboInOwl:id>
+        <rdfs:label>Badhaadhe District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022696 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022696">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009901"/>
+        <obo:IAO_0000115>A District of Jubbada Hoose Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022696</oboInOwl:id>
+        <rdfs:label>Kismaayo District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022697 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022697">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015051"/>
+        <obo:IAO_0000115>A District of Sanaag Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022697</oboInOwl:id>
+        <rdfs:label>Ceerigaabo District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022698 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022698">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015053"/>
+        <obo:IAO_0000115>A District of Mudug Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022698</oboInOwl:id>
+        <rdfs:label>Hobyo District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022699 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022699">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015053"/>
+        <obo:IAO_0000115>A District of Mudug Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022699</oboInOwl:id>
+        <rdfs:label>Galdogob District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022700 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022700">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015050"/>
+        <obo:IAO_0000115>A District of Nugaal Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022700</oboInOwl:id>
+        <rdfs:label>Burtinle District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022701 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022701">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015051"/>
+        <obo:IAO_0000115>A District of Sanaag Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022701</oboInOwl:id>
+        <rdfs:label>Laasqoray District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022702 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022702">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009902"/>
+        <obo:IAO_0000115>A District of Shabeellaha Dhexe Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022702</oboInOwl:id>
+        <rdfs:label>Jowhar District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022703 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022703">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015050"/>
+        <obo:IAO_0000115>A District of Nugaal Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022703</oboInOwl:id>
+        <rdfs:label>Garoowe District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022704 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022704">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015051"/>
+        <obo:IAO_0000115>A District of Sanaag Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022704</oboInOwl:id>
+        <rdfs:label>Dhahar District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022705 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022705">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009902"/>
+        <obo:IAO_0000115>A District of Shabeellaha Dhexe Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022705</oboInOwl:id>
+        <rdfs:label>Cadale District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022706 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022706">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015050"/>
+        <obo:IAO_0000115>A District of Nugaal Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022706</oboInOwl:id>
+        <rdfs:label>Eyl District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022708 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022708">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009902"/>
+        <obo:IAO_0000115>A District of Shabeellaha Dhexe Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022708</oboInOwl:id>
+        <rdfs:label>Balcad District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022709 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022709">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015051"/>
+        <obo:IAO_0000115>A District of Sanaag Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022709</oboInOwl:id>
+        <rdfs:label>Ceel-Afweyn District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022710 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022710">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009903"/>
+        <obo:IAO_0000115>A District of Shabeellaha Hoose Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022710</oboInOwl:id>
+        <rdfs:label>Sablale District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022711 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022711">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009903"/>
+        <obo:IAO_0000115>A District of Shabeellaha Hoose Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022711</oboInOwl:id>
+        <rdfs:label>Qoriyoley District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022712 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022712">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009902"/>
+        <obo:IAO_0000115>A District of Shabeellaha Dhexe Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022712</oboInOwl:id>
+        <rdfs:label>Aadan Yabaal District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022713 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022713">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009903"/>
+        <obo:IAO_0000115>A District of Shabeellaha Hoose Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022713</oboInOwl:id>
+        <rdfs:label>Barawe District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022714 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022714">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015048"/>
+        <obo:IAO_0000115>A District of Woqooyi Galbeed Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022714</oboInOwl:id>
+        <rdfs:label>Berbera District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022715 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022715">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009903"/>
+        <obo:IAO_0000115>A District of Shabeellaha Hoose Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022715</oboInOwl:id>
+        <rdfs:label>Kurtunwarey District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022716 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022716">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009903"/>
+        <obo:IAO_0000115>A District of Shabeellaha Hoose Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022716</oboInOwl:id>
+        <rdfs:label>Walaweyn District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022718 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022718">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009903"/>
+        <obo:IAO_0000115>A District of Shabeellaha Hoose Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022718</oboInOwl:id>
+        <rdfs:label>Afgoi District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022719 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022719">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015048"/>
+        <obo:IAO_0000115>A District of Woqooyi Galbeed Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022719</oboInOwl:id>
+        <rdfs:label>Hargeisa District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022720 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022720">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015052"/>
+        <obo:IAO_0000115>A District of Togdheer Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022720</oboInOwl:id>
+        <rdfs:label>Buuhoodle District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022721 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022721">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015052"/>
+        <obo:IAO_0000115>A District of Togdheer Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022721</oboInOwl:id>
+        <rdfs:label>Burao District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022722 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022722">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015052"/>
+        <obo:IAO_0000115>A District of Togdheer Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022722</oboInOwl:id>
+        <rdfs:label>Sheikh District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022723 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022723">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015052"/>
+        <obo:IAO_0000115>A District of Togdheer Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022723</oboInOwl:id>
+        <rdfs:label>Oodwayne District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022724 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022724">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015049"/>
+        <obo:IAO_0000115>A District of Sool Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022724</oboInOwl:id>
+        <rdfs:label>Caynaba District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022725 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022725">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015049"/>
+        <obo:IAO_0000115>A District of Sool Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022725</oboInOwl:id>
+        <rdfs:label>Taleex District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022726 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022726">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015049"/>
+        <obo:IAO_0000115>A District of Sool Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022726</oboInOwl:id>
+        <rdfs:label>Xudun District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00022727 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00022727">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015049"/>
+        <obo:IAO_0000115>A District of Sool Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00022727</oboInOwl:id>
+        <rdfs:label>Laascaanood District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039902 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039902">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00102118"/>
+        <obo:IAO_0000115>A group of small islands off of the eastern coast of the Horn of Africa, in the Dact-el-Mayun section of the Bab-el-Mandeb strait.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039902</oboInOwl:id>
+        <rdfs:label>Sept Freres</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039903 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039903">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052528"/>
+        <obo:IAO_0000115>A small coral island of Djibouti, at the center of the Gulf of Tadjoura.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039903</oboInOwl:id>
+        <rdfs:label>Ile Moucha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00039904 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00039904">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052528"/>
+        <obo:IAO_0000115>A small island near Moucha Island in the Gulf of Tadjoura.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00039904</oboInOwl:id>
+        <rdfs:label>Ile Maskali</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040014 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040014">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00022696"/>
+        <obo:IAO_0000115>An archipelago in the Indian Ocean, on the southern coast of Somalia, from Kismayu to Ras Kiyemboni (not to be confused with Ras Kamboni). They lie at the northern end of a string of reefs which also include Zanzibar and Pemba.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040014</oboInOwl:id>
+        <rdfs:label>Bajuni Islands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040015 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040015">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040014"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040015</oboInOwl:id>
+        <rdfs:label>Chula Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040016 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040016">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040014"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040016</oboInOwl:id>
+        <rdfs:label>Darakasi Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040017 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040017">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040014"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040017</oboInOwl:id>
+        <rdfs:label>Ngumi Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040018 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040018">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040014"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040018</oboInOwl:id>
+        <rdfs:label>Chandra Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040019 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040019">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040014"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040019</oboInOwl:id>
+        <rdfs:label>Koyama Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040020 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040020">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040014"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040020</oboInOwl:id>
+        <rdfs:label>Chovaye Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040021 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040021">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040014"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040021</oboInOwl:id>
+        <rdfs:label>Fuma Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040022 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040022">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040014"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040022</oboInOwl:id>
+        <rdfs:label>Kisimayu Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040023 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040023">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040014"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040023</oboInOwl:id>
+        <rdfs:label>Ilisi Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00040024 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00040024">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00040014"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00040024</oboInOwl:id>
+        <rdfs:label>Kandha Iwu Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041550 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041550">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00123543"/>
+        <obo:IAO_0000115>A lake that is the source of the Blue Nile and is the largest lake in Ethiopia. Located in the north-western Ethiopian highlands. Lake Tana is fed by the Little Abay, Reb and Gumara Rivers.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041550</oboInOwl:id>
+        <rdfs:label>Lake Tana</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041551 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041551">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00041550"/>
+        <obo:IAO_0000115>An island in Lake Tana in Ethiopia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041551</oboInOwl:id>
+        <rdfs:label>Tana Qirqos Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041552 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041552">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00041550"/>
+        <obo:IAO_0000115>An island of Lake Tana.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041552</oboInOwl:id>
+        <rdfs:label>Meshralia Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041553 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041553">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00041550"/>
+        <obo:IAO_0000115>An island of Lake Tana.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041553</oboInOwl:id>
+        <rdfs:label>Daga Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041554 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041554">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00041550"/>
+        <obo:IAO_0000115>The biggest island (approximately 16 km2) on Lake Tana in Ethiopia. It is administratively included in the Achefer woreda of the Mirab Gojjam Zone.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041554</oboInOwl:id>
+        <rdfs:label>Dek Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00051269 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00051269">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008962"/>
+        <obo:IAO_0000115>A strait connecting the Red Sea to the Indian Ocean in the Gulf of Aden. The Yemeni island of Perim divides the strait into two channels.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00051269</oboInOwl:id>
+        <rdfs:label>Bab-el-Mandeb</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052528 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052528">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008962"/>
+        <obo:IAO_0000115>A gulf or basin of the Indian Ocean in the Horn of Africa, lying to the south of the straits of Bab-el-Mandeb, or the entrance to the Red Sea. Most of its coastline is the territory of Djibouti, except for a short stretch on the southern shore which is part of the territory of Somalia. Ports on the Gulf of Tadjoura include Obock, Tadjoura and Djibouti City.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052528</oboInOwl:id>
+        <rdfs:label>Gulf of Tadjoura</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052530 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052530">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052531"/>
+        <obo:IAO_0000115>A populated place. A village in south-central Ethiopia. Located in the Bale Zone of the Oromia Region in the heart of the Bale Mountains.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052530</oboInOwl:id>
+        <rdfs:label>Dinsho</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052531 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052531">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00123544"/>
+        <obo:IAO_0000115>A range of mountains in the Oromia Region of southeast Ethiopia, south of the Awash River. They include Tullu Demtu, the second-highest mountain in Ethiopia (4377 m), and Mount Batu (4307 m). The Web River, a tributary of the Jubba River, rises in these mountains east of Goba.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052531</oboInOwl:id>
+        <rdfs:label>Bale Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052532 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052532">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052531"/>
+        <obo:IAO_0000115>A national park in the Oromia Region of southeast Ethiopia. Created in 1970, this park covers about 2,200 km2 of the Bale Mountains to the west and southwest of Goba in the Bale Zone. Within its boundaries are some of the highest points in Ethiopia, which include Mount Batu. Bale Mountains contains three distinct ecoregions: the northern plains, bush and woods; the central Sanetti Plateau with an average elevation of over 4000 meters; and the southern Harenna Forest.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052532</oboInOwl:id>
+        <rdfs:label>Bale Mountains National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052559 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052559">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000191"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052532"/>
+        <obo:IAO_0000115>A major landform in Ethopia within a portion of the Bale Mountains.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052559</oboInOwl:id>
+        <rdfs:label>Sanetti Plateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00052578 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00052578">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00123543"/>
+        <obo:IAO_0000115>Mountains in northern Ethiopia, north east of Gondar. The mountains consist of plateaux separated by valleys and rising to pinnacles. The tallest peak is Ras Dashen (4,543 m); other notable heights include Mounts Biuat (4,437 m) and Abba Yared (4,460 m).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00052578</oboInOwl:id>
+        <rdfs:label>Semien Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076368 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076368">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052578"/>
+        <obo:IAO_0000115>A national parks of Ethiopia. Located in the Semien Gondar Zone of the Amhara Region, its territory covers the Semien Mountains and includes Ras Dashan, the highest point in Ethiopia and fourth-highest in Africa. Established 1969. A World Heritage Site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076368</oboInOwl:id>
+        <rdfs:label>Semien Mountains National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076685 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076685">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001104"/>
+        <obo:IAO_0000115>A national park in Somalia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076685</oboInOwl:id>
+        <rdfs:label>Kismayu National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00076686 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00076686">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001104"/>
+        <obo:IAO_0000115>A national park in Somalia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00076686</oboInOwl:id>
+        <rdfs:label>Hargeysa National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00102117 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00102117">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051269"/>
+        <obo:IAO_0000115>The eastern side (3 km wide and 30 m deep) of the Bab-el-Mandeb straits separating Ras Menheli, Yemen, on the Arabian Peninsula and Ras Siyan, Djibouti, on the Horn of Africa. The Yemeni island of Perim divides the strait into two channels.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00102117</oboInOwl:id>
+        <rdfs:label>Bab Iskender</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00102118 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00102118">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00051269"/>
+        <obo:IAO_0000115>The western side of the Bab-el-Mandeb strait.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00102118</oboInOwl:id>
+        <rdfs:label>Dact-el-Mayun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00123543 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00123543">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001104"/>
+        <obo:IAO_0000115>A rugged mass of mountains in Ethiopia, Eritrea (which is sometimes referred to as the Eritrean Highlands), and northern Somalia (Somaliland) in the Horn of Africa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00123543</oboInOwl:id>
+        <rdfs:label>Ethiopian Highlands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00123544 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00123544">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00123543"/>
+        <obo:IAO_0000115>An extension of the Ethiopian Highlands to the south. The Eritrean Highlands are drained by four major rivers towards Sudan and by several smaller rivers into the Red Sea coast of Eritrea. Flowing towards Sudan and the Nile River are the Gash and Setit Rivers while towards Sudan without reaching the Nile are the Barka and Anseba Rivers. The Eastern Escarpment of Eritrea is drained by numerous small streams.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00123544</oboInOwl:id>
+        <rdfs:label>Eritrean Highlands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00123907 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00123907">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00123543"/>
+        <obo:IAO_0000115>An isolated, extinct silicic volcanic mountain in southeastern Ethiopia. The highest point in the Arsi Zone of the Oromia Region, and located on the border between the Hitosa and Tiyo wored. Although this mountain is located south of the Great Rift Valley, along with Mount Gugu to the north and Mount Kaka to the south, it is considered, geologically speaking, part of the Ethiopian highlands.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00123907</oboInOwl:id>
+        <rdfs:label>Mount Chilalo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143833 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143833">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008962"/>
+        <obo:IAO_0000115>A divergent tectonic plate boundary which runs offshore in the Gulf of Aden and Indian Ocean along the southeastern coastline of the Arabian Peninsula. It extends eastward from the Afar Triple Junction to a junction with the Owen Fracture Zone, and separates the Arabian Plate from the Somalian subplate of the African Plate.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143833</oboInOwl:id>
+        <rdfs:label>Aden Ridge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143834 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143834">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00143833"/>
+        <obo:IAO_0000115>The eastern segments of the Aden Ridge.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143834</oboInOwl:id>
+        <rdfs:label>Sheba Ridge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00143894 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00143894">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008962"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00143894</oboInOwl:id>
+        <rdfs:label>Shiba Ridge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147077 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147077">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00022665"/>
+        <obo:IAO_0000115>A 40 km long low-lying peninsula in the Bari region of northern Somalia. The promontory juts out into the Indian Ocean, where it is known as Cape Hafun (Ras Hafun or Raas Xaafuun) and is the easternmost point on the African continent.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147077</oboInOwl:id>
+        <rdfs:label>Hafun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147078 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147078">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00147077"/>
+        <obo:IAO_0000115>The promontory at the end of the Hafun peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147078</oboInOwl:id>
+        <rdfs:label>Cape Hafun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230376 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230376">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052531"/>
+        <obo:IAO_0000115>A forest located in Ethiopia within a portion of the Bale Mountains.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230376</oboInOwl:id>
+        <rdfs:label>Harenna Forest</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230381 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230381">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000004"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009906"/>
+        <obo:IAO_0000115>A district of the Gedo Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230381</oboInOwl:id>
+        <rdfs:label>Buurdhuubo District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00230382 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00230382">
+        <obo:IAO_0000115>A perennial river in southeastern Ethiopia. Rising in the mountains east of Aleta Wendo, the Dawa flows south and east to join with the Ganale Dorya at the border with Somalia to become the Jubba.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00230382</oboInOwl:id>
+        <rdfs:label>Dawa River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00236231 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00236231">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015043"/>
+        <obo:IAO_0000115>A District of Bakool Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00236231</oboInOwl:id>
+        <rdfs:label>Ceelbarde District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00236235 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00236235">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015048"/>
+        <obo:IAO_0000115>A District of Woqooyi Galbeed Region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00236235</oboInOwl:id>
+        <rdfs:label>Gebiley District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00236236 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00236236">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00022719"/>
+        <obo:IAO_0000115>A complex of caves and rock shelters in northwestern Somalia that is famous for its cave paintings. The caves are located in a rural area on the outskirts of Hargeisa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00236236</oboInOwl:id>
+        <rdfs:label>Laas Gaal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00236238 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00236238">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00022667"/>
+        <obo:IAO_0000115>The headland that forms the geographical apex of what is commonly known as the Horn of Africa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00236238</oboInOwl:id>
+        <rdfs:label>Cape Guardafui</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00241986 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00241986">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052528"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00241986</oboInOwl:id>
+        <rdfs:label>Ile de Ouaramous</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248119 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248119">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052532"/>
+        <obo:IAO_0000115>A freshwater lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248119</oboInOwl:id>
+        <rdfs:label>Garba Gurastch Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248120 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248120">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00052532"/>
+        <obo:IAO_0000115>A freshwater lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248120</oboInOwl:id>
+        <rdfs:label>Hora Orgona Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00255957 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00255957">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015046"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00255957</oboInOwl:id>
+        <rdfs:label>Saacada Diin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260891 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260891">
+        <obo:IAO_0000115>A large wadi in the hills of southern Yemen, with permanent or nearpermanent surface flow and permanent deep pools. Located north of the Lawdar to Habban road, about 60 km east of Lawdar and 80 km southwest of Ataq, Abyan Governorate.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260891</oboInOwl:id>
+        <rdfs:label>Wadi Jahr</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260892 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260892">
+        <obo:IAO_0000115>A large wadi with permanent surface flow, dammed near its mouth to create a small lake which supports some marsh vegetation. Discharges to the Gulf od Aden.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260892</oboInOwl:id>
+        <rdfs:label>Wadi Hajar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00281444 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00281444">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00015051"/>
+        <obo:IAO_0000115>An archeological site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00281444</oboInOwl:id>
+        <rdfs:label>Qa&apos;ableh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00004034">
+        <rdfs:label>Region (Somalia)</rdfs:label>
+        <oboInOwl:id>GAZ:00004034</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00004035">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Hiraan Region</rdfs:label>
+        <obo:IAO_0000115>An administrative region (gobolka) in central Somalia. Its capital is Beledweyne. It is bordered by Ethiopia and the Somali regions of Galguduud, Middle Shabele, Lower Shabele, Bay and Bakool.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00004035</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009900">
+        <rdfs:label>Jubbada Dhexe Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>An administrative region (gobolka) in southern Somalia in the historical region of Jubaland. Its capital is Bu&apos;aale. It is bordered by Somali regions of Gedo, Bay, Lower Shabele and Lower Juba and the Indian Ocean.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00009900</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009901">
+        <oboInOwl:id>GAZ:00009901</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Jubbada Hoose Region</rdfs:label>
+        <obo:IAO_0000115>An administrative region (gobolka) in the traditional region of Jubaland in southern Somalia. Its capital is Kismaayo. It is bordered by Kenya, the Somali regions of Gedo, Middle Juba, and the Indian Ocean.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009902">
+        <rdfs:label>Shabeellaha Dhexe Region</rdfs:label>
+        <oboInOwl:id>GAZ:00009902</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>An administrative region (gobolka) in southern Somalia. It is bordered by the Somali regions of Galguduud, Hiiraan, Lower Shabele, and Banaadir, as well as the Indian Ocean.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009903">
+        <oboInOwl:id>GAZ:00009903</oboInOwl:id>
+        <obo:IAO_0000115>An administrative region (gobolka) in southern Somalia. Shabeellaha Hoose is bordered by the Somali regions of Banaadir, Shabeellaha Dhexe, Hiiraan, Bay and Middle Juba and the Indian Ocean.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Shabeellaha Hoose Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009904">
+        <rdfs:label>Merca</rdfs:label>
+        <oboInOwl:id>GAZ:00009904</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009905">
+        <rdfs:label>populated place, Somalia</rdfs:label>
+        <oboInOwl:id>GAZ:00009905</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009906">
+        <rdfs:label>Gedo Region</rdfs:label>
+        <oboInOwl:id>GAZ:00009906</oboInOwl:id>
+        <obo:IAO_0000115>An administrative region (gobolka) formerly part of the historic Upper Juba Region, Somalia. Gedo&apos;s regional capital is Garbahaarreey. It is bordered by the Ogaden in Ethiopia, the North Eastern Province in Kenya, and the Somali regions of Bakool, Bay, Jubbada Dhexe (Middle Juba), and Jubbada Hoose (Lower Juba) further east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00015042">
+        <rdfs:label>Bari Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>An administrative region (gobolka) in northern Somalia. Major cities include Bosaso (the capital) and Qardho. It is bordered by the Sanaag and Sool regions to the west, Nugaal to the south, the Gulf of Aden to the north, and the Indian Ocean to the east.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00015042</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00015043">
+        <oboInOwl:id>GAZ:00015043</oboInOwl:id>
+        <obo:IAO_0000115>A region (gobolka) in central Somalia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Bakool Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00015045">
+        <oboInOwl:id>GAZ:00015045</oboInOwl:id>
+        <rdfs:label>Bay Region</rdfs:label>
+        <obo:IAO_0000115>An administrative region (gobolka) in southern Somalia. Its capital is Baidoa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00015046">
+        <oboInOwl:id>GAZ:00015046</oboInOwl:id>
+        <rdfs:label>Awdal Region</rdfs:label>
+        <obo:IAO_0000115>A region in northwestern Somalia. Its capital is Boorama. It is bordered by Ethiopia, Djibouti, the Somali region of Woqooyi Galbeed, and the Gulf of Aden.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00015047">
+        <oboInOwl:id>GAZ:00015047</oboInOwl:id>
+        <rdfs:label>Galguduud Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>An administrative region (gobolka) in central Somalia. It is bordered by Ethiopia, the Somali regions of Mudug, Hiiraan and Middle Shabele, and the Indian Ocean. The region&apos;s capital is Dhusa Mareb.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00015048">
+        <obo:IAO_0000115>A region in the northwestern Somaliland region of Somalia. Its capital is Hargeisa; other cities include Berbera. Woqooyi Galbeed is bordered by Ethiopia to the south, the Somali regions of Awdal, Sanaag, Togdheer and Gaaroodi, and the Gulf of Aden.</obo:IAO_0000115>
+        <rdfs:label>Woqooyi Galbeed Region</rdfs:label>
+        <oboInOwl:id>GAZ:00015048</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00015049">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Sool Region</rdfs:label>
+        <oboInOwl:id>GAZ:00015049</oboInOwl:id>
+        <obo:IAO_0000115>An administrative region located in the northwestern interior of Somalia. Its regional capital is Las Anod (Laascaanood).</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00015050">
+        <oboInOwl:id>GAZ:00015050</oboInOwl:id>
+        <rdfs:label>Nugaal Region</rdfs:label>
+        <obo:IAO_0000115>An administrative region (gobol) of Somalia. It is located in the northeastern part of the country, and its capital is Garoowe. Nugaal is bordered by Ethiopia and the Somali regions of Sool to the west, Bari to the north, and Mudug to the south, with the Indian Ocean to the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00015051">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Sanaag Region</rdfs:label>
+        <obo:IAO_0000115>A region (gobol) in northern Somalia. Sanaag has a long coastline facing the Gulf of Aden to the north, and is bordered by the Somali regions of Woqooyi Galbeed, Togdheer, Sool and Bari.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00015051</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00015052">
+        <obo:IAO_0000115>An administrative region in northwestern Somalia. Its capital is Burco (Burao). It is bordered by Ethiopia and the Somali regions of Woqooyi Galbeed, Sanaag and Sool.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00015052</oboInOwl:id>
+        <rdfs:label>Togdheer Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00015053">
+        <obo:IAO_0000115>An administrative region (gobolka) in north-central Somalia. Bordered by the Ogaden, the Somali regions of Nugaal and Galguduud, and the Indian Ocean, its capital is the city of Gaalkacyo.</obo:IAO_0000115>
+        <rdfs:label>Mudug Region</rdfs:label>
+        <oboInOwl:id>GAZ:00015053</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

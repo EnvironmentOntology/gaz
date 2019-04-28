@@ -1,0 +1,2708 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Laos.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Laos.owl"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:envo="http://purl.obolibrary.org/obo/envo#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Laos.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000104 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000104"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009509 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000780 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000780"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000781 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000781">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000780"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000782 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000782">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000783 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000783">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000784 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000784">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000785 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000785">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000786 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000786">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000787 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000787">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000788 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000788">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000789 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000789">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000790 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000790">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000791 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000791">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000792 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000792">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000793 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000793">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000794 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000794">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000795 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000795">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000796 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000796">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000797 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000797">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009509"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00006889 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00006889">
+        <obo:IAO_0000115>A landlocked country in southeast Asia, bordered by Burma (Myanmar) and China to the northwest, Vietnam to the east, Cambodia to the south, and Thailand to the west. Laos is divided into sixteen provinces (qwang) and Vientiane Capital (Na Kone Luang Vientiane). The provinces further divided into districts (muang).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00006889</oboInOwl:id>
+        <rdfs:label>Laos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009509 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009509">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006889"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025194 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025194">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000781"/>
+        <obo:IAO_0000115>The capital city of Laos, situated in the Mekong Valley.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025194</oboInOwl:id>
+        <rdfs:label>City of Vientiane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025195 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025195">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00025194"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025195</oboInOwl:id>
+        <rdfs:label>Xaysetha District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025196 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025196">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00025194"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025196</oboInOwl:id>
+        <rdfs:label>Chanthabuly District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025197 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025197">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00025194"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025197</oboInOwl:id>
+        <rdfs:label>Sikhottabong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025198 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025198">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00025194"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025198</oboInOwl:id>
+        <rdfs:label>Hadxayfong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025199 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025199">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00025194"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025199</oboInOwl:id>
+        <rdfs:label>Sisattanak District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025200 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025200">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000781"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025200</oboInOwl:id>
+        <rdfs:label>Sangthong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025201 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025201">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000781"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025201</oboInOwl:id>
+        <rdfs:label>Mayparkngum District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025202 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025202">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000781"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025202</oboInOwl:id>
+        <rdfs:label>Naxaithong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025203 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025203">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000781"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025203</oboInOwl:id>
+        <rdfs:label>Xaythany District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025204 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025204">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000781"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025204</oboInOwl:id>
+        <rdfs:label>Xaysomboun District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025205 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025205">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000797"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025205</oboInOwl:id>
+        <rdfs:label>Thaton District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025206 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025206">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025206</oboInOwl:id>
+        <rdfs:label>Hom District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025207 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025207">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000797"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025207</oboInOwl:id>
+        <rdfs:label>Nonghed District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025208 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025208">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000797"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025208</oboInOwl:id>
+        <rdfs:label>Phookood District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025209 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025209">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000797"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025209</oboInOwl:id>
+        <rdfs:label>Phaxay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025210 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025210">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000797"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025210</oboInOwl:id>
+        <rdfs:label>Khoune District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025211 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025211">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000797"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025211</oboInOwl:id>
+        <rdfs:label>Kham District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025212 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025212">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000797"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025212</oboInOwl:id>
+        <rdfs:label>Morkmay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025213 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025213">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000797"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025213</oboInOwl:id>
+        <rdfs:label>Pek District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025214 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025214">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000795"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025214</oboInOwl:id>
+        <rdfs:label>Kaleum District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025215 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025215">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000795"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025215</oboInOwl:id>
+        <rdfs:label>Lamarm District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025216 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025216">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00251788"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000795"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025216</oboInOwl:id>
+        <rdfs:label>Thateng District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025217 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025217">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000795"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025217</oboInOwl:id>
+        <rdfs:label>Dakcheung District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025218 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025218">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025218</oboInOwl:id>
+        <rdfs:label>Khop District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025219 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025219">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025219</oboInOwl:id>
+        <rdfs:label>Botene District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025220 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025220">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025220</oboInOwl:id>
+        <rdfs:label>Xienghone District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025221 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025221">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025221</oboInOwl:id>
+        <rdfs:label>Thongmyxay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025222 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025222">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025222</oboInOwl:id>
+        <rdfs:label>Parklai District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025223 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025223">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025223</oboInOwl:id>
+        <rdfs:label>Kenethao District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025224 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025224">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025224</oboInOwl:id>
+        <rdfs:label>Hongsa District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025225 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025225">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025225</oboInOwl:id>
+        <rdfs:label>Xayabury District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025226 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025226">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025226</oboInOwl:id>
+        <rdfs:label>Ngeun District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025227 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025227">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025227</oboInOwl:id>
+        <rdfs:label>Phiang District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025228 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025228">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025228</oboInOwl:id>
+        <rdfs:label>Kasy District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025229 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025229">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025229</oboInOwl:id>
+        <rdfs:label>Xanakharm District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025230 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025230">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025230</oboInOwl:id>
+        <rdfs:label>Feuang District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025231 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025231">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025231</oboInOwl:id>
+        <rdfs:label>Hinhurp District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025232 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025232">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025232</oboInOwl:id>
+        <rdfs:label>Phonhong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025233 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025233">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025233</oboInOwl:id>
+        <rdfs:label>Keo Oudom District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025234 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025234">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025234</oboInOwl:id>
+        <rdfs:label>Vangvieng District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025235 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025235">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025235</oboInOwl:id>
+        <rdfs:label>Thoulakhom District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025236 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025236">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025236</oboInOwl:id>
+        <rdfs:label>Mad District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025237 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025237">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025237</oboInOwl:id>
+        <rdfs:label>Viengkham District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025238 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025238">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025238</oboInOwl:id>
+        <rdfs:label>Outhoomphone District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025239 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025239">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025239</oboInOwl:id>
+        <rdfs:label>Champhone District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025240 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025240">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025240</oboInOwl:id>
+        <rdfs:label>Xonbuly District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025241 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025241">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025241</oboInOwl:id>
+        <rdfs:label>Nong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025242 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025242">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025242</oboInOwl:id>
+        <rdfs:label>Atsaphone District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025243 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025243">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025243</oboInOwl:id>
+        <rdfs:label>Songkhone District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025244 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025244">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025244</oboInOwl:id>
+        <rdfs:label>Atsaphangthong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025245 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025245">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025245</oboInOwl:id>
+        <rdfs:label>Thaphalanxay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025246 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025246">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025246</oboInOwl:id>
+        <rdfs:label>Phine District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025247 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025247">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025247</oboInOwl:id>
+        <rdfs:label>Thapangthong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025248 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025248">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025248</oboInOwl:id>
+        <rdfs:label>Vilabuly District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025249 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025249">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025249</oboInOwl:id>
+        <rdfs:label>Xaybuly District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025250 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025250">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025250</oboInOwl:id>
+        <rdfs:label>Khanthabouly District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025251 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025251">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025251</oboInOwl:id>
+        <rdfs:label>Sepone District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025252 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025252">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025252</oboInOwl:id>
+        <rdfs:label>Xayphoothong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025253 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025253">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000792"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025253</oboInOwl:id>
+        <rdfs:label>Lakhonepheng District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025254 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025254">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000792"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025254</oboInOwl:id>
+        <rdfs:label>Khongxedone District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025255 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025255">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000792"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025255</oboInOwl:id>
+        <rdfs:label>Vapy District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025256 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025256">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000792"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025256</oboInOwl:id>
+        <rdfs:label>Lao Ngarm District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025257 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025257">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000792"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025257</oboInOwl:id>
+        <rdfs:label>Salavan District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025258 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025258">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000792"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025258</oboInOwl:id>
+        <rdfs:label>Ta Oi District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025259 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025259">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000792"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025259</oboInOwl:id>
+        <rdfs:label>Samuoi District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025260 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025260">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000792"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025260</oboInOwl:id>
+        <rdfs:label>Toomlarn District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025261 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025261">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000791"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025261</oboInOwl:id>
+        <rdfs:label>Nhot Ou District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025262 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025262">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000791"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025262</oboInOwl:id>
+        <rdfs:label>Khua District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025263 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025263">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000791"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025263</oboInOwl:id>
+        <rdfs:label>Samphanh District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025264 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025264">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000791"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025264</oboInOwl:id>
+        <rdfs:label>Phongsaly District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025265 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025265">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000791"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025265</oboInOwl:id>
+        <rdfs:label>Boon Neua District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025266 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025266">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000791"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025266</oboInOwl:id>
+        <rdfs:label>May District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025267 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025267">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000791"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025267</oboInOwl:id>
+        <rdfs:label>Boontai District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025268 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025268">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000783"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025268</oboInOwl:id>
+        <rdfs:label>Nga District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025269 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025269">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000783"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025269</oboInOwl:id>
+        <rdfs:label>Hoon District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025270 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025270">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000783"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025270</oboInOwl:id>
+        <rdfs:label>Xay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025271 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025271">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000783"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025271</oboInOwl:id>
+        <rdfs:label>Pakbeng District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025272 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025272">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000783"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025272</oboInOwl:id>
+        <rdfs:label>Namor District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025273 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025273">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000783"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025273</oboInOwl:id>
+        <rdfs:label>Beng District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025274 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025274">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000783"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025274</oboInOwl:id>
+        <rdfs:label>La District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025275 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025275">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025275</oboInOwl:id>
+        <rdfs:label>Park Ou District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025276 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025276">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025276</oboInOwl:id>
+        <rdfs:label>Nambak District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025277 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025277">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025277</oboInOwl:id>
+        <rdfs:label>Xieng Ngeun District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025278 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025278">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025278</oboInOwl:id>
+        <rdfs:label>Phonxay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025279 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025279">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025279</oboInOwl:id>
+        <rdfs:label>Nan District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025280 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025280">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025280</oboInOwl:id>
+        <rdfs:label>Phoukhoune District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025281 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025281">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025281</oboInOwl:id>
+        <rdfs:label>Louangphabang District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025282 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025282">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025282</oboInOwl:id>
+        <rdfs:label>Viengkham District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025283 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025283">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025283</oboInOwl:id>
+        <rdfs:label>Pak Xeng District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025284 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025284">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025284</oboInOwl:id>
+        <rdfs:label>Chomphet District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025285 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025285">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025285</oboInOwl:id>
+        <rdfs:label>Ngoi District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025286 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025286">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000789"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025286</oboInOwl:id>
+        <rdfs:label>Nalae District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025287 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025287">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000789"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025287</oboInOwl:id>
+        <rdfs:label>Namtha District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025288 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025288">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000789"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025288</oboInOwl:id>
+        <rdfs:label>Viengphoukha District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025289 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025289">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000789"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025289</oboInOwl:id>
+        <rdfs:label>Sing District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025290 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025290">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000789"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025290</oboInOwl:id>
+        <rdfs:label>Long District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025291 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025291">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000790"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025291</oboInOwl:id>
+        <rdfs:label>Sanamxay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025292 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025292">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000790"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025292</oboInOwl:id>
+        <rdfs:label>Samakkhixay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025293 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025293">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000790"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025293</oboInOwl:id>
+        <rdfs:label>Xaysetha District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025294 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025294">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000790"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025294</oboInOwl:id>
+        <rdfs:label>Sanxay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025295 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025295">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000790"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025295</oboInOwl:id>
+        <rdfs:label>Phouvong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025296 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025296">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000786"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025296</oboInOwl:id>
+        <rdfs:label>Meung District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025297 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025297">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000786"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025297</oboInOwl:id>
+        <rdfs:label>Houaixai District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025298 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025298">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000786"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025298</oboInOwl:id>
+        <rdfs:label>Tonpheung District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025299 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025299">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000786"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025299</oboInOwl:id>
+        <rdfs:label>Paktha District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025300 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025300">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000786"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025300</oboInOwl:id>
+        <rdfs:label>Pha Oudom District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025301 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025301">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000788"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025301</oboInOwl:id>
+        <rdfs:label>Pakkading District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025302 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025302">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000788"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025302</oboInOwl:id>
+        <rdfs:label>Khamkheuth District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025303 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025303">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000788"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025303</oboInOwl:id>
+        <rdfs:label>Viengthong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025304 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025304">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000788"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025304</oboInOwl:id>
+        <rdfs:label>Paksane District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025305 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025305">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000788"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025305</oboInOwl:id>
+        <rdfs:label>Bolikhanh District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025306 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025306">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000788"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025306</oboInOwl:id>
+        <rdfs:label>Thaphabath District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025307 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025307">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025307</oboInOwl:id>
+        <rdfs:label>Pakse District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025308 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025308">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025308</oboInOwl:id>
+        <rdfs:label>Khong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025309 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025309">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025309</oboInOwl:id>
+        <rdfs:label>Sukhuma District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025310 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025310">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025310</oboInOwl:id>
+        <rdfs:label>Paksong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025311 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025311">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025311</oboInOwl:id>
+        <rdfs:label>Moonlapamok District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025312 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025312">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025312</oboInOwl:id>
+        <rdfs:label>Pathoomphone District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025313 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025313">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025313</oboInOwl:id>
+        <rdfs:label>Champassack District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025314 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025314">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025314</oboInOwl:id>
+        <rdfs:label>Phonthong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025315 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025315">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025315</oboInOwl:id>
+        <rdfs:label>Sanasomboon District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025316 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025316">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025316</oboInOwl:id>
+        <rdfs:label>Bachiangchaleunsook District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025317 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025317">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025317</oboInOwl:id>
+        <rdfs:label>Huameuang District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025318 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025318">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025318</oboInOwl:id>
+        <rdfs:label>Sop Bao District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025319 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025319">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025319</oboInOwl:id>
+        <rdfs:label>Xiengkhor District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025320 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025320">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025320</oboInOwl:id>
+        <rdfs:label>Muang Et District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025321 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025321">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025321</oboInOwl:id>
+        <rdfs:label>Viengxay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025322 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025322">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025322</oboInOwl:id>
+        <rdfs:label>Viengthong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025323 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025323">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025323</oboInOwl:id>
+        <rdfs:label>Xamneua District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025324 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025324">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025324</oboInOwl:id>
+        <rdfs:label>Xamtay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025325 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025325">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025325</oboInOwl:id>
+        <rdfs:label>Mahaxay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025326 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025326">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025326</oboInOwl:id>
+        <rdfs:label>Bualapha District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025327 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025327">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025327</oboInOwl:id>
+        <rdfs:label>Xebangfay District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025328 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025328">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025328</oboInOwl:id>
+        <rdfs:label>Nongbok District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025329 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025329">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025329</oboInOwl:id>
+        <rdfs:label>Hinboon District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025330 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025330">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025330</oboInOwl:id>
+        <rdfs:label>Nakai District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025331 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025331">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025331</oboInOwl:id>
+        <rdfs:label>Nhommalath District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025332 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025332">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025332</oboInOwl:id>
+        <rdfs:label>Thakhek District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00025333 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00025333">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00025333</oboInOwl:id>
+        <rdfs:label>Xaybuathong District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049340 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049340">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049340</oboInOwl:id>
+        <rdfs:label>Khong Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098739 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098739">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000790"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098739</oboInOwl:id>
+        <rdfs:label>Dong Ampham National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098740 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098740">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098740</oboInOwl:id>
+        <rdfs:label>Dong Houa Sao National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098741 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098741">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098741</oboInOwl:id>
+        <rdfs:label>Dong Phou Vieng National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098742 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098742">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098742</oboInOwl:id>
+        <rdfs:label>Hin Nam No National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098743 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098743">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000788"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098743</oboInOwl:id>
+        <rdfs:label>Nakai-Nam Thuen National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098744 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098744">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098744</oboInOwl:id>
+        <rdfs:label>Nam Et National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098745 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098745">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000789"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098745</oboInOwl:id>
+        <rdfs:label>National Biodiversity Conservation AreaNam Ha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098746 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098746">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000788"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098746</oboInOwl:id>
+        <rdfs:label>Nam Kading National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098747 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098747">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098747</oboInOwl:id>
+        <rdfs:label>Nam Pouy National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098748 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098748">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098748</oboInOwl:id>
+        <rdfs:label>Nam Xam National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098749 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098749">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000791"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098749</oboInOwl:id>
+        <rdfs:label>Phou Dene Din National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098750 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098750">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098750</oboInOwl:id>
+        <rdfs:label>Phou Hin Poun National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098751 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098751">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000781"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000788"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098751</oboInOwl:id>
+        <rdfs:label>Phou Kao Khoay National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098752 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098752">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000797"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098752</oboInOwl:id>
+        <rdfs:label>Phou Loey National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098753 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098753">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000781"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098753</oboInOwl:id>
+        <rdfs:label>Phou Phanang National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098754 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098754">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098754</oboInOwl:id>
+        <rdfs:label>Phou Xang He National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098755 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098755">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000792"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098755</oboInOwl:id>
+        <rdfs:label>Phou Xieng Thong National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098756 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098756">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000792"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098756</oboInOwl:id>
+        <rdfs:label>Xe Bang Nouan National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098757 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098757">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000790"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098757</oboInOwl:id>
+        <rdfs:label>Xe Pian National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00098758 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00098758">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000792"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000795"/>
+        <obo:IAO_0000115>A protected area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00098758</oboInOwl:id>
+        <rdfs:label>Xe Xap National Biodiversity Conservation Area</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251779 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251779">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006889"/>
+        <obo:IAO_0000115>A river. A tributary of the Mekong River. It originates from the Northern mountainous region of Xiangkhoang Province and flows south through Vientiane Province joining the Mekong at Vientiane Capital.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251779</oboInOwl:id>
+        <rdfs:label>Nam Ngum</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251780 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251780">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006889"/>
+        <obo:IAO_0000115>A river. A tributary of the Mekong River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251780</oboInOwl:id>
+        <rdfs:label>Nam Lik</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251781 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251781">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00251779"/>
+        <obo:IAO_0000115>A hydroelectric dam on the Nam Ngum River. Impounds Ang Nam Ngum. Completed 1971.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251781</oboInOwl:id>
+        <rdfs:label>Nam Ngum Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251782 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251782">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00251779"/>
+        <obo:IAO_0000115>A reservoir. Impounded by Nam Ngum Dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251782</oboInOwl:id>
+        <rdfs:label>Ang Nam Ngum</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251786 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251786">
+        <obo:IAO_0000115>A plateau.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251786</oboInOwl:id>
+        <rdfs:label>Phouane Plateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251787 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251787">
+        <obo:IAO_0000115>A plateau.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251787</oboInOwl:id>
+        <rdfs:label>Nakai Plateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251788 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251788">
+        <obo:IAO_0000115>A plateau.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251788</oboInOwl:id>
+        <rdfs:label>Bolaven Plateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251789 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251789">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+        <obo:IAO_0000115>A wetland. An area of freshwater marshes (600 ha) and surrounding seasonally flooded forest. Located in Pha Pho Sub-District, about 68 km southeast of Pakse, some 35 km east of the Mekong River and 30 km west of the Tonle Kong, Champasak Province.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251789</oboInOwl:id>
+        <rdfs:label>Bung Nong Ngom</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251790">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <obo:IAO_0000115>A wetland. Located on the north bank of the Mekong, east of Pak Sane town, 125 km ENE of Vientiane, Vientiane Province.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251790</oboInOwl:id>
+        <rdfs:label>Pak Sane Marsh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251791 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251791">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+        <obo:IAO_0000115>A wetland. Located on the north bank of the Mekong, east of Pak Sane town, 125 km ENE of Vientiane, Vientiane Province.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251791</oboInOwl:id>
+        <rdfs:label>Pak Sa Marsh</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251792 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251792">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000788"/>
+        <obo:IAO_0000115>A dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251792</oboInOwl:id>
+        <rdfs:label>Theun-Hinboun Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251793 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251793">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+        <obo:IAO_0000115>An extensive network of caves in limestone mountains.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251793</oboInOwl:id>
+        <rdfs:label>Viengxay Caves</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251794 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251794">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+        <obo:IAO_0000115>A hydro power project on the Nam Theun river in Laos. Completed 2009-10.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251794</oboInOwl:id>
+        <rdfs:label>Nam Theun II Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251795 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251795">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000789"/>
+        <obo:IAO_0000115>A river in northwest Laos.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251795</oboInOwl:id>
+        <rdfs:label>Nam Tha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251797 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251797">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000783"/>
+        <obo:IAO_0000115>A cave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251797</oboInOwl:id>
+        <rdfs:label>Chom Ong Cave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251798 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251798">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000797"/>
+        <obo:IAO_0000115>A plateau in the north of Laos.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251798</oboInOwl:id>
+        <rdfs:label>Xiangkhoang Plateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251799 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251799">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00251798"/>
+        <obo:IAO_0000115>A large group of historic cultural sites in Laos containing thousands of stone jars, which lie scattered throughout the Xiangkhoang Plateau in the Lao Highlands at the northern end of the Annamite Range.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251799</oboInOwl:id>
+        <rdfs:label>Plain of Jars</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00251813 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00251813">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00025234"/>
+        <obo:IAO_0000115>A small river in Laos that flows through the town of Vang Vieng.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00251813</oboInOwl:id>
+        <rdfs:label>Nam Song</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00257198 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00257198">
+        <obo:IAO_0000115>A river that originates in Shan State, Burma. It flows down and across the Burma-Thailand border to Mae Ai district, Chiang Mai Province. Most of its length is in Chiang Rai Province passing the districts Mueang Chiang Rai, Mae Chan, Chiang Saen and Wiang Chai. It joins the Mekong River in Chiang Saen district.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00257198</oboInOwl:id>
+        <rdfs:label>Kok River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00257225 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00257225">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00257198"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00257225</oboInOwl:id>
+        <rdfs:label>Huai Luang</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00257226 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00257226">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00257198"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00257226</oboInOwl:id>
+        <rdfs:label>Huai Rong Boa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00257227 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00257227">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00257198"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00257227</oboInOwl:id>
+        <rdfs:label>Nam Mae Sakun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00257570 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00257570">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00257759"/>
+        <obo:IAO_0000115>A resevoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00257570</oboInOwl:id>
+        <rdfs:label>Lam Pao Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00257756 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00257756">
+        <obo:IAO_0000115>A dam located 5.5 km west of the confluence of the Mun and Mekong rivers in Ubon Ratchathani province, Thailand. Completed 1994.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00257756</oboInOwl:id>
+        <rdfs:label>Pak Mun Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00257759 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00257759">
+        <obo:IAO_0000115>A river. A tributary of the Chi River in northeast Thailand. The river originates at the Nong Han Kumphawapi Lake in Udon Thani Province, from where it flows through Kalasin Province until it discharges to the Chi at the boundary between Kalasin and Roi Et Province.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00257759</oboInOwl:id>
+        <rdfs:label>Pao River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259001 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259001">
+        <obo:IAO_0000115>A dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259001</oboInOwl:id>
+        <rdfs:label>Sirindhorn Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00259002 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00259002">
+        <obo:IAO_0000115>A reservoir. Impounded by Sirindhorn Dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00259002</oboInOwl:id>
+        <rdfs:label>Sirindhorn Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260460 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260460">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260460</oboInOwl:id>
+        <rdfs:label>Co Chien River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260461 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260461">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260460"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260461</oboInOwl:id>
+        <rdfs:label>An Binh Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260462 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260462">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00260460"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260462</oboInOwl:id>
+        <rdfs:label>Binh Hoa Phuoc Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260617 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260617">
+        <obo:IAO_0000115>A river. Discharges to the South China Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260617</oboInOwl:id>
+        <rdfs:label>Song Cua Tieu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260618 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260618">
+        <obo:IAO_0000115>A river. Discharges to the South China Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260618</oboInOwl:id>
+        <rdfs:label>Song Cua Dai</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260619 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260619">
+        <obo:IAO_0000115>A river. Discharges to the South China Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260619</oboInOwl:id>
+        <rdfs:label>Song Ba Lai</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260620 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260620">
+        <obo:IAO_0000115>A river. Discharges to the South China Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260620</oboInOwl:id>
+        <rdfs:label>Song Ham Luong</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00260621 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00260621">
+        <obo:IAO_0000115>A river. Discharges to the South China Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00260621</oboInOwl:id>
+        <rdfs:label>Song Hau Giang</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000780 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000780">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006889"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000781 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000781"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000782 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000782"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000783 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000783"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000784 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000784"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000785 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000785"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000786 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000786"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000787 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000787"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000788 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000788"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000789 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000789"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000790 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000790"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000791 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000791"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000792 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000792">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000104"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00251788"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000793 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000793"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000794 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000794"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000795 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000795"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000796"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000797 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000797"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009509">
+        <rdfs:label>Province (Laos)</rdfs:label>
+        <oboInOwl:id>GAZ:00009509</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000780">
+        <rdfs:label>Prefecture (Laos)</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000780</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000781">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Vientiane Prefecture</rdfs:label>
+        <oboInOwl:id>GAZ:02000781</oboInOwl:id>
+        <obo:IAO_0000115>A prefecture (kampheng nakhon) of Laos, located in the north-west of the country. The capital of the country, Vientiane, is located in the prefecture. The prefecture was created in 1989, when it was split off from the Vientiane Province.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000782">
+        <oboInOwl:id>GAZ:02000782</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Louangphabang Province</rdfs:label>
+        <obo:IAO_0000115>A province of Laos, located in the north of the country. It is situated on a narrow peninsula that bisects the conjunction of the Mekong River, flowing south along the west side of the city, and the Mae Kok River, a tributary of the Mekong the flows from the east but angles north just before the convergence of the two rivers.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000783">
+        <rdfs:label>Oudomxai Province</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000783</oboInOwl:id>
+        <obo:IAO_0000115>A province of Laos, located in the northwest of the country. The province capital is Muang Xai. The province was created in 1976, when it was split off from Luang Prabang.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000784">
+        <obo:IAO_0000115>A province of eastern Laos.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000784</oboInOwl:id>
+        <rdfs:label>Houaphan Province</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000785">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000785</oboInOwl:id>
+        <obo:IAO_0000115>A province in southwestern Laos, near the borders with Thailand and Cambodia.</obo:IAO_0000115>
+        <rdfs:label>Champasak Province</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000786">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000786</oboInOwl:id>
+        <obo:IAO_0000115>A northern province of Laos.</obo:IAO_0000115>
+        <rdfs:label>Bokeo Province</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000787">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A province of Laos, located in the center of the country. To the north it is bounded by Bolikhamxai; to the south, by Savannakhet. To the west is the Mekong and Nakhon Phanom Province, Thailand; to the east, the Annamite Mountain Range separates Khammouan from Vietnam.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:02000787</oboInOwl:id>
+        <rdfs:label>Khammouan Province</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000788">
+        <rdfs:label>Bolikhamxai Province</rdfs:label>
+        <oboInOwl:id>GAZ:02000788</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A province of Laos, located in the middle of the country. The province was formed in 1983 from parts of the Vientiane Province and Khammuan.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000789">
+        <oboInOwl:id>GAZ:02000789</oboInOwl:id>
+        <obo:IAO_0000115>A province of Laos. It is bordered by Bokeo in the south-west, Oudomxay in the south-east, by Myanmar in the northwest and China&apos;s Yunnan province in the north-east with the border crossing at Boten.</obo:IAO_0000115>
+        <rdfs:label>Loung Namtha Province</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000790">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A province of Laos, located in the south-east of the country. To the north it is bounded by Sekong, to the west by Champassak province. To the east, the Annamite Mountain Range separates Attapeu from Vietnam. It borders Cambodia to the south.</obo:IAO_0000115>
+        <rdfs:label>Attapu Province</rdfs:label>
+        <oboInOwl:id>GAZ:02000790</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000791">
+        <rdfs:label>Phongsali Province</rdfs:label>
+        <obo:IAO_0000115>A province of Laos, located in the north of the country. The capital of the province is the city of Phongsali.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:02000791</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000792">
+        <obo:IAO_0000115>A province of Laos, located in the south of the country. The province is located on the Bolaven Plateau.</obo:IAO_0000115>
+        <rdfs:label>Salavan Province</rdfs:label>
+        <oboInOwl:id>GAZ:02000792</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000793">
+        <rdfs:label>Vientiane Province</rdfs:label>
+        <oboInOwl:id>GAZ:02000793</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A province of Laos, located in the northwest of the country.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000794">
+        <rdfs:label>Savannakhet Province</rdfs:label>
+        <oboInOwl:id>GAZ:02000794</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A province of Laos. It is located in the south of the country. It is bordered by Khammouan to the north, Salavan to the south, Quang Tri and Thua Thien-Hue of Vietnam to the east and Nakhon Phanom and Mukdahan of Thailand to the west.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000795">
+        <oboInOwl:id>GAZ:02000795</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A province of Laos, located in the south-east of the country. Xekong was created in 1984, when it was split off from Salavan Province. It is bordered by Vietnam to the east, Attapeu Province to the south, Salavanh Province to the north, and Champasak Province to the west.</obo:IAO_0000115>
+        <rdfs:label>Xekong Province</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000796">
+        <oboInOwl:id>GAZ:02000796</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A province of Laos, located in the northwest of the country. It is located in the northwest of the country, and covers all the area west of the Mekong river. It is bordered by Oudomxai Province to the north, Louangphabang and Vientiane Province to the east, and (from the south clockwise) the Thai provinces Loei, Phitsanulok, Uttaradit, Nan and Phayao.</obo:IAO_0000115>
+        <rdfs:label>Xaignabouli Province</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000797">
+        <rdfs:label>Xiangkhoang Province</rdfs:label>
+        <oboInOwl:id>GAZ:02000797</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A province of Laos, located in the north-east of the country.</obo:IAO_0000115>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

@@ -1,0 +1,1128 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Guyana.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Guyana.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Guyana.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000009 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000423 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000423"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009221 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009221"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009222 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009222">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009221"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009223 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009223">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009221"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009224 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009224">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009221"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009225 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009225">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009221"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009226 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009226">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009221"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009227 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009227">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009221"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009228 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009228">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009221"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009229 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009229">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009221"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009230 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009230">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009221"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009231 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009231">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009221"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00002522 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00002522">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+        <obo:IAO_0000115>A country in the N of South America. Guyana lies north of the equator, in the tropics, and is located on the Atlantic Ocean. Guyana is bordered to the east by Suriname, to the south and southwest by Brazil and to the west by Venezuela. Guyana is divided into 10 regions. The regions of Guyana are divided into 27 neighborhood councils.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00002522</oboInOwl:id>
+        <rdfs:label>Guyana</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009221 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009221">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002522"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009222 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009222"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009223 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009223"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009224 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009224"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009225 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009225"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009226 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009226"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009227 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009227"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009228 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009228"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009229 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009229"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009230 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009230"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009231 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009231"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00047130 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00047130">
+        <obo:IAO_0000115>The largest river in the world by volume, with a total river flow greater than the next top ten largest rivers flowing into the ocean combined.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00047130</oboInOwl:id>
+        <rdfs:label>River Amazon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00047131 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00047131">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047130"/>
+        <obo:IAO_0000115>A complex of broad river channels, islands, mangrove swamps, intertidal mudflats, brackish lagoons and marshes, palm swamps and seasonally flooded grassland and swamp forest. It extends from the SW tip of Ilha Grande de Gurupa 350 km NE to Ilha do Brique, Ilha Janauco, Ilha Caviana, Ilha Mexiana and Western Ilha Marajo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00047131</oboInOwl:id>
+        <rdfs:label>River Amazon Delta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00047132 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00047132">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047131"/>
+        <obo:IAO_0000115>An island located at the mouth of the Amazon River in Brazil. It is part of the State of Para. It is the largest island to be completely surrounded by freshwater in the world. Although its northeast coastline faces the Atlantic Ocean, the outflow from the Amazon is so great that the sea at the mouth is quite unbriny for some distance from shore. The city of Belem lies to the south, across the southern fork (also called the Para River) of the river&apos;s mouth. The island sits almost directly on the equator.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00047132</oboInOwl:id>
+        <rdfs:label>Ilha de Marajo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049073 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049073">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002522"/>
+        <obo:IAO_0000115>The longest river in Guyana, and the largest river between the Orinoco and Amazon. Rising in the Acarai Mountains near the Brazil-Guyana border, the Essequibo flows to the north for 1000 km through forest and savanna into the Atlantic Ocean. Its many tributaries include the Rupununi, Potaro, Mazaruni, Siparuni, Kiyuwini and Cuyuni rivers. For over 30 km from its mouth, the river&apos;s channel is divided by the large flat and fertile islands of Leguan (about 47 km2), Wakenaam (about 44 km2), and Hog Island (about 57 km2). Fort Island is situated off the eastern side of Hog Island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049073</oboInOwl:id>
+        <rdfs:label>Essequibo River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049074 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049074">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049073"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067403"/>
+        <obo:IAO_0000115>An island in the Essequibo River mouth.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049074</oboInOwl:id>
+        <rdfs:label>Hog Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049075 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049075">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049073"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067403"/>
+        <obo:IAO_0000115>A small island situated in the delta of the Essequibo River on the coast of Guyana, South America. The island is shaped like a gull wing and is nine miles long and 2 miles wide at its widest making it roughly twelve square miles in area.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049075</oboInOwl:id>
+        <rdfs:label>Leguan Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049076 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049076">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049073"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067403"/>
+        <obo:IAO_0000115>The largest of the hundreds of islands in the Essequibo River in Guyana is 5 km from the river&apos;s mouth in its estuary.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049076</oboInOwl:id>
+        <rdfs:label>Fort Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049077 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049077">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049073"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067403"/>
+        <obo:IAO_0000115>An island that at the mouth of the Essequibo River of Guyana.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049077</oboInOwl:id>
+        <rdfs:label>Wakenaam Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049220 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049220">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002522"/>
+        <obo:IAO_0000115>A river. A tributary of the Orinoco River, entering 4 miles from the Atlantic Ocean. It originates in Guyana, flowing for approximately 210 miles before entering Venezuela about 50 miles from its mouth.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049220</oboInOwl:id>
+        <rdfs:label>Barima River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049221 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049221">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049220"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049221</oboInOwl:id>
+        <rdfs:label>Barima River delta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049222 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049222">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049221"/>
+        <obo:IAO_0000115>An island split between Venezuela and Guyana.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049222</oboInOwl:id>
+        <rdfs:label>Corocoro Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049223 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049223">
+        <obo:IAO_0000115>The largest left tributary of the Amazon and the largest blackwater river in the world. It has its sources along the watershed between the Orinoco and the Amazon basins, and also connects with the Orinoco by way of the Casiquiare canal. In Colombia, where their sources are, it is called the Guainia River. Its main affluent is Vaupes, which disputes with the headwaters of the Guaviare branch of the Orinoco, the drainage of the eastern slope of the Andes of Colombia. The Rio Negro flows into the Rio Solimoes to form the Amazon River near Manaus, Brazil.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049223</oboInOwl:id>
+        <rdfs:label>Rio Negro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049224 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049224">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049223"/>
+        <obo:IAO_0000115>An island split between Brazil and Colombia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049224</oboInOwl:id>
+        <rdfs:label>San Jose Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00056609 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00056609">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002522"/>
+        <obo:IAO_0000115>The mountains of Guyana, lying in southwestern part of this country just near the border with Venezuela.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00056609</oboInOwl:id>
+        <rdfs:label>Pacaraima Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00056747 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00056747">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009226"/>
+        <obo:IAO_0000115>A group of mountains in Guyana, located in the Upper Takutu-Upper Essequibo region.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00056747</oboInOwl:id>
+        <rdfs:label>Kanuku Mountains</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00056748 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00056748">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009222"/>
+        <obo:IAO_0000115>A national park located in the Potaro-Siparuni Region of Guyana.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00056748</oboInOwl:id>
+        <rdfs:label>Kaieteur National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00056749 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00056749">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00056748"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00056750"/>
+        <obo:IAO_0000115>A waterfall on the Potaro River in central Guyana. It is located in the Kaieteur National Park, a region that is also claimed by Venezuela. It is 226 meters when measured from its plunge over a sandstone cliff to the first break. It then flows over a series of steep cascades that, when included in the measurements, bring the total height to 251 meters.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00056749</oboInOwl:id>
+        <rdfs:label>Kaieteur Falls</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00056750 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00056750">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002522"/>
+        <obo:IAO_0000115>A river in Guyana in northern South America The source of the Potaro River is in the Mount Ayanganna area of the Pakaraima Mountains in the North Rupununi Savannahs. The river runs for approximately 225 km before flowing into the Essequibo River, Guyana&apos;s largest river Nine waterfalls are found on the Potaro River, most notable being Kaieteur Falls and Tumatumari Falls. Below Kaieteur Falls lies Amatuk Falls &amp; Waratuk Falls.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00056750</oboInOwl:id>
+        <rdfs:label>Potaro River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00056751 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00056751">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00002522"/>
+        <obo:IAO_0000115>A lowland tropical forest nearly 3710 km2 of central Guyana located in the heart of the Guiana Shield. The Iwokrama Forest is bordered to the west by the Pakaraima Mountains and to the east by the isolated highlands scattered through central-east Guyana, Suriname and French Guiana. It is also bordered by savannahs in the southwest and northeast of Guyana and southwestern Suriname. The Essequibo River forms the eastern boundary. The northern boundary is the Siparuni River. The Burro-Burro River runs through the centre, and most of its watershed is within the Forest.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00056751</oboInOwl:id>
+        <rdfs:label>Iwokrama Forest</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067389 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067389">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009231"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067389</oboInOwl:id>
+        <rdfs:label>Barima Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067390 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067390">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009231"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067390</oboInOwl:id>
+        <rdfs:label>Waini Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067391 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067391">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009224"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067391</oboInOwl:id>
+        <rdfs:label>Cuyuni Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067392 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067392">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009224"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067392</oboInOwl:id>
+        <rdfs:label>Mazaruni/Lower Berbice Essequibo Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067393 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067393">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009225"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067393</oboInOwl:id>
+        <rdfs:label>Moblissa/La Reconnai Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067394 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067394">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009225"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067394</oboInOwl:id>
+        <rdfs:label>Buxton/Mahaica Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067395 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067395">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009227"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067395</oboInOwl:id>
+        <rdfs:label>Black Bush Polder Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067396 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067396">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009227"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067396</oboInOwl:id>
+        <rdfs:label>Lower Corentyne River Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067397 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067397">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009227"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067397</oboInOwl:id>
+        <rdfs:label>Upper Corentyne Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067398 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067398">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009227"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067398</oboInOwl:id>
+        <rdfs:label>Upper Canje/Corentyn Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067399 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067399">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009227"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067399</oboInOwl:id>
+        <rdfs:label>Left Bank Upper Canj Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067400 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067400">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009227"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067400</oboInOwl:id>
+        <rdfs:label>East Canje/East Canje Berb Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067401 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067401">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009227"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067401</oboInOwl:id>
+        <rdfs:label>East Berbice/West Canje Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067402 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067402">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009223"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067402</oboInOwl:id>
+        <rdfs:label>Bonasika/Boerasirie Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067403 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067403">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009223"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067403</oboInOwl:id>
+        <rdfs:label>Essequibo Islands Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067404 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067404">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009223"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067404</oboInOwl:id>
+        <rdfs:label>Lower West Demerara Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067405 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067405">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009228"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067405</oboInOwl:id>
+        <rdfs:label>Mahaicony/Berbice Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067406 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067406">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009228"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067406</oboInOwl:id>
+        <rdfs:label>Mahaica/Mahaicony Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067407 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067407">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009230"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067407</oboInOwl:id>
+        <rdfs:label>Moruka/Pomeroon Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067408 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067408">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009230"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067408</oboInOwl:id>
+        <rdfs:label>Somerset and Berks Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067409 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067409">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009230"/>
+        <obo:IAO_0000115>A lake on the Essequibo Coast, near Anna Regina.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067409</oboInOwl:id>
+        <rdfs:label>Capoey Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067410 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067410">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009230"/>
+        <obo:IAO_0000115>A lake on the Essequibo Coast.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067410</oboInOwl:id>
+        <rdfs:label>Mainstay Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067411 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067411">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009230"/>
+        <obo:IAO_0000115>A lake on the Essequibo Coast.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067411</oboInOwl:id>
+        <rdfs:label>Hot and Cold Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067412 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067412">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009222"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067412</oboInOwl:id>
+        <rdfs:label>Ireng/Upper Potaro Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067413 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067413">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009222"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067413</oboInOwl:id>
+        <rdfs:label>Lower Potaro/Ladsm Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067414 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067414">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009229"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067414</oboInOwl:id>
+        <rdfs:label>Torani/Bulletwood Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067415 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067415">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009229"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067415</oboInOwl:id>
+        <rdfs:label>Right Bank Essequibo Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067416 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067416">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009226"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067416</oboInOwl:id>
+        <rdfs:label>Rewa/Upper Essequibo Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067417 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067417">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009226"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067417</oboInOwl:id>
+        <rdfs:label>Rupununi West Neighborhood Council</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067418 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067418">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009226"/>
+        <obo:IAO_0000115>A savanna plain in Guyana located between the Rupununi River and the Brazilian border, in the Upper Takutu-Upper Essequibo region. It is dissected by the Kanuku Mountains.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067418</oboInOwl:id>
+        <rdfs:label>Rupununi Savannah</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00082192 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00082192">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047131"/>
+        <obo:IAO_0000115>An island lying off the north coast of Ilha de Marajo in the delta lowlands at the mouth of the Amazon in the State of Para, Brazil.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00082192</oboInOwl:id>
+        <rdfs:label>Ilha Caviana</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00082193 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00082193">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047131"/>
+        <obo:IAO_0000115>The second largest island of the River Amazon delta. It lies in the Brazilian State of Para, west of Marajo and near the confluence of the Amazon and the Xingu.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00082193</oboInOwl:id>
+        <rdfs:label>Ilha Grande do Gurupa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00082204 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00082204">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000423"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047130"/>
+        <obo:IAO_0000115>A fluvial island. It is bordered by four rivers: Amazon, Madeira, Sucunduri, and Abacaxis. It has been split into four completely separate parts by natural channels just like the one which isolates it from the mainland of America. So it is no longer one island, but indeed four islands. The total area of these islands sums up to 11,850 km2, making Ilha Tupinambarana the largest fluvial group of islands in the world.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00082204</oboInOwl:id>
+        <rdfs:label>Tupinambarana</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00082205 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00082205">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049223"/>
+        <obo:IAO_0000115>An archipelago of about 400 fluvial islands.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00082205</oboInOwl:id>
+        <rdfs:label>Anavilhanas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00082206 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00082206">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00082205"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00082206</oboInOwl:id>
+        <rdfs:label>Estacao Ecologica Anavilhanas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00120745 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00120745">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00120746"/>
+        <obo:IAO_0000115>Una isla fluvial boliviana situada al este del departamento del Beni en las coordenadas, en la frontera con Brasil, la isla se encuentra completamente rodeada por el rio Itenez.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00120745</oboInOwl:id>
+        <rdfs:label>Isla Cumprida</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00120746 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00120746">
+        <obo:IAO_0000115>Un rio boliviano - brasileno, perteneciente a la cuenca del amazonas, nace en Brasil donde recorre en direccion nor-oeste unos 560 kilometros en territorio brasileno hasta uno de sus afluente llamado rio Verde donde pasa a formar una frontera natural entre los dos paises de 970 kilometros hasta su desembocadura en el rio Mamore.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00120746</oboInOwl:id>
+        <rdfs:label>Rio Itenez</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00120747 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00120747">
+        <obo:IAO_0000115>Un rio amazonico boliviano-brasilero, aunque la mayor parte de su recorrido lo hace en territorio boliviano siendo este el mas importante del pais, pertenece a la cuenca del Amazonas, nace de las confluencias de los rios Chapare y Mamorecillo en las coordenadas entre los departamentos de Santa Cruz y Cochabamba, a 24 kilometros al sur de la desembocadura de uno de sus grandes afluentes el rio Grande, el rio discurre en direccion norte en todo su recorrido, aunque el algunas zonas discurre en direccion noroeste y noreste.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00120747</oboInOwl:id>
+        <rdfs:label>Rio Mamore</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00120748 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00120748">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00120747"/>
+        <obo:IAO_0000115>Una isla fluvial amazonica ubicada sobre el rio Mamore. La soberania sobre la isla esta en disputa pasiva entre Brasil y Bolivia. Para Bolivia la isla forma parte del Departamento del Beni y para Brasil es parte del Municipio de Guajara-Mirim en el estado de Rondonia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00120748</oboInOwl:id>
+        <rdfs:label>Isla Suarez</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246888 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246888">
+        <obo:IAO_0000115>A group of 6 lakes in the highlands of the upper Rio Negro of Brazil.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246888</oboInOwl:id>
+        <rdfs:label>Morro de 6 Lagos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246921 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246921">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047131"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246921</oboInOwl:id>
+        <rdfs:label>Ilha do Brique</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246922 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246922">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047131"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246922</oboInOwl:id>
+        <rdfs:label>Ilha Janauco</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246923 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246923">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047131"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246923</oboInOwl:id>
+        <rdfs:label>Ilha Mexiana</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246935 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246935">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047131"/>
+        <obo:IAO_0000115>A sea bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246935</oboInOwl:id>
+        <rdfs:label>Baia de Marajo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246936 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246936">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047132"/>
+        <obo:IAO_0000115>A brackish lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246936</oboInOwl:id>
+        <rdfs:label>Lago Arari</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00254087 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00254087">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00047130"/>
+        <obo:IAO_0000115>A river that rises north of Lake Titicaca, in the Arequipa region of South America.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00254087</oboInOwl:id>
+        <rdfs:label>Rio Ucayali</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00256501 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00256501">
+        <obo:IAO_0000115>A river of Suriname.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00256501</oboInOwl:id>
+        <rdfs:label>Kabalebo River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00256502 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00256502">
+        <obo:IAO_0000115>A river of Suriname.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00256502</oboInOwl:id>
+        <rdfs:label>Lucie River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00256503 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00256503">
+        <obo:IAO_0000115>A river of Suriname.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00256503</oboInOwl:id>
+        <rdfs:label>Sipaliwini River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009221">
+        <oboInOwl:id>GAZ:00009221</oboInOwl:id>
+        <rdfs:label>Region (Guyana)</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009222">
+        <oboInOwl:id>GAZ:00009222</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region in Guyana, bordering the region of Cuyuni-Mazaruni to the north, the regions of Upper Demerara-Berbice and East Berbice-Corentyne to the east, the region of Upper Takutu-Upper Essequibo to the south and Brazil to the west.</obo:IAO_0000115>
+        <rdfs:label>Potaro-Siparuni Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009223">
+        <rdfs:label>Essequibo Islands-West Demerara Region</rdfs:label>
+        <oboInOwl:id>GAZ:00009223</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region of Guyana, split in two by the Essequibo River. It is bordered by the Atlantic Ocean to the north, the region of Demerara-Mahaica to the east, the region of Upper Demerara-Berbice to the south and the regions of Cuyuni-Mazaruni and Pomeroon-Supenaam to the west. Its western part is demanded by Venezuela in Guayana Esequiba.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009224">
+        <obo:IAO_0000115>A region of Esequiban Guyana, a territory in dispute by Guyana and Venezuela, bordering the regions of Barima-Waini, Essequibo Islands-West Demerara and Pomeroon-Supenaam to the north, the region of Upper Demerara-Berbice to the east, the region of Potaro-Siparuni and Brazil to the south and Venezuela to the west.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009224</oboInOwl:id>
+        <rdfs:label>Cuyuni-Mazaruni Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009225">
+        <rdfs:label>Demerara-Mahaica Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region of Guyana, bordering the Atlantic Ocean to the north, the region of Mahaica-Berbice to the east, the region of Upper Demerara-Berbice to the south and the region of Essequibo Islands-West Demerara to the west.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00009225</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009226">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region of Guyana, bordering the region of Potaro-Siparuni to the north, the region of East Berbice-Corentyne to the east and Brazil to the south and west. It contains the towns Lethem, Isherton, Good Hope and Surama. It is also the largest region of Guyana.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00009226</oboInOwl:id>
+        <rdfs:label>Upper Takutu-Upper Essequibo Region</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009227">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>East Berbice-Corentyne Region</rdfs:label>
+        <obo:IAO_0000115>One of ten regions in Guyana covering the whole of the east of the country. It borders the Atlantic Ocean to the north, Suriname to the east, Brazil to the south and the regions of Mahaica-Berbice, Upper Demerara-Berbice, Potaro-Siparuni and Upper Takutu-Upper Essequibo to the west. The Corentyne River forms the whole of the eastern border with Suriname, though the southern-most section is disputed territory known as the New River Triangle.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00009227</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009228">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region of Guyana, bordering the Atlantic Ocean to the north, the region of East Berbice-Corentyne to the east, the region of Upper Demerara-Berbice to the south and the region of Demerara-Mahaica to the west. The Mahaica River runs along the region&apos;s western border. The Berbice River is the eastern border. The Mahaicony and Abary Rivers run south to north.</obo:IAO_0000115>
+        <rdfs:label>Mahaica-Berbice Region</rdfs:label>
+        <oboInOwl:id>GAZ:00009228</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009229">
+        <rdfs:label>Upper Demerara-Berbice Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region of Guyana, bordering the regions of Essequibo Islands-West Demerara, Demerara-Mahaica and Mahaica-Berbice to the north, the region of East Berbice-Corentyne to the east, and the regions of Potaro-Siparuni and Cuyuni-Mazaruni to the west.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00009229</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009230">
+        <oboInOwl:id>GAZ:00009230</oboInOwl:id>
+        <rdfs:label>Pomeroon-Supenaam Region</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A region in Essequiban Guyana, a territory in dispute by Guyana and Venezuela, bordering the Atlantic Ocean to the north, the region of Essequibo Islands-West Demerara to the east, the region of Cuyuni-Mazaruni to the south and the region of Barima-Waini to the west. Pomeroon-Supenaam contains the towns of Anna Regina, Charity, Pickersgill, Spring Garden and Suddie.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009231">
+        <obo:IAO_0000115>A region of Essequiban Guyana, a territory in dispute by Guyana and Venezuela, located in the northwest of the country. It covers an area of 20,339 km2. It borders the Atlantic Ocean to the north, the region of Pomeroon-Supenaam to the east, the region of Cuyuni-Mazaruni to the south and Venezuela to the west.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009231</oboInOwl:id>
+        <rdfs:label>Barima-Waini Region</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

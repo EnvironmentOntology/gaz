@@ -1,0 +1,3424 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Bhutan.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Bhutan.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Bhutan.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000074 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000074"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000106 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000856 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007289 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00007289"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007291 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00007291">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007292"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007292 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00007292"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013938 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00013938">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007292"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013939 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00013939">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007292"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013940 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00013940">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007292"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00080142 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00080142">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007289"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00080143 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00080143">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007289"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00080144 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00080144">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007289"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00080145 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00080145">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007289"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003920 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00003920">
+        <obo:IAO_0000115>A landlocked nation in South Asia. It is located amidst the eastern end of the Himalaya Mountains and is bordered to the south, east and west by India and to the north by Tibet. Bhutan is separated from Nepal by the Indian State of Sikkim. Bhutan is divided into four dzongdey (administrative zones). Each dzongdey is further divided into dzongkhag (districts). There are twenty dzongkhag in Bhutan. Large dzongkhags are further divided into subdistricts known as dungkhag. At the basic level, groups of villages form a constituency called gewog.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00003920</oboInOwl:id>
+        <rdfs:label>Bhutan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007289 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007289">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003920"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007290 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007290">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080143"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan. It is located in the far north of the county and spans the Middle and High Himalayas. Gasa is bordered by Tibet to the north and by Thimphu, Punakha, and Wangdue Phodrang dzongkhags to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007290</oboInOwl:id>
+        <rdfs:label>Gasa District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007291 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007291">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000368"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007292 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007292">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003920"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00007294 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00007294">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003920"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00007294</oboInOwl:id>
+        <rdfs:label>Chawa Gassar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00011784 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00011784">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00057344"/>
+        <obo:IAO_0000115>A mountain of the Himalaya range in High Asia, is located on the border between Nepal and Tibet, China.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00011784</oboInOwl:id>
+        <rdfs:label>Mount Everest</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013918 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013918">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080142"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013918</oboInOwl:id>
+        <rdfs:label>Pemagatshel District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013919 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013919">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080144"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag or districts comprising Bhutan. Haa lies along the western border of Bhutan. To the north it is bounded by the Tibet Autonomous Region of China. To the southwest it is bounded by the dzongkhag of Samtse, to the southeast by Chukha, and to the east by Paro dzongkhag.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013919</oboInOwl:id>
+        <rdfs:label>Haa District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013920 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013920">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080142"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013920</oboInOwl:id>
+        <rdfs:label>Lhuntse District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013921 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013921">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080144"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan. The major town is Phuentsholing which is the gateway city along the sole road which connects India to western Bhutan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013921</oboInOwl:id>
+        <rdfs:label>Chukha District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013922 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013922">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080143"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan. Punakha is bordered by Thimphu, Gasa, and Wangdue Phodrang dzongkhag.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013922</oboInOwl:id>
+        <rdfs:label>Punakha District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013923 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013923">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080143"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013923</oboInOwl:id>
+        <rdfs:label>Dagana District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013924 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013924">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080142"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013924</oboInOwl:id>
+        <rdfs:label>Mongar District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013925 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013925">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080144"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan. Paro is bordered by Haa dzongkhag to the west, Tibet to the north, Thimphu to the east, and Chukha dzongkhag to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013925</oboInOwl:id>
+        <rdfs:label>Paro District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013926 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013926">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080145"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan. Bumthang consists of the four mountain valleys of Ura, Chumey, Tang and Choekhor (also known as Bumthang valley), although occasionally the entire district is referred to as Bumthang valley.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013926</oboInOwl:id>
+        <rdfs:label>Bumthang District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013927 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013927">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080143"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013927</oboInOwl:id>
+        <rdfs:label>Tsirang District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013928 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013928">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080142"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013928</oboInOwl:id>
+        <rdfs:label>Samdrup Jongkhar District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013929 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013929">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080144"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan. It shares an international border with the Indian states of Sikkim to the west and West Bengal to the south, and internal borders with Haa and Chukha dzongkhag.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013929</oboInOwl:id>
+        <rdfs:label>Samtse District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013930 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013930">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080142"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan. This dzongkhag was created in 1992 by separating the erstwhile Trashiyangtse dungkhag from Trashigang dzongkhag.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013930</oboInOwl:id>
+        <rdfs:label>Trashiyangste District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013931 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013931">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080145"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013931</oboInOwl:id>
+        <rdfs:label>Sarpang District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013932 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013932">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080144"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013932</oboInOwl:id>
+        <rdfs:label>Thimphu District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013933 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013933">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080145"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan. It is bordered by Sarpang, Trongsa, Bumthang, Mongar and Samdrup Jongkhar dzongkhag, and borders the Assam province of India to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013933</oboInOwl:id>
+        <rdfs:label>Zhemgang District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013934 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013934">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080143"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan. Wangdue Phodrang is bordered by Dagana and Tsirang dzongkhags to the south, Tongsa dzongkhag to the east, Thimphu and Punakha dzongkhag to the west, and Gasa dzongkhag and a small section of border with Tibet to the north.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013934</oboInOwl:id>
+        <rdfs:label>Wangdue Phodrang District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013935 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013935">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080142"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013935</oboInOwl:id>
+        <rdfs:label>Trashigang District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013936 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013936">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00080145"/>
+        <obo:IAO_0000115>One of the 20 dzongkhag (districts) comprising Bhutan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013936</oboInOwl:id>
+        <rdfs:label>Trongsa District</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013937 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013937">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013926"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00013937</oboInOwl:id>
+        <rdfs:label>Chume Chu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013938 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013938">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00028415"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013939 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013939">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013926"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00013940 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00013940">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00028415"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028278 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028278">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013926"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028278</oboInOwl:id>
+        <rdfs:label>Ura Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028279 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028279">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013926"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028279</oboInOwl:id>
+        <rdfs:label>Chhume Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028280 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028280">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013926"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028280</oboInOwl:id>
+        <rdfs:label>Choekor Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028281 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028281">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013926"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028281</oboInOwl:id>
+        <rdfs:label>Tang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028282 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028282">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013921"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028282</oboInOwl:id>
+        <rdfs:label>Dala Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028283 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028283">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013921"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028283</oboInOwl:id>
+        <rdfs:label>Geling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028284 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028284">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013921"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028284</oboInOwl:id>
+        <rdfs:label>Bjacho Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028285 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028285">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013921"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028285</oboInOwl:id>
+        <rdfs:label>Getena Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028286 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028286">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013921"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028286</oboInOwl:id>
+        <rdfs:label>Bhulajhora Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028287 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028287">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013921"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028287</oboInOwl:id>
+        <rdfs:label>Dungna Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028288 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028288">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013921"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028288</oboInOwl:id>
+        <rdfs:label>Metakha Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028289 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028289">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013921"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028289</oboInOwl:id>
+        <rdfs:label>Phuentsholing Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028290 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028290">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013921"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028290</oboInOwl:id>
+        <rdfs:label>Chapcha Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028291 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028291">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013921"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028291</oboInOwl:id>
+        <rdfs:label>Bongo Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028292 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028292">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013921"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028292</oboInOwl:id>
+        <rdfs:label>Logchina Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028293 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028293">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028293</oboInOwl:id>
+        <rdfs:label>Lajab Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028294 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028294">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028294</oboInOwl:id>
+        <rdfs:label>Tsendagana Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028295 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028295">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028295</oboInOwl:id>
+        <rdfs:label>Kana Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028296 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028296">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028296</oboInOwl:id>
+        <rdfs:label>Drujegang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028297 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028297">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028297</oboInOwl:id>
+        <rdfs:label>Dorona Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028298 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028298">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028298</oboInOwl:id>
+        <rdfs:label>Tseza Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028299 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028299">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028299</oboInOwl:id>
+        <rdfs:label>Khebisa Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028300 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028300">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028300</oboInOwl:id>
+        <rdfs:label>Tsangkha Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028301 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028301">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028301</oboInOwl:id>
+        <rdfs:label>Goshi Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028302 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028302">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028302</oboInOwl:id>
+        <rdfs:label>Gesarling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028303 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028303">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013923"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028303</oboInOwl:id>
+        <rdfs:label>Tashiding Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028304 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028304">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007290"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028304</oboInOwl:id>
+        <rdfs:label>Goenkhamae Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028305 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028305">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007290"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028305</oboInOwl:id>
+        <rdfs:label>Lunana Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028306 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028306">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007290"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028306</oboInOwl:id>
+        <rdfs:label>Goenkaatoe Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028307 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028307">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013919"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028307</oboInOwl:id>
+        <rdfs:label>Katsho Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028308 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028308">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013919"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028308</oboInOwl:id>
+        <rdfs:label>Sangbay Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028309 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028309">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013919"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028309</oboInOwl:id>
+        <rdfs:label>Uesu Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028310 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028310">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013919"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028310</oboInOwl:id>
+        <rdfs:label>Bji Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028311 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028311">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013919"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028311</oboInOwl:id>
+        <rdfs:label>Sama Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028312 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028312">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013920"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028312</oboInOwl:id>
+        <rdfs:label>Menbi Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028313 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028313">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013920"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028313</oboInOwl:id>
+        <rdfs:label>Jaray Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028314 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028314">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013920"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028314</oboInOwl:id>
+        <rdfs:label>Tsenkhar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028315 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028315">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013920"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028315</oboInOwl:id>
+        <rdfs:label>Kurtoe Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028316 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028316">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013920"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028316</oboInOwl:id>
+        <rdfs:label>Gangzur Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028317 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028317">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013920"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028317</oboInOwl:id>
+        <rdfs:label>Metsho Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028318 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028318">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013920"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028318</oboInOwl:id>
+        <rdfs:label>Khoma Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028319 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028319">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013920"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028319</oboInOwl:id>
+        <rdfs:label>Minjay Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028320 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028320">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013918"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028320</oboInOwl:id>
+        <rdfs:label>Norbugang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028321 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028321">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013918"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028321</oboInOwl:id>
+        <rdfs:label>Nanong Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028322 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028322">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013918"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028322</oboInOwl:id>
+        <rdfs:label>Chongshing Borang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028323 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028323">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013918"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028323</oboInOwl:id>
+        <rdfs:label>Choekhorling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028324 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028324">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013925"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028324</oboInOwl:id>
+        <rdfs:label>Lamgong Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028325 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028325">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013918"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028325</oboInOwl:id>
+        <rdfs:label>Zobel Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028326 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028326">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013925"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028326</oboInOwl:id>
+        <rdfs:label>Wangchang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028327 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028327">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013918"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028327</oboInOwl:id>
+        <rdfs:label>Dungme Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028328 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028328">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013918"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028328</oboInOwl:id>
+        <rdfs:label>Chhimung Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028329 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028329">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013918"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028329</oboInOwl:id>
+        <rdfs:label>Khar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028330 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028330">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013925"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028330</oboInOwl:id>
+        <rdfs:label>Shapa Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028331 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028331">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028331</oboInOwl:id>
+        <rdfs:label>Balam Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028332 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028332">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013925"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028332</oboInOwl:id>
+        <rdfs:label>Dopshari Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028333 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028333">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028333</oboInOwl:id>
+        <rdfs:label>Chhali Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028334 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028334">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013925"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028334</oboInOwl:id>
+        <rdfs:label>Lungnyi Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028335 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028335">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013925"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028335</oboInOwl:id>
+        <rdfs:label>Tsento Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028336 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028336">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013925"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028336</oboInOwl:id>
+        <rdfs:label>Doteng Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028337 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028337">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013925"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028337</oboInOwl:id>
+        <rdfs:label>Hungrel Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028338 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028338">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028338</oboInOwl:id>
+        <rdfs:label>Silambi Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028339 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028339">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013918"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028339</oboInOwl:id>
+        <rdfs:label>Shumar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028340 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028340">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028340</oboInOwl:id>
+        <rdfs:label>Drametse Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028341 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028341">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028341</oboInOwl:id>
+        <rdfs:label>Ngatshang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028342 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028342">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028342</oboInOwl:id>
+        <rdfs:label>Tsakaling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028343 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028343">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028343</oboInOwl:id>
+        <rdfs:label>Gongdue Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028344 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028344">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028344</oboInOwl:id>
+        <rdfs:label>Mongar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028345 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028345">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028345</oboInOwl:id>
+        <rdfs:label>Kengkhar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028346 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028346">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028346</oboInOwl:id>
+        <rdfs:label>Thangrong Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028347 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028347">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013925"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028347</oboInOwl:id>
+        <rdfs:label>Doga Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028348 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028348">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028348</oboInOwl:id>
+        <rdfs:label>Sherimung Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028349 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028349">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013925"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028349</oboInOwl:id>
+        <rdfs:label>Naja Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028350 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028350">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028350</oboInOwl:id>
+        <rdfs:label>Saleng Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028351 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028351">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028351</oboInOwl:id>
+        <rdfs:label>Chaskhar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028352 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028352">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028352</oboInOwl:id>
+        <rdfs:label>Jurmey Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028353 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028353">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028353</oboInOwl:id>
+        <rdfs:label>Tsamang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028354 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028354">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013924"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028354</oboInOwl:id>
+        <rdfs:label>Drepung Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028355 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028355">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013918"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028355</oboInOwl:id>
+        <rdfs:label>Dechenling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028356 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028356">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013922"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028356</oboInOwl:id>
+        <rdfs:label>Goenshari Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028357 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028357">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013918"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028357</oboInOwl:id>
+        <rdfs:label>Yurung Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028358 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028358">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013928"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028358</oboInOwl:id>
+        <rdfs:label>Bakuli Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028359 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028359">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013928"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028359</oboInOwl:id>
+        <rdfs:label>Orong Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028360 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028360">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013928"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028360</oboInOwl:id>
+        <rdfs:label>Dalim and Samrang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028361 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028361">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013922"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028361</oboInOwl:id>
+        <rdfs:label>Toewang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028362 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028362">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013928"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028362</oboInOwl:id>
+        <rdfs:label>Hastinapur Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028363 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028363">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028363</oboInOwl:id>
+        <rdfs:label>Dorokha Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028364 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028364">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013928"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028364</oboInOwl:id>
+        <rdfs:label>Dechhenling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028365 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028365">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013922"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028365</oboInOwl:id>
+        <rdfs:label>Chhubu Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028366 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028366">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013928"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028366</oboInOwl:id>
+        <rdfs:label>Lauri Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028367 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028367">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013922"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028367</oboInOwl:id>
+        <rdfs:label>Kabjisa Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028368 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028368">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013922"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028368</oboInOwl:id>
+        <rdfs:label>Talo Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028369 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028369">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028369</oboInOwl:id>
+        <rdfs:label>Denchukha Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028370 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028370">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013928"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028370</oboInOwl:id>
+        <rdfs:label>Martshala Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028371 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028371">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013922"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028371</oboInOwl:id>
+        <rdfs:label>Guma Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028372 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028372">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013922"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028372</oboInOwl:id>
+        <rdfs:label>Dzomo Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028373 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028373">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013922"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028373</oboInOwl:id>
+        <rdfs:label>Shenga Bjime Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028374 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028374">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013928"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028374</oboInOwl:id>
+        <rdfs:label>Gomdar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028375 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028375">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013922"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028375</oboInOwl:id>
+        <rdfs:label>Lingmukha Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028376 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028376">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013928"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028376</oboInOwl:id>
+        <rdfs:label>Norbugang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028377 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028377">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013936"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028377</oboInOwl:id>
+        <rdfs:label>Dragteng Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028378 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028378">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013936"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028378</oboInOwl:id>
+        <rdfs:label>Nubi Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028379 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028379">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013936"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028379</oboInOwl:id>
+        <rdfs:label>Tangsibji Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028380 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028380">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013936"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028380</oboInOwl:id>
+        <rdfs:label>Langthil Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028381 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028381">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013936"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028381</oboInOwl:id>
+        <rdfs:label>Korphu Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028382 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028382">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028382</oboInOwl:id>
+        <rdfs:label>Chanautey Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028383 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028383">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028383</oboInOwl:id>
+        <rdfs:label>Dunglegang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028384 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028384">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028384</oboInOwl:id>
+        <rdfs:label>Tsirang Dangra Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028385 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028385">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028385</oboInOwl:id>
+        <rdfs:label>Gairigaun Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028386 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028386">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028386</oboInOwl:id>
+        <rdfs:label>Mendrelgang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028387 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028387">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028387</oboInOwl:id>
+        <rdfs:label>Patale Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028388 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028388">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028388</oboInOwl:id>
+        <rdfs:label>Tshokhana Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028389 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028389">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028389</oboInOwl:id>
+        <rdfs:label>Kikhorthang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028390 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028390">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028390</oboInOwl:id>
+        <rdfs:label>Semjong Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028391 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028391">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028391</oboInOwl:id>
+        <rdfs:label>Beteni Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028392 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028392">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028392</oboInOwl:id>
+        <rdfs:label>Goseling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028393 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028393">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013927"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028393</oboInOwl:id>
+        <rdfs:label>Phutenchhu Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028394 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028394">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028394</oboInOwl:id>
+        <rdfs:label>Athang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028395 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028395">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028395</oboInOwl:id>
+        <rdfs:label>Bjena Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028396 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028396">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028396</oboInOwl:id>
+        <rdfs:label>Thedtsho Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028397 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028397">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028397</oboInOwl:id>
+        <rdfs:label>Phangyuel Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028398 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028398">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028398</oboInOwl:id>
+        <rdfs:label>Ruepisa Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028399 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028399">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028399</oboInOwl:id>
+        <rdfs:label>Nahi Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028400 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028400">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028400</oboInOwl:id>
+        <rdfs:label>Nyisho Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028401 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028401">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028401</oboInOwl:id>
+        <rdfs:label>Dangchu Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028402 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028402">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028402</oboInOwl:id>
+        <rdfs:label>Sephu Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028403 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028403">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028403</oboInOwl:id>
+        <rdfs:label>Gasetsho Gom Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028404 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028404">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028404</oboInOwl:id>
+        <rdfs:label>Phobji Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028405 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028405">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028405</oboInOwl:id>
+        <rdfs:label>Kazhi Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028406 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028406">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028406</oboInOwl:id>
+        <rdfs:label>Gangte Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028407 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028407">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028407</oboInOwl:id>
+        <rdfs:label>Gasetsho Om Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028408 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028408">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013934"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028408</oboInOwl:id>
+        <rdfs:label>Daga Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028409 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028409">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013933"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028409</oboInOwl:id>
+        <rdfs:label>Nangkor Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028410 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028410">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013933"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028410</oboInOwl:id>
+        <rdfs:label>Ngangla Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028411 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028411">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013933"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028411</oboInOwl:id>
+        <rdfs:label>Bjoka Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028412 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028412">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013933"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028412</oboInOwl:id>
+        <rdfs:label>Pangkhar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028413 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028413">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013933"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028413</oboInOwl:id>
+        <rdfs:label>Bardho Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028414 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028414">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013933"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028414</oboInOwl:id>
+        <rdfs:label>Shingkhar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028415 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028415">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013933"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028415</oboInOwl:id>
+        <rdfs:label>Trong Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028416 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028416">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013933"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028416</oboInOwl:id>
+        <rdfs:label>Goshing Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028417 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028417">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013930"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028417</oboInOwl:id>
+        <rdfs:label>Ramjar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028418 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028418">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013930"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028418</oboInOwl:id>
+        <rdfs:label>Trashiyangtse Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028419 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028419">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013930"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028419</oboInOwl:id>
+        <rdfs:label>Jamkhar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028420 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028420">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013930"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028420</oboInOwl:id>
+        <rdfs:label>Toetsho Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028421 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028421">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013930"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028421</oboInOwl:id>
+        <rdfs:label>Bumdeling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028422 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028422">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013930"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028422</oboInOwl:id>
+        <rdfs:label>Yalang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028423 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028423">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013930"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028423</oboInOwl:id>
+        <rdfs:label>Tomzhangtshen Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028424 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028424">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013930"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028424</oboInOwl:id>
+        <rdfs:label>Khamdang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028425 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028425">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028425</oboInOwl:id>
+        <rdfs:label>Kangpara Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028426 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028426">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028426</oboInOwl:id>
+        <rdfs:label>Kanglung Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028427 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028427">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028427</oboInOwl:id>
+        <rdfs:label>Yangneer Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028428 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028428">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028428</oboInOwl:id>
+        <rdfs:label>Nanong Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028429 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028429">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028429</oboInOwl:id>
+        <rdfs:label>Bartsham Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028430 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028430">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028430</oboInOwl:id>
+        <rdfs:label>Khaling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028431 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028431">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028431</oboInOwl:id>
+        <rdfs:label>Lumang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028432 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028432">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028432</oboInOwl:id>
+        <rdfs:label>Sakten Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028433 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028433">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028433</oboInOwl:id>
+        <rdfs:label>Phongmey Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028434 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028434">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028434</oboInOwl:id>
+        <rdfs:label>Shongphu Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028435 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028435">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028435</oboInOwl:id>
+        <rdfs:label>Uzorong Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028436 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028436">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028436</oboInOwl:id>
+        <rdfs:label>Bidung Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028437 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028437">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028437</oboInOwl:id>
+        <rdfs:label>Radhi Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028438 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028438">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028438</oboInOwl:id>
+        <rdfs:label>Samkhar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028439 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028439">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028439</oboInOwl:id>
+        <rdfs:label>Merak Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028440 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028440">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013935"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028440</oboInOwl:id>
+        <rdfs:label>Thrimshing Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028441 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028441">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028441</oboInOwl:id>
+        <rdfs:label>Sarpangtar Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028442 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028442">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028442</oboInOwl:id>
+        <rdfs:label>Dekiling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028443 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028443">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028443</oboInOwl:id>
+        <rdfs:label>Umling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028444 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028444">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028444</oboInOwl:id>
+        <rdfs:label>Chhuzagang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028445 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028445">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028445</oboInOwl:id>
+        <rdfs:label>Nichula Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028446 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028446">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028446</oboInOwl:id>
+        <rdfs:label>Doban Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028447 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028447">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028447</oboInOwl:id>
+        <rdfs:label>Taklai Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028448 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028448">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028448</oboInOwl:id>
+        <rdfs:label>Serzhong Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028449 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028449">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028449</oboInOwl:id>
+        <rdfs:label>Bhur Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028450 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028450">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028450</oboInOwl:id>
+        <rdfs:label>Senghe Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028451 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028451">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013932"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028451</oboInOwl:id>
+        <rdfs:label>Dagala Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028452 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028452">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028452</oboInOwl:id>
+        <rdfs:label>Jigmechhoeling Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028453 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028453">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028453</oboInOwl:id>
+        <rdfs:label>Hilley Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028454 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028454">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013932"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028454</oboInOwl:id>
+        <rdfs:label>Naro Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028455 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028455">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028455</oboInOwl:id>
+        <rdfs:label>Gelephu Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028456 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028456">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013932"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028456</oboInOwl:id>
+        <rdfs:label>Kawang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028457 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028457">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013932"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028457</oboInOwl:id>
+        <rdfs:label>Toepisa Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028458 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028458">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013932"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028458</oboInOwl:id>
+        <rdfs:label>Lingzhi Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028459 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028459">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013931"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028459</oboInOwl:id>
+        <rdfs:label>Lhamoy Zingkha Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028460 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028460">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013932"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028460</oboInOwl:id>
+        <rdfs:label>Bapbi Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028461 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028461">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013932"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028461</oboInOwl:id>
+        <rdfs:label>Mewang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028462 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028462">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013932"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028462</oboInOwl:id>
+        <rdfs:label>Chang Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028463 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028463">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013932"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028463</oboInOwl:id>
+        <rdfs:label>Genyekha Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028464 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028464">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013932"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028464</oboInOwl:id>
+        <rdfs:label>Soe Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028465 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028465">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028465</oboInOwl:id>
+        <rdfs:label>Tading Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028466 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028466">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028466</oboInOwl:id>
+        <rdfs:label>Biru Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028467 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028467">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028467</oboInOwl:id>
+        <rdfs:label>Nainital Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028468 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028468">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028468</oboInOwl:id>
+        <rdfs:label>Dungtoe Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028469 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028469">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028469</oboInOwl:id>
+        <rdfs:label>Tendu Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028470 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028470">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028470</oboInOwl:id>
+        <rdfs:label>Charghary Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028471 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028471">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028471</oboInOwl:id>
+        <rdfs:label>Bara Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028472 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028472">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028472</oboInOwl:id>
+        <rdfs:label>Mayona Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028473 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028473">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028473</oboInOwl:id>
+        <rdfs:label>Chengmari Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028474 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028474">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028474</oboInOwl:id>
+        <rdfs:label>Ghumauney Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028475 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028475">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028475</oboInOwl:id>
+        <rdfs:label>Sipsu Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028476 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028476">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028476</oboInOwl:id>
+        <rdfs:label>Samtse Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028477 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028477">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028477</oboInOwl:id>
+        <rdfs:label>Lehereni Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00028478 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00028478">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013929"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00028478</oboInOwl:id>
+        <rdfs:label>Pagli Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057344 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057344">
+        <obo:IAO_0000115>A subrange of the Himalayas spanning part of the border between Tibet and Nepal. It contains four eight-thousanders: Mount Everest, Lhotse, Makalu, and Cho Oyu, as well as numerous other major peaks.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057344</oboInOwl:id>
+        <rdfs:label>Mahalangur Himal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057359 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057359">
+        <obo:IAO_0000115>A mountain range that is a southern branch of the main Himalayan chain of mountains. It rises spectacularly from the Indian plains to the north of Kangra and Mandi.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057359</oboInOwl:id>
+        <rdfs:label>Dhauladhar Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057373 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057373">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000106"/>
+        <obo:IAO_0000115>A range of mountains that form a part of the Middle Himalayas across the two states of Jammu and Kashmir and Himachal Pradesh in India as well as Azad Kashmir, Pakistan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057373</oboInOwl:id>
+        <rdfs:label>Pir Panjal Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057374 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057374">
+        <obo:IAO_0000115>A mountain range that lies north of the Sub-Himalayan Range and south of the Great Himalayas. In Pakistan these mountains lie just north of Rawalpindi district covering the districts of Batagram, Mansehra and Abbottabad as well as Pakistan Administered Kashmir. These mountains are also home to Pakistan&apos;s important hill stations like Murree, Ghora Gali and Nathia Gali. It snows here during a few months of the year but there aren&apos;t any glaciers found in this region. The range continues east through the Indian states of Jammu and Kashmir, Himachal Pradesh, Uttarakhand, Uttar Pradesh. The range then enters the countries of Nepal and Bhutan, and then enters the eastern Indian states of West Bengal, Sikkim, Assam and Arunachal Pradesh.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057374</oboInOwl:id>
+        <rdfs:label>Lower Himalayan Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057375 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057375">
+        <obo:IAO_0000115>The southernmost mountains in the Himalaya Range. Their average height varies between 600 to 1200 meters, and are not so high in altitude as compared to other mountain ranges in the Himalaya range. These mountains are well spread in Kashmir, in Pakistan however they are located south-east of the Rawalpindi district.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057375</oboInOwl:id>
+        <rdfs:label>Sub-Himalayan Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057376 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057376">
+        <obo:IAO_0000115>A mountain range that lies north of the Lower Himalayan Range. These mountains are bounded by the Indus River in the north and the west as the river takes a southward turn at Sazin. The average height of the range is about 6000 meters. Some of the highest peaks in the world lie in these mountains e.g. Nanga Parbat (8126 meters), which is the sixth highest peak in the world and the second highest peak in Pakistan. Since the mountains are perpetually covered with snow there are many glaciers, with Rupal Glacier being the longest (17.6 km).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057376</oboInOwl:id>
+        <rdfs:label>Great Himalayas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057421 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057421">
+        <obo:IAO_0000115>A mountains in the north of Thailand that extend through Laos, Burma and China to link to the Himalayas, of which they may be considered foothills.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057421</oboInOwl:id>
+        <rdfs:label>Thai Highlands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057453 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057453">
+        <obo:IAO_0000115>A traditional designation for the portion of the Himalaya range between the eastern border of Bhutan, on the west, and the Great Bend of the Tsangpo River, on the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057453</oboInOwl:id>
+        <rdfs:label>Assam Himalaya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057455 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057455">
+        <obo:IAO_0000115>A sub-range of the Himalayan mountain range. It is located mostly in north-central Nepal, but some peaks lie on the border with Tibet. The Trisuli Gandaki valley on the east separates it from the Langtang Himal; the Budhi Gandaki valley and the Shyar Khola valley on the west separate it from the Sringi Himal and the Mansiri Himal (home of Manaslu, the nearest 8000m peak). The range lies about 70 km north-northwest of Kathmandu.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057455</oboInOwl:id>
+        <rdfs:label>Ganesh Himal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057456 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057456">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057456</oboInOwl:id>
+        <rdfs:label>Langtang Himal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057457 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057457">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057457</oboInOwl:id>
+        <rdfs:label>Sringi Himal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057459 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057459">
+        <obo:IAO_0000115>A small, high subrange of the Himalaya in north-central Nepal. It rises between the Marsyangdi River on the west, and the Burhi (Budhi) Gandaki on the east, and lies roughly 100 km northwest of Kathmandu. To the west lies the Annapurna Himal, and to the east is the Ganesh Himal.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057459</oboInOwl:id>
+        <rdfs:label>Mansiri Himal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057460 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057460">
+        <obo:IAO_0000115>A series of peaks in the Himalaya, a 55 km ong massif whose highest point, Annapurna I, stands at 8,091 m making it the 10th-highest summit in the world. It is located east of a great gorge cut through the Himalaya by the Kali Gandaki River, which separates it from the Dhaulagiri massif.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057460</oboInOwl:id>
+        <rdfs:label>Annapurna Himal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057461 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057461">
+        <obo:IAO_0000115>A small subrange of the Himalayan range in southern Tibet and the northwest corner of Nepal. It lies south of Lake Manasarowar. Its southern boundary is the Humla Karnali, a tributary of the Karnali, one of the major rivers of western Nepal. This river separates the range from the Gurans Himal to the south and the eastern Kumaon to the southwest. On the east, the pass known as Lapche La marks the dividing point between the Nalakankar Himal and the Chandi Himal. To the north and northwest, the range fades into the northern foothills of the Himalaya and the Tibetan Plateau.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057461</oboInOwl:id>
+        <rdfs:label>Nalakankar Himal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057462 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057462">
+        <obo:IAO_0000115>A sub-range of the Himalaya, located in north central Nepal and extending into south central Tibet. The range is bounded on the south by the Rolwaling Valley.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057462</oboInOwl:id>
+        <rdfs:label>Rolwaling Himal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057463 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057463">
+        <obo:IAO_0000115>A small subrange of the Himalaya in far western Nepal.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057463</oboInOwl:id>
+        <rdfs:label>Gurans Himal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00057464 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00057464">
+        <obo:IAO_0000115>A subrange of the Himalaya in the Dhawalagiri Zone of north central Nepal.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00057464</oboInOwl:id>
+        <rdfs:label>Dhaulagiri Himal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058368 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058368">
+        <obo:IAO_0000115>The southernmost and geologically youngest east-west mountain chain of the Himalayan System. The Sivalik Hills crest at 900 to 1,200 meters and have many sub-ranges. They extend 1,600 km from the Teesta River in Sikkim, westward through Nepal and Uttarakhand, continuing into Kashmir and Northern Pakistan. The Mohan Pass is the principal pass accessing the Sivalik Hills from Saharanpur in Uttar Pradesh to Dehra and the hill station of Mussoorie in Uttarakhand. Eastward they are cut through at wide intervals by large rivers flowing south from the Himalaya.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058368</oboInOwl:id>
+        <rdfs:label>Sivalik Hills</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058373 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058373">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00057460"/>
+        <obo:IAO_0000115>One of the highest lakes in the world in the Annapurna Himal. A tarn, a lake caused by glacial activity.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058373</oboInOwl:id>
+        <rdfs:label>Tilicho Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00080142 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00080142"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00080143 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00080143"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00080144 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00080144"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00080145 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00080145"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00103704 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00103704">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013925"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00103704</oboInOwl:id>
+        <rdfs:label>Paro Valley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00103705 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00103705">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00013922"/>
+        <obo:IAO_0000115>A mountain pass between Thiumphu and Punakha.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00103705</oboInOwl:id>
+        <rdfs:label>Dochu La</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00129987 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00129987">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00011784"/>
+        <obo:IAO_0000115>A protected area. It consists of the northern part of the massif of Mount Everest in the southwest corner of the Tibet Autonomous Region in the border region between the Tibetan, China and Nepal biogeographical realms. It extends from the border with Nepal in the south, to the watershed between the Yaluzangbu River and the southern regions of Tibet in the north.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00129987</oboInOwl:id>
+        <rdfs:label>Qomolangma National Nature Reserve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148865 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148865">
+        <obo:IAO_0000115>A dam on the Chambal in Neemuch District of Madhya Pradesh.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148865</oboInOwl:id>
+        <rdfs:label>Gandhi Sagar Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148866 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148866">
+        <obo:IAO_0000115>A dam located 52 km downstream of Gandhi Sagar dam on across the Chambal River near Rawatbhata in Chittorgarh district in Rajasthan. Completed 1970.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148866</oboInOwl:id>
+        <rdfs:label>Rana Pratap Sagar Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148867 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148867">
+        <obo:IAO_0000115>A dam located about 0.8 km upstream of Kota City in Rajasthan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148867</oboInOwl:id>
+        <rdfs:label>Kota Barrage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148868 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148868">
+        <obo:IAO_0000115>A dam across the Chambal River. It is situated 24 km south-west of Kota, Rajasthan.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148868</oboInOwl:id>
+        <rdfs:label>Jawahar Sagar Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148909 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148909">
+        <obo:IAO_0000115>An Inter-state Dam project of the Government of Madhya Pradesh and Uttar Pradesh being constructed on Betwa River about 22 km from Lalitpur in Uttar Pradesh, India.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148909</oboInOwl:id>
+        <rdfs:label>Rajghat Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148911 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148911">
+        <obo:IAO_0000115>A reservoir being created by the Rajghat Dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148911</oboInOwl:id>
+        <rdfs:label>Rajghat Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148912 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148912">
+        <obo:IAO_0000115>A dam in India on the Betwa River. Situated 93 km away from Deogarh, Uttar Pradesh. Constructed 1958.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148912</oboInOwl:id>
+        <rdfs:label>Matatila Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148913 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148913">
+        <obo:IAO_0000115>A dam built on the Betwa River near Parichha town, Uttar Pradesh.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148913</oboInOwl:id>
+        <rdfs:label>Parichha Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148924 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148924">
+        <obo:IAO_0000115>A multi-purpose dam situated in Shivpuri district in Madhya Pradesh, India. Impounds the Madikheda Reservoir. Constructed 1978-2008.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148924</oboInOwl:id>
+        <rdfs:label>Madikheda Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00148925 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00148925">
+        <obo:IAO_0000115>A reservoir created by the Madikheda Dam. Constructed 1978-2008.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00148925</oboInOwl:id>
+        <rdfs:label>Madikheda Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00149036 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00149036">
+        <obo:IAO_0000115>A dam located in Yamuna Nagar District, in the State of Haryana, India. It regulates the flow of the Yamuna for irrigation in Uttar Pradesh and Haryana through two canals originating at this place namely Western Yamuna Canal and Eastern Yamuna Canal, as well as the municipal water supply to Delhi. Completed 1873.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00149036</oboInOwl:id>
+        <rdfs:label>Tajewala Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00149059 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00149059">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00149060"/>
+        <obo:IAO_0000115>A glacier situated in the Pithoragarh District of Uttarakhand State of India The glacier situated on Kumaon Himalayas at an altitude of 3,600 m.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00149059</oboInOwl:id>
+        <rdfs:label>Namik Glacier</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00149060 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00149060">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00149060</oboInOwl:id>
+        <rdfs:label>Kumaon Himalayas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00149073 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00149073">
+        <obo:IAO_0000115>A below water construction on Betwa River near Jhansi District, Uttar Pradesh.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00149073</oboInOwl:id>
+        <rdfs:label>Sukma-Dukma Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00149226 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00149226">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00248810"/>
+        <obo:IAO_0000115>A protected area located in eastern Haryana, India, 150 km from Chandigarh.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00149226</oboInOwl:id>
+        <rdfs:label>Kalesar National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246800 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246800">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003920"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246800</oboInOwl:id>
+        <rdfs:label>Sankosh River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246802 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246802">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003920"/>
+        <obo:IAO_0000115>A large marshy U-shaped valley in the upper reaches of the Mo Chu River. Located east of Wangdi Phodrang and south of the main lateral road, 50 km east of Thimphu. The whole of the valley floor is an extensive marsh.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246802</oboInOwl:id>
+        <rdfs:label>Popshika Valley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246803 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246803">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003920"/>
+        <obo:IAO_0000115>A wetland. Located south of Wangdi Phodrang, 20 km ESE of Thimphu.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246803</oboInOwl:id>
+        <rdfs:label>Khateka Valley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246805 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246805">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003920"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246805</oboInOwl:id>
+        <rdfs:label>Boomthang River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246806 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246806">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003920"/>
+        <obo:IAO_0000115>A U-shaped valley running from west to east in the upper reaches of the Boomthang River. There are some small marshy areas and sedge bogs in central low-lying parts of the valley, but most of the marshes have been reclaimed for agriculture and the valley floor is now almost entirely under cultivation for barley and other crops. Located at Byakar Dzong, 105 km ENE of Thimphu.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246806</oboInOwl:id>
+        <rdfs:label>Boomthang Valley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00246808 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00246808">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003920"/>
+        <obo:IAO_0000115>A valley in the extreme northeastern Bhutan near the Indian and Chinese borders, 40 km NNW of Tashigang. Between the villages of Tashi Yangtsi and Bumdiling. A wetland.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00246808</oboInOwl:id>
+        <rdfs:label>Khalong Chu Valley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247596 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247596">
+        <obo:IAO_0000115>A large, deep, freshwater lake and associated marshes in the mountains southwest of Lasa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247596</oboInOwl:id>
+        <rdfs:label>Yangcaoyong Cuo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247597 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247597">
+        <obo:IAO_0000115>A large freshwater lake and associated marshes on the north slope of the main Himalayan range. Located 135 km southwest of Lasa, Xizang Zizhiqu.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247597</oboInOwl:id>
+        <rdfs:label>Pumuoyong Cuo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247598 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247598">
+        <obo:IAO_0000115>A large, brackish or saline lake in an inland drainage basin on the north slope of the main Himalayan range. The lake is fed by snowmelt from the Xixabangma Feng Mountains to the south (peaks to 8,012m). Located south of the Yarlung Zangbo Jiang (Brahmaputra River), 540 km west of Lasa.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247598</oboInOwl:id>
+        <rdfs:label>Paiku Co</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248709 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248709">
+        <obo:IAO_0000115>A mountain range in the Indian state of Jammu and Kashmir that separates Zanskar from Ladakh.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248709</oboInOwl:id>
+        <rdfs:label>Zanskar Range</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248745 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248745">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00057376"/>
+        <obo:IAO_0000115>A glacier in the Great Himalaya subrange of Himalayas. It starts north of an unnamed 6,326 m high peak and flows northeastward, north of Laila Peak (Rupal Valley) and south of Nanga Parbat&apos;s many peaks. The meltwater from the glacier forms Rupal River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248745</oboInOwl:id>
+        <rdfs:label>Rupal Glacier</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248809 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248809">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00248810"/>
+        <obo:IAO_0000115>A wetland in the Uttarakhand-Himachal Pradesh border region in Doon Valley, (Dehradun District), northern India, situated at the confluence of the Yamuna Canal and the Assan River and about 11 km from Dak Pathar, and 28 km southwest of Dehradun.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248809</oboInOwl:id>
+        <rdfs:label>Assan Barrage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248810 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248810">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058368"/>
+        <obo:IAO_0000115>A valley located in Sivalik Hills in Uttarakhand, India, home to the capital of Indian state of Uttarakhand, Dehradun.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248810</oboInOwl:id>
+        <rdfs:label>Doon Valley</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248849 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248849">
+        <obo:IAO_0000115>A river flowing in Bhind District of Madhya Pradesh in central India.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248849</oboInOwl:id>
+        <rdfs:label>Pahuj River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248855 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248855">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000074"/>
+        <obo:IAO_0000115>A barrage.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248855</oboInOwl:id>
+        <rdfs:label>Okhla Barrage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00249708 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00249708">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00028289"/>
+        <obo:IAO_0000115>A populated place. A border town in southern Bhutan, opposite the Indian town of Jaigaon, situated in Chukha Dzongkang.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00249708</oboInOwl:id>
+        <rdfs:label>Phuntsholing</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000368 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000368">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00007290"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000368</oboInOwl:id>
+        <rdfs:label>Laya Gewog</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00007289">
+        <oboInOwl:id>GAZ:00007289</oboInOwl:id>
+        <rdfs:label>Zone (Bhutan)</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00007291">
+        <rdfs:label>Laya</rdfs:label>
+        <oboInOwl:id>GAZ:00007291</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00007292">
+        <oboInOwl:id>GAZ:00007292</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>populated place, Bhutan</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00013938">
+        <obo:IAO_0000115>A populated place. A village in Trong Gewog.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Gonphu</rdfs:label>
+        <oboInOwl:id>GAZ:00013938</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00013939">
+        <obo:IAO_0000115>A small town in the central-eastern region of Bhutan. It is the district capital of Bumthang district.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00013939</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Jakar</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00013940">
+        <oboInOwl:id>GAZ:00013940</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A populated place. A village in Trong Gewog.</obo:IAO_0000115>
+        <rdfs:label>Subrang</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00080142">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00080142</oboInOwl:id>
+        <rdfs:label>Eastern Zone</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00080143">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00080143</oboInOwl:id>
+        <rdfs:label>Central Zone</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00080144">
+        <rdfs:label>Western Zone</rdfs:label>
+        <oboInOwl:id>GAZ:00080144</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00080145">
+        <rdfs:label>Southern Zone</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00080145</oboInOwl:id>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

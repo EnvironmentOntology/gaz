@@ -1,0 +1,1438 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Cape_Verde.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Cape_Verde.owl"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:envo="http://purl.obolibrary.org/obo/envo#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Cape_Verde.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000305 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000856 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001228 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001229 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001229">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001230 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001230">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001231 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001231">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001232 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001232">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001233 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001233">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001234 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001234">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001235 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001235">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001236 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001236">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001237 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001237">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001238 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001238">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001239 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001239">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001241 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001241">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001242 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001242">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001243 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001243">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001244 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001244">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001245 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001245">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001246 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00001246">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029099 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00029099">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029107 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00029107">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029112 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00029112">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146526 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00146526">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146528 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00146528">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001228"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001151 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001151">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001242"/>
+        <obo:IAO_0000115>An island in Cape Verde.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001151</oboInOwl:id>
+        <rdfs:label>Sal Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001152 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001152">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001237"/>
+        <obo:IAO_0000115>One of the Barlavento islands of Cape Verde. It is located between the islands of Santo Antao and Santa Luzia, with the Canal de Sao Vicente separating it from Santo Antao.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001152</oboInOwl:id>
+        <rdfs:label>Sao Vicente Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001155 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001155">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001246"/>
+        <obo:IAO_0000115>The easternmost island of Cape Verde. It is located in the Barlavento group of the archipelago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001155</oboInOwl:id>
+        <rdfs:label>Boa Vista Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001157 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001157">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001229"/>
+        <obo:IAO_0000115>The smallest inhabited island of Cape Verde, in the Sotavento group.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001157</oboInOwl:id>
+        <rdfs:label>Brava Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001160 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001160">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001230"/>
+        <obo:IAO_0000115>The easternmost of the Sotavento islands of Cape Verde. Maio is located south of the islands of Boa Vista and east of Santiago.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001160</oboInOwl:id>
+        <rdfs:label>Maio Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001227 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001227">
+        <obo:IAO_0000115>A republic located on an archipelago in the Macaronesia ecoregion of the North Atlantic Ocean, off the western coast of Africa. Cape Verde is divided into 22 municipalities (concelhos), and subdivided into 32 parishes (freguesias).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001227</oboInOwl:id>
+        <rdfs:label>Cape Verde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001228 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001228">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001227"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001229 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001229"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001230 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001230"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001231 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001231"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001232 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001232"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001233 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001233"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001234 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001234"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001235 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001235"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001236 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001236"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001237 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001237"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001238 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001238"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001239 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001239"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001241 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001241"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001242 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001242"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001243 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001243"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001244 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001244"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001245 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001245"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00001246 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00001246"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029097 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029097">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001243"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029097</oboInOwl:id>
+        <rdfs:label>Parish of Santo Amaro Abade</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029098 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029098">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001245"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029098</oboInOwl:id>
+        <rdfs:label>Parish of Sao Miguel Arcanjo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029099 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029099"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029100 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029100">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001241"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029100</oboInOwl:id>
+        <rdfs:label>Parish of Santiago Maior</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029101 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029101">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001241"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029101</oboInOwl:id>
+        <rdfs:label>Parish of Sao Lourenco dos Orgaos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029102 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029102">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001233"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029102</oboInOwl:id>
+        <rdfs:label>Parish of Nossa Senhora da Luz</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029103 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029103">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001233"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029103</oboInOwl:id>
+        <rdfs:label>Parish of Sao Nicolau Tolentino</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029104 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029104">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001235"/>
+        <obo:IAO_0000115>A parish in the municipality of Praia in the island of Santiago in southwestern Cape Verde.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029104</oboInOwl:id>
+        <rdfs:label>Parish of Nossa Senhora da Graca</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029107 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029107"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029108 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029108">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00146528"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029108</oboInOwl:id>
+        <rdfs:label>Parish of Nossa Senhora do Livramento</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029109 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029109">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00146528"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029109</oboInOwl:id>
+        <rdfs:label>Parish of Nossa Senhora do Rosario</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029110 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029110">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00146528"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029110</oboInOwl:id>
+        <rdfs:label>Parish of Santo Crucifixo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029111 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029111">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00146528"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029111</oboInOwl:id>
+        <rdfs:label>Parish of Sao Pedro Apostolo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029112 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029112"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029113 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029113">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001244"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029113</oboInOwl:id>
+        <rdfs:label>Parish of Santa Catarina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029114 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029114">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001157"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029114</oboInOwl:id>
+        <rdfs:label>Parish of Sao Joao Baptista</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029115 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029115">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001157"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029115</oboInOwl:id>
+        <rdfs:label>Parish of Nossa Senhora do Monte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029116 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029116">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001236"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029116</oboInOwl:id>
+        <rdfs:label>Parish of Nossa Senhora da Conceicao</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029117 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029117">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001236"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029117</oboInOwl:id>
+        <rdfs:label>Parish of Sao Lourenco</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029118 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029118">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029112"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029118</oboInOwl:id>
+        <rdfs:label>Parish of Santa Catarina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029119 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029119">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001231"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029119</oboInOwl:id>
+        <rdfs:label>Parish of Nossa Senhora da Ajuda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029120 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029120">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001160"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029120</oboInOwl:id>
+        <rdfs:label>Parish of Nossa Senhora da Luz</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029121 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029121">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001155"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029121</oboInOwl:id>
+        <rdfs:label>Parish of Santa Isabel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029122 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029122">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001155"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029122</oboInOwl:id>
+        <rdfs:label>Parish of Sao Joao Baptista</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029123 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029123">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001151"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029123</oboInOwl:id>
+        <rdfs:label>Parish of Nossa Senhora das Dores</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029124 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029124">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001152"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029124</oboInOwl:id>
+        <rdfs:label>Parish of Nossa Senhora da Luz</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029125 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029125">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001238"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029125</oboInOwl:id>
+        <rdfs:label>Parish of Sao Joao Baptista</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029126 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029126">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001238"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029126</oboInOwl:id>
+        <rdfs:label>Parish of Santo Andre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00029127 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00029127">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001232"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029127</oboInOwl:id>
+        <rdfs:label>Parish of Santo Antonio das Pombas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049373 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049373">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029123"/>
+        <obo:IAO_0000115>A cove.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049373</oboInOwl:id>
+        <rdfs:label>Calheta Funda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049374 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049374">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001229"/>
+        <obo:IAO_0000115>A group of islets in Cape Verde located due north at about 7 to 8 km from the nearby island of Brava.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049374</oboInOwl:id>
+        <rdfs:label>Ilheus Secos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049375 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049375">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049374"/>
+        <obo:IAO_0000115>A part of the Ilheus Secos islet group. Its location is in the west and it represents the largest islet of the chain.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049375</oboInOwl:id>
+        <rdfs:label>Ilheu Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049376 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049376">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049374"/>
+        <obo:IAO_0000115>A part of the Ilheus Secos islet group. Its location is in the east and it represents the second largest islet of the chain. They are administratively a part of the municipality of Brava. The island is a volcanic seamount.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049376</oboInOwl:id>
+        <rdfs:label>Ilheu de Cima</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049377 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049377">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049374"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049377</oboInOwl:id>
+        <rdfs:label>Ilheu Sapado</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049378 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049378">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049374"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049378</oboInOwl:id>
+        <rdfs:label>Ilheu Luis Carneiro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049379 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049379">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049374"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049379</oboInOwl:id>
+        <rdfs:label>Ilheu do Rei</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049383 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049383">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001246"/>
+        <obo:IAO_0000115>An island located 1 km west of Sal Rei and nearly 1 km southwest of its nearest point of Boa Vista Island in Cape Verde.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049383</oboInOwl:id>
+        <rdfs:label>Ilheu de Sal-Rei</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049385 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049385">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001237"/>
+        <obo:IAO_0000115>An islandlocated between 2 to 3 km NW of the island of Sao Vicente (Mindelo) and also 2 km northwest of the Mindelo&apos;s nearby point, the Joao Ribeira.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049385</oboInOwl:id>
+        <rdfs:label>Ilheu dos Passaros</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049386 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049386">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001242"/>
+        <obo:IAO_0000115>An island located nearly 500 m west of the nearest point of the island of Sal. The island is a volcanic seamount and was once connected with the rest of the island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049386</oboInOwl:id>
+        <rdfs:label>Ilheu Rabo de Junco</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049390 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049390">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029104"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049390</oboInOwl:id>
+        <rdfs:label>Porto Praia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053367 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053367">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001157"/>
+        <obo:IAO_0000115>A stratovolcano consisting of 15 morphologically youthful craters located along two or three lineaments intersecting along the crest of the island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053367</oboInOwl:id>
+        <rdfs:label>Brava Volcano</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053368 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053368">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029124"/>
+        <obo:IAO_0000115>A stratovolcano.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053368</oboInOwl:id>
+        <rdfs:label>Monte Verde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146524 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146524">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029107"/>
+        <obo:IAO_0000115>A parish in the western portion of the island of Sao Nicolau in Cape Verde. The seat of the parish is Tarrafal de Sao Nicolau and includes the entire municipality.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146524</oboInOwl:id>
+        <rdfs:label>Parish of Sao Francisco</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146525 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146525">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001230"/>
+        <obo:IAO_0000115>An island located nearly 500 m north of the nearest shoreline of the island of Maio in Cape Verde.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146525</oboInOwl:id>
+        <rdfs:label>Ilheu Laja Branca</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146526 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146526">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146527 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146527">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00146526"/>
+        <obo:IAO_0000115>A parish that covers the entire municipality of Sao Lourenco dos Orgaos in the south-central part of the island of Santiago in southern Cape Verde.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146527</oboInOwl:id>
+        <rdfs:label>Parish of Sao Lourenco dos Orgaos</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146528 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146528">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000856"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146529 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146529">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001234"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146529</oboInOwl:id>
+        <rdfs:label>Parish of Santissimo Nome de Jesus</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146530 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146530">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001234"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146530</oboInOwl:id>
+        <rdfs:label>Parish of Sao Joao Baptista</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146531 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146531">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029099"/>
+        <obo:IAO_0000115>A parish that covers the entire municipality of Sao Salvador do Mundo in the island of Santiago in southern Cape Verde.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146531</oboInOwl:id>
+        <rdfs:label>Parish of Sao Salvador do Mundo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146532 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146532">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001239"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146532</oboInOwl:id>
+        <rdfs:label>Parish of Sao Nicolau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147092 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147092">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029123"/>
+        <obo:IAO_0000115>A cape on Sal Island, approximately 4 km west of the island capital of Espargos.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147092</oboInOwl:id>
+        <rdfs:label>Buracona Cape</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147093 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147093">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029123"/>
+        <obo:IAO_0000115>A headland located in the southeast of the island of Sal.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147093</oboInOwl:id>
+        <rdfs:label>Ponta da Fragatas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147094 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147094">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029123"/>
+        <obo:IAO_0000115>A headland located in the southeast of the island of Sal. The point is situated about 1 km east of the town of Santa Maria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147094</oboInOwl:id>
+        <rdfs:label>Ponta Leme Bedj</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147095 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147095">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029123"/>
+        <obo:IAO_0000115>A headland located in the northeast of the island of Sal in Cape Verde. It is approximately 10 km north-northeast of the island capital of Espargos. The point is the northernmost and the northeasternmost points in the island of Sal.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147095</oboInOwl:id>
+        <rdfs:label>Ponta do Norte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147096 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147096">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029123"/>
+        <obo:IAO_0000115>A headland located in the northwest of the island of Sal in Cape Verde. Distance is approximately 10 km north-northwest of the island capital of Espargos. The point is the northwesternmost and it features a lighthouse.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147096</oboInOwl:id>
+        <rdfs:label>Ponta Preta [NW]</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147097 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147097">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029123"/>
+        <obo:IAO_0000115>A headland located in the southwest of the island of Sal in Cape Verde. Distance is approximately 2 km west of the island&apos;s second largest community named Santa Maria.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147097</oboInOwl:id>
+        <rdfs:label>Ponta Preta [SW]</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147098 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147098">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001155"/>
+        <obo:IAO_0000115>A headland located in the north of the island of Boa Vista in Cape Verde and it features a beach that strecthes for 10 km. Distance is approximately 6 km northeast of the island capital of Sal Rei and 3 km east of the mountain named Vigia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147098</oboInOwl:id>
+        <rdfs:label>Cabo de Santa Maria</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147099 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147099">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001155"/>
+        <obo:IAO_0000115>A headland located in the west of the island of Boa Vista and it represents the island&apos;s westernmost point in Cape Verde. Distance is approximately 20 km south of the island capital of Sal Rei and approximately 5 km west of Povoacao Velha.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147099</oboInOwl:id>
+        <rdfs:label>Varandinha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147100 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147100">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001155"/>
+        <obo:IAO_0000115>A desert covering most of the northwestern portion of Boa Vista Island and it also covers the central portion, the only parts not affected by the desert is the shoreline, Sal Rei and the mountains to the northwest.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147100</oboInOwl:id>
+        <rdfs:label>Deserto de Viana</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147101 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147101">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001155"/>
+        <obo:IAO_0000115>A volcanic mountain in the northwestern part of the island of Boa Vista.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147101</oboInOwl:id>
+        <rdfs:label>Vigia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147102 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147102">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001155"/>
+        <obo:IAO_0000115>A headland located in the northwest of the island of Boa Vista and it represents the island&apos;s northernmost point in Cape Verde. Distance is approximately 8 km north of the island capital of Sal Rei and 4 km from a mountain named Vigia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147102</oboInOwl:id>
+        <rdfs:label>Ponta do Sol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147103 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147103">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00001155"/>
+        <obo:IAO_0000115>A headland located in the west of the island of Boa Vista and it represents the island&apos;s easternmost point in Cape Verde.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147103</oboInOwl:id>
+        <rdfs:label>Morre Negro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147104 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147104">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029124"/>
+        <obo:IAO_0000115>The island of Sao Vicente&apos;s northernmost point.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147104</oboInOwl:id>
+        <rdfs:label>Joao Evora</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147105 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147105">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029124"/>
+        <obo:IAO_0000115>A cape located in the island of Sao Vicente nearly 3 km north of the island capital of Mindelo.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147105</oboInOwl:id>
+        <rdfs:label>Ponta Joao Ribeiro</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147106 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147106">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029124"/>
+        <obo:IAO_0000115>A cape located in the northwest of the island of Sao Vicente nearly 3 km west of the island capital of Mindelo. The cape divides the Canal de Sao Vicente the Mindelo Bay and the rest of the Atlantic Ocean. Monte Cara is to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147106</oboInOwl:id>
+        <rdfs:label>Morro Branco</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147108 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147108">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029124"/>
+        <obo:IAO_0000115>A volcanic mountain in the eastern part of the island of Sao Vicente.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147108</oboInOwl:id>
+        <rdfs:label>Pico do Vento</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147109 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147109">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00147110"/>
+        <obo:IAO_0000115>Sao Vicente&apos;s main port located in the west of Mindelo and northwest of the island overlooking the Mindelo Bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147109</oboInOwl:id>
+        <rdfs:label>Porto Grande</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147110 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147110">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029124"/>
+        <obo:IAO_0000115>A port town on the Cape Verde in the northern part of the island of Sao Vicente.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147110</oboInOwl:id>
+        <rdfs:label>Mindelo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147112 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147112">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029124"/>
+        <obo:IAO_0000115>A volcanic mountain in the southeast portion of the island of Sao Vicente.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147112</oboInOwl:id>
+        <rdfs:label>Viana</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147113 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147113">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029120"/>
+        <obo:IAO_0000115>A headland located in the north of the island of Maio and it represents the island&apos;s northernmost point in Cape Verde.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147113</oboInOwl:id>
+        <rdfs:label>Ponta Cais</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147114 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147114">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029120"/>
+        <obo:IAO_0000115>A hilly area covering the southern, the southcentral and the southeastern parts of the island of Maio in Cape Verde. Its length is about 15 km and its width is approximately 15 km.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147114</oboInOwl:id>
+        <rdfs:label>Chao de Estancia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147115 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147115">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000305"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029120"/>
+        <obo:IAO_0000115>A headland located in the north of the island of Maio and it represents the island&apos;s southernmost point in Cape Verde. The point is neighbouring its nearest town Vila do Maio and Barreiro to the north.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147115</oboInOwl:id>
+        <rdfs:label>Ponta Preta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00147116 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00147116">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00029120"/>
+        <obo:IAO_0000115>A flat terrain covering the northern half of the island of Maio in southeastern Cape Verde. The land is rich in saltpanes.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00147116</oboInOwl:id>
+        <rdfs:label>Terras Salgadas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001228">
+        <rdfs:label>County (Cape Verde)</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001228</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001229">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001229</oboInOwl:id>
+        <rdfs:label>Brava County</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001230">
+        <oboInOwl:id>GAZ:00001230</oboInOwl:id>
+        <rdfs:label>Maio County</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001231">
+        <rdfs:label>Mosteiros County</rdfs:label>
+        <oboInOwl:id>GAZ:00001231</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001232">
+        <oboInOwl:id>GAZ:00001232</oboInOwl:id>
+        <rdfs:label>Paul County</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001233">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001233</oboInOwl:id>
+        <rdfs:label>Sao Domingos County</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001234">
+        <rdfs:label>Ribeira Grande de Santiago County</rdfs:label>
+        <oboInOwl:id>GAZ:00001234</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001235">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Praia County</rdfs:label>
+        <oboInOwl:id>GAZ:00001235</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001236">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Sao Filipe County</rdfs:label>
+        <oboInOwl:id>GAZ:00001236</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001237">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Sao Vicente County</rdfs:label>
+        <oboInOwl:id>GAZ:00001237</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001238">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00001238</oboInOwl:id>
+        <rdfs:label>Porto Novo County</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001239">
+        <oboInOwl:id>GAZ:00001239</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Sao Nicolau County</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001241">
+        <oboInOwl:id>GAZ:00001241</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Santa Cruz County</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001242">
+        <oboInOwl:id>GAZ:00001242</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Sal County</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001243">
+        <oboInOwl:id>GAZ:00001243</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Tarrafal County</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001244">
+        <oboInOwl:id>GAZ:00001244</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Santa Catarina County</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001245">
+        <oboInOwl:id>GAZ:00001245</oboInOwl:id>
+        <rdfs:label>Sao Miguel County</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00001246">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Boa Vista County</rdfs:label>
+        <oboInOwl:id>GAZ:00001246</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00029099">
+        <oboInOwl:id>GAZ:00029099</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Sao Salvador do Mundo County</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00029107">
+        <oboInOwl:id>GAZ:00029107</oboInOwl:id>
+        <rdfs:label>Tarrafal de Sao Nicolau County</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A recently created municipality on the island of Sao Nicolau, Cape Verde. It was detached in 2005 from the municipality of Sao Nicolau.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00029112">
+        <rdfs:label>Santa Catarina do Fogo County</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00029112</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00146526">
+        <obo:IAO_0000115>A municipality on Santiago island in Cape Verde. It was constituted in 2005 by detaching the western portion of the municipality of Santa Cruz.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00146526</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Sao Lourenco dos Orgaos County</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00146528">
+        <rdfs:label>Ribeira Grande County</rdfs:label>
+        <obo:IAO_0000115>A municipality on the island of Santo Antao of the Barlavento group in Cape Verde.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00146528</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

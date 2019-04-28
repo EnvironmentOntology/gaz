@@ -1,0 +1,2802 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Haiti.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Haiti.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Haiti.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000009 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000102 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000102">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005995"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000105 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000105">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000106"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000106 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000106"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000110 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000110">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005995"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000111 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000111">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005995"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000112 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000112">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005995"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000113 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000113">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005995"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000114 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000114">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005995"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000115 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000115">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005995"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000116 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000116">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005995"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000117 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000117">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005995"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000118 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00000118">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00005995"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005995 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00005995"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000102 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000102"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000103 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000103">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000102"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000103</oboInOwl:id>
+        <rdfs:label>Mont des Cartaches</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000104 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000104">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000102"/>
+        <obo:IAO_0000115>An arrondissement of Grand&apos;Anse Department in southwestern Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000104</oboInOwl:id>
+        <rdfs:label>Jeremie Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000105 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000105">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067701"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000106 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000106">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003953"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000107 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000107">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003953"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000107</oboInOwl:id>
+        <rdfs:label>Josapha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000108 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000108">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003953"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000108</oboInOwl:id>
+        <rdfs:label>Petit Angel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000109 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000109">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000102"/>
+        <obo:IAO_0000115>A populated place.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000109</oboInOwl:id>
+        <rdfs:label>Marfranc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000110 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000110"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000111 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000112 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000112"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000113 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000113"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000114 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000114"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000115 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000115"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000116 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000116"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000117 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000117"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00000118 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00000118"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00003953 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00003953">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000009"/>
+        <obo:IAO_0000115>A country located in the Greater Antilles archipelago on the Caribbean island of Hispaniola, which it shares with the Dominican Republic. Haiti is divided into 10 departments. The departments are further divided into 41 arrondissements, and 133 communes which serve as second and third level administrative divisions.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00003953</oboInOwl:id>
+        <rdfs:label>Haiti</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00005995 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00005995">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003953"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049639 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049639">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000102"/>
+        <obo:IAO_0000115>A pair of islands located in the Gulf of Gonave off the coast of southwest Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049639</oboInOwl:id>
+        <rdfs:label>Cayemites</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049640 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049640">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049639"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049640</oboInOwl:id>
+        <rdfs:label>Grande Cayemite</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049641 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049641">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049639"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049641</oboInOwl:id>
+        <rdfs:label>Petite Cayemite</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049642 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049642">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000110"/>
+        <obo:IAO_0000115>An island that forms part of Haiti, off the northwest coast of Hispaniola. It constitutes the commune of Ile de la Tortue in the Port-de-Paix arrondissement of the Nord-Ouest Department of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049642</oboInOwl:id>
+        <rdfs:label>Ile de Tortuga</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049643 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049643">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000110"/>
+        <obo:IAO_0000115>An arrondissement of the Nord-Ouest Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049643</oboInOwl:id>
+        <rdfs:label>Port-de-Paix Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049644 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049644">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049642"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049643"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049644</oboInOwl:id>
+        <rdfs:label>Commune of Ile de la Tortue</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049645 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049645">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003953"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049645</oboInOwl:id>
+        <rdfs:label>Ile de Anacaona</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049646 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049646">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067778"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049646</oboInOwl:id>
+        <rdfs:label>Ile-a-Vache</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049647 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049647">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067668"/>
+        <obo:IAO_0000115>An island of Haiti located to the west-northwest of Port-au-Prince in the Gulf of Gonave.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049647</oboInOwl:id>
+        <rdfs:label>Ile de la Gonave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049648 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049648">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067668"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049648</oboInOwl:id>
+        <rdfs:label>Commune of Pointe-a-Raquette</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00049650 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00049650">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067668"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00049650</oboInOwl:id>
+        <rdfs:label>Commune of Anse-a-Galets</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062310 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062310">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000118"/>
+        <obo:IAO_0000115>A saline lake located in southeastern Haiti, bordering the Dominican Republic. It is east of Port-au-Prince on the fertile Plaine du Cul-de-Sac.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062310</oboInOwl:id>
+        <rdfs:label>Etang Saumatre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062313 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062313">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000118"/>
+        <obo:IAO_0000115>A saline lake located NE of Croix-des-Bouquets in the Ouest Department on the Plaine du Cul-de-Sac rift valley nearby much larger saline lakes such as Lake Azuei in Haiti, and Lake Enriquillo in the Dominican Republic.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062313</oboInOwl:id>
+        <rdfs:label>Trou Caiman</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062327 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062327">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000113"/>
+        <obo:IAO_0000115>A reservoir in Haiti, located in the Centre Department. It was created as a result of the construction of the Peligre Hydroelectric Dam on the Artibonite River in 1956-1957.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062327</oboInOwl:id>
+        <rdfs:label>Lake Peligre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067613 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067613">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000115"/>
+        <obo:IAO_0000115>An arrondissement in the Artibonite Department of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067613</oboInOwl:id>
+        <rdfs:label>Marmelade Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067614 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067614">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000115"/>
+        <obo:IAO_0000115>An arrondissement in the Artibonite Department of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067614</oboInOwl:id>
+        <rdfs:label>Saint-Marc Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067615 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067615">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000115"/>
+        <obo:IAO_0000115>An arrondissement in the Artibonite Department of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067615</oboInOwl:id>
+        <rdfs:label>Dessalines Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067616 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067616">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000115"/>
+        <obo:IAO_0000115>An arrondissement in the Artibonite Department of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067616</oboInOwl:id>
+        <rdfs:label>Gros Morne Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067617 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067617">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000115"/>
+        <obo:IAO_0000115>An arrondissement in the Artibonite Department of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067617</oboInOwl:id>
+        <rdfs:label>Gonaives Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067618 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067618">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067615"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067618</oboInOwl:id>
+        <rdfs:label>Commune of Petite Riviere de l&apos;Artibonite</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067619 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067619">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067615"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067619</oboInOwl:id>
+        <rdfs:label>Commune of Dessalines</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067620 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067620">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067615"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067620</oboInOwl:id>
+        <rdfs:label>Commune of Desdune</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067621 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067621">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067615"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067621</oboInOwl:id>
+        <rdfs:label>Commune of Grande Saline</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067622 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067622">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067617"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067622</oboInOwl:id>
+        <rdfs:label>Commune of Estere</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067623 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067623">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067617"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067623</oboInOwl:id>
+        <rdfs:label>Commune of Gonaives</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067624 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067624">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067617"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067624</oboInOwl:id>
+        <rdfs:label>Commune of Ennery</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067625 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067625">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067616"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067625</oboInOwl:id>
+        <rdfs:label>Commune of Anse Rouge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067626 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067626">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067616"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067626</oboInOwl:id>
+        <rdfs:label>Commune of Terre-Neuve</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067627 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067627">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067616"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067627</oboInOwl:id>
+        <rdfs:label>Commune of Gros-Morne</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067628 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067628">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067613"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067628</oboInOwl:id>
+        <rdfs:label>Commune of Marmelade</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067629 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067629">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067613"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067629</oboInOwl:id>
+        <rdfs:label>Commune of Saint Michel de l&apos;Attalaye</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067630 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067630">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067614"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067630</oboInOwl:id>
+        <rdfs:label>Commune of Saint-Marc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067631 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067631">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067614"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067631</oboInOwl:id>
+        <rdfs:label>Commune of La Chapelle</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067632 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067632">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067614"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067632</oboInOwl:id>
+        <rdfs:label>Commune of Verettes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067633 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067633">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000113"/>
+        <obo:IAO_0000115>An arrondissement of the Centre Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067633</oboInOwl:id>
+        <rdfs:label>Lascahobas Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067634 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067634">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000113"/>
+        <obo:IAO_0000115>An arrondissement of the Centre Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067634</oboInOwl:id>
+        <rdfs:label>Mirebalais Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067635 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067635">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000113"/>
+        <obo:IAO_0000115>An arrondissement of the Centre Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067635</oboInOwl:id>
+        <rdfs:label>Hinche Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067636 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067636">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000113"/>
+        <obo:IAO_0000115>An arrondissement of the Centre Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067636</oboInOwl:id>
+        <rdfs:label>Cerca la Source Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067637 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067637">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000102"/>
+        <obo:IAO_0000115>An arrondissement of Grand&apos;Anse Department in southwestern Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067637</oboInOwl:id>
+        <rdfs:label>Anse d&apos;Hainault Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067638 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067638">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000102"/>
+        <obo:IAO_0000115>An arrondissement of Grand&apos;Anse Department in southwestern Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067638</oboInOwl:id>
+        <rdfs:label>Corail Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067639 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067639">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000114"/>
+        <obo:IAO_0000115>An arrondissement of the Nippes Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067639</oboInOwl:id>
+        <rdfs:label>Miragoane Arondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067640 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067640">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000114"/>
+        <obo:IAO_0000115>An arrondissement of the Nippes Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067640</oboInOwl:id>
+        <rdfs:label>Anse-a-Veau Arondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067641 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067641">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000114"/>
+        <obo:IAO_0000115>An arrondissement of the Nippes Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067641</oboInOwl:id>
+        <rdfs:label>Baraderes Arondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067642 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067642">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000112"/>
+        <obo:IAO_0000115>An arrondissement of the Nord Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067642</oboInOwl:id>
+        <rdfs:label>L&apos;Acul-du-Nord Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067643 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067643">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000112"/>
+        <obo:IAO_0000115>An arrondissement of the Nord Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067643</oboInOwl:id>
+        <rdfs:label>Le Limbe Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067644 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067644">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000112"/>
+        <obo:IAO_0000115>An arrondissement of the Nord Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067644</oboInOwl:id>
+        <rdfs:label>Saint-Raphael Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067645 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067645">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000112"/>
+        <obo:IAO_0000115>An arrondissement of the Nord Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067645</oboInOwl:id>
+        <rdfs:label>Borgne Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067646 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067646">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000112"/>
+        <obo:IAO_0000115>An arrondissement of the Nord Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067646</oboInOwl:id>
+        <rdfs:label>Grand-Riviere du Nord Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067647 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067647">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000112"/>
+        <obo:IAO_0000115>An arrondissement of the Nord Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067647</oboInOwl:id>
+        <rdfs:label>Plaissance Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067648 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067648">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000112"/>
+        <obo:IAO_0000115>An arrondissement of the Nord Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067648</oboInOwl:id>
+        <rdfs:label>Le Cap-Haitien Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067649 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067649">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000111"/>
+        <obo:IAO_0000115>An arrondissement of the Nord-Est Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067649</oboInOwl:id>
+        <rdfs:label>Ouanaminthe Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067650 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067650">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000111"/>
+        <obo:IAO_0000115>An arrondissement of the Nord-Est Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067650</oboInOwl:id>
+        <rdfs:label>Fort-Liberte Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067651 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067651">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000111"/>
+        <obo:IAO_0000115>An arrondissement of the Nord-Est Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067651</oboInOwl:id>
+        <rdfs:label>Vallieres Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067652 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067652">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000111"/>
+        <obo:IAO_0000115>An arrondissement of the Nord-Est Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067652</oboInOwl:id>
+        <rdfs:label>Le Trou-du-Nord Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067653 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067653">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049643"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067653</oboInOwl:id>
+        <rdfs:label>Commune of Bassin Bleu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067654 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067654">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049643"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067654</oboInOwl:id>
+        <rdfs:label>Commune of Port-De-Paix</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067655 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067655">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00049643"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067655</oboInOwl:id>
+        <rdfs:label>Commune of Chansolme</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067656 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067656">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000110"/>
+        <obo:IAO_0000115>An arrondissement of the Nord-Ouest Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067656</oboInOwl:id>
+        <rdfs:label>Saint-Louis du Nord Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067657 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067657">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000110"/>
+        <obo:IAO_0000115>An arrondissement of the Nord-Ouest Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067657</oboInOwl:id>
+        <rdfs:label>Mele Saint Nicholas Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067658 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067658">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067657"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067658</oboInOwl:id>
+        <rdfs:label>Commune of Baie de Henne</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067659 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067659">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067657"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067659</oboInOwl:id>
+        <rdfs:label>Commune of Bombardopolis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067660 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067660">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067657"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067660</oboInOwl:id>
+        <rdfs:label>Commune of Jean-Rabel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067661 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067661">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067657"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067661</oboInOwl:id>
+        <rdfs:label>Commune of Mole Saint Nicholas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067662 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067662">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067656"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067662</oboInOwl:id>
+        <rdfs:label>Commune of Anse-a-Foleur</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067663 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067663">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067656"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067663</oboInOwl:id>
+        <rdfs:label>Commune of Saint-Louis du Nord</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067664 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067664">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000118"/>
+        <obo:IAO_0000115>An arrondissement of the Ouest Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067664</oboInOwl:id>
+        <rdfs:label>Port-au-Prince Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067665 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067665">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000118"/>
+        <obo:IAO_0000115>An arrondissement of the Ouest Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067665</oboInOwl:id>
+        <rdfs:label>Arcahaie Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067666 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067666">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000118"/>
+        <obo:IAO_0000115>An arrondissement of the Ouest Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067666</oboInOwl:id>
+        <rdfs:label>Leogane Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067667 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067667">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000118"/>
+        <obo:IAO_0000115>An arrondissement of the Ouest Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067667</oboInOwl:id>
+        <rdfs:label>Croix-des Bouquets Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067668 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067668">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000118"/>
+        <obo:IAO_0000115>An arrondissement of the Ouest Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067668</oboInOwl:id>
+        <rdfs:label>La Gonave Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067669 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067669">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067665"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067669</oboInOwl:id>
+        <rdfs:label>Commune of Arcahaie</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067670 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067670">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067665"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067670</oboInOwl:id>
+        <rdfs:label>Communt of Cabaret</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067671 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067671">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067667"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067671</oboInOwl:id>
+        <rdfs:label>Commune of Cornillon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067672 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067672">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067667"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067672</oboInOwl:id>
+        <rdfs:label>Commune of Fonds-Verettes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067673 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067673">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067667"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067673</oboInOwl:id>
+        <rdfs:label>Commune of Thomazeau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067674 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067674">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067667"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067674</oboInOwl:id>
+        <rdfs:label>Commune of Croix-des-Bouquets</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067675 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067675">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067667"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067675</oboInOwl:id>
+        <rdfs:label>Commune of Ganthier</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067676 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067676">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067664"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067676</oboInOwl:id>
+        <rdfs:label>Commune of Grenier</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067677 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067677">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067664"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067677</oboInOwl:id>
+        <rdfs:label>Commune of Carrefour</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067678 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067678">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067666"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067678</oboInOwl:id>
+        <rdfs:label>Commune of Petit-Goave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067679 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067679">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067666"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067679</oboInOwl:id>
+        <rdfs:label>Commune of Leogane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067680 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067680">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067666"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067680</oboInOwl:id>
+        <rdfs:label>Commune of Grand-Goave</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067681 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067681">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067664"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067681</oboInOwl:id>
+        <rdfs:label>Commune of Petionville</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067682 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067682">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067664"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067682</oboInOwl:id>
+        <rdfs:label>Commune of Delmas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067683 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067683">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067664"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067683</oboInOwl:id>
+        <rdfs:label>Commune of Kenscoff</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067684 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067684">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067664"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067684</oboInOwl:id>
+        <rdfs:label>Commune of Port-au-Prince</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067685 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067685">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000116"/>
+        <obo:IAO_0000115>An arrondissement of the Sud-Est Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067685</oboInOwl:id>
+        <rdfs:label>Bainet Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067686 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067686">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000116"/>
+        <obo:IAO_0000115>An arrondissement of the Sud-Est Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067686</oboInOwl:id>
+        <rdfs:label>Belle-Anse Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067687 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067687">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000116"/>
+        <obo:IAO_0000115>An arrondissement of the Sud-Est Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067687</oboInOwl:id>
+        <rdfs:label>Jacmel Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067688 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067688">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000117"/>
+        <obo:IAO_0000115>An arrondissement of the Sud Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067688</oboInOwl:id>
+        <rdfs:label>Les Cayes Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067689 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067689">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000117"/>
+        <obo:IAO_0000115>An arrondissement of the Sud Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067689</oboInOwl:id>
+        <rdfs:label>Aquin Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067690 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067690">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000117"/>
+        <obo:IAO_0000115>An arrondissement of the Sud Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067690</oboInOwl:id>
+        <rdfs:label>Les Charbonnieres Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067691 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067691">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000117"/>
+        <obo:IAO_0000115>An arrondissement of the Sud Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067691</oboInOwl:id>
+        <rdfs:label>Port-Salut Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067692 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067692">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000117"/>
+        <obo:IAO_0000115>An arrondissement of the Sud Department, Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067692</oboInOwl:id>
+        <rdfs:label>Les Coteaux Arrondissement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067693 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067693">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067637"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067693</oboInOwl:id>
+        <rdfs:label>Commune of Anse d&apos;Ainault</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067694 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067694">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067637"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067694</oboInOwl:id>
+        <rdfs:label>Commune of Dame-Marie</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067695 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067695">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067637"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067695</oboInOwl:id>
+        <rdfs:label>Commune of Irois</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067696 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067696">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067638"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067696</oboInOwl:id>
+        <rdfs:label>Commune of Roseaux</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067697 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067697">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067638"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067697</oboInOwl:id>
+        <rdfs:label>Commune of Pestel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067698 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067698">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067638"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067698</oboInOwl:id>
+        <rdfs:label>Commune of Beaumont</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067699 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067699">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067638"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067699</oboInOwl:id>
+        <rdfs:label>Commune of Corail</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067700 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067700">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000104"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067700</oboInOwl:id>
+        <rdfs:label>Commune of Abricot</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067701 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067701">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000104"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067701</oboInOwl:id>
+        <rdfs:label>Commune of Moron</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067702 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067702">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000104"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067702</oboInOwl:id>
+        <rdfs:label>Commune of Bonbon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067703 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067703">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000104"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067703</oboInOwl:id>
+        <rdfs:label>Commune of Jeremie</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067704 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067704">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000104"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067704</oboInOwl:id>
+        <rdfs:label>Commune of Chambellant</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067705 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067705">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067642"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067664"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067705</oboInOwl:id>
+        <rdfs:label>Commune of Acul-du-Nord</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067706 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067706">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067642"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067706</oboInOwl:id>
+        <rdfs:label>Commune of Plaine-du-Nord</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067707 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067707">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067648"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067707</oboInOwl:id>
+        <rdfs:label>Commune of Cap-Haitien</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067708 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067708">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067642"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067708</oboInOwl:id>
+        <rdfs:label>Commune of Milot</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067709 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067709">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067645"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067709</oboInOwl:id>
+        <rdfs:label>Commune of Borgne</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067710 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067710">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067645"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067710</oboInOwl:id>
+        <rdfs:label>Commune of Port-Margot</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067711 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067711">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067648"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067711</oboInOwl:id>
+        <rdfs:label>Commune of Limonade</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067712 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067712">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067648"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067712</oboInOwl:id>
+        <rdfs:label>Commune of Quartier-Morin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067713 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067713">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067646"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067713</oboInOwl:id>
+        <rdfs:label>Commune of Grande Riviere du Nord</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067714 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067714">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067646"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067714</oboInOwl:id>
+        <rdfs:label>Commune of Bahon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067715 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067715">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067643"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067715</oboInOwl:id>
+        <rdfs:label>Commune of Limbe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067716 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067716">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067643"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067716</oboInOwl:id>
+        <rdfs:label>Commune of Bas-Limbe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067717 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067717">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067647"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067717</oboInOwl:id>
+        <rdfs:label>Commune of Plaisance</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067718 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067718">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067647"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067718</oboInOwl:id>
+        <rdfs:label>Commune of Pilate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067719 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067719">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067644"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067719</oboInOwl:id>
+        <rdfs:label>Commune of Saint-Raphael</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067720 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067720">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067644"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067720</oboInOwl:id>
+        <rdfs:label>Commune of Dondon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067721 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067721">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067644"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067721</oboInOwl:id>
+        <rdfs:label>Commune of La Victoire</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067722 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067722">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067644"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067722</oboInOwl:id>
+        <rdfs:label>Commune of Pignon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067723 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067723">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067644"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067723</oboInOwl:id>
+        <rdfs:label>Commune of Ranquitte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067724 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067724">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067650"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067724</oboInOwl:id>
+        <rdfs:label>Commune of Ferrier</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067725 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067725">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067650"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067725</oboInOwl:id>
+        <rdfs:label>Commune of Fort-Liberte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067726 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067726">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067650"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067726</oboInOwl:id>
+        <rdfs:label>Commune of Les Perches</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067727 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067727">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067649"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067727</oboInOwl:id>
+        <rdfs:label>Commune of Mont-Organise</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067728 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067728">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067649"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067728</oboInOwl:id>
+        <rdfs:label>Commune of Ouanaminthe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067729 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067729">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067649"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067729</oboInOwl:id>
+        <rdfs:label>Commune of Capotille</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067730 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067730">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067652"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067730</oboInOwl:id>
+        <rdfs:label>Commune of Trou-du-Nord</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067731 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067731">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067652"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067731</oboInOwl:id>
+        <rdfs:label>Commune of Terrier-Rouge</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067732 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067732">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067652"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067732</oboInOwl:id>
+        <rdfs:label>Commune of Caracol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067733 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067733">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067652"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067733</oboInOwl:id>
+        <rdfs:label>Commune of Sainte-Suzanne</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067734 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067734">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067651"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067734</oboInOwl:id>
+        <rdfs:label>Commune of Carice</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067735 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067735">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067651"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067735</oboInOwl:id>
+        <rdfs:label>Commune of Vallieres</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067736 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067736">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067651"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067736</oboInOwl:id>
+        <rdfs:label>Commune of Mombin-Crochu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067737 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067737">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067685"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067737</oboInOwl:id>
+        <rdfs:label>Commune of Bainet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067738 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067738">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067685"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067738</oboInOwl:id>
+        <rdfs:label>Commune of Cote-de-Fer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067739 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067739">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067686"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067739</oboInOwl:id>
+        <rdfs:label>Commune of Belle-Anse</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067740 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067740">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067686"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067740</oboInOwl:id>
+        <rdfs:label>Commune of Anse-a-Pitre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067741 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067741">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067686"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067741</oboInOwl:id>
+        <rdfs:label>Commune of Thiotte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067742 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067742">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067686"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067742</oboInOwl:id>
+        <rdfs:label>Commune of Grand-Gosier</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067743 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067743">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067687"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067743</oboInOwl:id>
+        <rdfs:label>Commune of Jacmel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067744 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067744">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067687"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067744</oboInOwl:id>
+        <rdfs:label>Commune of Cayes-Jacmel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067745 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067745">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067687"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067745</oboInOwl:id>
+        <rdfs:label>Commune of La Vallee-de-Jacmel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067746 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067746">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067687"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067746</oboInOwl:id>
+        <rdfs:label>Commune of Marigot</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067747 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067747">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067635"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067747</oboInOwl:id>
+        <rdfs:label>Commune of Thomonde</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067748 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067748">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067635"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067748</oboInOwl:id>
+        <rdfs:label>Commune of Cerca-Cavajal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067749 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067749">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067635"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067749</oboInOwl:id>
+        <rdfs:label>Commune of Hinche</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067750 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067750">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067635"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067750</oboInOwl:id>
+        <rdfs:label>Commune of Maissade</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067751 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067751">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067636"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067751</oboInOwl:id>
+        <rdfs:label>Commune of Cerca-la-Source</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067752 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067752">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067636"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067752</oboInOwl:id>
+        <rdfs:label>Commune of Thomassique</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067753 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067753">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067633"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067753</oboInOwl:id>
+        <rdfs:label>Commune of Belladere</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067754 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067754">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067633"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067754</oboInOwl:id>
+        <rdfs:label>Commune of Lascahobas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067755 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067755">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067633"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067755</oboInOwl:id>
+        <rdfs:label>Commune of Savanette</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067756 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067756">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067634"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067756</oboInOwl:id>
+        <rdfs:label>Commne of Mirebalais</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067757 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067757">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067634"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067757</oboInOwl:id>
+        <rdfs:label>Commune of Ville-Bonheur</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067758 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067758">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067634"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067758</oboInOwl:id>
+        <rdfs:label>Commune of Boucan-Carre</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067759 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067759">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067639"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067759</oboInOwl:id>
+        <rdfs:label>Commune of Fonds-des-Negres</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067760 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067760">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067639"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067760</oboInOwl:id>
+        <rdfs:label>Commune of Miragoane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067761 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067761">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067639"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067761</oboInOwl:id>
+        <rdfs:label>Commune of Paillant</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067762 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067762">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067639"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067762</oboInOwl:id>
+        <rdfs:label>Commune of Petite-Riviere-de-Nippes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067763 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067763">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067640"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067763</oboInOwl:id>
+        <rdfs:label>Commune of Anse-a-Veau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067764 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067764">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067640"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067764</oboInOwl:id>
+        <rdfs:label>Commune of Plaisance</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067765 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067765">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067640"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067765</oboInOwl:id>
+        <rdfs:label>Commune of Arnaud</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067766 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067766">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067640"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067766</oboInOwl:id>
+        <rdfs:label>Commune of Petit-Trou-de-Nippes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067767 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067767">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067640"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067767</oboInOwl:id>
+        <rdfs:label>Commune of L&apos;Asile</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067768 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067768">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067641"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067768</oboInOwl:id>
+        <rdfs:label>Commune of Barraderes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067769 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067769">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067641"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067769</oboInOwl:id>
+        <rdfs:label>Commune of Grand Boucan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067770 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067770">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067689"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067770</oboInOwl:id>
+        <rdfs:label>Commune of Cavaillon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067771 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067771">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067689"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067771</oboInOwl:id>
+        <rdfs:label>Commune of Aquin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067772 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067772">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067689"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067772</oboInOwl:id>
+        <rdfs:label>Commune of Saint-Louis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067773 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067773">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067688"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067773</oboInOwl:id>
+        <rdfs:label>Commune of Chantal</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067774 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067774">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067688"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067774</oboInOwl:id>
+        <rdfs:label>Commune of Camp-Perrin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067775 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067775">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067688"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067775</oboInOwl:id>
+        <rdfs:label>Commune of Torbeck</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067776 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067776">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067688"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067776</oboInOwl:id>
+        <rdfs:label>Commune of Les Cayes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067777 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067777">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067688"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067777</oboInOwl:id>
+        <rdfs:label>Commune of Maniche</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067778 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067778">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067688"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067778</oboInOwl:id>
+        <rdfs:label>Commune of L&apos;Ile-a-Vache</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067779 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067779">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067690"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067779</oboInOwl:id>
+        <rdfs:label>Commune of Ville des Anglais</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067780 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067780">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067690"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067780</oboInOwl:id>
+        <rdfs:label>Commune of Les Chardonnieres</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067781 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067781">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067690"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067781</oboInOwl:id>
+        <rdfs:label>Commune of Tiburon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067782 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067782">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067692"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067782</oboInOwl:id>
+        <rdfs:label>Commune of Les Coteaux</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067783 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067783">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067692"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067783</oboInOwl:id>
+        <rdfs:label>Commune of Port-a-Piment</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067784 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067784">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067692"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067784</oboInOwl:id>
+        <rdfs:label>Commune of Roche-a-Bateau</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067785 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067785">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067691"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067785</oboInOwl:id>
+        <rdfs:label>Commune of Port-Salut</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067786 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067786">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067691"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067786</oboInOwl:id>
+        <rdfs:label>Commune of Arniquet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00067787 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00067787">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067691"/>
+        <obo:IAO_0000115>A commune of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00067787</oboInOwl:id>
+        <rdfs:label>Commune of Saint-Jean-du-Sud</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089818 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089818">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003953"/>
+        <obo:IAO_0000115>One of the two national parks of the Republic of Haiti. Located in the southeast of the country, La Visite contains the country&apos;s highest mountain, Pic de la Selle.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089818</oboInOwl:id>
+        <rdfs:label>Parc National La Visite</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089819 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089819">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000117"/>
+        <obo:IAO_0000115>One of two national parks of the Republic of Haiti. It is located in the southern part of the country, and features the country&apos;s last stand of virgin cloud forest.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089819</oboInOwl:id>
+        <rdfs:label>Parc National Pic Macaya</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248585 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248585">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000111"/>
+        <obo:IAO_0000115>A bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248585</oboInOwl:id>
+        <rdfs:label>Baie de Fort Liberte</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248586 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248586">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00003953"/>
+        <obo:IAO_0000115>A slightly brackish lake. Located 20 km NNE of Port-au-Prince.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248586</oboInOwl:id>
+        <rdfs:label>Lac Calman</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248587 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248587">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000118"/>
+        <obo:IAO_0000115>A freshwater lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248587</oboInOwl:id>
+        <rdfs:label>Petit Etang de Miragoane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248588 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248588">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000102"/>
+        <obo:IAO_0000115>A freshwater lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248588</oboInOwl:id>
+        <rdfs:label>Etang de Miragoane</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248589 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248589">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00000102"/>
+        <obo:IAO_0000115>A bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248589</oboInOwl:id>
+        <rdfs:label>Baie des Baraderes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248590 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248590">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067688"/>
+        <obo:IAO_0000115>A wetland W of the town of Les Cayes.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248590</oboInOwl:id>
+        <rdfs:label>Les Cayes Marshes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00248591 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00248591">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00067689"/>
+        <obo:IAO_0000115>A bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00248591</oboInOwl:id>
+        <rdfs:label>Baie de Aquin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000102">
+        <oboInOwl:id>GAZ:00000102</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>One of the ten departments of Haiti. It used to be part of Sud Department. The department was split in 2003, with the creation of a new department of Nippes from Miragoone and l&apos;Anse-a-Veau arrondissements.</obo:IAO_0000115>
+        <rdfs:label>Grand&apos;Anse Department</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000105">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000105</oboInOwl:id>
+        <rdfs:label>Moron</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000106">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>populated place, Haiti</rdfs:label>
+        <oboInOwl:id>GAZ:00000106</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000110">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000110</oboInOwl:id>
+        <rdfs:label>Nord-Ouest Department</rdfs:label>
+        <obo:IAO_0000115>One of the ten departments of Haiti.</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000111">
+        <obo:IAO_0000115>One of the ten departments of Haiti. It used to be part of Nord Department. It borders the Dominican Republic to the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00000111</oboInOwl:id>
+        <rdfs:label>Nord-Est Department</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000112">
+        <rdfs:label>Nord Department</rdfs:label>
+        <obo:IAO_0000115>One of the ten departments of Haiti.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00000112</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000113">
+        <rdfs:label>Centre Department</rdfs:label>
+        <obo:IAO_0000115>One of the ten departments of Haiti, located in the center of the country, along the border with the Dominican Republic.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00000113</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000114">
+        <rdfs:label>Nippes Department</rdfs:label>
+        <obo:IAO_0000115>The newest department of Haiti, having been split from Grand&apos;Anse Department in 2003. The capital of the department is Miragoane.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00000114</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000115">
+        <oboInOwl:id>GAZ:00000115</oboInOwl:id>
+        <obo:IAO_0000115>One of the ten departments of Haiti.</obo:IAO_0000115>
+        <rdfs:label>Artibonite Department</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000116">
+        <oboInOwl:id>GAZ:00000116</oboInOwl:id>
+        <obo:IAO_0000115>One of the ten departments of Haiti.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Sud-Est Department</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000117">
+        <obo:IAO_0000115>One of the ten departments of Haiti.</obo:IAO_0000115>
+        <rdfs:label>Sud Department</rdfs:label>
+        <oboInOwl:id>GAZ:00000117</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00000118">
+        <obo:IAO_0000115>One of the ten departments of Haiti.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00000118</oboInOwl:id>
+        <rdfs:label>Ouest Department</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00005995">
+        <rdfs:label>Department (Haiti)</rdfs:label>
+        <oboInOwl:id>GAZ:00005995</oboInOwl:id>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+

@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/subsets/countries/Dominica.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/subsets/countries/Dominica.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/subsets/countries/Dominica.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000354 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000354"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009232 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00009232"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000483 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000483">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009232"/>
+        <obo:IAO_0000115>One of Dominica&apos;s 10 administrative parishes. It is bordered by Saint John to the north, Saint Joseph to the south, and Saint Andrew to the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000483</oboInOwl:id>
+        <rdfs:label>Saint Peter Parish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000484 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000484">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009232"/>
+        <obo:IAO_0000115>One of Dominica&apos;s 10 administrative parishes. It is bordered by Saint George (to the north), Saint Mark (to the south), and Saint Patrick (to the east).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000484</oboInOwl:id>
+        <rdfs:label>Saint Luke Parish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000485 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000485">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009232"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000486 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000486">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009232"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000487 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000487">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009232"/>
+        <obo:IAO_0000115>One of Dominica&apos;s 10 administrative parishes. It is bordered by Saint Paul and part of the Boeri River (to the north), Saint Patrick (to the west), and Saint Luke (to the south).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000487</oboInOwl:id>
+        <rdfs:label>Saint George Parish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000488 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000488">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009232"/>
+        <obo:IAO_0000115>One of Dominica&apos;s 10 administrative parishes. It is bordered by Saint Peter to the north, Saint Andrew to the northeast, Saint David to the east, and Saint Joseph to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000488</oboInOwl:id>
+        <rdfs:label>Saint Joseph Parish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000489 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000489">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009232"/>
+        <obo:IAO_0000115>One of Dominica&apos;s 10 administrative parishes. It is bordered by Saint Andrew to the north; Saint Joseph, Saint Paul and Saint George to the west; and Saint Patrick to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000489</oboInOwl:id>
+        <rdfs:label>Saint David Parish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000490 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000490">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009232"/>
+        <obo:IAO_0000115>One of Dominica&apos;s 10 administrative parishes. It is bordered by Saint Joseph to the north, Saint David to the east, and Saint George to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000490</oboInOwl:id>
+        <rdfs:label>Saint Paul Parish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000491 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000491">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009232"/>
+        <obo:IAO_0000115>One of Dominica&apos;s 10 administrative parishes. It is bordered by Saint George, Saint Luke and Saint Mark to the west, and Saint David to the north.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000491</oboInOwl:id>
+        <rdfs:label>Saint Patrick Parish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000492 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_02000492">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GAZ_00009232"/>
+        <obo:IAO_0000115>One of Dominica&apos;s 10 administrative parishes. It is bordered by Saint John and Saint Peter (to the east), Saint Joseph (to the southwest), and Saint David (to the southeast).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:02000492</oboInOwl:id>
+        <rdfs:label>Saint Andrew Parish</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00006890 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00006890">
+        <obo:IAO_0000115>An island nation in the Caribbean Sea. Dominica is divided into ten parishes.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00006890</oboInOwl:id>
+        <rdfs:label>Dominica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00009232 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00009232">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006890"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053271 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053271">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006890"/>
+        <obo:IAO_0000115>A stratovolcano that forms the northern tip of the island of Dominica. Several nested craters and a 90 m high, 335-m-wide lava dome are located within a larger 1.2 km wide crater. A chain of lava domes, two of which form a peninsula on the SW flank, form an E-W belt across the southern flank of the volcano.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053271</oboInOwl:id>
+        <rdfs:label>Morne aux Diables</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053272 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053272">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006890"/>
+        <obo:IAO_0000115>A volcano that lies SE of the Trois Piton/Micotrin lava-dome complex in SE Dominica, east of the capital city of Roseau. The two best-known volcanic features on Dominica, the Valley of Desolation and the Boiling Lake thermal areas, lie on the flank of Morne Watt.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053272</oboInOwl:id>
+        <rdfs:label>Morne Watt</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053273 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053273">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00056327"/>
+        <obo:IAO_0000115>Two large lava-domes complexes, Morne Trois Pitons and Micotrin, that rise NE of the capital city of Roseau in central Dominica. Micotrin (Morne Macaque) dome lies immediately south of the larger 1387 m high Morne Trois Pitons; small lakes are located in the saddle between the two domes and on the eastern flank of Micotrin. The domes are located along the margin of a large semi-circular depression on the western coast of central Dominica, whose origin has been variously attributed to caldera collapse, gravity sliding, or the juxtaposition of several independent volcanic centers.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053273</oboInOwl:id>
+        <rdfs:label>Morne Trois Pitons/Micotrin Lava Dome Complex</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053274 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053274">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00053273"/>
+        <obo:IAO_0000115>A mountainous area of Dominica.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053274</oboInOwl:id>
+        <rdfs:label>Morne Trois Pitons</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053275 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053275">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00053273"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053275</oboInOwl:id>
+        <rdfs:label>Microtrin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00053276 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00053276">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000354"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006890"/>
+        <obo:IAO_0000115>A volcanic complex that occupies the southern tip of the island of Dominica and has been active throughout the Holocene. An arcuate caldera that formed about 39,000 years ago as a result of a major explosive eruption and flank collapse is open to Soufriere Bay on the west. This depression cuts the SW side of Morne Plat Pays stratovolcano and extends to the southern tip of Dominica. At least a dozen small post-caldera lava domes were emplaced within and outside this depression, including one submarine dome south of Scotts Head.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00053276</oboInOwl:id>
+        <rdfs:label>Morne Plat Pays</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00056326 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00056326">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00089734"/>
+        <obo:IAO_0000115>A stratovolcano.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00056326</oboInOwl:id>
+        <rdfs:label>Morne Diablotins</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00056327 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00056327">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006890"/>
+        <obo:IAO_0000115>A national park and World Heritage Site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00056327</oboInOwl:id>
+        <rdfs:label>Morne Trois Pitons National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00056328 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00056328">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00056327"/>
+        <obo:IAO_0000115>A flooded fumarole 10.5 km east of Roseau, Dominica. It is filled with bubbling greyish-blue water that is usually enveloped in a cloud of vapour. The lake is approximately 60 m across.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00056328</oboInOwl:id>
+        <rdfs:label>Boiling Lake</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089733 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089733">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00089735"/>
+        <obo:IAO_0000115>A national park at the north end of the island of Dominica, north of Portsmouth on the Cabrits Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089733</oboInOwl:id>
+        <rdfs:label>Cabrits National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089734 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089734">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00006890"/>
+        <obo:IAO_0000115>A national park.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089734</oboInOwl:id>
+        <rdfs:label>Morne Diablotin National Park</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00089735 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00089735">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000486"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00089735</oboInOwl:id>
+        <rdfs:label>Cabrits Peninsula</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144823 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144823">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000486"/>
+        <obo:IAO_0000115>The N point of the Island of Dominica.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144823</oboInOwl:id>
+        <rdfs:label>Cape Capuchin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144824 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144824">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000485"/>
+        <obo:IAO_0000115>The SW point of the Island of Dominica.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144824</oboInOwl:id>
+        <rdfs:label>Scotts Head</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247853 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247853">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00089735"/>
+        <obo:IAO_0000115>A wetland at the base of the Cabrits Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247853</oboInOwl:id>
+        <rdfs:label>Cabrits Swamp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247854 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247854">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000486"/>
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247854</oboInOwl:id>
+        <rdfs:label>Indian River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00247855 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00247855">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_02000486"/>
+        <obo:IAO_0000115>A wetland on the flodplain of the Indian River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00247855</oboInOwl:id>
+        <rdfs:label>Indian River Flats</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000485 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000485"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_02000486 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_02000486"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00009232">
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00009232</oboInOwl:id>
+        <rdfs:label>Parish (Dominca)</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000485">
+        <oboInOwl:id>GAZ:02000485</oboInOwl:id>
+        <obo:IAO_0000115>One of Dominica&apos;s 10 administrative parishes. It is bordered by Saint Luke (to the north) and Saint Patrick (to the east).</obo:IAO_0000115>
+        <rdfs:label>Saint Mark Parish</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_02000486">
+        <oboInOwl:id>GAZ:02000486</oboInOwl:id>
+        <obo:IAO_0000115>One of Dominica&apos;s 10 administrative parishes. It is bordered by Saint Andrew to the east, and Saint Peter and the Espagnole River to the south.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Saint John Parish</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+
