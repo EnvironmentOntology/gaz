@@ -1,0 +1,1895 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/gaz/modules/oceans_and_seas/Black_Sea.owl#"
+     xml:base="http://purl.obolibrary.org/obo/gaz/modules/oceans_and_seas/Black_Sea.owl"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/gaz/modules/oceans_and_seas/Black_Sea.owl">
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/envo_import.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/gaz/imports/ro_import.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001025 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001025"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ENVO_00000032 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/ENVO_00000032"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008171 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00008171"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00043793 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00043793"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058996 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00058996"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00593195 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GAZ_00593195">
+        <obo:IAO_0000115>A river in Voronezh Oblast, Lipetsk Oblast and Tambov Oblast, Russia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00593195</oboInOwl:id>
+        <rdfs:label>Plavitsa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#NamedIndividual -->
+
+    <owl:Class rdf:about="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008171 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008171"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008172 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008172">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144476"/>
+        <obo:IAO_0000115>A sea lying Northeast of the Black Sea and bounded by the coast of USSR, is a shallow enclosed sea connected only with the Black Sea through the Kerchenskiy Strait on the South. The common limit between the Sea of Azov and the Black Sea, in the southern entrance of the Kerchenskiy Strait, is the following: A line joining Cape Takil&apos; (45 degrees 05 minutes 35 seconds N - 36 degrees 26 minutes 50 seconds E), the southeastern extremity of Crimea Peninsula, eastward to Cape Panagiya (45 degrees 08 minutes N - 36 degrees 37 minutes 48 seconds E), the southwestern extremity of Tamanskiy Peninsula.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008172</oboInOwl:id>
+        <rdfs:label>Sea of Azov</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008910 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008910">
+        <obo:IAO_0000115>A strait that connects the Black Sea with the Sea of Marmara (which is connected by the Dardanelles to the Aegean Sea, and thereby to the Mediterranean Sea).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008910</oboInOwl:id>
+        <rdfs:label>Bosphorus Strait</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00008911 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00008911">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008172"/>
+        <obo:IAO_0000115>A strait that connects the Black Sea and the Sea of Azov, separating the Crimean Kerch Peninsula in the west from the Taman peninsula in the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00008911</oboInOwl:id>
+        <rdfs:label>Strait of Kerch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041973 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041973">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144475"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041973</oboInOwl:id>
+        <rdfs:label>Oreke Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041974 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041974">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144475"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041974</oboInOwl:id>
+        <rdfs:label>Buyuk ada</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041975 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041975">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144475"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041975</oboInOwl:id>
+        <rdfs:label>Tavsan adasi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041976 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041976">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144475"/>
+        <obo:IAO_0000115>An island in the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041976</oboInOwl:id>
+        <rdfs:label>Kefken Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00041977 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00041977">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144475"/>
+        <obo:IAO_0000115>A small island 1.2 miles from the Turkish city of Giresun on the southeastern coast of Black Sea. It is the largest island on the Turkish Black Sea coast.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00041977</oboInOwl:id>
+        <rdfs:label>Giresun Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042192 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042192">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144478"/>
+        <obo:IAO_0000115>A small Bulgarian island in the Black Sea, with an area of 0.025 km2 and a height of 9 metres above sea level.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042192</oboInOwl:id>
+        <rdfs:label>Saint Peter Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042193 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042193">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144478"/>
+        <obo:IAO_0000115>A Bulgarian island in the Black Sea, situated a quarter of a mile from Sozopol.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042193</oboInOwl:id>
+        <rdfs:label>Saint Cyricus Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042194 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042194">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00378808"/>
+        <obo:IAO_0000115>A Bulgarian island in the Black Sea, 15 km south of Sozopol.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042194</oboInOwl:id>
+        <rdfs:label>Saint Thomas Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042195 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042195">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144478"/>
+        <obo:IAO_0000115>The largest Bulgarian island in the Black Sea, with an area of 0.66 km2. It lies off the Bulgarian Black Sea Coast near Sozopol.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042195</oboInOwl:id>
+        <rdfs:label>Saint Ivan Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042196 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042196">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00378808"/>
+        <obo:IAO_0000115>A Bulgarian island in the Black Sea. It is located 1.5 km off the coast near Chernomorets.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042196</oboInOwl:id>
+        <rdfs:label>Saint Anastasia Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042218 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042218">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144476"/>
+        <obo:IAO_0000115>The delta of the River Danube. The greater part of the Danube Delta lies in Romania (Tulcea County), while its northern part, on the left bank of the Chilia arm, is situated in Ukraine (Odessa Oblast).</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042218</oboInOwl:id>
+        <rdfs:label>Danube Delta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042220 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042220">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144476"/>
+        <obo:IAO_0000115>An island in the Black Sea off the coasts of Romania and Ukraine.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042220</oboInOwl:id>
+        <rdfs:label>Snake Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042221 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042221">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A group of the lakes on the beach of Black Sea in Romania south of the Danube Delta. It is the largest lake in Romania. It is a complex formed by a few limans and lagoons. The northern subgroup contains freshwater lakes Razelm and Golovita, whereas the southern group is made up of saline lakes.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042221</oboInOwl:id>
+        <rdfs:label>Razelm Lakes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042222 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042222">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042221"/>
+        <obo:IAO_0000115>A freshwater lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042222</oboInOwl:id>
+        <rdfs:label>Lacul Razelm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042223 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042223">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042221"/>
+        <obo:IAO_0000115>A freshwater lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042223</oboInOwl:id>
+        <rdfs:label>Lacul Golovita</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042224 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042224">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042222"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042224</oboInOwl:id>
+        <rdfs:label>Insula Popina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042225 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042225">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042234"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144476"/>
+        <obo:IAO_0000115>A newly formed island in the Black Sea, right off the coast of the Romanian Danube Delta, off the Sfantu Gheorghe branch. Initially Sacalin was made up of two smaller islands, Sacalinu Mare (Greater Sacalin) and Sacalinu Mic (Lesser Sacalin). In time, however, the two merged into one continuous landmass.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042225</oboInOwl:id>
+        <rdfs:label>Sacalin Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042226 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042226">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042225"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042226</oboInOwl:id>
+        <rdfs:label>Sacalinu Mare</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042227 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042227">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042225"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042227</oboInOwl:id>
+        <rdfs:label>Sacalinu Mic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042228 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042228">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042228</oboInOwl:id>
+        <rdfs:label>Ostrovu Tataru</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042231 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042231">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lagoon in Northern Dobruja, Romania, close to the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042231</oboInOwl:id>
+        <rdfs:label>Lacul Sinoe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042232 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042232">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042231"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042232</oboInOwl:id>
+        <rdfs:label>Ceaplace Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042233 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042233">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062827"/>
+        <obo:IAO_0000115>The N arm of the Danube in its Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042233</oboInOwl:id>
+        <rdfs:label>Chilia Channel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042234 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042234">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>The S arm of the Danube in its Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042234</oboInOwl:id>
+        <rdfs:label>Sfantu Gheorghe Channel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00042235 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00042235">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00062827"/>
+        <obo:IAO_0000115>The central arm of the Danube in its Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00042235</oboInOwl:id>
+        <rdfs:label>Sulina Channel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00043792 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00043792">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144479"/>
+        <obo:IAO_0000115>An island in the Black Sea at the entrance of the Dnieper-Bug estuary, Ukraine.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00043792</oboInOwl:id>
+        <rdfs:label>Berezan Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00043793 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00043793"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00043794 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00043794">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00043793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00043794</oboInOwl:id>
+        <rdfs:label>Great Khortytsia Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00043796 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00043796">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00043793"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00043796</oboInOwl:id>
+        <rdfs:label>Trukhaniv Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00043797 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00043797">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008911"/>
+        <obo:IAO_0000115>A sand spit island in the middle of the Strait of Kerch near the Crimean Kerch Peninsula in the west and the Taman Peninsula in the east.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00043797</oboInOwl:id>
+        <rdfs:label>Tuzla Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058972 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058972">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00043793"/>
+        <obo:IAO_0000115>A dimictic reservoir. The reservoir was created in 1956 when the Kakhovka Hydroelectric Power Plant was built.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058972</oboInOwl:id>
+        <rdfs:label>Kakhovskoye Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058973 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058973">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00043793"/>
+        <obo:IAO_0000115>A dimictic reservoir. It was created in 1972 because of the dams of the Kaniv Hydroelectric Station on the Dnieper River.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058973</oboInOwl:id>
+        <rdfs:label>Kanevskoye Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058974 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058974">
+        <obo:IAO_0000115>A polymictic reservoir in Russia, near the town of Proletarsk.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058974</oboInOwl:id>
+        <rdfs:label>Proletarskoye Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058996 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058996"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00058997 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00058997">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058996"/>
+        <obo:IAO_0000115>A dimictic reservoir located on the Don River in Rostov and Volgograd Oblasts. It was completed in 1952.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00058997</oboInOwl:id>
+        <rdfs:label>Tsimlyansk Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00059001 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00059001">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00043793"/>
+        <obo:IAO_0000115>A large dimictic water reservoir located on the Dnieper River in Ukraine. The reservoir was formed in 1960-1966, as a result of the Kiev Hydroelectric Power Plant dam being built in Vyshhorod. It lies to the N of Kiev.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00059001</oboInOwl:id>
+        <rdfs:label>Kievskoye Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00059002 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00059002">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00043793"/>
+        <obo:IAO_0000115>A dimictic reservoir in Ukraine. The reservoir was created in 1959 when the Kremenchuk Hydroelectric Power Plant was built.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00059002</oboInOwl:id>
+        <rdfs:label>Krementchugskoye Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00059007 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00059007">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00043793"/>
+        <obo:IAO_0000115>A polymictic reservoir in Ukraine.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00059007</oboInOwl:id>
+        <rdfs:label>Dneprodzerzhinskoye Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062814 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062814">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062814</oboInOwl:id>
+        <rdfs:label>Lacul Matita</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062815 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062815">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062815</oboInOwl:id>
+        <rdfs:label>Lacul Furtuna</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062816 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062816">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062816</oboInOwl:id>
+        <rdfs:label>Lacul Ledeanca</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062817 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062817">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062817</oboInOwl:id>
+        <rdfs:label>Lacul Puiu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062818 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062818">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062818</oboInOwl:id>
+        <rdfs:label>Lacul Puiulet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062819 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062819">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062819</oboInOwl:id>
+        <rdfs:label>Lacul Lumina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062820 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062820">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062820</oboInOwl:id>
+        <rdfs:label>Lacul Uzlina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062821 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062821">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062821</oboInOwl:id>
+        <rdfs:label>Lacul Dranov</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062822 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062822">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062822</oboInOwl:id>
+        <rdfs:label>Lacul Tatanir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062823 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062823">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062823</oboInOwl:id>
+        <rdfs:label>Lacul Gorgova</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062824 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062824">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062824</oboInOwl:id>
+        <rdfs:label>Lacul Merhel</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062825 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062825">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062825</oboInOwl:id>
+        <rdfs:label>Lacul Isac</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062826 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062826">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake in the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062826</oboInOwl:id>
+        <rdfs:label>Lacul Rosu</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00062827 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00062827">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00062827</oboInOwl:id>
+        <rdfs:label>Tulcea Arm</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00064541 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00064541">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008172"/>
+        <obo:IAO_0000115>A large system of shallow bays on the west coast of the Sea of Azov (northeastern coast of the Crimean Peninsula, Ukraine). It separates the Crimean Peninsula from the mainland, and a part of the border between the Autonomous Republic of Crimea and the Kherson Oblast of Ukraine passes through Sivash. It is separated from the sea by the narrow (max. 500 m) and long (110 km) Arabat Spit and is connected with the sea through the Genichesk Strait by the port town of Genichesk. The Isthmus of Perekop separates Sivash from the Black Sea. A Ramsar Site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00064541</oboInOwl:id>
+        <rdfs:label>Syvash</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00064542 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00064542">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00064541"/>
+        <obo:IAO_0000115>The strait that separates the E and W Sivashes.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00064542</oboInOwl:id>
+        <rdfs:label>Chongar Strait</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00064543 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00064543">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00064541"/>
+        <obo:IAO_0000115>The E part of the Sivashes, separated from Crimea by the Genichesk Strait.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00064543</oboInOwl:id>
+        <rdfs:label>Eastern Sivashes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00064544 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00064544">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00064541"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00064544</oboInOwl:id>
+        <rdfs:label>Western Sivashes</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00064545 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00064545">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144476"/>
+        <obo:IAO_0000115>A liman, formed at the point where the river Dniester flows into the Black Sea. It is located in Ukraine, in Odessa Oblast. A Ramsar Site.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00064545</oboInOwl:id>
+        <rdfs:label>Dniester Liman</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00078699 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00078699">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008910"/>
+        <obo:IAO_0000115>An inlet of the Bosphorus dividing the city of Istanbul and forming a natural harbor. The Golden Horn is a flooded prehistoric estuary.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00078699</oboInOwl:id>
+        <rdfs:label>Golden Horn</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00103730 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00103730">
+        <obo:IAO_0000115>The largest river of Abkhazia in the Western Caucasus. It flows down from the Caucasus Major into the Black Sea in two branches.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00103730</oboInOwl:id>
+        <rdfs:label>Bzyb</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144475 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144475">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008171"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144475</oboInOwl:id>
+        <rdfs:label>Black Sea coastal waters of Turkey</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144476 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144476">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008171"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144476</oboInOwl:id>
+        <rdfs:label>Black Sea coastal waters of Romania, Bulgaria and Ukraine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144477 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144477">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008171"/>
+        <obo:IAO_0000115>An abyssal plain in the central parts of the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144477</oboInOwl:id>
+        <rdfs:label>Euxine Abyssal Plain</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144478 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144478">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00378808"/>
+        <obo:IAO_0000115>A bay of the Black Sea on the S of Burgas Bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144478</oboInOwl:id>
+        <rdfs:label>Bay of Sozopol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00144479 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00144479">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144476"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00144479</oboInOwl:id>
+        <rdfs:label>Dnieper-Bug Estuary</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146396 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146396">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008172"/>
+        <obo:IAO_0000115>A bay on Crimea&apos;s eastern coast on the Azov Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146396</oboInOwl:id>
+        <rdfs:label>Bay of Arabat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146829 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146829">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008172"/>
+        <obo:IAO_0000115>The northeastern arm of the Sea of Azov. At its northeast end is the mouth of the Don River. Its mouth is marked by the Dolgaya Spit on the south and the Belosaray Spit (Belosarayskaya Spit) on the north.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146829</oboInOwl:id>
+        <rdfs:label>Taganrog Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146830 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146830">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00146829"/>
+        <obo:IAO_0000115>Islands in Taganrog Bay.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146830</oboInOwl:id>
+        <rdfs:label>Sandy Isles</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00146831 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00146831">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00406097"/>
+        <obo:IAO_0000115>An ice-free bay located on the northern coast of the Black Sea, in Krasnodar Krai of Russia. It is bordered by the Sudzhuk Spit and Cape Doob.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00146831</oboInOwl:id>
+        <rdfs:label>Tsemes Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00150397 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00150397">
+        <obo:IAO_0000115>A system of rivers and lakes in the western and central part of the Kuma-Manych Depression in southern Russia. Its source in Lake Manych-Gudilo in the southwestern part of the Republic of Kalmykia. It flows through the town of Proletarsk and joins the Don River in Manychskaya, east of the city of Rostov-on-Don.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00150397</oboInOwl:id>
+        <rdfs:label>Manych</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00150399 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00150399">
+        <obo:IAO_0000115>A reservoir near the township Vesyoly.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00150399</oboInOwl:id>
+        <rdfs:label>Vesyolovskoye Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00150400 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00150400">
+        <obo:IAO_0000115>A reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00150400</oboInOwl:id>
+        <rdfs:label>Ust&apos;-Manychskoye Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00150401 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00150401">
+        <obo:IAO_0000115>A river thaa flows east through Kalmykia and along its border with the Stavropol Krai, and ends in the Sostino Lakes.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00150401</oboInOwl:id>
+        <rdfs:label>East Manych</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00150402 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00150402">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00150401"/>
+        <obo:IAO_0000115>An artificial reservoir on the East Manych River on the border of Stavropol Krai and Kalmykia in southern Russia. The reservoir receives water from the Terek River and the Kuma River over the Kuma-Manych Canal. Constructed 969-1973.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00150402</oboInOwl:id>
+        <rdfs:label>Chogray Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00150560 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00150560">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00043793"/>
+        <obo:IAO_0000115>A water reservoir on the Dnieper River in Ukraine. It was created in 1932 by the construction of the Dnieper Hydroelectric Station. The Lenin Lake, stretching for approximately ten km at the mouth of the Samara River, flows into the northern end of the reservoir. The creation of the reservoir inundated the historic Dnieper Rapids.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00150560</oboInOwl:id>
+        <rdfs:label>Dnieper Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00150562 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00150562">
+        <obo:IAO_0000115>A river in Russia and Ukraine. It is a left tributary of the Seversky Donets. The river has its sources on the Central Russian Uplands, and flows through Kursk and Belgorod Oblasts in Russia, and through the eastern part of Kharkiv Oblast in Ukraine, where it joins the Seversky Donets river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00150562</oboInOwl:id>
+        <rdfs:label>Oskol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00150563 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00150563">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00150562"/>
+        <obo:IAO_0000115>An artificial lake on Oskol River in Kharkiv Oblast, Ukraine.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00150563</oboInOwl:id>
+        <rdfs:label>Krasno-Oskol Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179741 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179741">
+        <obo:IAO_0000115>An island in the Sozh River near the Belarus town of Vetka.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179741</oboInOwl:id>
+        <rdfs:label>Vetka Island</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00179745 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00179745">
+        <obo:IAO_0000115>A reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00179745</oboInOwl:id>
+        <rdfs:label>Chihirin Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00360989 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00360989">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00360989</oboInOwl:id>
+        <rdfs:label>Lacul Kugurluy</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00360990 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00360990">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A distributary of the river Danube, that contributes in forming the Danube Delta.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00360990</oboInOwl:id>
+        <rdfs:label>Chilia branch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00360991 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00360991">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A distributary of the river Danube.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00360991</oboInOwl:id>
+        <rdfs:label>Sulina branch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00378808 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00378808">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144476"/>
+        <obo:IAO_0000115>The largest bay of the Bulgarian Black Sea Coast and one of the largest ones in the Black Sea. It is 41 km at its widest and 25 m at its deepest, reaching 31 km at its greatest innermost extent, approximately where the Bulgarian city and major port of Burgas is located.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00378808</oboInOwl:id>
+        <rdfs:label>Gulf of Burgas</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00378932 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00378932">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ENVO_00000032"/>
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00144476"/>
+        <obo:IAO_0000115>A gulf on Bulgaria&apos;s Black Sea coast. The Port of Varna and the major city of Varna are located on the gulf.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00378932</oboInOwl:id>
+        <rdfs:label>Gulf of Varna</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386530 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386530">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>An archeological site. Located at the mouth of the Danube Delta in Romania. Roman.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386530</oboInOwl:id>
+        <rdfs:label>Halmyris</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386581 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386581">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386581</oboInOwl:id>
+        <rdfs:label>Lacul Babadag</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386592 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386592">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386592</oboInOwl:id>
+        <rdfs:label>Lacul Rotund</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386593 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386593">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386593</oboInOwl:id>
+        <rdfs:label>Lacul Saun</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386594 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386594">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386594</oboInOwl:id>
+        <rdfs:label>Lacul Telincea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386595 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386595">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386595</oboInOwl:id>
+        <rdfs:label>Lacul Ghiolul Pietrei</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386596 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386596">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386596</oboInOwl:id>
+        <rdfs:label>Lacul Racova</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386597 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386597">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00386581"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386597</oboInOwl:id>
+        <rdfs:label>Lacul Zebil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386598 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386598">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042223"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386598</oboInOwl:id>
+        <rdfs:label>Lacul Ceamurtia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386599 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386599">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386599</oboInOwl:id>
+        <rdfs:label>Lacul Coseni</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386600 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386600">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386600</oboInOwl:id>
+        <rdfs:label>Lacul Zafono Mic</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386601 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386601">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386601</oboInOwl:id>
+        <rdfs:label>Lacul Zafonu Mare</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386602 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386602">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386602</oboInOwl:id>
+        <rdfs:label>Lacul Lejai</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386603 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386603">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386603</oboInOwl:id>
+        <rdfs:label>Lacul Mandra</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386604 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386604">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386604</oboInOwl:id>
+        <rdfs:label>Lacul Potcoava</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386605 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386605">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386605</oboInOwl:id>
+        <rdfs:label>Lacul Tataru</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386606 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386606">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386606</oboInOwl:id>
+        <rdfs:label>Lacul Bondar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386607 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386607">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386607</oboInOwl:id>
+        <rdfs:label>Lacul Puiulet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386608 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386608">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386608</oboInOwl:id>
+        <rdfs:label>Lacul Chiril</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386609 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386609">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386609</oboInOwl:id>
+        <rdfs:label>Lacul Iacob</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386610 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386610">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386610</oboInOwl:id>
+        <rdfs:label>Lacul Taranova</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386611 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386611">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386611</oboInOwl:id>
+        <rdfs:label>Lacul Obtetinciuc</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386612 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386612">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386612</oboInOwl:id>
+        <rdfs:label>Lacul Murighiol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386613 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386613">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386613</oboInOwl:id>
+        <rdfs:label>Lacul Zaghen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386614 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386614">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386614</oboInOwl:id>
+        <rdfs:label>Lacul Somova</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386615 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386615">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386615</oboInOwl:id>
+        <rdfs:label>Lacul Obretinu Mare</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386616 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386616">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386616</oboInOwl:id>
+        <rdfs:label>Lacul Obretinu Mica</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386617 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386617">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386617</oboInOwl:id>
+        <rdfs:label>Lacul Vacaru</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386618 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386618">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386618</oboInOwl:id>
+        <rdfs:label>Lacul Ligheanca</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386619 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386619">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386619</oboInOwl:id>
+        <rdfs:label>Lacul Bogdaproste</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00386620 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00386620">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A lake.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00386620</oboInOwl:id>
+        <rdfs:label>Lacul Babina</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00387015 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00387015">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042218"/>
+        <obo:IAO_0000115>A protected area. It is located between the Sulina and Chilia branches of Danube in the Danube Delta</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00387015</oboInOwl:id>
+        <rdfs:label>Letea Forest</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00387212 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00387212">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00042222"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00387212</oboInOwl:id>
+        <rdfs:label>Insula Bisericuta</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00387213 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00387213">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00360990"/>
+        <obo:IAO_0000115>An island.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00387213</oboInOwl:id>
+        <rdfs:label>Insula Maican</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405880 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405880">
+        <obo:IAO_0000115>A hydroelectric dam. Located north of the town Jvari. It is part of the Inguri hydroelectric power station which is partially located in Abkhazia. Constructed 1961-1967.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405880</oboInOwl:id>
+        <rdfs:label>Inguri Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405881 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405881">
+        <obo:IAO_0000115>A river. Discharges to the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405881</oboInOwl:id>
+        <rdfs:label>Kodori</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405908 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405908">
+        <obo:IAO_0000115>A hydroelectric dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405908</oboInOwl:id>
+        <rdfs:label>Tortum Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405909 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405909">
+        <obo:IAO_0000115>A hydroelectric dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405909</oboInOwl:id>
+        <rdfs:label>Muratli Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405910 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405910">
+        <obo:IAO_0000115>A hydroelectric dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405910</oboInOwl:id>
+        <rdfs:label>Borcka Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00405911 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00405911">
+        <obo:IAO_0000115>A hydroelectric dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00405911</oboInOwl:id>
+        <rdfs:label>Deriner Dam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406097 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406097">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008171"/>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406097</oboInOwl:id>
+        <rdfs:label>Black Sea coastal waters of Russia and Georgia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406114 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406114">
+        <obo:IAO_0000115>A river. Discharges to the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406114</oboInOwl:id>
+        <rdfs:label>Supsa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406120 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406120">
+        <obo:IAO_0000115>A river near Batumi, Georgia. Discharges to the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406120</oboInOwl:id>
+        <rdfs:label>Korolistskali</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00406121 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00406121">
+        <obo:IAO_0000115>A river. Sources of the river are the springs in karst Voronya Cave. Discharges to the Black Sea.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00406121</oboInOwl:id>
+        <rdfs:label>Reprua</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00412293 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00412293">
+        <obo:IAO_0000115>A river. Today it is contained within a fabricated culvert.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00412293</oboInOwl:id>
+        <rdfs:label>Niamiha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00412329 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00412329">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00412329</oboInOwl:id>
+        <rdfs:label>Sluch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00412417 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00412417">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00412417</oboInOwl:id>
+        <rdfs:label>Babruyka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00412610 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00412610">
+        <obo:IAO_0000115>A reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00412610</oboInOwl:id>
+        <rdfs:label>Laktysze</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00592179 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00592179">
+        <obo:IAO_0000115>A dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00592179</oboInOwl:id>
+        <rdfs:label>Alibey Baraji</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00592180 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00592180">
+        <obo:IAO_0000115>A dam.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00592180</oboInOwl:id>
+        <rdfs:label>Omerli Baraji</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00592191 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00592191">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008910"/>
+        <obo:IAO_0000115>An island; carries a lighthouse.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00592191</oboInOwl:id>
+        <rdfs:label>Kizkulesi</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00592195 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00592195">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00592195</oboInOwl:id>
+        <rdfs:label>Goksu River</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00592374 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00592374">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00592374</oboInOwl:id>
+        <rdfs:label>Pabucdere</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00592414 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00592414">
+        <obo:IAO_0000115>A reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00592414</oboInOwl:id>
+        <rdfs:label>Pechenga Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00592415 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00592415">
+        <obo:IAO_0000115>A reservoir.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00592415</oboInOwl:id>
+        <rdfs:label>Belgorod Reservoir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00593154 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00593154">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058996"/>
+        <obo:IAO_0000115>A lock.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00593154</oboInOwl:id>
+        <rdfs:label>Nikolayevsky Ship Lock</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00593155 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00593155">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058996"/>
+        <obo:IAO_0000115>A lock.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00593155</oboInOwl:id>
+        <rdfs:label>Konstantinovsk Ship Lock</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00593156 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00593156">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00058996"/>
+        <obo:IAO_0000115>A lock.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00593156</oboInOwl:id>
+        <rdfs:label>Kochetovsky Ship Lock</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00593160 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00593160">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008172"/>
+        <obo:IAO_0000115>A bay. Located on the northern coast of the Taman Peninsula, Krasnodar Krai, Russia.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00593160</oboInOwl:id>
+        <rdfs:label>Temryuk Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00593161 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00593161">
+        <obo:RO_0001025 rdf:resource="http://purl.obolibrary.org/obo/GAZ_00008911"/>
+        <obo:IAO_0000115>A bay. Located on the east coast of the Strait of Kerch shaped by the Tuzla and Chushka spits. It dips into the Taman Peninsula of Krasnodar Krai.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00593161</oboInOwl:id>
+        <rdfs:label>Taman Bay</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00593170 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00593170">
+        <obo:IAO_0000115>A river in the North Caucasus.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00593170</oboInOwl:id>
+        <rdfs:label>Malaya Laba</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00593173 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00593173">
+        <obo:IAO_0000115>A river.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00593173</oboInOwl:id>
+        <rdfs:label>Protoka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GAZ_00593440 -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/GAZ_00593440">
+        <obo:IAO_0000115>A river in Kiev, where it runs parallel to Khreschatyk.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>GAZ:00593440</oboInOwl:id>
+        <rdfs:label>Khreschatyk</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00008171">
+        <oboInOwl:id>GAZ:00008171</oboInOwl:id>
+        <rdfs:label>Black Sea</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>An enclosed sea situated in the northeastern part of the Mediterranean Region and bounded by the coasts of Bulgaria, Romania, USSR and Turkey. It is connected through the Kerchenskiy Strait with the Sea of Azov on the North, and through the Bosporus (Istanbul Strait) with the Sea of Marmara on the Southwest. The common limit between the Black Sea and the Sea of Azov, in the southern entrance of the Kerchenskiy Strait, in USSR, is the following: A line joining Cape Takil Minutes (45 Degrees 05 Minutes 35 Seconds N - 36 Degrees 26 Minutes 50 Seconds E), the southeastern extremity of Crimea Peninsula, eastward to Cape Panagiya (45 Degrees 08 Minutes N - 36 Degrees 37 Minutes 48 Seconds E), the southwestern extremity of Tamanskiy Peninsula. The common limit between the Black Sea and the Sea of Marmara, in the northern entrance of the Bosporus (Istanbul Strait), is the following: A line joining Cape Rumeli (41 Degrees 14 Minutes 06 Seconds N - 29 Degrees 06 Minutes 57 Seconds E) southeastward to Cape Anadolu (41 Degrees 13 Minutes 09 Seconds N - 29 Degrees 09 Minutes 04 Seconds E).</obo:IAO_0000115>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00043793">
+        <rdfs:label>Dnieper</rdfs:label>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A river that flows from Russia, through Belarus and Ukraine, to the Black Sea. Its total length is 2,285km, of which 485 km lie within Russia, 595 km within Belarus, and 1,095km within Ukraine. The Dnieper&apos;s source is the turf swamps of the Valdai Hills in central Russia, at an elevation of 220 m. For 115 km of its length, it serves as the border between Belarus and Ukraine. It is connected with the Western Bug by the Dnieper-Bug Canal.</obo:IAO_0000115>
+        <oboInOwl:id>GAZ:00043793</oboInOwl:id>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/GAZ_00058996">
+        <oboInOwl:id>GAZ:00058996</oboInOwl:id>
+        <obo:IAO_0000115>A river that rises in the town of Novomoskovsk 60 km southeast from Tula, southeast of Moscow, and flows for a distance of about 1,950 km to the Sea of Azov. From its source, the river first flows southeast to Voronezh, then southwest to its mouth. The main city on the river is Rostov on Don, its main tributary, the Donets.</obo:IAO_0000115>
+        <oboInOwl:hasOBONamespace>GAZ</oboInOwl:hasOBONamespace>
+        <rdfs:label>Don</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6) https://github.com/owlcs/owlapi -->
+
